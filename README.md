@@ -25,17 +25,31 @@ so you can study the master's writing without scrolling for 4,000 posts. Because
 - Caption, date, likes, comments, post type and who posted it.
 - Emoji-only posts, Portuguese, Arabic and collab posts are all in there. Filter them yourself. 🇵🇹
 
-## Try it
+## Search it (no chatbot needed) 🔎
+
+Ask in plain words. It finds captions by **meaning**, not just matching words, runs on a normal CPU, and gives the same answer every time.
 
 ```
-python src/ronaldo_db.py stats
-python src/ronaldo_db.py search "legacy" -n 5
+pip install -r requirements.txt
+python src/search.py "women's day"                          # top 10
+python src/search.py "don't ever quit" -k 25                # finds "We're not stopping", "Never give up..."
+python src/search.py "confidence" --max-len 40              # short aura lines only
+python src/search.py "family" --all --offset 50 -k 50       # page through the entire ranking
+python src/search.py -i                                     # stay open: slow start once, instant after
 ```
+
+Prefer a page to a terminal? `python src/serve.py` and open <http://127.0.0.1:8000>. It has filters, a Copy button, and a SIUUU button. 🔊
+
+How: a small multilingual embedding model (`multilingual-e5-small`) turns each caption into numbers, those get fused with
+classic keyword search (SQLite BM25) using Reciprocal Rank Fusion. Vectors are precomputed, so nothing changes between
+queries. Starting Python takes about a minute (PyTorch is a slow walker), then each query takes milliseconds, so use `-i`.
 
 ```
 .
-├── data/   the loot (ronaldo.db + raw JSONL)
-└── src/    capture.js (scout), receiver.py (ball boy), ronaldo_db.py (vault), test_filter.py (VAR)
+├── data/    the loot (ronaldo.db, embeddings, raw JSONL)
+├── design/  the stadium's front door (the HTML interface)
+└── src/     capture.js (scout), receiver.py (ball boy), ronaldo_db.py (vault),
+             embed.py (academy), search.py (striker), serve.py (stadium), test_*.py (VAR)
 ```
 
 ## Fair warning 🟨
