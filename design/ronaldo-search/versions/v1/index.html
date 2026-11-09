@@ -1,0 +1,366 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="claude /design">
+<title>Ronaldo Captions</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap">
+<style>
+/* SYSTEM
+   Type: display Barlow Condensed 800 (wordmark, labels, numbers); body Newsreader (captions read as quotes).
+   Scale: 12 / 14 / 16 / 20 / clamp(20px, 2.6vh, 26px) captions / clamp(2.6rem, 9vh, 5rem) SIUUU burst.
+   Colour: two grounds only, --pitch (page) and --turf (panels). Chalk text, gold for state and focus, red for the one loud action.
+   Layout: header 56px; stage = two columns (anchor 34%: search, then photo; detail: results, internal scroll); appendix below the fold. */
+:root {
+  --pitch: #0a1f17; --turf: #11301f; --line: #24503a;
+  --chalk: #f3efe6; --muted: #a9c2b4; --gold: #f2b632; --red: #b81d31;
+  --hdr: 56px; --gap: 16px; --radius: 10px;
+  --display: "Barlow Condensed", "Arial Narrow", sans-serif;
+  --serif: "Newsreader", Georgia, serif;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html, body { margin: 0; background: var(--pitch); color: var(--chalk); }
+body { font: 16px/1.5 var(--serif); }
+button, input, select { font: inherit; color: inherit; }
+button { cursor: pointer; }
+:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+a { color: var(--gold); }
+
+/* header */
+header.top { height: var(--hdr); display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  padding: 0 var(--gap); border-bottom: 1px solid var(--line); }
+.mark { display: flex; align-items: baseline; gap: 10px; margin: 0; font: 800 26px/1 var(--display); letter-spacing: .06em; text-transform: uppercase; white-space: nowrap; }
+.mark b { color: var(--gold); font-size: 30px; }
+.tools { display: flex; align-items: center; gap: 10px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; padding: 4px 12px; border: 1px solid var(--line); border-radius: 999px;
+  font: 600 14px/1.2 var(--display); letter-spacing: .08em; text-transform: uppercase; }
+.chip::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--muted); }
+.chip[data-s="live"]::before { background: #46d18a; }
+.chip[data-s="warm"]::before { background: var(--gold); }
+.chip[data-s="off"]::before { background: #ff6b7d; }
+.btn { min-height: 36px; padding: 0 14px; border: 1px solid var(--line); border-radius: 8px; background: transparent;
+  font: 800 15px/1 var(--display); letter-spacing: .08em; text-transform: uppercase; }
+.btn:hover { border-color: var(--gold); }
+.btn[aria-pressed="true"] { background: var(--gold); border-color: var(--gold); color: #1a1405; }
+.btn.siu { background: var(--red); border-color: var(--red); color: var(--chalk); }
+.btn.siu:hover { filter: brightness(1.12); }
+.tools a { font: 600 14px var(--display); letter-spacing: .08em; text-transform: uppercase; }
+
+/* stage */
+main.stage { display: grid; grid-template-columns: clamp(380px, 34%, 680px) minmax(0, 1fr); gap: var(--gap); padding: var(--gap);
+  height: calc(100vh - var(--hdr)); overflow: hidden; }
+.anchor-col, .detail-col { display: flex; flex-direction: column; gap: var(--gap); min-width: 0; min-height: 0; }
+.panel { background: var(--turf); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px 16px; }
+
+form.search { display: flex; flex-direction: column; gap: 12px; }
+.field { display: flex; gap: 8px; }
+.field input[type="search"] { flex: 1; min-width: 0; min-height: 48px; padding: 0 14px; border: 1px solid var(--line); border-radius: 8px;
+  background: var(--pitch); font-size: 20px; }
+.field input::placeholder { color: var(--muted); opacity: .8; }
+.field .btn.go { min-height: 48px; background: var(--gold); border-color: var(--gold); color: #1a1405; }
+.row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.seg button { min-height: 36px; padding: 0 12px; border: 0; background: transparent; font: 600 15px/1 var(--display); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button[aria-pressed="true"] { background: var(--chalk); color: var(--pitch); }
+select { min-height: 36px; padding: 0 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--pitch); font: 600 15px var(--display); letter-spacing: .06em; text-transform: uppercase; }
+
+.photo { position: relative; flex: 1; min-height: 140px; padding: 0; overflow: hidden; display: grid; place-items: center; }
+.photo .seven { position: absolute; font: 800 min(60vh, 70vw) / .8 var(--display); color: var(--line); user-select: none; }
+.photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 50% 20%; }
+.photo .credit { position: absolute; left: 8px; bottom: 8px; padding: 3px 8px; border-radius: 6px; background: rgba(10, 31, 23, .82); font: 600 12px/1.3 var(--display); letter-spacing: .06em; text-transform: uppercase; }
+.photo .credit a { color: var(--chalk); }
+
+/* results */
+.starters { display: flex; flex-wrap: wrap; gap: 8px; }
+.starters button { min-height: 40px; padding: 0 16px; border: 1px solid var(--line); border-radius: 999px; background: var(--turf); font: 600 16px var(--display); letter-spacing: .06em; text-transform: uppercase; }
+.starters button:hover { border-color: var(--gold); }
+.results { flex: 1; min-height: 0; overflow-y: auto; padding-right: 6px; margin: 0; list-style: none; }
+.hit { padding: 16px 4px; border-top: 1px solid var(--line); }
+.hit:first-child { border-top: 0; padding-top: 4px; }
+.hit q { display: block; quotes: none; white-space: pre-wrap; overflow-wrap: anywhere; font-size: clamp(20px, 2.6vh, 26px); line-height: 1.35; }
+.meta { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; margin-top: 8px; color: var(--muted); font: 600 14px var(--display); letter-spacing: .08em; text-transform: uppercase; }
+.meta .likes { color: var(--gold); }
+.meta .acts { margin-left: auto; display: flex; gap: 8px; }
+.meta .btn { min-height: 32px; font-size: 14px; color: var(--chalk); display: inline-flex; align-items: center; text-decoration: none; }
+.more { align-self: center; margin: 12px 0; }
+.empty { padding: 32px 4px; color: var(--muted); font: 800 28px var(--display); letter-spacing: .06em; text-transform: uppercase; }
+
+/* SIUUU burst */
+.burst { position: fixed; inset: 0; display: grid; place-items: center; pointer-events: none; opacity: 0; }
+.burst span { font: 800 clamp(2.6rem, 9vh, 5rem) / 1 var(--display); letter-spacing: .12em; color: var(--gold); text-shadow: 0 4px 0 var(--red); }
+.burst.go { animation: siu 1.5s ease-out; }
+@keyframes siu { 0% { opacity: 0; transform: scale(.6) translateY(40px); } 15% { opacity: 1; transform: scale(1.15) translateY(-10px); } 70% { opacity: 1; transform: scale(1) translateY(-30px); } 100% { opacity: 0; transform: scale(1.05) translateY(-60px); } }
+@media (prefers-reduced-motion: reduce) { .burst.go { animation: none; } }
+
+/* appendix + footer */
+#appendix { max-width: 760px; margin: 0 auto; padding: 48px var(--gap) 24px; }
+#appendix h2 { font: 800 28px var(--display); letter-spacing: .06em; text-transform: uppercase; color: var(--gold); }
+#appendix h3 { font: 800 18px var(--display); letter-spacing: .08em; text-transform: uppercase; margin: 28px 0 4px; }
+#appendix p, #appendix li { color: var(--muted); }
+#appendix code { padding: 1px 6px; border-radius: 4px; background: var(--turf); color: var(--chalk); font-size: .9em; }
+footer { padding: 20px var(--gap) 40px; border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; text-align: center; }
+
+/* short screens keep the stage on one screen */
+@media (max-height: 820px) and (min-width: 1000px) { .panel { padding: 10px 14px; } form.search { gap: 8px; } .hit { padding: 10px 4px; } .photo { min-height: 100px; } }
+/* phone: one column, search, then results, then the photo */
+@media (max-width: 999px) {
+  main.stage { display: flex; flex-direction: column; height: auto; overflow: visible; }
+  .anchor-col { display: contents; }
+  .anchor-col > .panel:first-child { order: 1; } .detail-col { order: 2; } .photo { order: 3; min-height: 260px; }
+  .results { overflow: visible; }
+  header.top { height: auto; flex-wrap: wrap; padding: 10px var(--gap); }
+  .mark { font-size: 20px; } .mark b { font-size: 22px; }
+  .tools { flex-wrap: wrap; }
+  .tools a { display: none; }
+  .btn, .seg button, select, .starters button { min-height: 44px; }
+  .meta .btn { min-height: 44px; }
+}
+</style>
+</head>
+<body>
+<header class="top">
+  <h1 class="mark"><b>7</b> Ronaldo Captions</h1>
+  <div class="tools">
+    <span id="status" class="chip" data-s="warm" role="status" title="Run python src/serve.py">Warming up</span>
+    <button id="retry" class="btn" type="button" hidden>Retry</button>
+    <button id="sound" class="btn" type="button" aria-pressed="false">Sound</button>
+    <button id="siu" class="btn siu" type="button">SIUUU</button>
+    <a href="#appendix">Appendix</a>
+  </div>
+</header>
+
+<main class="stage" data-stage>
+  <div class="anchor-col">
+    <section class="panel">
+      <form id="form" class="search" role="search">
+        <div class="field">
+          <input id="q" type="search" placeholder="Search a feeling" autocomplete="off" aria-label="Search a feeling" autofocus>
+          <button class="btn go" type="submit">Search</button>
+        </div>
+        <div class="row">
+          <div class="seg" id="mode" role="group" aria-label="Mode">
+            <button type="button" data-v="hybrid" aria-pressed="true" title="Meaning and exact words">Both</button>
+            <button type="button" data-v="semantic" aria-pressed="false" title="Meaning only">Meaning</button>
+            <button type="button" data-v="keyword" aria-pressed="false" title="Exact words only">Words</button>
+          </div>
+          <div class="seg" id="len" role="group" aria-label="Length">
+            <button type="button" data-v="" aria-pressed="true">Any</button>
+            <button type="button" data-v="40" aria-pressed="false" title="40 characters or fewer">Short</button>
+          </div>
+          <select id="year" aria-label="Year">
+            <option value="">Any year</option>
+            <option>2026</option><option>2025</option><option>2024</option><option>2023</option><option>2022</option>
+            <option>2021</option><option>2020</option><option>2019</option><option>2018</option><option>2017</option>
+          </select>
+        </div>
+      </form>
+    </section>
+    <section class="panel photo" aria-label="Photo">
+      <span class="seven" aria-hidden="true">7</span>
+      <img id="hero" alt="Cristiano Ronaldo celebrating a goal for Portugal"
+           src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cristiano_Ronaldo_0876.jpg/960px-Cristiano_Ronaldo_0876.jpg"
+           referrerpolicy="no-referrer" onerror="this.remove()">
+      <span class="credit">Photo: <a href="https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_0876.jpg" target="_blank" rel="noopener">YantsImages</a> (CC BY-SA 4.0)</span>
+    </section>
+  </div>
+
+  <div class="detail-col">
+    <div id="starters" class="starters">
+      <button type="button">Never give up</button><button type="button">Family</button>
+      <button type="button">Women's Day</button><button type="button">Work mode</button>
+    </div>
+    <ol id="results" class="results" aria-live="polite"></ol>
+  </div>
+</main>
+
+<div id="burst" class="burst" aria-hidden="true"><span>SIUUUUU</span></div>
+
+<section id="appendix" data-appendix>
+  <h2>Appendix</h2>
+  <h3>What it searches</h3>
+  <p>Every caption collected from @cristiano's Instagram grid, 2,412 posts from March 2017 to October 2026. Emoji-only captions and collab posts by other accounts are hidden from search; they stay in the database.</p>
+  <h3>How results are ranked</h3>
+  <p>A small multilingual embedding model scores each caption by meaning. SQLite full-text search scores exact words. The two rankings are fused with Reciprocal Rank Fusion, with meaning weighted more than words. Both are precomputed, so the same query always gives the same order.</p>
+  <h3>Run it</h3>
+  <p><code>pip install -r requirements.txt</code>, then <code>python src/serve.py</code>, then open <code>http://127.0.0.1:8000</code>. The first start loads the model for about a minute; the status chip says Warming up until it is ready. The server listens on your machine only.</p>
+  <h3>Sound</h3>
+  <p>SIUUU is synthesized in your browser from a noise burst, a gliding tone and a crowd swell. It is an imitation, not a recording. Sound is off by default and the toggle plays it after each new search.</p>
+  <h3>Limits</h3>
+  <p>The grid stopped loading at March 2017, so roughly 1,700 older posts are missing. Likes are as of capture time. Captions are Ronaldo's and his team's text, shared for research and fun.</p>
+</section>
+<footer data-allow-long>
+  Photo: YantsImages / Aram Nersesyan, Wikimedia Commons, CC BY-SA 4.0. Fan project, not affiliated with Cristiano Ronaldo or Meta.
+</footer>
+
+<script>
+(() => {
+  const $ = (s) => document.querySelector(s);
+  const PAGE = 12;
+  const st = { mode: "hybrid", len: "", offset: 0, total: 0, q: "", ctl: null, sound: false, ready: false, pollTimer: null };
+
+  // sound preference is a per-viewer convenience, so every access is guarded
+  try { st.sound = localStorage.getItem("rc-sound") === "1"; } catch (e) {}
+  const soundBtn = $("#sound");
+  soundBtn.setAttribute("aria-pressed", String(st.sound));
+
+  /* ---------- status ---------- */
+  const chip = $("#status"), retry = $("#retry");
+  function setStatus(word, key, title) {
+    chip.textContent = word; chip.dataset.s = key; if (title) chip.title = title;
+    retry.hidden = key !== "off";
+  }
+
+  async function checkStatus() {
+    clearTimeout(st.pollTimer);
+    try {
+      const r = await fetch("/api/status", { cache: "no-store" });
+      const j = await r.json();
+      if (j.error) { setStatus("Offline", "off", j.error); return; }
+      if (!j.ready) { setStatus("Warming up", "warm", "The model is loading"); st.pollTimer = setTimeout(checkStatus, 2500); return; }
+      st.ready = true; setStatus("Live", "live", j.total + " captions searchable");
+      if (st.q) run(true);
+    } catch (e) {
+      setStatus("Offline", "off", "Run python src/serve.py and open http://127.0.0.1:8000");
+    }
+  }
+
+  /* ---------- search ---------- */
+  const list = $("#results"), starters = $("#starters");
+  const fmtDate = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
+  const fmtLikes = (n) => n == null ? "" : n >= 1e6 ? (n / 1e6).toFixed(1) + "M" : n >= 1e3 ? Math.round(n / 1e3) + "K" : String(n);
+
+  function params(offset) {
+    const p = new URLSearchParams({ q: st.q, k: PAGE, offset, mode: st.mode });
+    if (st.len) p.set("max_len", st.len);
+    const y = $("#year").value;
+    if (y) { p.set("since", y + "-01-01"); p.set("until", (+y + 1) + "-01-01"); }
+    return p;
+  }
+
+  function row(r) {
+    const li = document.createElement("li"); li.className = "hit";
+    const q = document.createElement("q"); q.textContent = r.caption; li.append(q);
+    const meta = document.createElement("div"); meta.className = "meta";
+    const d = document.createElement("span"); d.textContent = fmtDate.format(new Date(r.date + "T00:00:00Z"));
+    const l = document.createElement("span"); l.className = "likes"; l.textContent = fmtLikes(r.likes);
+    const acts = document.createElement("span"); acts.className = "acts";
+    const copy = document.createElement("button"); copy.type = "button"; copy.className = "btn"; copy.textContent = "Copy";
+    copy.addEventListener("click", async () => {
+      try { await navigator.clipboard.writeText(r.caption); } catch (e) {
+        const t = document.createElement("textarea"); t.value = r.caption; document.body.append(t); t.select(); document.execCommand("copy"); t.remove();
+      }
+      copy.textContent = "Copied"; setTimeout(() => (copy.textContent = "Copy"), 1400);
+    });
+    const open = document.createElement("a"); open.className = "btn"; open.textContent = "Open";
+    open.href = r.url; open.target = "_blank"; open.rel = "noopener";
+    acts.append(copy, open); meta.append(d, l, acts); li.append(meta);
+    return li;
+  }
+
+  async function run(reset) {
+    if (!st.q) return;
+    if (st.ctl) st.ctl.abort();
+    st.ctl = new AbortController();
+    if (reset) { st.offset = 0; }
+    starters.hidden = true;
+    try {
+      const r = await fetch("/api/search?" + params(st.offset), { signal: st.ctl.signal, cache: "no-store" });
+      if (r.status === 503) { st.ready = false; setStatus("Warming up", "warm"); checkStatus(); return; }
+      const j = await r.json();
+      if (!r.ok) throw new Error(j.error || "error");
+      if (reset) { list.replaceChildren(); list.scrollTop = 0; }
+      list.querySelector(".more")?.remove();
+      st.total = j.total; st.offset += j.results.length;
+      if (!j.results.length && reset) { const e = document.createElement("li"); e.className = "empty"; e.textContent = "No results"; list.append(e); }
+      j.results.forEach((x) => list.append(row(x)));
+      if (st.offset < st.total) {
+        const li = document.createElement("li"); li.className = "more";
+        const b = document.createElement("button"); b.type = "button"; b.className = "btn"; b.textContent = "More";
+        b.addEventListener("click", () => run(false)); li.append(b); list.append(li);
+      }
+      if (reset && j.results.length && st.sound) siu(true);
+      setStatus("Live", "live");
+    } catch (e) {
+      if (e.name === "AbortError") return;
+      setStatus("Offline", "off", "Run python src/serve.py and open http://127.0.0.1:8000");
+      if (reset) { list.replaceChildren(); const x = document.createElement("li"); x.className = "empty"; x.textContent = "Offline"; list.append(x); }
+    }
+  }
+
+  let deb;
+  const input = $("#q");
+  input.addEventListener("input", () => { clearTimeout(deb); deb = setTimeout(() => { st.q = input.value.trim(); if (st.q) run(true); }, 350); });
+  $("#form").addEventListener("submit", (e) => { e.preventDefault(); clearTimeout(deb); st.q = input.value.trim(); run(true); });
+  starters.addEventListener("click", (e) => { const b = e.target.closest("button"); if (!b) return; input.value = b.textContent; st.q = b.textContent; run(true); });
+  retry.addEventListener("click", () => { setStatus("Warming up", "warm"); checkStatus(); });
+  $("#year").addEventListener("change", () => run(true));
+
+  function segment(id, key) {
+    $(id).addEventListener("click", (e) => {
+      const b = e.target.closest("button"); if (!b) return;
+      $(id).querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+      st[key] = b.dataset.v; run(true);
+    });
+  }
+  segment("#mode", "mode"); segment("#len", "len");
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "/" && document.activeElement !== input && !/^(INPUT|SELECT|TEXTAREA)$/.test(document.activeElement.tagName)) { e.preventDefault(); input.focus(); }
+  });
+
+  /* ---------- SIUUU: a synthesized imitation (noise burst, gliding tone, crowd swell) ---------- */
+  let ctx;
+  function noise(c, secs) {
+    const b = c.createBuffer(1, Math.floor(c.sampleRate * secs), c.sampleRate), d = b.getChannelData(0);
+    for (let i = 0; i < d.length; i++) d[i] = Math.random() * 2 - 1;
+    const s = c.createBufferSource(); s.buffer = b; return s;
+  }
+  function siu(quiet) {
+    try {
+      ctx = ctx || new (window.AudioContext || window.webkitAudioContext)();
+      if (ctx.state === "suspended") ctx.resume();
+      const t = ctx.currentTime, out = ctx.createGain(); out.gain.value = quiet ? 0.12 : 0.3; out.connect(ctx.destination);
+      // "SI": a sibilant hiss
+      const n = noise(ctx, 0.2), bp = ctx.createBiquadFilter(), ng = ctx.createGain();
+      bp.type = "bandpass"; bp.frequency.value = 5600; bp.Q.value = 1.1;
+      ng.gain.setValueAtTime(0, t); ng.gain.linearRampToValueAtTime(0.9, t + 0.02); ng.gain.exponentialRampToValueAtTime(0.001, t + 0.18);
+      n.connect(bp).connect(ng).connect(out); n.start(t); n.stop(t + 0.2);
+      // "UUU": a gliding tone through two vowel-like formants
+      const o = ctx.createOscillator(), vib = ctx.createOscillator(), vg = ctx.createGain(), og = ctx.createGain();
+      o.type = "sawtooth"; o.frequency.setValueAtTime(150, t + 0.14); o.frequency.exponentialRampToValueAtTime(330, t + 1.1);
+      vib.frequency.value = 6; vg.gain.value = 5; vib.connect(vg).connect(o.frequency);
+      og.gain.setValueAtTime(0, t + 0.14); og.gain.linearRampToValueAtTime(0.55, t + 0.28); og.gain.setValueAtTime(0.55, t + 0.95); og.gain.exponentialRampToValueAtTime(0.001, t + 1.35);
+      [[320, 0.9], [830, 0.5]].forEach(([f, g]) => {
+        const fb = ctx.createBiquadFilter(), fg = ctx.createGain();
+        fb.type = "bandpass"; fb.frequency.value = f; fb.Q.value = 5; fg.gain.value = g;
+        o.connect(fb).connect(fg).connect(og);
+      });
+      og.connect(out); o.start(t + 0.14); vib.start(t + 0.14); o.stop(t + 1.4); vib.stop(t + 1.4);
+      // crowd: a low swell of noise
+      const c = noise(ctx, 1.8), lp = ctx.createBiquadFilter(), cg = ctx.createGain();
+      lp.type = "lowpass"; lp.frequency.value = 900;
+      cg.gain.setValueAtTime(0, t + 0.3); cg.gain.linearRampToValueAtTime(0.22, t + 0.9); cg.gain.linearRampToValueAtTime(0, t + 1.8);
+      c.connect(lp).connect(cg).connect(out); c.start(t + 0.3); c.stop(t + 2.1);
+    } catch (e) { /* no audio available: the burst still plays */ }
+    if (!quiet) burst();
+  }
+  function burst() {
+    const b = $("#burst"); b.classList.remove("go"); void b.offsetWidth; b.classList.add("go");
+  }
+  $("#siu").addEventListener("click", () => siu(false));
+  soundBtn.addEventListener("click", () => {
+    st.sound = !st.sound; soundBtn.setAttribute("aria-pressed", String(st.sound));
+    try { localStorage.setItem("rc-sound", st.sound ? "1" : "0"); } catch (e) {}
+    if (st.sound) siu(true);
+  });
+
+  checkStatus();
+})();
+</script>
+</body>
+</html>

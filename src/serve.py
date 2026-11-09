@@ -1,6 +1,6 @@
 """The stadium. Serves the search interface and a tiny JSON API on your own machine (127.0.0.1 only).
 
-  python src/serve.py            # then open http://127.0.0.1:8000
+  python src/serve.py            # then open the URL it prints (8000, or the next free port)
   python src/serve.py --port 9000
 
 The page opens instantly and shows "Warming up" while the model loads in the background (about a minute).
@@ -32,7 +32,7 @@ def warm_up() -> None:
         s._embed_query("warm up")
         state["total"] = len(s.texty)
         state["searcher"] = s
-        print("Ready. SIUUU.")
+        print("Ready. SIUUU.", flush=True)
     except Exception as e:  # shown as a status word in the page, detail in the console
         state["error"] = str(e)
         print("Warm-up failed:", e)
@@ -98,9 +98,17 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--port", type=int, default=8000)
     a = ap.parse_args()
+    srv = None
+    for port in range(a.port, a.port + 20):  # another program (VS Code, say) may already hold the port
+        try:
+            srv = ThreadingHTTPServer(("127.0.0.1", port), Handler)  # loopback only: nothing leaves your machine
+            break
+        except OSError:  # Windows reports a port held by another program as PermissionError (10013)
+            print(f"Port {port} is taken, trying the next one...", flush=True)
+    if srv is None:
+        sys.exit(f"No free port in {a.port}-{a.port + 19}. Pass one with --port.")
     threading.Thread(target=warm_up, daemon=True).start()
-    srv = ThreadingHTTPServer(("127.0.0.1", a.port), Handler)  # loopback only: nothing leaves your machine
-    print(f"Stadium open: http://127.0.0.1:{a.port}  (model warming up, about a minute)")
+    print(f"Stadium open: http://127.0.0.1:{srv.server_address[1]}  (model warming up, about a minute)", flush=True)
     try:
         srv.serve_forever()
     except KeyboardInterrupt:

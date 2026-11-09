@@ -187,7 +187,7 @@ footer { padding: 20px var(--gap) 40px; border-top: 1px solid var(--line); color
   <h3>How results are ranked</h3>
   <p>A small multilingual embedding model scores each caption by meaning. SQLite full-text search scores exact words. The two rankings are fused with Reciprocal Rank Fusion, with meaning weighted more than words. Both are precomputed, so the same query always gives the same order.</p>
   <h3>Run it</h3>
-  <p><code>pip install -r requirements.txt</code>, then <code>python src/serve.py</code>, then open <code>http://127.0.0.1:8000</code>. The first start loads the model for about a minute; the status chip says Warming up until it is ready. The server listens on your machine only.</p>
+  <p><code>pip install -r requirements.txt</code>, then <code>python src/serve.py</code>, then open the address it prints (<code>http://127.0.0.1:8000</code>, or the next free port if something else holds it). The first start loads the model for about a minute; the status chip says Warming up until it is ready. The server listens on your machine only.</p>
   <h3>Sound</h3>
   <p>SIUUU is synthesized in your browser from a noise burst, a gliding tone and a crowd swell. It is an imitation, not a recording. Sound is off by default and the toggle plays it after each new search.</p>
   <h3>Limits</h3>
@@ -225,7 +225,7 @@ footer { padding: 20px var(--gap) 40px; border-top: 1px solid var(--line); color
       st.ready = true; setStatus("Live", "live", j.total + " captions searchable");
       if (st.q) run(true);
     } catch (e) {
-      setStatus("Offline", "off", "Run python src/serve.py and open http://127.0.0.1:8000");
+      setStatus("Offline", "off", "Run python src/serve.py and open the address it prints");
     }
   }
 
@@ -287,7 +287,7 @@ footer { padding: 20px var(--gap) 40px; border-top: 1px solid var(--line); color
       setStatus("Live", "live");
     } catch (e) {
       if (e.name === "AbortError") return;
-      setStatus("Offline", "off", "Run python src/serve.py and open http://127.0.0.1:8000");
+      setStatus("Offline", "off", "Run python src/serve.py and open the address it prints");
       if (reset) { list.replaceChildren(); const x = document.createElement("li"); x.className = "empty"; x.textContent = "Offline"; list.append(x); }
     }
   }
