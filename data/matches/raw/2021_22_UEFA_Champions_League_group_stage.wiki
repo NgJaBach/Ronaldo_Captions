@@ -1,0 +1,2148 @@
+{{Short description|International football competition}}
+{{Use dmy dates|date=October 2020}}
+The '''2021–22 UEFA Champions League group stage''' began on 14 September 2021 and ended on 9 December 2021.<ref name="schedule">{{cite news |url=https://www.uefa.com/uefachampionsleague/news/0265-115e77805e06-3dbc1740a323-1000/ |title=2021/22 UEFA Champions League: all you need to know |website=[[UEFA]] |publisher=Union of European Football Associations |date=19 January 2021 |access-date=19 January 2021}}</ref> A total of 32 teams competed in the group stage to decide the 16 places in the [[2021–22 UEFA Champions League knockout phase|knockout phase]] of the [[2021–22 UEFA Champions League]].<ref name="regulations">{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Champions-League-2021/22-Online |title=Regulations of the UEFA Champions League, 2021/22 Season |website=[[UEFA]] |publisher=Union of European Football Associations |year=2021 |access-date=30 April 2021}}</ref>
+
+[[FC Sheriff Tiraspol|Sheriff Tiraspol]] made their debut appearance in the group stage, becoming the first team from Moldova to play in the Champions League group stage.
+
+==Draw==
+The draw for the group stage was held on 26 August 2021, 18:00 [[Central European Summer Time|CEST]] (19:00 [[Time in Turkey|TRT]]), in [[Istanbul]], Turkey.<ref name="ExCo">{{cite news |url=https://www.uefa.com/news-media/news/026b-12c542441355-1c2040c5e54b-1000/ |title=Venues appointed for club competition finals |website=[[UEFA]] |publisher=Union of European Football Associations |date=16 July 2021 |access-date=16 July 2021}}</ref><ref name="draw GS">{{cite web|url=https://www.uefa.com/uefachampionsleague/draws/2022/2001308/ |title=UEFA Champions League group stage draw |website=[[UEFA]] |publisher=Union of European Football Associations |date=26 August 2021 |access-date=}}</ref> The 32 teams were drawn into eight groups of four. For the draw, the teams were seeded into four pots, each of eight teams, based on the following principles:
+*Pot 1 contained the Champions League and Europa League title holders, and the champions of the top six associations based on their 2020 [[UEFA coefficient#Men's Association coefficient|UEFA country coefficients]].<ref name="country coefficients">{{cite web |url=https://www.uefa.com/memberassociations/uefarankings/country/#/yr/2020 |title=Association coefficients 2019/20 |website=[[UEFA]] |publisher=Union of European Football Associations |year=2020 |access-date=24 August 2020 |archive-date=4 December 2019 |archive-url=https://web.archive.org/web/20191204125228/https://www.uefa.com/memberassociations/uefarankings/country/#/yr/2020 |url-status=dead }}</ref>
+*Pot 2, 3, and 4 contained the remaining teams, seeded based on their 2021 [[UEFA coefficient#Men's Club coefficient|UEFA club coefficients]].<ref name="club coefficients"/>
+Teams from the same association, and due to political reasons, teams from [[2014 pro-Russian unrest in Ukraine|Ukraine and Russia]] cannot be drawn into the same group.<ref>{{cite web|url=http://www.uefa.org/about-uefa/news/newsid=2124836.html|title=Emergency Panel decisions|publisher=UEFA.org|date=17 July 2014}}</ref> Prior to the draw, UEFA formed pairings of teams from the same association (one pairing for associations with two or three teams, two pairings for associations with four or five teams) based on television audiences, where one team was drawn into Groups A–D and another team was drawn into Groups E–H, so that the two teams would play on different days. The following pairings were announced by UEFA after the group stage teams were confirmed:<ref name="pots">{{cite web|url=https://www.uefa.com/uefachampionsleague/news/026c-1317064936b6-87d706b186bc-1000--group-stage-draw-pots-confirmed/|title=Champions League group stage draw pots confirmed|publisher=[[UEFA]]|date=26 August 2021}}</ref>
+
+{{div col|colwidth=35em}}
+{{Ordered list|list_style_type=upper-alpha 
+|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]] and [[Manchester City F.C.|Manchester City]]
+|{{fbaicon|ESP}} [[Atlético Madrid]] and [[Sevilla FC|Sevilla]]
+|{{fbaicon|ITA}} [[Inter Milan]] and [[Juventus FC|Juventus]]
+|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]] and [[Borussia Dortmund]]
+|{{fbaicon|FRA}} [[Lille OSC|Lille]] and [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]] and [[FC Barcelona|Barcelona]]
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]] and [[Liverpool F.C.|Liverpool]]
+|{{fbaicon|POR}} [[FC Porto|Porto]] and [[S.L. Benfica|Benfica]]
+|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]] and [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|{{fbaicon|GER}} [[RB Leipzig]] and [[VfL Wolfsburg]]
+|{{fbaicon|ITA}} [[Atalanta BC|Atalanta]] and [[AC Milan|Milan]]
+}}
+{{div col end}}
+
+On each matchday, one set of four groups played their matches on Tuesday, while the other set of four groups played their matches on Wednesday, with the two sets of groups alternating between each matchday. The fixtures were decided after the draw, using a computer draw not shown to public. Each team would not play more than two home matches or two away matches in a row, and would play one home match and one away match on the first and last matchdays (Regulations Article 16.02).<ref name="regulations"/> This arrangement was different from previous seasons, where the same two teams would play at home on the first and last matchdays.
+
+==Teams==
+Below were the participating teams (with their 2021 [[UEFA coefficient#Men's Club coefficient|UEFA club coefficients]]),<ref name="club coefficients">{{cite web |url=https://www.uefa.com/memberassociations/uefarankings/club/#/yr/2021 |archive-url=https://web.archive.org/web/20130113004406/http://www.uefa.com/memberassociations/uefarankings/club/#/yr/2021 |url-status=dead |archive-date=13 January 2013 |title=Club coefficients |website=[[UEFA]] |publisher=Union of European Football Associations |date=31 May 2021 |access-date=9 June 2021}}</ref> grouped by their seeding pot.<ref name="pots"/> They included:
+*26 teams which entered in this stage
+*6 winners of the [[2021–22 UEFA Champions League qualifying phase and play-off round#Play-off round|play-off round]] (4 from [[2021–22 UEFA Champions League qualifying phase and play-off round#Champions Path|Champions Path]], 2 from [[2021–22 UEFA Champions League qualifying phase and play-off round#League Path|League Path]])
+
+{| class="wikitable"
+|-
+!Key to colours
+|-bgcolor=#BBF3BB
+|Group winners and runners-up advanced to '''[[2021–22 UEFA Champions League knockout phase#Round of 16|round of 16]]'''
+|-bgcolor=#BBF3FF
+|Third-placed teams entered '''[[2021–22 UEFA Europa League knockout phase#Knockout round play-offs|Europa League knockout round play-offs]]'''
+|}
+
+{|
+|-valign=top
+|
+{| class="wikitable"
+|+Pot 1 (by association rank)
+!{{Tooltip|Assoc.|Association ranking}}
+!Team
+!Notes
+!{{Tooltip|Coeff.|UEFA Club Coefficient}}
+|-bgcolor=#BBF3BB
+!—
+|{{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]] || {{Cref2|TH}}
+|align=right|98.000
+|-bgcolor=#BBF3BB
+!—
+|{{fbaicon|ESP}} [[Villarreal CF|Villarreal]] || {{Cref2|EL}}
+|align=right|63.000
+|-bgcolor=#BBF3BB
+!1
+|{{fbaicon|ESP}} [[Atlético Madrid]] ||
+|align=right|115.000
+|-bgcolor=#BBF3BB
+!2
+|{{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]] ||
+|align=right| 125.000
+|-bgcolor=#BBF3BB
+!3
+|{{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]] ||
+|align=right| 134.000
+|-bgcolor=#BBF3BB
+!4
+|{{fbaicon|ITA}} [[Inter Milan]] ||
+|align=right| 53.000
+|-bgcolor=#BBF3BB
+!5
+|{{fbaicon|FRA}} [[Lille OSC|Lille]] ||
+|align=right| 14.000
+|-bgcolor=#BBF3BB
+!6
+|{{fbaicon|POR}} [[Sporting CP]] ||
+|align=right| 45.500
+|}
+|
+{| class="wikitable"
+|+Pot 2
+!Team
+!{{Tooltip|Coeff.|UEFA Club Coefficient}}
+|-bgcolor=#BBF3BB
+|{{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|align=right| 127.000
+|-bgcolor=#BBF3FF
+|{{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|align=right| 122.000
+|-bgcolor=#BBF3BB
+|{{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|align=right| 120.000
+|-bgcolor=#BBF3BB
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|align=right| 113.000
+|-bgcolor=#BBF3BB
+|{{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|align=right| 113.000
+|-bgcolor=#BBF3BB
+|{{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|align=right| 101.000
+|-bgcolor=#BBF3FF
+|{{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|align=right|98.000
+|-bgcolor=#BBF3FF
+|{{fbaicon|GER}} [[Borussia Dortmund]]
+|align=right|90.000
+|}
+|
+{| class="wikitable"
+|+Pot 3
+!Team
+!Notes
+!{{Tooltip|Coeff.|UEFA Club Coefficient}}
+|-bgcolor=#BBF3FF
+|{{fbaicon|POR}} [[FC Porto|Porto]] ||
+|align=right| 87.000
+|-bgcolor=#BBF3BB
+|{{fbaicon|NED}} [[AFC Ajax|Ajax]] ||
+|align=right| 82.500
+|-
+|{{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]] || {{Cref2|LP}}
+|align=right|79.000
+|-bgcolor=#BBF3FF
+|{{fbaicon|GER}} [[RB Leipzig]] ||
+|align=right|66.000
+|-bgcolor=#BBF3BB
+|{{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]] || {{Cref2|CP}}
+|align=right| 59.000
+|-bgcolor=#BBF3BB
+|{{fbaicon|POR}} [[S.L. Benfica|Benfica]] || {{Cref2|LP}}
+|align=right| 58.000
+|-bgcolor=#BBF3FF
+|{{fbaicon|ITA}} [[Atalanta BC|Atalanta]] ||
+|align=right| 50.500
+|-bgcolor=#BBF3FF
+|{{fbaicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] ||
+|align=right|50.000
+|}
+|
+{| class="wikitable"
+|+Pot 4
+!Team
+!Notes
+!{{Tooltip|Coeff.|UEFA Club Coefficient}}
+|-
+|{{fbaicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]] ||
+|align=right| 49.000
+|-
+|{{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]] ||
+|align=right| 47.000
+|-
+|{{fbaicon|BEL}} [[Club Brugge KV|Club Brugge]] ||
+|align=right| 35.500
+|-
+|{{fbaicon|SUI}} [[BSC Young Boys|Young Boys]] || {{Cref2|CP}}
+|align=right| 35.000
+|-
+|{{fbaicon|ITA}} [[AC Milan|Milan]] ||
+|align=right|31.000
+|-
+|{{fbaicon|SWE}} [[Malmö FF]] || {{Cref2|CP}}
+|align=right| 18.500
+|-
+|{{fbaicon|GER}} [[VfL Wolfsburg]] ||
+|align=right| 14.714
+|-bgcolor=#BBF3FF
+|{{fbaicon|MDA}} [[FC Sheriff Tiraspol|Sheriff Tiraspol]] || {{Cref2|CP}}
+|align=right| 14.500
+|}
+|}
+
+'''Notes'''
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|TH|n=0|<sup>TH</sup> Champions League title holders, automatically placed into Pot 1 as top seed.}}
+{{Cnote2|EL|n=0|<sup>EL</sup> Europa League title holders, automatically placed into Pot 1 as second top seed.}}
+{{Cnote2|CP|n=0|<sup>CP</sup> Winners of play-off round (Champions Path).}}
+{{Cnote2|LP|n=0|<sup>LP</sup> Winners of play-off round (League Path).}}
+{{Cnote2 End}}
+
+==Format==
+In each group, teams played against each other home-and-away in a [[Round-robin tournament|round-robin format]]. The top two teams of each group advanced to the [[2021–22 UEFA Champions League knockout phase#Round of 16|round of 16]]. The third-placed teams were transferred to the [[2021–22 UEFA Europa League knockout phase#Knockout round play-offs|Europa League knockout round play-offs]], while the fourth-placed teams were eliminated from European competitions for the season.
+
+===Tiebreakers===
+Teams were ranked according to [[Points (association football)|points]] (3 points for a win, 1 point for a draw, 0 points for a loss). If two or more teams were tied on points, the following tiebreaking criteria were applied, in the order given, to determine the rankings (see Article 17 Equality of points – group stage, Regulations of the UEFA Champions League):<ref name="regulations"/>
+#Points in head-to-head matches among the tied teams;
+#[[Goal difference]] in head-to-head matches among the tied teams;
+#Goals scored in head-to-head matches among the tied teams;
+#If more than two teams were tied, and after applying all head-to-head criteria above, a subset of teams were still tied, all head-to-head criteria above were reapplied exclusively to this subset of teams;
+#Goal difference in all group matches;
+#Goals scored in all group matches;
+#Away goals scored in all group matches;
+#Wins in all group matches;
+#Away wins in all group matches;
+#Disciplinary points (direct red card = 3 points; double yellow card = 3 points; single yellow card = 1 point);
+#[[UEFA coefficient|UEFA club coefficient]].
+Due to the abolition of the [[away goals rule]], head-to-head away goals were no longer applied as a tiebreaker starting from this season. However, total away goals were still applied as a tiebreaker.<ref>{{cite web|url=https://www.uefa.com/news-media/news/026a-1298aeb73a7a-5b64cb68d920-1000--abolition-of-the-away-goals-rule-in-all-uefa-club-competitions/|title=Abolition of the away goals rule in all UEFA club competitions|publisher=[[UEFA]]|date=24 June 2021}}</ref>
+
+==Groups==
+The fixtures were announced on 27 August 2021, the day after the draw.<ref>{{cite web|date=27 August 2021|title=All the 2021/22 Champions League fixtures|url=https://www.uefa.com/uefachampionsleague/news/026c-131a0f45d056-813415b1929d-1000--all-the-champions-league-fixtures/|publisher=[[UEFA]]}}</ref> The matches were played on 14–15 September, 28–29 September, 19–20 October, 2–3 November, 23–24 November, and 7–8 December 2021. The scheduled kick-off times were 18:45 (two matches on each day) and 21:00 (remaining six matches) CET/CEST.
+
+Times were [[Central European Time|CET]]/[[Central European Summer Time|CEST]],{{refn|group=note|[[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]) for dates up to 30 October 2021 (matchdays 1–3), and [[Central European Time|CET]] ([[UTC+01:00|UTC+1]]) for dates thereafter (matchdays 4–6).}} as listed by UEFA (local times, if different, are in parentheses).
+
+===Group A===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|generate_links=y
+|section=Group A
+|short_style=noflag|show_matches=yes
+
+|source=[https://www.uefa.com/uefachampionsleague/standings/ UEFA]
+|name_MCI={{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|name_PAR={{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|name_RBL={{fbaicon|GER}} [[RB Leipzig]]
+|name_BRU={{fbaicon|BEL}} [[Club Brugge KV|Club Brugge]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_MCI=4 |draw_MCI=0 |loss_MCI=2 |gf_MCI=18|ga_MCI=10
+|win_PAR=3 |draw_PAR=2 |loss_PAR=1 |gf_PAR=13|ga_PAR=8
+|win_RBL=2 |draw_RBL=1 |loss_RBL=3 |gf_RBL=15|ga_RBL=14
+|win_BRU=1 |draw_BRU=1 |loss_BRU=4 |gf_BRU=6 |ga_BRU=20
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team_order=MCI, PAR, RBL, BRU
+|class_rules=[[#Tiebreakers|Group stage tiebreakers]]
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=UEL
+|col_KO=green1 |text_KO=Advance to [[2021–22 UEFA Champions League knockout phase|knockout phase]]
+|col_UEL=blue1 |text_UEL={{nowrap|Transfer to [[2021–22 UEFA Europa League knockout phase#Knockout round play-offs|Europa League]]}}
+
+<!--UPDATE results below-->
+|match_MCI_PAR=2–1
+|match_MCI_RBL=6–3
+|match_MCI_BRU=4–1
+
+|match_PAR_MCI=2–0
+|match_PAR_RBL=3–2
+|match_PAR_BRU=4–1
+
+|match_RBL_MCI=2–1
+|match_RBL_PAR=2–2
+|match_RBL_BRU=1–2
+
+|match_BRU_MCI=1–5
+|match_BRU_PAR=1–1
+|match_BRU_RBL=0–5
+}}</onlyinclude>
+
+{{Football box
+|date       = {{Start date|2021|9|15|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[Manchester City F.C.|Manchester City]] {{fbaicon|ENG}}
+|score      = 6–3
+|team2      = {{fbaicon|GER}} [[RB Leipzig]]
+|goals1     =
+*[[Nathan Aké|Aké]] {{goal|16}}
+*[[Nordi Mukiele|Mukiele]] {{goal|28|o.g.}}
+*[[Riyad Mahrez|Mahrez]] {{goal|45+2|pen.}}
+*[[Jack Grealish|Grealish]] {{goal|56}}
+*[[João Cancelo|Cancelo]] {{goal|75}}
+*[[Gabriel Jesus]] {{goal|85}}
+|goals2     =
+*[[Christopher Nkunku|Nkunku]] {{goal|42||51||73}}
+|stadium    = [[City of Manchester Stadium]], [[Manchester]]
+|attendance = 38,062<ref name="md01_2">{{cite web |url=https://www.uefa.com/newsfiles/ucl/2022/md01_2_fs.pdf |archive-url=https://web.archive.org/web/20210915222212/https://www.uefa.com/newsfiles/ucl/2022/md01_2_fs.pdf |url-status=dead |archive-date=15 September 2021 |title=Full Time Summary Matchday 1 – Wednesday 15 September 2021 |work=[[UEFA]]|publisher=Union of European Football Associations |date=15 September 2021 |access-date=15 September 2021}}</ref>
+|referee    = [[Serdar Gözübüyük]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032688/
+}}
+{{Football box
+|date       = {{Start date|2021|9|15|df=y}}
+|time       = 21:00
+|team1      = [[Club Brugge KV|Club Brugge]] {{fbaicon|BEL}}
+|score      = 1–1
+|team2      = {{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|goals1     =
+*[[Hans Vanaken|Vanaken]] {{goal|27}}
+|goals2     =
+*[[Ander Herrera|Herrera]] {{goal|15}}
+|stadium    = [[Jan Breydel Stadium]], [[Bruges]]
+|attendance = 27,546<ref name="md01_2"/>
+|referee    = [[Sandro Schärer]] ([[Swiss Football Association|Switzerland]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032689/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|9|28|df=y}}
+|time       = 21:00
+|team1      = [[RB Leipzig]] {{fbaicon|GER}}
+|score      = 1–2
+|team2      = {{fbaicon|BEL}} [[Club Brugge KV|Club Brugge]]
+|goals1     =
+*[[Christopher Nkunku|Nkunku]] {{goal|5}}
+|goals2     =
+*[[Hans Vanaken|Vanaken]] {{goal|22}}
+*[[Mats Rits|Rits]] {{goal|40}}
+|stadium    = [[Red Bull Arena (Leipzig)|Red Bull Arena]], [[Leipzig]]
+|attendance = 23,500<ref name="md02_1">{{cite web |url=https://www.uefa.com/newsfiles/ucl/2022/md02_1_fs.pdf |archive-url=https://web.archive.org/web/20210928213107/https://www.uefa.com/newsfiles/ucl/2022/md02_1_fs.pdf |url-status=dead |archive-date=28 September 2021 |title=Full Time Summary Matchday 2 – Tuesday 28 September 2021 |work=[[UEFA]]|publisher=Union of European Football Associations |date=28 September 2021 |access-date=28 September 2021}}</ref>
+|referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032665/
+}}
+{{Football box
+|date       = {{Start date|2021|9|28|df=y}}
+|time       = 21:00
+|team1      = [[Paris Saint-Germain FC|Paris Saint-Germain]] {{fbaicon|FRA}}
+|score      = 2–0
+|team2      = {{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1     =
+*[[Idrissa Gueye|Gueye]] {{goal|8}}
+*[[Lionel Messi|Messi]] {{goal|74}}
+|goals2     =
+|stadium    = [[Parc des Princes]], [[Paris]]
+|attendance = 37,350<ref name="md02_1"/>
+|referee    = [[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032720/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|10|19|df=y}}
+|time       = 18:45
+|team1      = [[Club Brugge KV|Club Brugge]] {{fbaicon|BEL}}
+|score      = 1–5
+|team2      = {{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1     =
+*[[Hans Vanaken|Vanaken]] {{goal|81}}
+|goals2     =
+*[[João Cancelo|Cancelo]] {{goal|30}}
+*[[Riyad Mahrez|Mahrez]] {{goal|43|pen.|84}}
+*[[Kyle Walker|Walker]] {{goal|53}}
+*[[Cole Palmer|Palmer]] {{goal|67}}
+|stadium    = [[Jan Breydel Stadium]], [[Bruges]]
+|attendance = 24,915<ref name="md03_1">{{cite web |url=https://www.uefa.com/newsfiles/ucl/2022/md03_1_fs.pdf |archive-url=https://web.archive.org/web/20211019213838/https://www.uefa.com/newsfiles/ucl/2022/md03_1_fs.pdf |url-status=dead |archive-date=19 October 2021 |title=Full Time Summary Matchday 3 – Tuesday 19 October 2021 |work=[[UEFA]]|publisher=Union of European Football Associations |date=19 October 2021 |access-date=19 October 2021}}</ref>
+|referee    = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032641/
+}}
+{{Football box
+|date       = {{Start date|2021|10|19|df=y}}
+|time       = 21:00
+|team1      = [[Paris Saint-Germain FC|Paris Saint-Germain]] {{fbaicon|FRA}}
+|score      = 3–2
+|team2      = {{fbaicon|GER}} [[RB Leipzig]]
+|goals1     =
+*[[Kylian Mbappé|Mbappé]] {{goal|9}}
+*[[Lionel Messi|Messi]] {{goal|67||74|pen.}}
+|goals2     =
+*[[André Silva (footballer, born 1995)|Silva]] {{goal|28}}
+*[[Nordi Mukiele|Mukiele]] {{goal|57}}
+|stadium    = [[Parc des Princes]], [[Paris]]
+|attendance = 47,359<ref name="md03_1"/>
+|referee    = [[Marco Guida]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032640/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|3|df=y}}
+|time       = 21:00
+|team1      = [[RB Leipzig]] {{fbaicon|GER}}
+|score      = 2–2
+|team2      = {{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|goals1     =
+*[[Christopher Nkunku|Nkunku]] {{goal|8}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|90+2|pen.}}
+|goals2     =
+*[[Georginio Wijnaldum|Wijnaldum]] {{goal|21||39}}
+|stadium    = [[Red Bull Arena (Leipzig)|Red Bull Arena]], [[Leipzig]]
+|attendance = 39,794<ref name="md04_2">{{cite web |url=https://www.uefa.com/newsfiles/ucl/2022/md04_2_fs.pdf |archive-url=https://web.archive.org/web/20211103224230/https://www.uefa.com/newsfiles/ucl/2022/md04_2_fs.pdf |url-status=dead |archive-date=3 November 2021 |title=Full Time Summary Matchday 4 – Wednesday 3 November 2021 |work=[[UEFA]]|publisher=Union of European Football Associations |date=3 November 2021 |access-date=3 November 2021}}</ref>
+|referee    = [[Andreas Ekberg]] ([[Swedish Football Association|Sweden]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032712/
+}}
+{{Football box
+|date       = {{Start date|2021|11|3|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+00:00|UTC+0]])}}
+|team1      = [[Manchester City F.C.|Manchester City]] {{fbaicon|ENG}}
+|score      = 4–1
+|team2      = {{fbaicon|BEL}} [[Club Brugge KV|Club Brugge]]
+|goals1     =
+*[[Phil Foden|Foden]] {{goal|15}}
+*[[Riyad Mahrez|Mahrez]] {{goal|54}}
+*[[Raheem Sterling|Sterling]] {{goal|72}}
+*[[Gabriel Jesus]] {{goal|90+2}}
+|goals2     =
+*[[John Stones|Stones]] {{goal|17|o.g.}}
+|stadium    = [[City of Manchester Stadium]], [[Manchester]]
+|attendance = 50,228<ref name="md04_2"/>
+|referee    = [[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032713/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|24|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+00:00|UTC+0]])}}
+|team1      = [[Manchester City F.C.|Manchester City]] {{fbaicon|ENG}}
+|score      = 2–1
+|team2      = {{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|goals1     =
+*[[Raheem Sterling|Sterling]] {{goal|63}}
+*[[Gabriel Jesus]] {{goal|76}}
+|goals2     =
+*[[Kylian Mbappé|Mbappé]] {{goal|50}}
+|stadium    = [[City of Manchester Stadium]], [[Manchester]]
+|attendance = 52,030<ref name="md05_2">{{cite web |url=https://www.uefa.com/newsfiles/ucl/2022/md05_2_fs.pdf |archive-url=https://web.archive.org/web/20211124224111/https://www.uefa.com/newsfiles/ucl/2022/md05_2_fs.pdf |url-status=dead |archive-date=24 November 2021 |title=Full Time Summary Matchday 5 – Wednesday 24 November 2021 |work=[[UEFA]]|publisher=Union of European Football Associations |date=24 November 2021 |access-date=24 November 2021}}</ref>
+|referee    = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032664/
+}}
+{{Football box
+|date       = {{Start date|2021|11|24|df=y}}
+|time       = 21:00
+|team1      = [[Club Brugge KV|Club Brugge]] {{fbaicon|BEL}}
+|score      = 0–5
+|team2      = {{fbaicon|GER}} [[RB Leipzig]]
+|goals1     =
+|goals2     =
+*[[Christopher Nkunku|Nkunku]] {{goal|12||90+3}}
+*[[Emil Forsberg|Forsberg]] {{goal|17|pen.|45+1}}
+*[[André Silva (footballer, born 1995)|Silva]] {{goal|26}}
+|stadium    = [[Jan Breydel Stadium]], [[Bruges]]
+|attendance = 24,072<ref name="md05_2"/>
+|referee    = [[Davide Massa]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032721/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|12|7|df=y}}
+|time       = 18:45
+|team1      = [[RB Leipzig]] {{fbaicon|GER}}
+|score      = 2–1
+|team2      = {{fbaicon|ENG}} [[Manchester City F.C.|Manchester City]]
+|goals1     =
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|24}}
+*[[André Silva (footballer, born 1995)|Silva]] {{goal|71}}
+|goals2     =
+*[[Riyad Mahrez|Mahrez]] {{goal|76}}
+|stadium    = [[Red Bull Arena (Leipzig)|Red Bull Arena]], [[Leipzig]]
+|attendance = 0<ref name="md06_1">{{cite web |url=https://www.uefa.com/newsfiles/ucl/2022/md06_1_fs.pdf |archive-url=https://web.archive.org/web/20211207223212/https://www.uefa.com/newsfiles/ucl/2022/md06_1_fs.pdf |url-status=dead |archive-date=7 December 2021 |title=Full Time Summary Matchday 6 – Tuesday 7 December 2021 |work=[[UEFA]]|publisher=Union of European Football Associations |date=7 December 2021 |access-date=7 December 2021}}</ref>{{refn|group=note|name=Behind closed doors|Due to the [[COVID-19 pandemic in Europe]], the match was played [[Behind closed doors (sport)|behind closed doors]].}}
+|referee    = [[Sandro Schärer]] ([[Swiss Football Association|Switzerland]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032680/
+}}
+{{Football box
+|date       = {{Start date|2021|12|7|df=y}}
+|time       = 18:45
+|team1      = [[Paris Saint-Germain FC|Paris Saint-Germain]] {{fbaicon|FRA}}
+|score      = 4–1
+|team2      = {{fbaicon|BEL}} [[Club Brugge KV|Club Brugge]]
+|goals1     =
+*[[Kylian Mbappé|Mbappé]] {{goal|2||7}}
+*[[Lionel Messi|Messi]] {{goal|38||76|pen.}}
+|goals2     =
+*[[Mats Rits|Rits]] {{goal|68}}
+|stadium    = [[Parc des Princes]], [[Paris]]
+|attendance = 47,492<ref name="md06_1"/>
+|referee    = [[Jesús Gil Manzano]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032681/
+}}
+
+===Group B===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|generate_links=y
+|section=Group B
+|short_style=noflag|show_matches=yes
+
+|source=[https://www.uefa.com/uefachampionsleague/standings/ UEFA]
+|name_ATM={{fbaicon|ESP}} [[Atlético Madrid]]
+|name_LIV={{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|name_POR={{fbaicon|POR}} [[FC Porto|Porto]]
+|name_MIL={{fbaicon|ITA}} [[AC Milan|Milan]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_ATM=2 |draw_ATM=1 |loss_ATM=3 |gf_ATM=7 |ga_ATM=8
+|win_LIV=6 |draw_LIV=0 |loss_LIV=0 |gf_LIV=17|ga_LIV=6
+|win_POR=1 |draw_POR=2 |loss_POR=3 |gf_POR=4 |ga_POR=11
+|win_MIL=1 |draw_MIL=1 |loss_MIL=4 |gf_MIL=6 |ga_MIL=9
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team_order=LIV, ATM, POR, MIL
+|class_rules=[[#Tiebreakers|Group stage tiebreakers]]
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=UEL
+|col_KO=green1 |text_KO=Advance to [[2021–22 UEFA Champions League knockout phase|knockout phase]]
+|col_UEL=blue1 |text_UEL={{nowrap|Transfer to [[2021–22 UEFA Europa League knockout phase#Knockout round play-offs|Europa League]]}}
+
+<!--UPDATE results below-->
+|match_ATM_LIV=2–3
+|match_ATM_POR=0–0
+|match_ATM_MIL=0–1
+
+|match_LIV_ATM=2–0
+|match_LIV_POR=2–0
+|match_LIV_MIL=3–2
+
+|match_POR_ATM=1–3
+|match_POR_LIV=1–5
+|match_POR_MIL=1–0
+
+|match_MIL_ATM=1–2
+|match_MIL_LIV=1–2
+|match_MIL_POR=1–1
+}}</onlyinclude>
+
+{{Football box
+|date       = {{Start date|2021|9|15|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[Liverpool F.C.|Liverpool]] {{fbaicon|ENG}}
+|score      = 3–2
+|team2      = {{fbaicon|ITA}} [[AC Milan|Milan]]
+|goals1     =
+*[[Fikayo Tomori|Tomori]] {{goal|9|o.g.}}
+*[[Mohamed Salah|Salah]] {{goal|49}}
+*[[Jordan Henderson|Henderson]] {{goal|69}}
+|goals2     =
+*[[Ante Rebić|Rebić]] {{goal|42}}
+*[[Brahim Díaz|Brahim]] {{goal|44}}
+|stadium    = [[Anfield]], [[Liverpool]]
+|attendance = 51,445<ref name="md01_2"/>
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032683/
+}}
+{{Football box
+|date       = {{Start date|2021|9|15|df=y}}
+|time       = 21:00
+|team1      = [[Atlético Madrid]] {{fbaicon|ESP}}
+|score      = 0–0
+|team2      = {{fbaicon|POR}} [[FC Porto|Porto]]
+|goals1     =
+|goals2     =
+|stadium    = [[Metropolitano Stadium|Wanda Metropolitano Stadium]], [[Madrid]]
+|attendance = 40,098<ref name="md01_2"/>
+|referee    = [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032690/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|9|28|df=y}}
+|time       = 21:00
+|team1      = [[AC Milan|Milan]] {{fbaicon|ITA}}
+|score      = 1–2
+|team2      = {{fbaicon|ESP}} [[Atlético Madrid]]
+|goals1     =
+*[[Rafael Leão|Leão]] {{goal|20}}
+|goals2     =
+*[[Antoine Griezmann|Griezmann]] {{goal|84}}
+*[[Luis Suárez (Uruguayan footballer)|Suárez]] {{goal|90+7|pen.}}
+|stadium    = [[San Siro]], [[Milan]]
+|attendance = 35,374<ref name="md02_1"/>
+|referee    = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032643/
+}}
+{{Football box
+|date       = {{Start date|2021|9|28|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[FC Porto|Porto]] {{fbaicon|POR}}
+|score      = 1–5
+|team2      = {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1     =
+*[[Mehdi Taremi|Taremi]] {{goal|75}}
+|goals2     =
+*[[Mohamed Salah|Salah]] {{goal|18||60}}
+*[[Sadio Mané|Mané]] {{goal|45}}
+*[[Roberto Firmino|Firmino]] {{goal|77||81}}
+|stadium    = [[Estádio do Dragão]], [[Porto]]
+|attendance = 23,520<ref name="md02_1"/>
+|referee    = [[Sergei Karasev]] ([[Russian Football Union|Russia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032714/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|10|19|df=y}}
+|time       = 21:00
+|team1      = [[Atlético Madrid]] {{fbaicon|ESP}}
+|score      = 2–3
+|team2      = {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1     =
+*[[Antoine Griezmann|Griezmann]] {{goal|20||34}}
+|goals2     =
+*[[Mohamed Salah|Salah]] {{goal|8||78|pen.}}
+*[[Naby Keïta|Keïta]] {{goal|13}}
+|stadium    = [[Metropolitano Stadium|Wanda Metropolitano Stadium]], [[Madrid]]
+|attendance = 60,725<ref name="md03_1"/>
+|referee    = [[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032666/
+}}
+{{Football box
+|date       = {{Start date|2021|10|19|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[FC Porto|Porto]] {{fbaicon|POR}}
+|score      = 1–0
+|team2      = {{fbaicon|ITA}} [[AC Milan|Milan]]
+|goals1     =
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|65}}
+|goals2     =
+|stadium    = [[Estádio do Dragão]], [[Porto]]
+|attendance = 32,130<ref name="md03_1"/>
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032667/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|3|df=y}}
+|time       = 18:45
+|team1      = [[AC Milan|Milan]] {{fbaicon|ITA}}
+|score      = 1–1
+|team2      = {{fbaicon|POR}} [[FC Porto|Porto]]
+|goals1     =
+*[[Chancel Mbemba|Mbemba]] {{goal|61|o.g.}}
+|goals2     =
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|6}}
+|stadium    = [[San Siro]], [[Milan]]
+|attendance = 39,675<ref name="md04_2"/>
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032723/
+}}
+{{Football box
+|date       = {{Start date|2021|11|3|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+00:00|UTC+0]])}}
+|team1      = [[Liverpool F.C.|Liverpool]] {{fbaicon|ENG}}
+|score      = 2–0
+|team2      = {{fbaicon|ESP}} [[Atlético Madrid]]
+|goals1     =
+*[[Diogo Jota|Jota]] {{goal|13}}
+*[[Sadio Mané|Mané]] {{goal|21}}
+|goals2     =
+|stadium    = [[Anfield]], [[Liverpool]]
+|attendance = 51,347<ref name="md04_2"/>
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032722/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|24|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+00:00|UTC+0]])}}
+|team1      = [[Liverpool F.C.|Liverpool]] {{fbaicon|ENG}}
+|score      = 2–0
+|team2      = {{fbaicon|POR}} [[FC Porto|Porto]]
+|goals1     =
+*[[Thiago Alcântara|Thiago]] {{goal|52}}
+*[[Mohamed Salah|Salah]] {{goal|70}}
+|goals2     =
+|stadium    = [[Anfield]], [[Liverpool]]
+|attendance = 52,209<ref name="md05_2"/>
+|referee    = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032642/
+}}
+{{Football box
+|date       = {{Start date|2021|11|24|df=y}}
+|time       = 21:00
+|team1      = [[Atlético Madrid]] {{fbaicon|ESP}}
+|score      = 0–1
+|team2      = {{fbaicon|ITA}} [[AC Milan|Milan]]
+|goals1     =
+|goals2     =
+*[[Junior Messias|Messias]] {{goal|87}}
+|stadium    = [[Metropolitano Stadium|Wanda Metropolitano Stadium]], [[Madrid]]
+|attendance = 61,019<ref name="md05_2"/>
+|referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032715/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|12|7|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+00:00|UTC+0]])}}
+|team1      = [[FC Porto|Porto]] {{fbaicon|POR}}
+|score      = 1–3
+|team2      = {{fbaicon|ESP}} [[Atlético Madrid]]
+|goals1     =
+*[[Sérgio Oliveira|Oliveira]] {{goal|90+6|pen.}}
+|goals2     =
+*[[Antoine Griezmann|Griezmann]] {{goal|56}}
+*[[Ángel Correa|Correa]] {{goal|90}}
+*[[Rodrigo De Paul|De Paul]] {{goal|90+2}}
+|stadium    = [[Estádio do Dragão]], [[Porto]]
+|attendance = 38,830<ref name="md06_1"/>
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032682/
+}}
+{{Football box
+|date       = {{Start date|2021|12|7|df=y}}
+|time       = 21:00
+|team1      = [[AC Milan|Milan]] {{fbaicon|ITA}}
+|score      = 1–2
+|team2      = {{fbaicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1     =
+*[[Fikayo Tomori|Tomori]] {{goal|29}}
+|goals2     =
+*[[Mohamed Salah|Salah]] {{goal|36}}
+*[[Divock Origi|Origi]] {{goal|55}}
+|stadium    = [[San Siro]], [[Milan]]
+|attendance = 56,237<ref name="md06_1"/>
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032691/
+}}
+
+===Group C===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|generate_links=y
+|section=Group C
+|short_style=noflag|show_matches=yes
+
+|source=[https://www.uefa.com/uefachampionsleague/standings/ UEFA]
+|name_SPO={{fbaicon|POR}} [[Sporting CP]]
+|name_DOR={{fbaicon|GER}} [[Borussia Dortmund]]
+|name_AJX={{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|name_BES={{fbaicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_SPO=3 |draw_SPO=0 |loss_SPO=3 |gf_SPO=14|ga_SPO=12
+|win_DOR=3 |draw_DOR=0 |loss_DOR=3 |gf_DOR=10|ga_DOR=11
+|win_AJX=6 |draw_AJX=0 |loss_AJX=0 |gf_AJX=20|ga_AJX=5
+|win_BES=0 |draw_BES=0 |loss_BES=6 |gf_BES=3 |ga_BES=19
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team_order=AJX, SPO, DOR, BES
+|hth_SPO=Tied on head-to-head points. Head-to-head goal difference: Sporting CP +1, Borussia Dortmund −1.
+|hth_DOR=SPO
+|class_rules=[[#Tiebreakers|Group stage tiebreakers]]
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=UEL
+|col_KO=green1 |text_KO=Advance to [[2021–22 UEFA Champions League knockout phase|knockout phase]]
+|col_UEL=blue1 |text_UEL={{nowrap|Transfer to [[2021–22 UEFA Europa League knockout phase#Knockout round play-offs|Europa League]]}}
+
+<!--UPDATE results below-->
+|match_SPO_DOR=3–1
+|match_SPO_AJX=1–5
+|match_SPO_BES=4–0
+
+|match_DOR_SPO=1–0
+|match_DOR_AJX=1–3
+|match_DOR_BES=5–0
+
+|match_AJX_SPO=4–2
+|match_AJX_DOR=4–0
+|match_AJX_BES=2–0
+
+|match_BES_SPO=1-4
+|match_BES_DOR=1–2
+|match_BES_AJX=1–2
+}}</onlyinclude>
+
+{{Football box
+|date       = {{Start date|2021|9|15|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[Beşiktaş J.K.|Beşiktaş]] {{fbaicon|TUR}}
+|score      = 1–2
+|team2      = {{fbaicon|GER}} [[Borussia Dortmund]]
+|goals1     =
+*[[Francisco Montero (footballer, born 1999)|Montero]] {{goal|90+4}}
+|goals2     =
+*[[Jude Bellingham|Bellingham]] {{goal|20}}
+*[[Erling Haaland|Haaland]] {{goal|45+3}}
+|stadium    = [[Vodafone Park]], [[Istanbul]]
+|attendance = 22,445<ref name="md01_2"/>
+|referee    = [[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032693/
+}}
+{{Football box
+|date       = {{Start date|2021|9|15|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[Sporting CP]] {{fbaicon|POR}}
+|score      = 1–5
+|team2      = {{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|goals1     =
+*[[Paulinho (footballer, born November 1992)|Paulinho]] {{goal|33}}
+|goals2     =
+*[[Sébastien Haller|Haller]] {{goal|2||9||51||63}}
+*[[Steven Berghuis|Berghuis]] {{goal|39}}
+|stadium    = [[Estádio José Alvalade]], [[Lisbon]]
+|attendance = 20,382<ref name="md01_2"/>
+|referee    = [[José María Sánchez Martínez]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032692/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|9|28|df=y}}
+|time       = 18:45
+|team1      = [[AFC Ajax|Ajax]] {{fbaicon|NED}}
+|score      = 2–0
+|team2      = {{fbaicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|goals1     =
+*[[Steven Berghuis|Berghuis]] {{goal|17}}
+*[[Sébastien Haller|Haller]] {{goal|43}}
+|goals2     =
+|stadium    = [[Johan Cruyff Arena]], [[Amsterdam]]
+|attendance = 52,628<ref name="md02_1"/>
+|referee    = [[Benoît Bastien]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032669/
+}}
+{{Football box
+|date       = {{Start date|2021|9|28|df=y}}
+|time       = 21:00
+|team1      = [[Borussia Dortmund]] {{fbaicon|GER}}
+|score      = 1–0
+|team2      = {{fbaicon|POR}} [[Sporting CP]]
+|goals1     =
+*[[Donyell Malen|Malen]] {{goal|37}}
+|goals2     =
+|stadium    = [[Westfalenstadion]], [[Dortmund]]
+|attendance = 25,000<ref name="md02_1"/>
+|referee    = [[Srđan Jovanović (referee)|Srđan Jovanović]] ([[Football Association of Serbia|Serbia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032724/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|10|19|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[Beşiktaş J.K.|Beşiktaş]] {{fbaicon|TUR}}
+|score      = 1–4
+|team2      = {{fbaicon|POR}} [[Sporting CP]]
+|goals1     =
+*[[Cyle Larin|Larin]] {{goal|24}}
+|goals2     =
+*[[Sebastián Coates|Coates]] {{goal|15||27}}
+*[[Pablo Sarabia|Sarabia]] {{goal|44|pen.}}
+*[[Paulinho (footballer, born November 1992)|Paulinho]] {{goal|89}}
+|stadium    = [[Vodafone Park]], [[Istanbul]]
+|attendance = 22,936<ref name="md03_1"/>
+|referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032645/
+}}
+{{Football box
+|date       = {{Start date|2021|10|19|df=y}}
+|time       = 21:00
+|team1      = [[AFC Ajax|Ajax]] {{fbaicon|NED}}
+|score      = 4–0
+|team2      = {{fbaicon|GER}} [[Borussia Dortmund]]
+|goals1     =
+*[[Marco Reus|Reus]] {{goal|11|o.g.}}
+*[[Daley Blind|Blind]] {{goal|25}}
+*[[Antony (footballer, born 2000)|Antony]] {{goal|57}}
+*[[Sébastien Haller|Haller]] {{goal|72}}
+|goals2     =
+|stadium    = [[Johan Cruyff Arena]], [[Amsterdam]]
+|attendance = 54,029<ref name="md03_1"/>
+|referee    = [[Jesús Gil Manzano]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032716/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|3|df=y}}
+|time       = 21:00
+|team1      = [[Borussia Dortmund]] {{fbaicon|GER}}
+|score      = 1–3
+|team2      = {{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|goals1     =
+*[[Marco Reus|Reus]] {{goal|37|pen.}}
+|goals2     =
+*[[Dušan Tadić|Tadić]] {{goal|72}}
+*[[Sébastien Haller|Haller]] {{goal|83}}
+*[[Davy Klaassen|Klaassen]] {{goal|90+3}}
+|stadium    = [[Westfalenstadion]], [[Dortmund]]
+|attendance = 54,820<ref name="md04_2"/>
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032644/
+}}
+{{Football box
+|date       = {{Start date|2021|11|3|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+00:00|UTC+0]])}}
+|team1      = [[Sporting CP]] {{fbaicon|POR}}
+|score      = 4–0
+|team2      = {{fbaicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|goals1     =
+*[[Pedro Gonçalves|Gonçalves]] {{goal|31|pen.|38}}
+*[[Paulinho (footballer, born November 1992)|Paulinho]] {{goal|41}}
+*[[Pablo Sarabia|Sarabia]] {{goal|56}}
+|goals2     =
+|stadium    = [[Estádio José Alvalade]], [[Lisbon]]
+|attendance = 40,835<ref name="md04_2"/>
+|referee    = [[Sergei Karasev]] ([[Russian Football Union|Russia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032717/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|24|df=y}}
+|time       = 18:45 {{small|(20:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[Beşiktaş J.K.|Beşiktaş]] {{fbaicon|TUR}}
+|score      = 1–2
+|team2      = {{fbaicon|NED}} [[AFC Ajax|Ajax]]
+|goals1     =
+*[[Rachid Ghezzal|Ghezzal]] {{goal|22|pen.}}
+|goals2     =
+*[[Sébastien Haller|Haller]] {{goal|54||69}}
+|stadium    = [[Vodafone Park]], [[Istanbul]]
+|attendance = 11,712<ref name="md05_2"/>
+|referee    = [[Irfan Peljto]] ([[Football Association of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032725/
+}}
+{{Football box
+|date       = {{Start date|2021|11|24|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+00:00|UTC+0]])}}
+|team1      = [[Sporting CP]] {{fbaicon|POR}}
+|score      = 3–1
+|team2      = {{fbaicon|GER}} [[Borussia Dortmund]]
+|goals1     =
+*[[Pedro Gonçalves|Gonçalves]] {{goal|30||39}}
+*[[Pedro Porro|Porro]] {{goal|81}}
+|goals2     =
+*[[Donyell Malen|Malen]] {{goal|90+3}}
+|stadium    = [[Estádio José Alvalade]], [[Lisbon]]
+|attendance = 41,341<ref name="md05_2"/>
+|referee    = [[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032668/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|12|7|df=y}}
+|time       = 21:00
+|team1      = [[AFC Ajax|Ajax]] {{fbaicon|NED}}
+|score      = 4–2
+|team2      = {{fbaicon|POR}} [[Sporting CP]]
+|goals1     =
+*[[Sébastien Haller|Haller]] {{goal|8|pen.}}
+*[[Antony (footballer, born 2000)|Antony]] {{goal|42}}
+*[[David Neres|Neres]] {{goal|58}}
+*[[Steven Berghuis|Berghuis]] {{goal|62}}
+|goals2     =
+*[[Nuno Santos (footballer, born 1995)|Santos]] {{goal|22}}
+*[[Bruno Tabata|Tabata]] {{goal|78}}
+|stadium    = [[Johan Cruyff Arena]], [[Amsterdam]]
+|attendance = 0<ref name="md06_1"/>{{refn|group=note|name=Behind closed doors}}
+|referee    = [[Davide Massa]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032684/
+}}
+{{Football box
+|date       = {{Start date|2021|12|7|df=y}}
+|time       = 21:00
+|team1      = [[Borussia Dortmund]] {{fbaicon|GER}}
+|score      = 5–0
+|team2      = {{fbaicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+|goals1     =
+*[[Donyell Malen|Malen]] {{goal|29}}
+*[[Marco Reus|Reus]] {{goal|45+2|pen.|53}}
+*[[Erling Haaland|Haaland]] {{goal|68||81}}
+|goals2     =
+|stadium    = [[Westfalenstadion]], [[Dortmund]]
+|attendance = 15,000<ref name="md06_1"/>
+|referee    = [[François Letexier]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032685/
+}}
+
+===Group D===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|generate_links=y
+|section=Group D
+|short_style=noflag|show_matches=yes
+
+|source=[https://www.uefa.com/uefachampionsleague/standings/ UEFA]
+|name_INT={{fbaicon|ITA}} [[Inter Milan]]
+|name_RMA={{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|name_SHK={{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|name_SHE={{fbaicon|MDA}} [[FC Sheriff Tiraspol|Sheriff Tiraspol]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_INT=3 |draw_INT=1 |loss_INT=2 |gf_INT=8 |ga_INT=5
+|win_RMA=5 |draw_RMA=0 |loss_RMA=1 |gf_RMA=14|ga_RMA=3
+|win_SHK=0 |draw_SHK=2 |loss_SHK=4 |gf_SHK=2 |ga_SHK=12
+|win_SHE=2 |draw_SHE=1 |loss_SHE=3 |gf_SHE=7 |ga_SHE=11
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team_order=RMA, INT, SHE, SHK
+|class_rules=[[#Tiebreakers|Group stage tiebreakers]]
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=UEL
+|col_KO=green1 |text_KO=Advance to [[2021–22 UEFA Champions League knockout phase|knockout phase]]
+|col_UEL=blue1 |text_UEL={{nowrap|Transfer to [[2021–22 UEFA Europa League knockout phase#Knockout round play-offs|Europa League]]}}
+
+<!--UPDATE results below-->
+|match_INT_RMA=0–1
+|match_INT_SHK=2–0
+|match_INT_SHE=3–1
+
+|match_RMA_INT=2–0
+|match_RMA_SHK=2–1
+|match_RMA_SHE=1–2
+
+|match_SHK_INT=0–0
+|match_SHK_RMA=0–5
+|match_SHK_SHE=1–1
+
+|match_SHE_INT=1–3
+|match_SHE_RMA=0–3
+|match_SHE_SHK=2–0
+}}</onlyinclude>
+
+{{Football box
+|date       = {{Start date|2021|9|15|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[FC Sheriff Tiraspol|Sheriff Tiraspol]] {{fbaicon|MDA}}
+|score      = 2–0
+|team2      = {{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|goals1     =
+*[[Adama Traoré (footballer, born 5 June 1995)|Traoré]] {{goal|16}}
+*[[Momo Yansané|Yansané]] {{goal|62}}
+|goals2     =
+|stadium    = [[Sheriff Stadium]], [[Tiraspol]]
+|attendance = 5,205<ref name="md01_2"/>
+|referee    = [[Deniz Aytekin]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032727/
+}}
+{{Football box
+|date       = {{Start date|2021|9|15|df=y}}
+|time       = 21:00
+|team1      = [[Inter Milan]] {{fbaicon|ITA}}
+|score      = 0–1
+|team2      = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1     =
+|goals2     =
+*[[Rodrygo]] {{goal|89}}
+|stadium    = [[San Siro]], [[Milan]]
+|attendance = 37,082<ref name="md01_2"/>
+|referee    = [[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032670/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|9|28|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[FC Shakhtar Donetsk|Shakhtar Donetsk]] {{fbaicon|UKR}}
+|score      = 0–0
+|team2      = {{fbaicon|ITA}} [[Inter Milan]]
+|goals1     =
+|goals2     =
+|stadium    = [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy]], [[Kyiv]]{{refn|group=note|name=Shakhtar Donetsk|Shakhtar Donetsk played their home matches at NSC Olimpiyskiy, Kyiv, instead of their regular stadium, the [[Donbas Arena]] in [[Donetsk]], due to the [[war in Donbas]].}}
+|attendance = 26,170<ref name="md02_1"/>
+|referee    = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032686/
+}}
+{{Football box
+|date       = {{Start date|2021|9|28|df=y}}
+|time       = 21:00
+|team1      = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score      = 1–2
+|team2      = {{fbaicon|MDA}} [[FC Sheriff Tiraspol|Sheriff Tiraspol]]
+|goals1     =
+*[[Karim Benzema|Benzema]] {{goal|65|pen.}}
+|goals2     =
+*[[Jasurbek Yakhshiboev|Yakhshiboev]] {{goal|25}}
+*[[Sébastien Thill|Thill]] {{goal|90}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance = 24,522<ref name="md02_1"/>
+|referee    = [[Lawrence Visser]] ([[Royal Belgian Football Association|Belgium]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032687/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|10|19|df=y}}
+|time       = 21:00 {{small|(22:00 [[UTC+03:00|UTC+3]])}}
+|team1      = [[FC Shakhtar Donetsk|Shakhtar Donetsk]] {{fbaicon|UKR}}
+|score      = 0–5
+|team2      = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1     =
+|goals2     =
+*[[Serhiy Kryvtsov|Kryvtsov]] {{goal|37|o.g.}}
+*[[Vinícius Júnior|Vinícius]] {{goal|51||56}}
+*[[Rodrygo]] {{goal|65}}
+*[[Karim Benzema|Benzema]] {{goal|90+1}}
+|stadium    = [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy]], [[Kyiv]]{{refn|group=note|name=Shakhtar Donetsk}}
+|attendance = 34,037<ref name="md03_1"/>
+|referee    = [[Srđan Jovanović (referee)|Srđan Jovanović]] ([[Football Association of Serbia|Serbia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032718/
+}}
+{{Football box
+|date       = {{Start date|2021|10|19|df=y}}
+|time       = 21:00
+|team1      = [[Inter Milan]] {{fbaicon|ITA}}
+|score      = 3–1
+|team2      = {{fbaicon|MDA}} [[FC Sheriff Tiraspol|Sheriff Tiraspol]]
+|goals1     =
+*[[Edin Džeko|Džeko]] {{goal|34}}
+*[[Arturo Vidal|Vidal]] {{goal|58}}
+*[[Stefan de Vrij|De Vrij]] {{goal|67}}
+|goals2     =
+*[[Sébastien Thill|Thill]] {{goal|52}}
+|stadium    = [[San Siro]], [[Milan]]
+|attendance = 43,305<ref name="md03_1"/>
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032719/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|3|df=y}}
+|time       = 18:45
+|team1      = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score      = 2–1
+|team2      = {{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|goals1     =
+*[[Karim Benzema|Benzema]] {{goal|14||61}}
+|goals2     =
+*[[Fernando (footballer, born March 1999)|Fernando]] {{goal|39}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance = 38,105<ref name="md04_2"/>
+|referee    = [[Benoît Bastien]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032646/
+}}
+{{Football box
+|date       = {{Start date|2021|11|3|df=y}}
+|time       = 21:00 {{small|(22:00 [[UTC+02:00|UTC+2]])}}
+|team1      = [[FC Sheriff Tiraspol|Sheriff Tiraspol]] {{fbaicon|MDA}}
+|score      = 1–3
+|team2      = {{fbaicon|ITA}} [[Inter Milan]]
+|goals1     =
+*[[Adama Traoré (footballer, born 5 June 1995)|Traoré]] {{goal|90+2}}
+|goals2     =
+*[[Marcelo Brozović|Brozović]] {{goal|54}}
+*[[Milan Škriniar|Škriniar]] {{goal|66}}
+*[[Alexis Sánchez|Sánchez]] {{goal|82}}
+|stadium    = [[Sheriff Stadium]], [[Tiraspol]]
+|attendance = 5,930<ref name="md04_2"/>
+|referee    = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032647/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|24|df=y}}
+|time       = 18:45
+|team1      = [[Inter Milan]] {{fbaicon|ITA}}
+|score      = 2–0
+|team2      = {{fbaicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|goals1     =
+*[[Edin Džeko|Džeko]] {{goal|61||67}}
+|goals2     =
+|stadium    = [[San Siro]], [[Milan]]
+|attendance = 46,225<ref name="md05_2"/>
+|referee    = [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032694/
+}}
+{{Football box
+|date       = {{Start date|2021|11|24|df=y}}
+|time       = 21:00 {{small|(22:00 [[UTC+02:00|UTC+2]])}}
+|team1      = [[FC Sheriff Tiraspol|Sheriff Tiraspol]] {{fbaicon|MDA}}
+|score      = 0–3
+|team2      = {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]]
+|goals1     =
+|goals2     =
+*[[David Alaba|Alaba]] {{goal|30}}
+*[[Toni Kroos|Kroos]] {{goal|45+1}}
+*[[Karim Benzema|Benzema]] {{goal|55}}
+|stadium    = [[Sheriff Stadium]], [[Tiraspol]]
+|attendance = 5,932<ref name="md05_2"/>
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032695/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|12|7|df=y}}
+|time       = 21:00 {{small|(22:00 [[UTC+02:00|UTC+2]])}}
+|team1      = [[FC Shakhtar Donetsk|Shakhtar Donetsk]] {{fbaicon|UKR}}
+|score      = 1–1
+|team2      = {{fbaicon|MDA}} [[FC Sheriff Tiraspol|Sheriff Tiraspol]]
+|goals1     =
+*[[Fernando (footballer, born March 1999)|Fernando]] {{goal|42}}
+|goals2     =
+*[[Boban Nikolov|Nikolov]] {{goal|90+3}}
+|stadium    = [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy]], [[Kyiv]]{{refn|group=note|name=Shakhtar Donetsk}}
+|attendance = 6,841<ref name="md06_1"/>
+|referee    = [[Donatas Rumšas]] ([[Lithuanian Football Federation|Lithuania]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032671/
+}}
+{{Football box
+|date       = {{Start date|2021|12|7|df=y}}
+|time       = 21:00
+|team1      = [[Real Madrid CF|Real Madrid]] {{fbaicon|ESP}}
+|score      = 2–0
+|team2      = {{fbaicon|ITA}} [[Inter Milan]]
+|goals1     =
+*[[Toni Kroos|Kroos]] {{goal|17}}
+*[[Marco Asensio|Asensio]] {{goal|79}}
+|goals2     =
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]]
+|attendance = 46,887<ref name="md06_1"/>
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032726/
+}}
+
+===Group E===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|generate_links=y
+|section=Group E
+|short_style=noflag|show_matches=yes
+
+|source=[https://www.uefa.com/uefachampionsleague/standings/ UEFA]
+|name_BAY={{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|name_BAR={{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|name_BEN={{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+|name_DKV={{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_BAY=6 |draw_BAY=0 |loss_BAY=0 |gf_BAY=22|ga_BAY=3
+|win_BAR=2 |draw_BAR=1 |loss_BAR=3 |gf_BAR=2 |ga_BAR=9
+|win_BEN=2 |draw_BEN=2 |loss_BEN=2 |gf_BEN=7 |ga_BEN=9
+|win_DKV=0 |draw_DKV=1 |loss_DKV=5 |gf_DKV=1 |ga_DKV=11
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team_order=BAY, BEN, BAR, DKV
+|class_rules=[[#Tiebreakers|Group stage tiebreakers]]
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=UEL
+|col_KO=green1 |text_KO=Advance to [[2021–22 UEFA Champions League knockout phase|knockout phase]]
+|col_UEL=blue1 |text_UEL={{nowrap|Transfer to [[2021–22 UEFA Europa League knockout phase#Knockout round play-offs|Europa League]]}}
+
+<!--UPDATE results below-->
+|match_BAY_BAR=3–0
+|match_BAY_BEN=5–2
+|match_BAY_DKV=5–0
+
+|match_BAR_BAY=0–3
+|match_BAR_BEN=0–0
+|match_BAR_DKV=1–0
+
+|match_BEN_BAY=0–4
+|match_BEN_BAR=3–0
+|match_BEN_DKV=2–0
+
+|match_DKV_BAY=1–2
+|match_DKV_BAR=0–1
+|match_DKV_BEN=0–0
+}}</onlyinclude>
+
+{{Football box
+|date       = {{Start date|2021|9|14|df=y}}
+|time       = 21:00
+|team1      = [[FC Barcelona|Barcelona]] {{fbaicon|ESP}}
+|score      = 0–3
+|team2      = {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1     =
+|goals2     =
+*[[Thomas Müller|Müller]] {{goal|34}}
+*[[Robert Lewandowski|Lewandowski]] {{goal|56||85}}
+|stadium    = [[Camp Nou]], [[Barcelona]]
+|attendance = 39,737<ref name="md01_1">{{cite web |url=https://www.uefa.com/newsfiles/ucl/2022/md01_1_fs.pdf |archive-url=https://web.archive.org/web/20210914220028/https://www.uefa.com/newsfiles/ucl/2022/md01_1_fs.pdf |url-status=dead |archive-date=14 September 2021 |title=Full Time Summary Matchday 1 – Tuesday 14 September 2021 |work=[[UEFA]]|publisher=Union of European Football Associations |date=14 September 2021 |access-date=14 September 2021}}</ref>
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032728/
+}}
+{{Football box
+|date       = {{Start date|2021|9|14|df=y}}
+|time       = 21:00 {{small|(22:00 [[UTC+03:00|UTC+3]])}}
+|team1      = [[FC Dynamo Kyiv|Dynamo Kyiv]] {{fbaicon|UKR}}
+|score      = 0–0
+|team2      = {{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1     =
+|goals2     =
+|stadium    = [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy]], [[Kyiv]]
+|attendance = 21,657<ref name="md01_1"/>
+|referee    = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032729/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|9|29|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[S.L. Benfica|Benfica]] {{fbaicon|POR}}
+|score      = 3–0
+|team2      = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1     =
+*[[Darwin Núñez|Núñez]] {{goal|3||79|pen.}}
+*[[Rafa Silva|Silva]] {{goal|69}}
+|goals2     =
+|stadium    = [[Estádio da Luz]], [[Lisbon]]
+|attendance = 29,454<ref name="md02_2">{{cite web |url=https://www.uefa.com/newsfiles/ucl/2022/md02_2_fs.pdf |archive-url=https://web.archive.org/web/20210929214048/https://www.uefa.com/newsfiles/ucl/2022/md02_2_fs.pdf |url-status=dead |archive-date=29 September 2021 |title=Full Time Summary Matchday 2 – Wednesday 29 September 2021 |work=[[UEFA]]|publisher=Union of European Football Associations |date=29 September 2021 |access-date=29 September 2021}}</ref>
+|referee    = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032704/
+}}
+{{Football box
+|date       = {{Start date|2021|9|29|df=y}}
+|time       = 21:00
+|team1      = [[FC Bayern Munich|Bayern Munich]] {{fbaicon|GER}}
+|score      = 5–0
+|team2      = {{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|goals1     =
+*[[Robert Lewandowski|Lewandowski]] {{goal|12|pen.|27}}
+*[[Serge Gnabry|Gnabry]] {{goal|68}}
+*[[Leroy Sané|Sané]] {{goal|74}}
+*[[Eric Maxim Choupo-Moting|Choupo-Moting]] {{goal|87}}
+|goals2     =
+|stadium    = [[Allianz Arena]], [[Munich]]
+|attendance = 25,000<ref name="md02_2"/>
+|referee    = [[Marco Guida]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032705/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|10|20|df=y}}
+|time       = 18:45
+|team1      = [[FC Barcelona|Barcelona]] {{fbaicon|ESP}}
+|score      = 1–0
+|team2      = {{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|goals1     =
+*[[Gerard Piqué|Piqué]] {{goal|36}}
+|goals2     =
+|stadium    = [[Camp Nou]], [[Barcelona]]
+|attendance = 45,968<ref name="md03_2">{{cite web |url=https://www.uefa.com/newsfiles/ucl/2022/md03_2_fs.pdf |archive-url=https://web.archive.org/web/20211020212852/https://www.uefa.com/newsfiles/ucl/2022/md03_2_fs.pdf |url-status=dead |archive-date=20 October 2021 |title=Full Time Summary Matchday 3 – Wednesday 20 October 2021 |work=[[UEFA]]|publisher=Union of European Football Associations |date=20 October 2021 |access-date=20 October 2021}}</ref>
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032673/
+}}
+{{Football box
+|date       = {{Start date|2021|10|20|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[S.L. Benfica|Benfica]] {{fbaicon|POR}}
+|score      = 0–4
+|team2      = {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1     =
+|goals2     =
+*[[Leroy Sané|Sané]] {{goal|70||84}}
+*[[Everton Soares|Everton]] {{goal|80|o.g.}}
+*[[Robert Lewandowski|Lewandowski]] {{goal|82}}
+|stadium    = [[Estádio da Luz]], [[Lisbon]]
+|attendance = 55,201<ref name="md03_2"/>
+|referee    = [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032672/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|2|df=y}}
+|time       = 21:00
+|team1      = [[FC Bayern Munich|Bayern Munich]] {{fbaicon|GER}}
+|score      = 5–2
+|team2      = {{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1     =
+*[[Robert Lewandowski|Lewandowski]] {{goal|26||61||84}}
+*[[Serge Gnabry|Gnabry]] {{goal|32}}
+*[[Leroy Sané|Sané]] {{goal|49}}
+|goals2     =
+*[[Morato (footballer, born 2001)|Morato]] {{goal|38}}
+*[[Darwin Núñez|Núñez]] {{goal|74}}
+|stadium    = [[Allianz Arena]], [[Munich]]
+|attendance = 50,000<ref name="md04_1">{{cite web |url=https://www.uefa.com/newsfiles/ucl/2022/md04_1_fs.pdf |archive-url=https://web.archive.org/web/20211102224457/https://www.uefa.com/newsfiles/ucl/2022/md04_1_fs.pdf |url-status=dead |archive-date=2 November 2021 |title=Full Time Summary Matchday 4 – Tuesday 2 November 2021 |work=[[UEFA]]|publisher=Union of European Football Associations |date=2 November 2021 |access-date=2 November 2021}}</ref>
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032696/
+}}
+{{Football box
+|date       = {{Start date|2021|11|2|df=y}}
+|time       = 21:00 {{small|(22:00 [[UTC+02:00|UTC+2]])}}
+|team1      = [[FC Dynamo Kyiv|Dynamo Kyiv]] {{fbaicon|UKR}}
+|score      = 0–1
+|team2      = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1     =
+|goals2     =
+*[[Ansu Fati|Fati]] {{goal|70}}
+|stadium    = [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy]], [[Kyiv]]
+|attendance = 31,378<ref name="md04_1"/>
+|referee    = [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032697/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|23|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+02:00|UTC+2]])}}
+|team1      = [[FC Dynamo Kyiv|Dynamo Kyiv]] {{fbaicon|UKR}}
+|score      = 1–2
+|team2      = {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1     =
+*[[Denys Harmash|Harmash]] {{goal|70}}
+|goals2     =
+*[[Robert Lewandowski|Lewandowski]] {{goal|14}}
+*[[Kingsley Coman|Coman]] {{goal|42}}
+|stadium    = [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy]], [[Kyiv]]
+|attendance = 28,732<ref name="md05_1">{{cite web |url=https://www.uefa.com/newsfiles/ucl/2022/md05_1_fs.pdf |archive-url=https://web.archive.org/web/20211123231957/https://www.uefa.com/newsfiles/ucl/2022/md05_1_fs.pdf |url-status=dead |archive-date=23 November 2021 |title=Full Time Summary Matchday 5 – Tuesday 23 November 2021 |work=[[UEFA]]|publisher=Union of European Football Associations |date=23 November 2021 |access-date=23 November 2021}}</ref>
+|referee    = [[Halil Umut Meler]] ([[Turkish Football Federation|Turkey]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032649/
+}}
+{{Football box
+|date       = {{Start date|2021|11|23|df=y}}
+|time       = 21:00
+|team1      = [[FC Barcelona|Barcelona]] {{fbaicon|ESP}}
+|score      = 0–0
+|team2      = {{fbaicon|POR}} [[S.L. Benfica|Benfica]]
+|goals1     =
+|goals2     =
+|stadium    = [[Camp Nou]], [[Barcelona]]
+|attendance = 49,572<ref name="md05_1"/>
+|referee    = [[Sergei Karasev]] ([[Russian Football Union|Russia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032648/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|12|8|df=y}}
+|time       = 21:00
+|team1      = [[FC Bayern Munich|Bayern Munich]] {{fbaicon|GER}}
+|score      = 3–0
+|team2      = {{fbaicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1     =
+*[[Thomas Müller|Müller]] {{goal|34}}
+*[[Leroy Sané|Sané]] {{goal|43}}
+*[[Jamal Musiala|Musiala]] {{goal|62}}
+|goals2     =
+|stadium    = [[Allianz Arena]], [[Munich]]
+|attendance = 0<ref name="md06_2">{{cite web |url=https://www.uefa.com/newsfiles/ucl/2022/md06_2_fs.pdf |archive-url=https://web.archive.org/web/20211208221650/https://www.uefa.com/newsfiles/ucl/2022/md06_2_fs.pdf |url-status=dead |archive-date=8 December 2021 |title=Full Time Summary Matchday 6 – Wednesday 8 December 2021 |work=[[UEFA]]|publisher=Union of European Football Associations |date=8 December 2021 |access-date=8 December 2021}}</ref>{{refn|group=note|name=Behind closed doors}}
+|referee    = [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032656/
+}}
+{{Football box
+|date       = {{Start date|2021|12|8|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+00:00|UTC+0]])}}
+|team1      = [[S.L. Benfica|Benfica]] {{fbaicon|POR}}
+|score      = 2–0
+|team2      = {{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|goals1     =
+*[[Roman Yaremchuk|Yaremchuk]] {{goal|16}}
+*[[Gilberto (footballer, born 1993)|Gilberto]] {{goal|22}}
+|goals2     =
+|stadium    = [[Estádio da Luz]], [[Lisbon]]
+|attendance = 36,591<ref name="md06_2"/>
+|referee    = [[Deniz Aytekin]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032657/
+}}
+
+===Group F===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|generate_links=y
+|section=Group F
+|short_style=noflag|show_matches=yes
+
+|source=[https://www.uefa.com/uefachampionsleague/standings/ UEFA]
+|name_VIL={{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|name_MUN={{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|name_ATA={{fbaicon|ITA}} [[Atalanta BC|Atalanta]]
+|name_YB ={{fbaicon|SUI}} [[BSC Young Boys|Young Boys]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_VIL=3 |draw_VIL=1 |loss_VIL=2 |gf_VIL=12|ga_VIL=9
+|win_MUN=3 |draw_MUN=2 |loss_MUN=1 |gf_MUN=11|ga_MUN=8
+|win_ATA=1 |draw_ATA=3 |loss_ATA=2 |gf_ATA=12|ga_ATA=13
+|win_YB =1 |draw_YB =2 |loss_YB =3 |gf_YB =7 |ga_YB =12
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team_order=MUN, VIL, ATA, YB
+|class_rules=[[#Tiebreakers|Group stage tiebreakers]]
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=UEL
+|col_KO=green1 |text_KO=Advance to [[2021–22 UEFA Champions League knockout phase|knockout phase]]
+|col_UEL=blue1 |text_UEL={{nowrap|Transfer to [[2021–22 UEFA Europa League knockout phase#Knockout round play-offs|Europa League]]}}
+
+<!--UPDATE results below-->
+|match_VIL_MUN=0-2
+|match_VIL_ATA=2–2
+|match_VIL_YB =2–0
+
+|match_MUN_VIL=2–1
+|match_MUN_ATA=3–2
+|match_MUN_YB =1–1
+
+|match_ATA_VIL=2–3
+|match_ATA_MUN=2–2
+|match_ATA_YB =1–0
+
+|match_YB_VIL=1–4
+|match_YB_MUN=2–1
+|match_YB_ATA=3–3
+}}</onlyinclude>
+
+{{Football box
+|date       = {{Start date|2021|9|14|df=y}}
+|time       = 18:45
+|team1      = [[BSC Young Boys|Young Boys]] {{fbaicon|SUI}}
+|score      = 2–1
+|team2      = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+*[[Moumi Ngamaleu|Ngamaleu]] {{goal|66}}
+*[[Jordan Pefok|Pefok]] {{goal|90+5}}
+|goals2     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|13}}
+|stadium    = [[Stadion Wankdorf]], [[Bern]]
+|attendance = 31,120<ref name="md01_1"/>
+|referee    = [[François Letexier]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032699/
+}}
+{{Football box
+|date       = {{Start date|2021|9|14|df=y}}
+|time       = 21:00
+|team1      = [[Villarreal CF|Villarreal]] {{fbaicon|ESP}}
+|score      = 2–2
+|team2      = {{fbaicon|ITA}} [[Atalanta BC|Atalanta]]
+|goals1     =
+*[[Manu Trigueros|Trigueros]] {{goal|39}}
+*[[Arnaut Danjuma|Danjuma]] {{goal|73}}
+|goals2     =
+*[[Remo Freuler|Freuler]] {{goal|6}}
+*[[Robin Gosens|Gosens]] {{goal|83}}
+|stadium    = [[Estadio de la Cerámica]], [[Villarreal]]
+|attendance = 12,916<ref>{{UEFA match attendance|2032698|Villarreal vs. Atalanta|date=14 September 2021|access-date=14 September 2021}}</ref>
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032698/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|9|29|df=y}}
+|time       = 18:45
+|team1      = [[Atalanta BC|Atalanta]] {{fbaicon|ITA}}
+|score      = 1–0
+|team2      = {{fbaicon|SUI}} [[BSC Young Boys|Young Boys]]
+|goals1     =
+*[[Matteo Pessina|Pessina]] {{goal|68}}
+|goals2     =
+|stadium    = [[Stadio Atleti Azzurri d'Italia]], [[Bergamo]]
+|attendance = 8,536<ref name="md02_2"/>
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032659/
+}}
+{{Football box
+|date       = {{Start date|2021|9|29|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}}
+|score      = 2–1
+|team2      = {{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|goals1     =
+*[[Alex Telles|Telles]] {{goal|60}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|90+5}}
+|goals2     =
+*[[Paco Alcácer|Alcácer]] {{goal|53}}
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 73,130<ref name="md02_2"/>
+|referee    = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032730/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|10|20|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}}
+|score      = 3–2
+|team2      = {{fbaicon|ITA}} [[Atalanta BC|Atalanta]]
+|goals1     =
+*[[Marcus Rashford|Rashford]] {{goal|53}}
+*[[Harry Maguire|Maguire]] {{goal|75}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|81}}
+|goals2     =
+*[[Mario Pašalić|Pašalić]] {{goal|15}}
+*[[Merih Demiral|Demiral]] {{goal|29}}
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 72,279<ref name="md03_2"/>
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032650/
+}}
+{{Football box
+|date       = {{Start date|2021|10|20|df=y}}
+|time       = 21:00
+|team1      = [[BSC Young Boys|Young Boys]] {{fbaicon|SUI}}
+|score      = 1–4
+|team2      = {{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|goals1     =
+*[[Meschak Elia|Elia]] {{goal|77}}
+|goals2     =
+*[[Yéremy Pino|Pino]] {{goal|6}}
+*[[Gerard Moreno|Gerard]] {{goal|16}}
+*[[Alberto Moreno|Moreno]] {{goal|88}}
+*[[Samuel Chukwueze|Chukwueze]] {{goal|90+2}}
+|stadium    = [[Stadion Wankdorf]], [[Bern]]
+|attendance = 27,398<ref name="md03_2"/>
+|referee    = [[Sergei Karasev]] ([[Russian Football Union|Russia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032651/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|2|df=y}}
+|time       = 21:00
+|team1      = [[Atalanta BC|Atalanta]] {{fbaicon|ITA}}
+|score      = 2–2
+|team2      = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+*[[Josip Iličić|Iličić]] {{goal|12}}
+*[[Duván Zapata|Zapata]] {{goal|56}}
+|goals2     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|45+1||90+1}}
+|stadium    = [[Stadio Atleti Azzurri d'Italia]], [[Bergamo]]
+|attendance = 14,443<ref name="md04_1"/>
+|referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032706/
+}}
+{{Football box
+|date       = {{Start date|2021|11|2|df=y}}
+|time       = 21:00
+|team1      = [[Villarreal CF|Villarreal]] {{fbaicon|ESP}}
+|score      = 2–0
+|team2      = {{fbaicon|SUI}} [[BSC Young Boys|Young Boys]]
+|goals1     =
+*[[Étienne Capoue|Capoue]] {{goal|36}}
+*[[Arnaut Danjuma|Danjuma]] {{goal|89}}
+|goals2     =
+|stadium    = [[Estadio de la Cerámica]], [[Villarreal]]
+|attendance = 14,890<ref>{{UEFA match attendance|2032707|Villarreal vs. Young Boys|date=2 November 2021|access-date=2 November 2021}}</ref>
+|referee    = [[Serdar Gözübüyük]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032707/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|23|df=y}}
+|time       = 18:45
+|team1      = [[Villarreal CF|Villarreal]] {{fbaicon|ESP}}
+|score      = 0–2
+|team2      = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+|goals2     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|78}}
+*[[Jadon Sancho|Sancho]] {{goal|90}}
+|stadium    = [[Estadio de la Cerámica]], [[Villarreal]]
+|attendance = 20,875<ref name="md05_1"/>
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032658/
+}}
+{{Football box
+|date       = {{Start date|2021|11|23|df=y}}
+|time       = 21:00
+|team1      = [[BSC Young Boys|Young Boys]] {{fbaicon|SUI}}
+|score      = 3–3
+|team2      = {{fbaicon|ITA}} [[Atalanta BC|Atalanta]]
+|goals1     =
+*[[Jordan Pefok|Pefok]] {{goal|39}}
+*[[Vincent Sierro|Sierro]] {{goal|80}}
+*[[Silvan Hefti|Hefti]] {{goal|84}}
+|goals2     =
+*[[Duván Zapata|Zapata]] {{goal|10}}
+*[[José Luis Palomino|Palomino]] {{goal|51}}
+*[[Luis Muriel|Muriel]] {{goal|88}}
+|stadium    = [[Stadion Wankdorf]], [[Bern]]
+|attendance = 31,120<ref name="md05_1"/>
+|referee    = [[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032731/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|12|8|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+00:00|UTC+0]])}}
+|team1      = [[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}}
+|score      = 1–1
+|team2      = {{fbaicon|SUI}} [[BSC Young Boys|Young Boys]]
+|goals1     =
+*[[Mason Greenwood|Greenwood]] {{goal|9}}
+|goals2     =
+*[[Fabian Rieder|Rieder]] {{goal|42}}
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 73,156<ref name="md06_2"/>
+|referee    = [[Benoît Bastien]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032675/
+}}
+{{Football box
+|date       = {{Start date|2021|12|9|df=y}}{{refn|group=note|The Atalanta v Villarreal match, originally scheduled on 8 December 2021, 21:00, was postponed to the following day, 19:00, due to adverse weather conditions.<ref>{{cite web |url=https://www.bbc.com/sport/football/59587215|title=Atalanta v Villarreal Champions League off because of snow |publisher=[[BBC Sport]]|date=8 December 2021 |access-date=8 December 2021}}</ref>}}
+|time       = 19:00
+|team1      = [[Atalanta BC|Atalanta]] {{fbaicon|ITA}}
+|score      = 2–3
+|team2      = {{fbaicon|ESP}} [[Villarreal CF|Villarreal]]
+|goals1     =
+*[[Ruslan Malinovskyi|Malinovskyi]] {{goal|71}}
+*[[Duván Zapata|Zapata]] {{goal|80}}
+|goals2     =
+*[[Arnaut Danjuma|Danjuma]] {{goal|3||51}}
+*[[Étienne Capoue|Capoue]] {{goal|42}}
+|stadium    = [[Stadio Atleti Azzurri d'Italia]], [[Bergamo]]
+|attendance = 11,690<ref name="md06_2"/>
+|referee    = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032674/
+}}
+
+===Group G===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|generate_links=y
+|section=Group G
+|short_style=noflag|show_matches=yes
+
+|source=[https://www.uefa.com/uefachampionsleague/standings/ UEFA]
+|name_LIL={{fbaicon|FRA}} [[Lille OSC|Lille]]
+|name_SEV={{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|name_SAL={{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|name_WOL={{fbaicon|GER}} [[VfL Wolfsburg]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_LIL=3|draw_LIL=2|loss_LIL=1|gf_LIL=7|ga_LIL=4
+|win_SEV=1 |draw_SEV=3 |loss_SEV=2 |gf_SEV=5 |ga_SEV=5
+|win_SAL=3 |draw_SAL=1 |loss_SAL=2 |gf_SAL=8 |ga_SAL=6
+|win_WOL=1 |draw_WOL=2 |loss_WOL=3 |gf_WOL=5 |ga_WOL=10
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team_order=LIL, SAL, SEV, WOL
+|class_rules=[[#Tiebreakers|Group stage tiebreakers]]
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=UEL
+|col_KO=green1 |text_KO=Advance to [[2021–22 UEFA Champions League knockout phase|knockout phase]]
+|col_UEL=blue1 |text_UEL={{nowrap|Transfer to [[2021–22 UEFA Europa League knockout phase#Knockout round play-offs|Europa League]]}}
+
+<!--UPDATE results below-->
+|match_LIL_SEV=0–0
+|match_LIL_SAL=1–0
+|match_LIL_WOL=0–0
+
+|match_SEV_LIL=1–2
+|match_SEV_SAL=1–1
+|match_SEV_WOL=2–0
+
+|match_SAL_LIL=2–1
+|match_SAL_SEV=1–0
+|match_SAL_WOL=3–1
+
+|match_WOL_LIL=1–3
+|match_WOL_SEV=1–1
+|match_WOL_SAL=2–1
+}}</onlyinclude>
+
+{{Football box
+|date       = {{Start date|2021|9|14|df=y}}
+|time       = 18:45
+|team1      = [[Sevilla FC|Sevilla]] {{fbaicon|ESP}}
+|score      = 1–1
+|team2      = {{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|goals1     =
+*[[Ivan Rakitić|Rakitić]] {{goal|42|pen.}}
+|goals2     =
+*[[Luka Sučić|Sučić]] {{goal|21|pen.}}
+|stadium    = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance = 18,373<ref name="md01_1"/>
+|referee    = [[Aleksei Kulbakov]] ([[Football Federation of Belarus|Belarus]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032652/
+}}
+{{Football box
+|date       = {{Start date|2021|9|14|df=y}}
+|time       = 21:00
+|team1      = [[Lille OSC|Lille]] {{fbaicon|FRA}}
+|score      = 0–0
+|team2      = {{fbaicon|GER}} [[VfL Wolfsburg]]
+|goals1     =
+|goals2     =
+|stadium    = [[Stade Pierre-Mauroy]], [[Villeneuve-d'Ascq]]
+|attendance = 34,314<ref name="md01_1"/>
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032709/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|9|29|df=y}}
+|time       = 21:00
+|team1      = [[FC Red Bull Salzburg|Red Bull Salzburg]] {{fbaicon|AUT}}
+|score      = 2–1
+|team2      = {{fbaicon|FRA}} [[Lille OSC|Lille]]
+|goals1     =
+*[[Karim Adeyemi|Adeyemi]] {{goal|35|pen.|53|pen.}}
+|goals2     =
+*[[Burak Yılmaz|Yılmaz]] {{goal|62}}
+|stadium    = [[Stadion Wals-Siezenheim]], [[Salzburg]]
+|attendance = 24,207<ref name="md02_2"/>
+|referee    = [[Halil Umut Meler]] ([[Turkish Football Federation|Turkey]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032676/
+}}
+{{Football box
+|date       = {{Start date|2021|9|29|df=y}}
+|time       = 21:00
+|team1      = [[VfL Wolfsburg]] {{fbaicon|GER}}
+|score      = 1–1
+|team2      = {{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1     =
+*[[Renato Steffen|Steffen]] {{goal|48}}
+|goals2     =
+*[[Ivan Rakitić|Rakitić]] {{goal|87|pen.}}
+|stadium    = [[Volkswagen Arena]], [[Wolfsburg]]
+|attendance = 11,733<ref name="md02_2"/>
+|referee    = [[Georgi Kabakov]] ([[Bulgarian Football Union|Bulgaria]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032701/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|10|20|df=y}}
+|time       = 18:45
+|team1      = [[FC Red Bull Salzburg|Red Bull Salzburg]] {{fbaicon|AUT}}
+|score      = 3–1
+|team2      = {{fbaicon|GER}} [[VfL Wolfsburg]]
+|goals1     =
+*[[Karim Adeyemi|Adeyemi]] {{goal|3}}
+*[[Noah Okafor|Okafor]] {{goal|65||77}}
+|goals2     =
+*[[Lukas Nmecha|L. Nmecha]] {{goal|15}}
+|stadium    = [[Stadion Wals-Siezenheim]], [[Salzburg]]
+|attendance = 29,520<ref name="md03_2"/>
+|referee    = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032661/
+}}
+{{Football box
+|date       = {{Start date|2021|10|20|df=y}}
+|time       = 21:00
+|team1      = [[Lille OSC|Lille]] {{fbaicon|FRA}}
+|score      = 0–0
+|team2      = {{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1     =
+|goals2     =
+|stadium    = [[Stade Pierre-Mauroy]], [[Villeneuve-d'Ascq]]
+|attendance = 34,362<ref name="md03_2"/>
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032660/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|2|df=y}}
+|time       = 18:45
+|team1      = [[VfL Wolfsburg]] {{fbaicon|GER}}
+|score      = 2–1
+|team2      = {{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|goals1     =
+*[[Ridle Baku|Baku]] {{goal|3}}
+*[[Lukas Nmecha|L. Nmecha]] {{goal|60}}
+|goals2     =
+*[[Maximilian Wöber|Wöber]] {{goal|30}}
+|stadium    = [[Volkswagen Arena]], [[Wolfsburg]]
+|attendance = 16,112<ref name="md04_1"/>
+|referee    = [[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032733/
+}}
+{{Football box
+|date       = {{Start date|2021|11|2|df=y}}
+|time       = 21:00
+|team1      = [[Sevilla FC|Sevilla]] {{fbaicon|ESP}}
+|score      = 1–2
+|team2      = {{fbaicon|FRA}} [[Lille OSC|Lille]]
+|goals1     =
+*[[Lucas Ocampos|Ocampos]] {{goal|15}}
+|goals2     =
+*[[Jonathan David|David]] {{goal|43|pen.}}
+*[[Jonathan Ikoné|Ikoné]] {{goal|51}}
+|stadium    = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance = 29,369<ref name="md04_1"/>
+|referee    = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032732/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|23|df=y}}
+|time       = 21:00
+|team1      = [[Sevilla FC|Sevilla]] {{fbaicon|ESP}}
+|score      = 2–0
+|team2      = {{fbaicon|GER}} [[VfL Wolfsburg]]
+|goals1     =
+*[[Joan Jordán|Jordán]] {{goal|12}}
+*[[Rafa Mir|Mir]] {{goal|90+7}}
+|goals2     =
+|stadium    = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]], [[Seville]]
+|attendance = 28,663<ref name="md05_1"/>
+|referee    = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032677/
+}}
+{{Football box
+|date       = {{Start date|2021|11|23|df=y}}
+|time       = 21:00
+|team1      = [[Lille OSC|Lille]] {{fbaicon|FRA}}
+|score      = 1–0
+|team2      = {{fbaicon|AUT}} [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|goals1     =
+*[[Jonathan David|David]] {{goal|31}}
+|goals2     =
+|stadium    = [[Stade Pierre-Mauroy]], [[Villeneuve-d'Ascq]]
+|attendance = 33,573<ref name="md05_1"/>
+|referee    = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032700/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|12|8|df=y}}
+|time       = 21:00
+|team1      = [[VfL Wolfsburg]] {{fbaicon|GER}}
+|score      = 1–3
+|team2      = {{fbaicon|FRA}} [[Lille OSC|Lille]]
+|goals1     =
+*[[Renato Steffen|Steffen]] {{goal|89}}
+|goals2     =
+*[[Burak Yılmaz|Yılmaz]] {{goal|11}}
+*[[Jonathan David|David]] {{goal|72}}
+*[[Angel Gomes|Gomes]] {{goal|78}}
+|stadium    = [[Volkswagen Arena]], [[Wolfsburg]]
+|attendance = 6,544<ref name="md06_2"/>
+|referee    = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032653/
+}}
+{{Football box
+|date       = {{Start date|2021|12|8|df=y}}
+|time       = 21:00
+|team1      = [[FC Red Bull Salzburg|Red Bull Salzburg]] {{fbaicon|AUT}}
+|score      = 1–0
+|team2      = {{fbaicon|ESP}} [[Sevilla FC|Sevilla]]
+|goals1     =
+*[[Noah Okafor|Okafor]] {{goal|50}}
+|goals2     =
+|stadium    = [[Stadion Wals-Siezenheim]], [[Salzburg]]
+|attendance = 0<ref name="md06_2"/>{{refn|group=note|name=Behind closed doors}}
+|referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032708/
+}}
+
+===Group H===
+<onlyinclude>{{#invoke:Sports table|main|style=WDL|generate_links=y
+|section=Group H
+|short_style=noflag|show_matches=yes
+
+|source=[https://www.uefa.com/uefachampionsleague/standings/ UEFA]
+|name_CHE={{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|name_JUV={{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|name_ZEN={{fbaicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+|name_MAL={{fbaicon|SWE}} [[Malmö FF]]
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_CHE=4 |draw_CHE=1 |loss_CHE=1 |gf_CHE=13|ga_CHE=4
+|win_JUV=5 |draw_JUV=0 |loss_JUV=1 |gf_JUV=10|ga_JUV=6
+|win_ZEN=1 |draw_ZEN=2 |loss_ZEN=3 |gf_ZEN=10|ga_ZEN=10
+|win_MAL=0 |draw_MAL=1 |loss_MAL=5 |gf_MAL=1 |ga_MAL=14
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team_order=JUV, CHE, ZEN, MAL
+|class_rules=[[#Tiebreakers|Group stage tiebreakers]]
+
+|res_col_header=Q
+|result1=KO |result2=KO |result3=UEL
+|col_KO=green1 |text_KO=Advance to [[2021–22 UEFA Champions League knockout phase|knockout phase]]
+|col_UEL=blue1 |text_UEL={{nowrap|Transfer to [[2021–22 UEFA Europa League knockout phase#Knockout round play-offs|Europa League]]}}
+
+<!--UPDATE results below-->
+|match_CHE_JUV=4–0
+|match_CHE_ZEN=1–0
+|match_CHE_MAL=4–0
+
+|match_JUV_CHE=1–0
+|match_JUV_ZEN=4–2
+|match_JUV_MAL=1–0
+
+|match_ZEN_CHE=3–3
+|match_ZEN_JUV=0–1
+|match_ZEN_MAL=4–0
+
+|match_MAL_CHE=0–1
+|match_MAL_JUV=0–3
+|match_MAL_ZEN=1–1
+}}</onlyinclude>
+
+{{Football box
+|date       = {{Start date|2021|9|14|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[Chelsea F.C.|Chelsea]] {{fbaicon|ENG}}
+|score      = 1–0
+|team2      = {{fbaicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+|goals1     =
+*[[Romelu Lukaku|Lukaku]] {{goal|69}}
+|goals2     =
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance = 39,252<ref name="md01_1"/>
+|referee    = [[Bartosz Frankowski]] ([[Polish Football Association|Poland]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032702/
+}}
+{{Football box
+|date       = {{Start date|2021|9|14|df=y}}
+|time       = 21:00
+|team1      = [[Malmö FF]] {{fbaicon|SWE}}
+|score      = 0–3
+|team2      = {{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|goals1     =
+|goals2     =
+*[[Alex Sandro]] {{goal|23}}
+*[[Paulo Dybala|Dybala]] {{goal|45|pen.}}
+*[[Álvaro Morata|Morata]] {{goal|45+1}}
+|stadium    = [[Stadion, Malmö|Stadion]], [[Malmö]]
+|attendance = 5,832<ref name="md01_1"/>
+|referee    = [[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032703/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|9|29|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] {{fbaicon|RUS}}
+|score      = 4–0
+|team2      = {{fbaicon|SWE}} [[Malmö FF]]
+|goals1     =
+*[[Claudinho (footballer, born 1997)|Claudinho]] {{goal|9}}
+*[[Daler Kuzyayev|Kuzyayev]] {{goal|49}}
+*[[Aleksei Sutormin|Sutormin]] {{goal|80}}
+*[[Wendel (footballer, born 1997)|Wendel]] {{goal|90+4}}
+|goals2     =
+|stadium    = [[Krestovsky Stadium]], [[Saint Petersburg]]
+|attendance = 15,339<ref name="md02_2"/>
+|referee    = [[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032663/
+}}
+{{Football box
+|date       = {{Start date|2021|9|29|df=y}}
+|time       = 21:00
+|team1      = [[Juventus FC|Juventus]] {{fbaicon|ITA}}
+|score      = 1–0
+|team2      = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     =
+*[[Federico Chiesa|Chiesa]] {{goal|46}}
+|goals2     =
+|stadium    = [[Juventus Stadium]], [[Turin]]
+|attendance = 19,934<ref name="md02_2"/>
+|referee    = [[Jesús Gil Manzano]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032734/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|10|20|df=y}}
+|time       = 21:00 {{small|(22:00 [[UTC+03:00|UTC+3]])}}
+|team1      = [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] {{fbaicon|RUS}}
+|score      = 0–1
+|team2      = {{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|goals1     =
+|goals2     =
+*[[Dejan Kulusevski|Kulusevski]] {{goal|86}}
+|stadium    = [[Krestovsky Stadium]], [[Saint Petersburg]]
+|attendance = 18,717<ref name="md03_2"/>
+|referee    = [[Sandro Schärer]] ([[Swiss Football Association|Switzerland]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032710/
+}}
+{{Football box
+|date       = {{Start date|2021|10|20|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[Chelsea F.C.|Chelsea]] {{fbaicon|ENG}}
+|score      = 4–0
+|team2      = {{fbaicon|SWE}} [[Malmö FF]]
+|goals1     =
+*[[Andreas Christensen|Christensen]] {{goal|9}}
+*[[Jorginho (footballer, born December 1991)|Jorginho]] {{goal|21|pen.|57|pen.}}
+*[[Kai Havertz|Havertz]] {{goal|48}}
+|goals2     =
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance = 39,095<ref name="md03_2"/>
+|referee    = [[François Letexier]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032711/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|2|df=y}}
+|time       = 18:45
+|team1      = [[Malmö FF]] {{fbaicon|SWE}}
+|score      = 0–1
+|team2      = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     =
+|goals2     =
+*[[Hakim Ziyech|Ziyech]] {{goal|56}}
+|stadium    = [[Stadion, Malmö|Stadion]], [[Malmö]]
+|attendance = 19,551<ref name="md04_1"/>
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032655/
+}}
+{{Football box
+|date       = {{Start date|2021|11|2|df=y}}
+|time       = 21:00
+|team1      = [[Juventus FC|Juventus]] {{fbaicon|ITA}}
+|score      = 4–2
+|team2      = {{fbaicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+|goals1     =
+*[[Paulo Dybala|Dybala]] {{goal|11||58|pen.}}
+*[[Federico Chiesa|Chiesa]] {{goal|73}}
+*[[Álvaro Morata|Morata]] {{goal|82}}
+|goals2     =
+*[[Leonardo Bonucci|Bonucci]] {{goal|26|o.g.}}
+*[[Sardar Azmoun|Azmoun]] {{goal|90+2}}
+|stadium    = [[Juventus Stadium]], [[Turin]]
+|attendance = 20,053<ref name="md04_1"/>
+|referee    = [[Alejandro Hernández Hernández]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032654/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|11|23|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+00:00|UTC+0]])}}
+|team1      = [[Chelsea F.C.|Chelsea]] {{fbaicon|ENG}}
+|score      = 4–0
+|team2      = {{fbaicon|ITA}} [[Juventus FC|Juventus]]
+|goals1     =
+*[[Trevoh Chalobah|Chalobah]] {{goal|25}}
+*[[Reece James (footballer, born 1999)|James]] {{goal|55}}
+*[[Callum Hudson-Odoi|Hudson-Odoi]] {{goal|58}}
+*[[Timo Werner|Werner]] {{goal|90+5}}
+|goals2     =
+|stadium    = [[Stamford Bridge (stadium)|Stamford Bridge]], [[London]]
+|attendance = 39,513<ref name="md05_1"/>
+|referee    = [[Srđan Jovanović (referee)|Srđan Jovanović]] ([[Football Association of Serbia|Serbia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032662/
+}}
+{{Football box
+|date       = {{Start date|2021|11|23|df=y}}
+|time       = 21:00
+|team1      = [[Malmö FF]] {{fbaicon|SWE}}
+|score      = 1–1
+|team2      = {{fbaicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+|goals1     =
+*[[Søren Rieks|Rieks]] {{goal|28}}
+|goals2     =
+*[[Yaroslav Rakitskyi|Rakitskyi]] {{goal|90+2|pen.}}
+|stadium    = [[Stadion, Malmö|Stadion]], [[Malmö]]
+|attendance = 15,520<ref name="md05_1"/>
+|referee    = [[Andris Treimanis]] ([[Latvian Football Federation|Latvia]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032735/
+}}
+----
+{{Football box
+|date       = {{Start date|2021|12|8|df=y}}
+|time       = 18:45 {{small|(20:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] {{fbaicon|RUS}}
+|score      = 3–3
+|team2      = {{fbaicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|goals1     =
+*[[Claudinho (footballer, born 1997)|Claudinho]] {{goal|38}}
+*[[Sardar Azmoun|Azmoun]] {{goal|41}}
+*[[Magomed Ozdoyev|Ozdoyev]] {{goal|90+4}}
+|goals2     =
+*[[Timo Werner|Werner]] {{goal|2||85}}
+*[[Romelu Lukaku|Lukaku]] {{goal|62}}
+|stadium    = [[Krestovsky Stadium]], [[Saint Petersburg]]
+|attendance = 29,349<ref name="md06_2"/>
+|referee    = [[Serdar Gözübüyük]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032678/
+}}
+{{Football box
+|date       = {{Start date|2021|12|8|df=y}}
+|time       = 18:45
+|team1      = [[Juventus FC|Juventus]] {{fbaicon|ITA}}
+|score      = 1–0
+|team2      = {{fbaicon|SWE}} [[Malmö FF]]
+|goals1     =
+*[[Moise Kean|Kean]] {{goal|18}}
+|goals2     =
+|stadium    = [[Juventus Stadium]], [[Turin]]
+|attendance = 17,501<ref name="md06_2"/>
+|referee    = [[Irfan Peljto]] ([[Football Association of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+|report     = https://www.uefa.com/uefachampionsleague/match/2032679/
+}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.uefa.com/uefachampionsleague/}}
+*[https://www.uefa.com/uefachampionsleague/fixtures-results/2021/ Fixtures and Results, 2021–22], UEFA.com
+
+{{UEFA Champions League phases}}
+{{2021–22 in European football (UEFA)}}
+
+{{DEFAULTSORT:Uefa Champions League Group Stage 2021-22}}
+[[Category:2021–22 UEFA Champions League|*2]]
+[[Category:UEFA Champions League group stages|2021-22]]
+[[Category:September 2021 sports events in Europe]]
+[[Category:October 2021 sports events in Europe]]
+[[Category:November 2021 sports events in Europe]]
+[[Category:December 2021 sports events in Europe]]

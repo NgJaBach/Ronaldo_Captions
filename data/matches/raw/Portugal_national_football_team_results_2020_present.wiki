@@ -1,0 +1,1729 @@
+{{Short description|none}}
+{{Portugal national football team results}}
+This page is a '''list of all the matches that [[Portugal national football team]] has played between 2020 and 2039'''.<ref>{{Cite web|url=https://www.uefa.com/uefaeuro-2020/news/0257-0e1a9292c2e6-cdb6aedd1778-1000--uefa-euro-2020-group-f-portugal-france-germany/|title=UEFA EURO 2020 Group F: Portugal, France, Germany|last=[[UEFA]]|date=2019-11-30|website=[[UEFA]]|language=en|access-date=2019-12-04}}{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+==2020s==
+===2020===
+{{football box collapsible
+|round = [[2020–21 UEFA Nations League A#Group 3|2020-21 UEFA NL]]
+|date = 5 September 2020
+|time = 20:45
+|team1 = {{fb-rt|POR}}
+|score = 4–1
+|report = https://www.uefa.com/uefanationsleague/match/2029991/
+|goals1 =
+*[[João Cancelo|Cancelo]] {{goal|42}}
+*[[Diogo Jota|Jota]] {{goal|59}}
+*[[João Félix|Félix]] {{goal|71}}
+*[[André Silva (footballer, born 1995)|A. Silva]] {{goal|90+6}}
+|team2 = {{fb|CRO}}
+|goals2 = 
+*[[Bruno Petković|Petković]] {{goal|90+2}}
+|stadium = [[Estádio do Dragão]]
+|location = [[Porto]], Portugal
+|attendance = 0{{refn|group=note|name=September behind closed doors|Due to the [[COVID-19 pandemic in Europe]], all matches scheduled for September 2020 were played [[Behind closed doors (sport)|behind closed doors]].<ref>{{cite news |url=https://www.uefa.com/news-media/news/0260-102b2c2ace44-637fb4a08f89-1000/ |title=UEFA meets general secretaries of member associations |website=[[UEFA]] |publisher=Union of European Football Associations |date=19 August 2020 |access-date=1 September 2020}}</ref><ref>{{cite news |url=https://www.uefa.com/news-media/news/0260-103712e48c82-4059778ef426-1000/ |title=UEFA Super Cup to test partial return of spectators |website=[[UEFA]] |publisher=Union of European Football Associations |date=25 August 2020 |access-date=1 September 2020}}</ref>}}
+|referee = [[Davide Massa]] ([[Italian Football Federation|Italy]])
+|result = W
+}}
+{{football box collapsible
+|round = [[2020–21 UEFA Nations League A#Group 3|2020-21 UEFA NL]]
+|date = 8 September 2020
+|time = 20:45 
+|team1 = {{fb-rt|SWE}}
+|score = 0–2
+|report = https://www.uefa.com/uefanationsleague/match/2030018/
+|goals1 = 
+|team2 = {{fb|POR}}
+|goals2 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|45+1||72}}
+|stadium = [[Friends Arena]]
+|location = [[Solna]], Sweden
+|attendance = 0{{refn|group=note|name=September behind closed doors}}
+|referee = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game|Friendly]]
+|date = 7 October 2020
+|time = 20:45
+|score = 0–0
+|report = https://int.soccerway.com/matches/2020/10/07/world/friendlies/portugal/spain/3333955/
+|team1 = {{fb-rt|POR}}
+|goals1 =
+|team2 = {{fb|ESP}}
+|goals2 =
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal
+|attendance = 2,500
+|referee = [[Paolo Valeri]] ([[Italian Football Federation|Italy]])
+|result = D
+}}
+{{football box collapsible
+|round = [[2020–21 UEFA Nations League A#Group 3|2020-21 UEFA NL]]
+|date = 11 October 2020
+|time = 20:45
+|team1 = {{fb-rt|FRA}}
+|score = 0–0
+|report = https://www.uefa.com/uefanationsleague/match/2030032/
+|team2 = {{fb|POR}}
+|goals1 =
+|goals2 =
+|stadium = [[Stade de France]]
+|location = [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France
+|attendance = 1,000<ref>{{cite web |title=France and Portugal play out stalemate |url=https://www.bbc.com/sport/football/54480005 |website=BBC Sport |date=11 October 2020 |access-date=14 October 2020}}</ref>
+|referee = [[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+|result = D
+}}
+{{football box collapsible
+|round = [[2020–21 UEFA Nations League A#Group 3|2020-21 UEFA NL]]
+|date = 14 October 2020
+|time = 20:45
+|team1 = {{fb-rt|POR}}
+|score = 3–0
+|report = https://www.uefa.com/uefanationsleague/match/2030061/
+|team2 = {{fb|SWE}}
+|goals1 =
+*[[Bernardo Silva|B. Silva]] {{goal|21}}
+*[[Diogo Jota|Jota]] {{goal|44||72}}
+|goals2 =
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal
+|attendance = 5,000<ref>{{cite web |title=Portugal vs Sweden, 14 October 2020 |url=https://eu-football.info/_match.php?id=17038 |website=eu-football.info |access-date=14 November 2020}}</ref>
+|referee = [[Srđan Jovanović (referee)|Srđan Jovanović]] ([[Football Association of Serbia|Serbia]])
+|result = W
+}}
+{{football box collapsible
+|round = [[Exhibition game|Friendly]]
+|date = 11 November 2020
+|time = 20:45
+|team1 = {{fb-rt|POR}}
+|score = 7–0
+|report = https://int.soccerway.com/matches/2020/11/11/world/friendlies/portugal/andorra/3333956/
+|team2 = {{fb|Andorra}}
+|goals1 =
+*[[Pedro Neto|Neto]] {{goal|8}}
+*[[Paulinho (footballer, born November 1992)|Paulinho]] {{goal|29||61}}
+*[[Renato Sanches|Sanches]] {{goal|56}}
+*[[Emili García|García]] {{goal|76|o.g.}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|85}}
+*[[João Félix|Félix]] {{goal|88}}
+|goals2 =
+|stadium = [[Estádio da Luz]]
+|location = [[Lisbon]], Portugal
+|attendance = 0
+|referee = [[Alain Bieri]] ([[Swiss Football Association|Switzerland]])
+|result = W
+}}
+{{football box collapsible
+|round = [[2020–21 UEFA Nations League A#Group 3|2020-21 UEFA NL]]
+|date = 14 November 2020
+|time = 20:45
+|team1 = {{fb-rt|POR}}
+|score = 0–1
+|report = https://www.uefa.com/uefanationsleague/match/2030080/
+|team2 = {{fb|FRA}}
+|goals1 =
+|goals2 =
+*[[N'Golo Kanté|Kanté]] {{goal|54}}
+|stadium = [[Estádio da Luz]]
+|location = [[Lisbon]], Portugal
+|attendance = 0
+|referee = [[Tobias Stieler]] ([[German Football Association|Germany]])
+|result = L
+}}
+{{football box collapsible
+|round = [[2020–21 UEFA Nations League A#Group 3|2020-21 UEFA NL]]
+|date = 17 November 2020
+|time = 20:45
+|team1 = {{fb-rt|CRO}}
+|score = 2–3
+|report = https://www.uefa.com/uefanationsleague/match/2030109/
+|team2 = {{fb|POR}}
+|goals1 =
+*[[Mateo Kovačić|Kovačić]] {{goal|29||65}}
+|goals2 =
+*[[Rúben Dias|Dias]] {{goal|52||90}}
+*[[João Félix|Félix]] {{goal|60}}
+|stadium = [[Stadion Poljud]]
+|location = [[Split, Croatia|Split]], Croatia
+|attendance = 0
+|referee = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result = W
+}}
+
+===2021===
+{{Football box collapsible
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 FWC Q.]]
+|date = 24 March 2021
+|time = 20:45
+|team1 = {{fb-rt|POR}}
+|score = 1–0
+|report = https://www.uefa.com/european-qualifiers/match/2030765/
+|team2 = {{fb|AZE}}
+|goals1 =
+*[[Maksim Medvedev|Medvedev]] {{goal|37|o.g.}}
+|goals2 =
+|stadium =[[Juventus Stadium]]
+|location =[[Turin]], Italy
+|attendance = 0
+|referee = [[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 FWC Q.]]
+|date = 27 March 2021
+|time = 20:45
+|team1 = {{fb-rt|SRB}}
+|score = 2–2
+|report = https://www.uefa.com/european-qualifiers/match/2030797/
+|team2 = {{fb|POR}}
+|goals1 =
+*[[Aleksandar Mitrović|A. Mitrović]] {{goal|46}}
+*[[Filip Kostić|Kostić]] {{goal|60}}
+|goals2 =
+*[[Diogo Jota|Jota]] {{goal|11||36}}
+|stadium = [[Stadion Rajko Mitić]]
+|location = [[Belgrade]], Serbia
+|attendance = 0
+|referee = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result = D
+}}
+{{Football box collapsible
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 FWC Q.]]
+|date = 30 March 2021
+|time = 20:45
+|team1 = {{fb-rt|LUX}}
+|score = 1–3
+|report = https://www.uefa.com/european-qualifiers/match/2030822/
+|team2 = {{fb|POR}}
+|goals1 =
+*[[Gerson Rodrigues (footballer, born 1995)|Rodrigues]] {{goal|30}}
+|goals2 =
+*[[Diogo Jota|Jota]] {{goal|45+2}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|51}}
+*[[João Palhinha|Palhinha]] {{goal|80}}
+|stadium = [[Stade Josy Barthel]]
+|location = [[Luxembourg City]], Luxembourg
+|attendance = 0
+|referee = [[Sergey Ivanov (referee)|Sergey Ivanov]] ([[Russian Football Union|Russia]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game|Friendly]]
+|date = 4 June 2021
+|time = 19:30
+|team1 = {{fb-rt|ESP}}
+|score = 0–0
+|report = https://int.soccerway.com/matches/2021/06/04/world/friendlies/spain/portugal/3451864/
+|team2 = {{fb|POR}}
+|goals1 =
+|goals2 =
+|stadium = [[Metropolitano Stadium|Wanda Metropolitano]]
+|location = [[Madrid]], Spain
+|attendance = 14,743
+|referee = [[Craig Pawson]] ([[The Football Association|England]])
+|result = D
+}}
+{{Football box collapsible
+|round = [[Exhibition game|Friendly]]
+|date = 9 June 2021
+|time = 20:45
+|team1 = {{fb-rt|POR}}
+|score = 4–0
+|report = https://int.soccerway.com/matches/2021/06/09/world/friendlies/portugal/israel/3451878/
+|team2 = {{fb|ISR}}
+|goals1 =
+*[[Bruno Fernandes|Fernandes]] {{goal|42||90+1}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|44}}
+*[[João Cancelo|Cancelo]] {{goal|86}}
+|goals2 =
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal
+|attendance = 0
+|referee = Jérémie Pignard ([[French Football Federation|France]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[UEFA Euro 2020 Group F|Euro 2020 GS]]
+|date = 15 June 2021
+|time = 17:00
+|score = 0–3
+|report = https://www.uefa.com/uefaeuro-2020/season=2020/matches/round=2001024/match=2024455/index.html
+|team1 = {{fb-rt|HUN}}
+|goals1 =
+|team2 = {{fb|POR}}
+|goals2 =
+*[[Raphaël Guerreiro|Guerreiro]] {{goal|84}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|87|pen.|90+2}}
+|stadium = [[Puskás Aréna]]
+|location = [[Budapest]], Hungary
+|attendance = 55,662
+|referee = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[UEFA Euro 2020 Group F|Euro 2020 GS]]
+|date = 19 June 2021
+|time = 17:00
+|score = 2–4
+|report = https://www.uefa.com/uefaeuro-2020/season=2020/matches/round=2001024/match=2024466/index.html
+|team1 = {{fb-rt|POR}}
+|goals1 = 
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|15}}
+*[[Diogo Jota|Jota]] {{goal|67}}
+|team2 = {{fb|GER}}
+|goals2 = 
+*[[Rúben Dias|Dias]] {{goal|35|o.g.}}
+*[[Raphaël Guerreiro|Guerreiro]] {{goal|39|o.g.}}
+*[[Kai Havertz|Havertz]] {{goal|51}}
+*[[Robin Gosens|Gosens]] {{goal|60}}
+|stadium = [[Allianz Arena]]
+|location = [[Munich]], Germany
+|attendance = 12,926
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[UEFA Euro 2020 Group F|Euro 2020 GS]]
+|date = 23 June 2021
+|time = 20:00
+|score = 2–2
+|report = https://www.uefa.com/uefaeuro-2020/season=2020/matches/round=2001024/match=2024476/index.html
+|team1 = {{fb-rt|POR}}
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|31|pen.|60|pen.}}
+|team2 = {{fb|FRA}}
+|goals2 = 
+*[[Karim Benzema|Benzema]] {{goal|45+2|pen.|47}}
+|stadium = [[Puskás Aréna]]
+|location = [[Budapest]], Hungary
+|attendance = 54,886
+|referee = [[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|result = D
+}}
+{{Football box collapsible
+|round = [[UEFA Euro 2020 knockout phase#Round of 16|Euro 2020 R16]]
+|date = 27 June 2021
+|time = 21:00
+|team1 = {{fb-rt|BEL}}
+|score = 1–0
+|report = https://www.uefa.com/uefaeuro-2020/match/2024479/
+|team2= {{fb|POR}}
+|goals1 =
+*[[Thorgan Hazard|T. Hazard]] {{goal|42}}
+|goals2 =
+|stadium = [[Estadio de La Cartuja|La Cartuja]]
+|location = [[Seville]], Spain
+|attendance = 11,504
+|referee = [[Felix Brych]] ([[German Football Association|Germany]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 FWC Q.]]
+|date = 1 September 2021
+|time = 20:45
+|team1 = {{fb-rt|POR}}
+|score = 2–1
+|report = https://www.uefa.com/european-qualifiers/match/2030839/
+|team2 = {{fb|IRL}}
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|89||90+6}}
+|goals2 =
+*[[John Egan (footballer, born 1992)|Egan]] {{goal|45}}
+|stadium = [[Estádio Algarve]]
+|location = [[Faro, Portugal|Faro]]/[[Loulé]], Portugal
+|attendance = 7,831
+|referee = [[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game|Friendly]]
+|date = 4 September 2021
+|time = 19:45
+|team1 = {{fb-rt|QAT}}
+|score = 1–3
+|report = https://int.soccerway.com/matches/2021/09/04/world/friendlies/qatar/portugal/3440496/
+|team2 = {{fb|POR}}
+|goals1 =
+*[[Abdelkarim Hassan|Hassan]] {{goal|61}}
+|goals2 =
+*[[André Silva (footballer, born 1995)|Silva]] {{goal|23}}
+*[[Otávio Monteiro|Otávio]] {{goal|25}}
+*[[Bruno Fernandes|Fernandes]] {{goal|88|pen.}}
+|stadium = [[Nagyerdei Stadion]]
+|location = [[Debrecen]], Hungary
+|attendance = 0
+|referee = Gergő Bogár ([[Hungarian Football Federation|Hungary]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 FWC Q.]]
+|date = 7 September 2021
+|time = 18:00
+|team1 = {{fb-rt|AZE}}
+|score = 0–3
+|report = https://www.uefa.com/european-qualifiers/match/2030887/
+|team2 = {{fb|POR}}
+|goals1 =
+|goals2 =
+*[[Bernardo Silva|B. Silva]] {{goal|26}}
+*[[André Silva (footballer, born 1995)|A. Silva]] {{goal|31}}
+*[[Diogo Jota|Jota]] {{goal|75}}
+|stadium = [[Baku Olympic Stadium|Olympic Stadium]]
+|location = [[Baku]], Azerbaijan
+|attendance = 20,574
+|referee = [[Marco Guida]] ([[Italian Football Federation|Italy]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[Exhibition game|Friendly]]
+|date = 9 October 2021
+|time = 20:15
+|team1 = {{fb-rt|POR}}
+|score = 3–0
+|report = https://int.soccerway.com/matches/2021/10/09/world/friendlies/portugal/qatar/3440497/
+|team2 = {{fb|QAT}}
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|37}}
+*[[José Fonte|Fonte]] {{goal|48}}
+*[[André Silva (footballer, born 1995)|A. Silva]] {{goal|90}}
+|goals2 =
+|stadium = [[Estádio Algarve]]
+|location = [[Faro, Portugal|Faro]]/[[Loulé]], Portugal
+|attendance = 15,087
+|referee = Fedayi San ([[Swiss Football Association|Switzerland]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 FWC Q.]]
+|date = 12 October 2021
+|time = 20:45
+|team1 = {{fb-rt|POR}}
+|score = 5–0
+|report = https://www.uefa.com/european-qualifiers/match/2030949/
+|team2 = {{fb|LUX}}
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|8|pen.|13|pen.|87}}
+*[[Bruno Fernandes|Fernandes]] {{goal|18}}
+*[[João Palhinha|Palhinha]] {{goal|69}}
+|goals2 =
+|stadium =[[Estádio Algarve]]
+|location =[[Faro, Portugal|Faro]]/[[Loulé]], Portugal
+|attendance = 18,553
+|referee = [[Benoît Bastien]] ([[French Football Federation|France]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 FWC Q.]]
+|date = 11 November 2021
+|time = 20:45
+|team1 = {{fb-rt|IRL}}
+|score = 0–0
+|report = https://www.uefa.com/european-qualifiers/match/2030968/
+|team2 = {{fb|POR}}
+|goals1 =
+|goals2 =
+|stadium = [[Aviva Stadium]]
+|location = [[Dublin]], Ireland
+|attendance = 50,373
+|referee = [[Jesús Gil Manzano]] ([[Royal Spanish Football Federation|Spain]])
+|result = D
+}}
+{{Football box collapsible
+|round = [[2022 FIFA World Cup qualification – UEFA Group A|2022 FWC Q.]]
+|date = 14 November 2021
+|time = 20:45
+|team1 = {{fb-rt|POR}}
+|score = 1–2
+|report = https://www.uefa.com/european-qualifiers/match/2030990/
+|team2 = {{fb|SRB}}
+|goals1 =
+*[[Renato Sanches|Sanches]] {{goal|2}}
+|goals2 =
+*[[Dušan Tadić|Tadić]] {{goal|33}}
+*[[Aleksandar Mitrović|A. Mitrović]] {{goal|90}}
+|stadium = [[Estádio da Luz]]
+|location = [[Lisbon]], Portugal
+|attendance = 58,873
+|referee = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|result = L
+}}
+
+===2022===
+{{Football box collapsible
+|round = [[2022 FIFA World Cup qualification – UEFA second round#Path C|2022 FWC Q. PO]]
+|date = 24 March 2022
+|time = 20:45
+|team1 = {{fb-rt|POR}}
+|score = 3–1
+|report = https://www.uefa.com/european-qualifiers/match/2033892/
+|team2 = {{fb|TUR}}
+|goals1 =
+*[[Otávio (footballer, born 1995)|Otávio]] {{goal|15}}
+*[[Diogo Jota|Jota]] {{goal|42}}
+*[[Matheus Nunes|Nunes]] {{goal|90+4}}
+|goals2 =
+*[[Burak Yılmaz|Yılmaz]] {{goal|65}}
+|stadium = [[Estádio do Dragão]]
+|location = [[Porto]], Portugal
+|attendance = 48,010
+|referee = [[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2022 FIFA World Cup qualification – UEFA second round#Path C|2022 FWC Q. PO]]
+|date = 29 March 2022
+|time = 19:45
+|team1 = {{fb-rt|POR}}
+|score = 2–0
+|report = https://www.uefa.com/european-qualifiers/match/2033895/
+|team2 = {{fb|MKD}}
+|goals1 =
+*[[Bruno Fernandes|Fernandes]] {{goal|32||65}}
+|goals2 =
+|stadium = [[Estádio do Dragão]]
+|location = [[Porto]], Portugal
+|attendance = 48,010
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2022–23 UEFA Nations League A#Group 2|2022-23 UEFA NL]]
+|date = 2 June 2022
+|time = 20:45
+|team1 = {{fb-rt|ESP}}
+|score = 1–1
+|report = https://www.uefa.com/uefanationsleague/match/2034412/
+|team2 = {{fb|POR}}
+|goals1 = 
+*[[Álvaro Morata|Morata]] {{goal|25}}
+|goals2 = 
+*[[Ricardo Horta|Horta]] {{goal|82}}
+|stadium = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location = [[Seville]], Spain
+|attendance = 41,236
+|referee = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result = D
+}}
+{{Football box collapsible
+|round = [[2022–23 UEFA Nations League A#Group 2|2022-23 UEFA NL]]
+|date = 5 June 2022
+|time = 19:45 
+|team1 = {{fb-rt|POR}}
+|score = 4–0
+|report = https://www.uefa.com/uefanationsleague/match/2034442/
+|team2 = {{fb|SUI}}
+|goals1 =
+*[[William Carvalho|Carvalho]] {{goal|15}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|35||39}}
+*[[João Cancelo|Cancelo]] {{goal|68}} 
+|goals2 =
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal
+|attendance = 42,325
+|referee = [[Orel Grinfeeld]] ([[Israel Football Association|Israel]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2022–23 UEFA Nations League A#Group 2|2022-23 UEFA NL]]
+|date = 9 June 2022
+|time = 19:45
+|team1 = {{fb-rt|POR}}
+|score = 2–0
+|report = https://www.uefa.com/uefanationsleague/match/2034466/
+|team2 = {{fb|CZE}}
+|goals1 =
+*[[João Cancelo|Cancelo]] {{goal|33}}
+*[[Gonçalo Guedes|Guedes]] {{goal|38}}
+|goals2 =
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal
+|attendance = 44,100
+|referee = [[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2022–23 UEFA Nations League A#Group 2|2022-23 UEFA NL]]
+|date = 12 June 2022
+|time = 20:45
+|team1 = {{fb-rt|SUI}}
+|score = 1–0
+|report = https://www.uefa.com/uefanationsleague/match/2034497/
+|team2 = {{fb|POR}}
+|goals1 =
+*[[Haris Seferovic|Seferovic]] {{goal|1}}
+|goals2 =
+|stadium = [[Stade de Genève]]
+|location = [[Geneva]], Switzerland
+|attendance = 26,300
+|referee = [[Fran Jović]] ([[Croatian Football Federation|Croatia]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2022–23 UEFA Nations League A#Group 2|2022-23 UEFA NL]]
+|date = 24 September 2022
+|time = 20:45
+|team1 = {{fb-rt|CZE}}
+|score = 0–4
+|report = https://www.uefa.com/uefanationsleague/match/2034542/
+|team2 = {{fb|POR}}
+|goals1 =
+|goals2 =
+*[[Diogo Dalot|Dalot]] {{goal|33||52}}
+*[[Bruno Fernandes|Fernandes]] {{goal|45+2}}
+*[[Diogo Jota|Jota]] {{goal|82}}
+|stadium = [[Sinobo Stadium]]
+|location = [[Prague]], Czech Republic
+|attendance = 19,322
+|referee = [[Srđan Jovanović (referee)|Srđan Jovanović]] ([[Football Association of Serbia|Serbia]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[2022–23 UEFA Nations League A#Group 2|2022-23 UEFA NL]]
+|date = 27 September 2022
+|time = 19:45
+|team1 = {{fb-rt|POR}}
+|score = 0–1
+|report = https://www.uefa.com/uefanationsleague/match/2034566/
+|team2 = {{fb|ESP}}
+|goals1 =
+|goals2 =
+*[[Álvaro Morata|Morata]] {{goal|88}}
+|stadium = [[Estádio Municipal de Braga|Estádio Municipal]]
+|location = [[Braga]], Portugal
+|attendance = 28,196
+|referee = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|result = L
+}}
+{{footballbox collapsible 
+|round  = [[Exhibition game#Association football|Friendly]]
+|date = 17 November 2022
+|time = 19:45
+|team1 = {{fb-rt|POR}}
+|score = 4–0
+|report = https://int.soccerway.com/matches/2022/11/17/world/friendlies/portugal/nigeria/3960194/
+|team2 = {{fb|NGA}}
+|goals1 = 
+*[[Bruno Fernandes|Fernandes]] {{goal|9||35|pen.}}
+*[[Gonçalo Ramos|Ramos]] {{goal|82}}
+*[[João Mário (footballer, born January 1993)|João Mário]] {{goal|84}}
+|goals2 = 
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal
+|attendance = 43,621
+|referee = Chrysovalantis Theouli ([[Cyprus Football Association|Cyprus]])
+|result = W
+}}
+{{football box collapsible
+|round = [[2022 FIFA World Cup Group H|2022 FWC GS]]
+|date = 24 November 2022
+|time = 19:00
+|team1 = {{fb-rt|POR}}
+|score = 3–2
+|report = https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285063/400235493
+|team2 = {{fb|GHA}}
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|65|pen.}}
+*[[João Félix|Félix]] {{goal|78}}
+*[[Rafael Leão|Leão]] {{goal|80}}
+|goals2 =
+*[[André Ayew|A. Ayew]] {{goal|73}}
+*[[Osman Bukari|Bukari]] {{goal|89}}
+|stadium = [[Stadium 974]]
+|location = [[Doha]], Qatar
+|attendance = 42,662
+|referee = [[Ismail Elfath]] ([[United States Soccer Federation|United States]])
+|result = W
+}}
+{{football box collapsible
+|round = [[2022 FIFA World Cup Group H|2022 FWC GS]]
+|date = 28 November 2022
+|time = 22:00
+|team1 = {{fb-rt|POR}}
+|score = 2–0
+|report = https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285063/400235492
+|team2 = {{fb|URU}}
+|goals1 =
+*[[Bruno Fernandes|Fernandes]] {{goal|54||90+3|pen.}}
+|goals2 =
+|stadium = [[Lusail Iconic Stadium]]
+|location = [[Lusail]], Qatar
+|attendance = 88,668
+|referee = [[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+|result = W
+}}
+{{football box collapsible
+|round = [[2022 FIFA World Cup Group H|2022 FWC GS]]
+|date = 2 December 2022
+|time = 18:00
+|team1 = {{fb-rt|KOR}}
+|score = 2–1
+|report = https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285063/400235490
+|team2 = {{fb|POR}}
+|goals1 =
+*[[Kim Young-gwon]] {{goal|27}}
+*[[Hwang Hee-chan]] {{goal|90+1}}
+|goals2     =
+*[[Ricardo Horta|Horta]] {{goal|5}}
+|stadium = [[Education City Stadium]]
+|location = [[Al Rayyan]], Qatar
+|attendance = 44,097
+|referee = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|result = L
+}}
+{{football box collapsible
+|round = [[2022 FIFA World Cup knockout stage#Portugal vs Switzerland|2022 FWC R16]]
+|date = 6 December 2022
+|time = 22:00
+|team1 = {{fb-rt|POR}}
+|score = 6–1
+|report = https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285073/400128130
+|team2 = {{fb|SWI}}
+|goals1 =
+*[[Gonçalo Ramos|Ramos]] {{goal|17||51||67}}
+*[[Pepe (footballer, born 1983)|Pepe]] {{goal|33}}
+*[[Raphaël Guerreiro|Guerreiro]] {{goal|55}}
+*[[Rafael Leão|Leão]] {{goal|90+2}}
+|goals2     =
+*[[Manuel Akanji|Akanji]] {{goal|58}}
+|stadium = [[Lusail Iconic Stadium]]
+|location = [[Lusail]], Qatar
+|attendance = 83,720
+|referee = [[César Arturo Ramos]] ([[Mexican Football Federation|Mexico]])
+|result = W
+}}
+{{football box collapsible
+|round = [[2022 FIFA World Cup knockout stage#Morocco vs Portugal|2022 FWC QF]]
+|date = 10 December 2022
+|time = 18:00
+|team1 = {{fb-rt|MAR}}
+|score = 1–0
+|report = https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285074/400128140
+|team2 = {{fb|POR}}
+|goals1 =
+*[[Youssef En-Nesyri|En-Nesyri]] {{goal|42}}
+|goals2 =
+|stadium = [[Al Thumama Stadium]], [[Doha]]
+|location = [[Doha]], Qatar
+|attendance = 44,198
+|referee = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|result = L
+}}
+
+===2023===
+{{Football box_collapsible 
+|round = [[UEFA Euro 2024 qualifying Group J#Portugal v Liechtenstein|Euro 2024 Q.]]
+|date = 23 March 2023
+|time = {{UTZ|20:45|1}}
+|team1 = {{fb-rt|POR}}
+|score = 4–0
+|report = https://www.uefa.com/european-qualifiers/match/2036310/
+|team2 = {{fb|LIE}}
+|goals1 =
+*[[João Cancelo|Cancelo]] {{goal|8}}
+*[[Bernardo Silva|B. Silva]] {{goal|47}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|51|pen.|63}}
+|goals2 = 
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal
+|attendance = 45,378
+|referee = Espen Eskås ([[Norwegian Football Federation|Norway]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[UEFA Euro 2024 qualifying Group J#Luxembourg v Portugal|Euro 2024 Q.]] 
+|date = 26 March 2023
+|time = {{UTZ|20:45|1}}
+|team1 = {{fb-rt|LUX}}
+|score = 0–6
+|report = https://www.uefa.com/european-qualifiers/match/2036335/
+|team2 = {{fb|POR}}
+|goals1 =
+|goals2 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|9||31}}
+*[[João Félix|Félix]] {{goal|15}}
+*[[Bernardo Silva|B. Silva]] {{goal|18}}
+*[[Otávio (footballer, born 1995)|Otávio]] {{goal|77}}
+*[[Rafael Leão|Leão]] {{goal|88}}
+|stadium = [[Stade de Luxembourg]]
+|location = [[Luxembourg City]], Luxembourg
+|attendance = 9,231
+|referee = [[Radu Petrescu (referee, born 1982)|Radu Petrescu]] ([[Romanian Football Federation|Romania]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[UEFA Euro 2024 qualifying Group J#Portugal v Bosnia and Herzegovina|Euro 2024 Q.]] 
+|date = 17 June 2023
+|time = 19:45
+|team1 = {{fb-rt|POR}}
+|score = 3–0
+|report = https://www.uefa.com/european-qualifiers/match/2036358/
+|team2 = {{fb|BIH}}
+|goals1 = 
+*[[Bernardo Silva|B. Silva]] {{goal|44}}
+*[[Bruno Fernandes|Fernandes]] {{goal|77||90+3}}
+|goals2 = 
+|stadium = [[Estádio da Luz]]
+|location = [[Lisbon]], Portugal
+|attendance = 55,058
+|referee = [[Davide Massa]] ([[Italian Football Federation|Italy]])
+|result = W
+}}
+{{Football box collapsible
+|round = [[UEFA Euro 2024 qualifying Group J#Iceland v Portugal|Euro 2024 Q.]] 
+|date = 20 June 2023
+|time = 20:45 
+|team1 = {{fb-rt|ISL}}
+|score = 0–1
+|report = https://www.uefa.com/european-qualifiers/match/2036379/
+|goals1 = 
+|team2 = {{fb|POR}}
+|goals2 = 
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|89}}
+|stadium = [[Laugardalsvöllur]]
+|location = [[Reykjavík]], Iceland
+|attendance = 8,600
+|referee = [[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+|result = W
+}}
+{{football box collapsible
+|round = [[UEFA Euro 2024 qualifying Group J#Slovakia v Portugal|Euro 2024 Q.]] 
+|date = 8 September 2023
+|time = 20:45
+|team1 = {{fb-rt|SVK}}
+|score = 0–1
+|report = https://www.uefa.com/european-qualifiers/match/2036402/
+|team2 = {{fb|POR}}
+|goals1 = 
+|goals2 =
+*[[Bruno Fernandes|Fernandes]] {{goal|43}} 
+|stadium = [[Tehelné pole]]
+|location = [[Bratislava]], Slovakia
+|attendance = 21,473
+|referee = [[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+|result = W
+}}
+{{football box collapsible
+|round = [[UEFA Euro 2024 qualifying Group J#Portugal v Luxembourg|Euro 2024 Q.]] 
+|date = 11 September 2023
+|time = 19:45
+|team1 = {{fb-rt|POR}}
+|score = 9–0
+|report = https://www.uefa.com/european-qualifiers/match/2036426/
+|team2 = {{fb|LUX}}
+|goals1 =[[Gonçalo Inácio|Inácio]] {{goal|12||45+4}}<br>[[Gonçalo Ramos|Ramos]] {{goal|17||33}}<br>[[Diogo Jota|Jota]] {{goal|57||77}}<br>[[Ricardo Horta|Horta]] {{goal|67}}<br>[[Bruno Fernandes|Fernandes]] {{goal|83}}<br>[[João Félix|Félix]] {{goal|88}}
+|goals2 =
+|stadium = [[Estádio Algarve]]
+|location = [[Faro, Portugal|Faro]]/[[Loulé]], Portugal
+|attendance = 18,932
+|referee = [[John Brooks (referee)|John Brooks]] ([[The Football Association|England]])
+|result = W
+}}
+{{football box collapsible
+|round = [[UEFA Euro 2024 qualifying Group J#Portugal v Slovakia|Euro 2024 Q.]] 
+|date = 13 October 2023
+|time = 19:45
+|team1 = {{fb-rt|POR}}
+|score = 3–2
+|report = https://www.uefa.com/european-qualifiers/match/2036449/
+|team2 = {{fb|SVK}}
+|goals1 =
+*[[Gonçalo Ramos|Ramos]] {{goal|18}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|29|pen.|72}}
+|goals2 = 
+*[[Dávid Hancko|Hancko]] {{goal|69}}
+*[[Stanislav Lobotka|Lobotka]] {{goal|80}}
+|stadium = [[Estádio do Dragão]]
+|location = [[Porto]], Portugal
+|attendance = 46,601
+|referee = [[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+|result = W
+}}
+{{football box collapsible
+|round = [[UEFA Euro 2024 qualifying Group J#Bosnia and Herzegovina v Portugal|Euro 2024 Q.]] 
+|date = 16 October 2023
+|time = 20:45
+|team1 = {{fb-rt|BIH}}
+|score = 0–5
+|report = https://www.uefa.com/european-qualifiers/match/2036472/
+|team2 = {{fb|POR}}
+|goals1 =
+|goals2 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|5|pen.|20}}
+*[[Bruno Fernandes|Fernandes]] {{goal|25}}
+*[[João Cancelo|Cancelo]] {{goal|32}}
+*[[João Félix|Félix]] {{goal|41}} 
+|stadium = [[Bilino Polje Stadium|Bilino Polje]]
+|location = [[Zenica]], Bosnia and Herzegovina
+|attendance = 13,047
+|referee = [[Halil Umut Meler]] ([[Turkish Football Federation|Turkey]])
+|result = W
+}}
+{{football box collapsible
+|round = [[UEFA Euro 2024 qualifying Group J#Liechtenstein v Portugal|Euro 2024 Q.]] 
+|date = 16 November 2023
+|time = 20:45
+|team1 = {{fb-rt|LIE}}
+|score = 0–2
+|report = https://www.uefa.com/european-qualifiers/match/2036496/
+|team2 = {{fb|POR}}
+|goals1 = 
+|goals2 = 
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|46}}
+*[[João Cancelo|Cancelo]] {{goal|57}}
+|stadium = [[Rheinpark Stadion]]
+|location = [[Vaduz]], Liechtenstein
+|attendance = 5,749 
+|referee = [[Mohammed Al-Hakim]] ([[Swedish Football Association|Sweden]])
+|result = W
+}}
+{{football box collapsible
+|round = [[UEFA Euro 2024 qualifying Group J#Portugal v Iceland|Euro 2024 Q.]] 
+|date = 19 November 2023
+|time = 19:45
+|team1 = {{fb-rt|POR}}
+|score = 2–0
+|report = https://www.uefa.com/european-qualifiers/match/2036517/
+|team2 = {{fb|ISL}}
+|goals1 =
+*[[Bruno Fernandes|Fernandes]] {{goal|37}}
+*[[Ricardo Horta|Horta]] {{goal|66}}
+|goals2 =
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal
+|attendance = 45,655
+|referee = [[Anastasios Papapetrou]] ([[Hellenic Football Federation|Greece]])
+|result = W
+}} 
+
+===2024===
+{{football box collapsible
+|round = [[Exhibition game|Friendly]] 
+|date = 21 March 2024
+|time = 19:45 [[Western European Time|WET]] ([[UTC+00:00]])
+|team1 = {{fb-rt|POR}}
+|score = 5–2
+|report = https://uk.soccerway.com/matches/2024/03/21/world/friendlies/portugal/sweden/4272440/
+|team2 = {{fb|SWE}}
+|goals1 =
+*[[Rafael Leão|Leão]] {{goal|24}}
+*[[Matheus Nunes|Nunes]] {{goal|33}}
+*[[Bruno Fernandes|Fernandes]] {{goal|45}}
+*[[Bruma (footballer)|Bruma]] {{goal|57}}
+*[[Gonçalo Ramos|Ramos]] {{goal|61}}
+|goals2 =
+*[[Viktor Gyökeres|Gyökeres]] {{goal|58}}
+*[[Gustaf Nilsson (footballer, born 1997)|Nilsson]] {{goal|90}}
+|stadium = [[Estádio D. Afonso Henriques]]
+|location = [[Guimarães]], Portugal
+|attendance = 27,532
+|referee = [[Ricardo de Burgos Bengoetxea]] ([[Royal Spanish Football Federation|Spain]])
+|result = W
+}}
+{{football box collapsible
+|round = [[Exhibition game|Friendly]] 
+|date = 26 March 2024
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1 = {{fb-rt|SVN}}
+|score = 2–0
+|report = https://uk.soccerway.com/matches/2024/03/26/world/friendlies/slovenia/portugal/4305631/
+|team2 = {{fb|POR}}
+|goals1 =
+*[[Adam Gnezda Čerin|Čerin]] {{goal|72}}
+*[[Timi Max Elšnik|Elšnik]] {{goal|80}}
+|goals2 =
+|stadium = [[Stožice Stadium]]
+|location = [[Ljubljana]], Slovenia
+|attendance = 16,432
+|referee = [[Irfan Peljto]] ([[Football Association of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+|result = L
+}}
+{{Football box collapsible
+|date = 4 June 2024
+|time = 19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1 = {{fb-rt|POR}}
+|score = 4–2
+|report = https://uk.soccerway.com/matches/2024/06/04/world/friendlies/portugal/finland/4317689/
+|round = [[Exhibition game|Friendly]] 
+|team2 = {{fb|FIN}}
+|goals1 =
+*[[Rúben Dias|Dias]] {{goal|17}}
+*[[Diogo Jota|Jota]] {{goal|45+4|pen.}}
+*[[Bruno Fernandes|Fernandes]] {{goal|55||84}}
+|goals2 =
+*[[Teemu Pukki|Pukki]] {{goal|73||77}}
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal
+|attendance = 43,125
+|referee = [[Christian-Petru Ciochirca]] ([[Austrian Football Association|Austria]])
+|result = W
+}}
+{{Football box collapsible
+|date = 8 June 2024
+|time = 17:45 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1 = {{fb-rt|POR}}
+|score = 1–2
+|report = https://uk.soccerway.com/matches/2024/06/08/world/friendlies/portugal/croatia/4312560/
+|round = [[Exhibition game|Friendly]] 
+|team2 = {{fb|CRO}}
+|goals1 =
+*[[Diogo Jota|Jota]] {{goal|48}}
+|goals2 = 
+*[[Luka Modrić|Modrić]] {{goal|8|pen.}}
+*[[Ante Budimir|Budimir]] {{goal|56}}
+|stadium = [[Estádio Nacional]]
+|location = [[Oeiras Municipality, Portugal|Oeiras]], Portugal
+|attendance = 37,800
+|referee = [[Harm Osmers]] ([[German Football Association|Germany]])
+|result = L
+}}
+{{football box collapsible
+|round = [[Exhibition game#Association football|Friendly]] 
+|date = 11 June 2024
+|time = 19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1 = {{fb-rt|POR}}
+|score = 3–0
+|report = https://www.uefa.com/european-qualifiers/friendlies/match/2040212--portugal-vs-republic-of-ireland/
+|team2 = {{fb|IRL}}
+|goals1 =
+*[[João Félix|Félix]] {{goal|18}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|50||60}}
+|goals2 =
+|stadium = [[Estádio Municipal de Aveiro]]
+|location = [[Aveiro, Portugal|Aveiro]], Portugal
+|attendance = 32,830
+|referee = [[Chris Kavanagh (referee)|Chris Kavanagh]] ([[The Football Association|England]])
+|result = W
+}}
+{{football box collapsible
+|round = [[UEFA Euro 2024 Group F|Euro 2024 GS]] 
+|date = 18 June 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1 = {{fb-rt|POR}}
+|score = 2–1
+|report = https://www.uefa.com/uefaeuro/match/2036172/
+|team2 = {{fb|CZE}}
+|goals1 =
+*[[Robin Hranáč|Hranáč]] {{goal|69|o.g.|}}
+*[[Francisco Conceição|Conceição]] {{goal|90+2}}
+|goals2 =
+*[[Lukáš Provod|Provod]] {{goal|62}}
+|stadium = [[Red Bull Arena (Leipzig)|Red Bull Arena]]
+|location = [[Leipzig]], Germany
+|attendance = 38,421
+|referee = [[Marco Guida]] ([[Italian Football Federation|Italy]])
+|result = W
+}}
+{{football box collapsible
+|round = [[UEFA Euro 2024 Group F|Euro 2024 GS]] 
+|date = 22 June 2024
+|time = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1 = {{fb-rt|TUR}}
+|score = 0–3
+|report = https://www.uefa.com/uefaeuro/match/2036183/
+|team2 = {{fb|POR}}
+|goals1 =
+|goals2 =
+*[[Bernardo Silva|Silva]] {{goal|21}}
+*[[Samet Akaydin|Akaydin]] {{goal|28|o.g.|}}
+*[[Bruno Fernandes|Fernandes]] {{goal|56}}
+|stadium = [[Westfalenstadion]]
+|location = [[Dortmund]], Germany
+|attendance = 61,047
+|referee = [[Felix Zwayer]] ([[German Football Association|Germany]]) 
+|result = W
+}}
+{{football box collapsible
+|round = [[UEFA Euro 2024 Group F|Euro 2024 GS]] 
+|date = 26 June 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1 = {{fb-rt|GEO}}
+|score = 2–0
+|report = https://www.uefa.com/uefaeuro/match/2036196/
+|team2 = {{fb|POR}}
+|goals1 =
+*[[Khvicha Kvaratskhelia|Kvaratskhelia]] {{goal|2}}
+*[[Georges Mikautadze|Mikautadze]] {{goal|57|pen.|}}
+|goals2 =
+|stadium = [[Arena AufSchalke]]
+|location = [[Gelsenkirchen]], Germany
+|attendance = 49,616
+|referee = [[Sandro Schärer]] ([[Swiss Football Association|Switzerland]])
+|result = L
+}}
+{{football box collapsible
+|date = 1 July 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|round = [[UEFA Euro 2024 knockout stage#Round of 16|Euro 2024 R16]]
+|team1 = {{fb-rt|POR}}
+|score = 0–0
+|aet = yes
+|penaltyscore = 3–0
+|report = https://www.uefa.com/euro2024/match/2036201
+|team2 = {{fb|SVN}}
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{penmiss}}<small>105'</small>
+|goals2 = 
+|penalties1 = 
+*[[Cristiano Ronaldo|Ronaldo]] {{pengoal}}
+*[[Bruno Fernandes|Fernandes]] {{pengoal}}
+*[[Bernardo Silva|Silva]] {{pengoal}}
+|penalties2 = 
+*{{penmiss}} [[Josip Iličić|Iličić]]
+*{{penmiss}} [[Jure Balkovec|Balkovec]]
+*{{penmiss}} [[Benjamin Verbič|Verbič]]
+|stadium = [[Waldstadion (Frankfurt)|Waldstadion]]
+|location = [[Frankfurt]], Germany
+|attendance = 46,576
+|referee = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|result = D
+}}
+{{football box collapsible
+|round = [[UEFA Euro 2024 knockout stage#Quarter-finals|Euro 2024 QF]] 
+|date = 5 July 2024
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1 = {{fb-rt|POR}}
+|score = 0–0
+|aet = yes
+|penaltyscore = 3–5
+|report = https://www.uefa.com/euro2024/match/2036206
+|team2 = {{fb|FRA}}
+|goals1 =
+|goals2 =
+|penalties1 = 
+*[[Cristiano Ronaldo|Ronaldo]] {{pengoal}}
+*[[Bernardo Silva|Silva]] {{pengoal}}
+*[[João Félix|Félix]] {{penmiss}}
+*[[Nuno Mendes (footballer, born 2002)|Mendes]] {{pengoal}}
+|penalties2 = 
+*{{pengoal}} [[Ousmane Dembélé|Dembélé]]
+*{{pengoal}} [[Youssouf Fofana (French footballer)|Fofana]]
+*{{pengoal}} [[Jules Koundé|Koundé]]
+*{{pengoal}} [[Bradley Barcola|Barcola]]
+*{{pengoal}} [[Théo Hernandez|Hernandez]]
+|stadium = [[Volksparkstadion]]
+|location = [[Hamburg]], Germany
+|attendance = 47,789
+|referee = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result = D
+}} 
+{{football box collapsible
+|round = [[2024–25 UEFA Nations League A#Group 1|2024-25 UEFA NL]]
+|date = 5 September 2024
+|time = 19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1 = {{fb-rt|POR}}
+|score = 2–1
+|report = https://www.uefa.com/uefanationsleague/match/2040045/
+|goals1 =
+*[[Diogo Dalot|Dalot]] {{goal|7}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|34}}
+|team2 = {{fb|CRO}}
+|goals2 = 
+*[[Diogo Dalot|Dalot]] {{goal|41|o.g.|}}
+|stadium = [[Estádio da Luz]]
+|location = [[Lisbon]], Portugal
+|attendance = 57,675
+|referee = [[Halil Umut Meler]] ([[Turkish Football Federation|Turkey]])
+|result = W
+}}
+{{football box collapsible
+|round = [[2024–25 UEFA Nations League A#Group 1|2024-25 UEFA NL]]
+|date = 8 September 2024
+|time = 19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1 = {{fb-rt|POR}}
+|team2 = {{fb|SCO}}
+|score = 2–1
+|report = https://www.uefa.com/uefanationsleague/match/2040075/
+|goals1 = 
+*[[Bruno Fernandes|Fernandes]] {{goal|54}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|88}}
+|goals2 =
+*[[Scott McTominay|McTominay]] {{goal|7}}
+|stadium = [[Estádio da Luz]]
+|location = [[Lisbon]], Portugal
+|attendance = 59,894
+|referee = [[Maurizio Mariani]] ([[Italian Football Federation|Italy]])
+|result = W
+}}
+{{football box collapsible
+|round = [[2024–25 UEFA Nations League A#Group 1|2024-25 UEFA NL]]
+|date = 12 October 2024
+|time = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1 = {{fb-rt|POL}}
+|score = 1–3
+|report = https://www.uefa.com/uefanationsleague/match/2040115/
+|team2 = {{fb|POR}}
+|goals1 =
+*[[Piotr Zieliński|Zieliński]] {{goal|78}}
+|goals2 =
+*[[Bernardo Silva|Silva]] {{goal|26}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|37}}
+*[[Jan Bednarek|Bednarek]] {{goal|88|o.g.|}}
+|stadium = [[Stadion Narodowy]]
+|location = [[Warsaw]], Poland
+|attendance = 56,854
+|referee = [[Serdar Gözübüyük]] ([[Royal Dutch Football Association|Netherlands]])
+|result = W
+}}
+{{football box collapsible
+|round = [[2024–25 UEFA Nations League A#Group 1|2024-25 UEFA NL]]
+|date = 15 October 2024
+|time = 19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|team1 = {{fb-rt|SCO}}
+|score = 0–0
+|report = https://www.uefa.com/uefanationsleague/match/2040145/
+|team2 = {{fb|POR}}
+|goals1 =
+|goals2 =
+|stadium = [[Hampden Park]]
+|location = [[Glasgow]], Scotland
+|attendance = 49,057
+|referee = [[Lawrence Visser]] ([[Royal Belgian Football Association|Belgium]])
+|result = D
+}}
+{{Football box collapsible
+|round = [[2024–25 UEFA Nations League A#Group 1|2024-25 UEFA NL]]
+|date = 15 November 2024
+|time = 19:45 [[Western European Time|WET]] ([[UTC+00:00]])
+|team1 = {{fb-rt|POR}}
+|score = 5–1
+|report = https://www.uefa.com/uefanationsleague/match/2040161/
+|team2 = {{fb|POL}}
+|goals1 =
+*[[Rafael Leão|Leão]] {{goal|59}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|72|pen.|87}}
+*[[Bruno Fernandes|Fernandes]] {{goal|80}}
+*[[Pedro Neto|Neto]] {{goal|83}}
+|goals2 =
+*[[Dominik Marczuk|Marczuk]] {{goal|88}}
+|stadium = [[Estádio do Dragão]]
+|location = [[Porto]], Portugal
+|attendance = 47,239
+|referee = [[Donatas Rumšas]] ([[Lithuanian Football Federation|Lithuania]])
+|result = W
+}}
+{{football box collapsible
+|round = [[2024–25 UEFA Nations League A#Group 1|2024-25 UEFA NL]]
+|date = 18 November 2024
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1 = {{fb-rt|CRO}}
+|score = 1–1
+|report = https://www.uefa.com/uefanationsleague/match/2040180/
+|team2 = {{fb|POR}}
+|goals1 =
+*[[Joško Gvardiol|Gvardiol]] {{goal|65}}
+|goals2 = 
+*[[João Félix|Félix]] {{goal|33}}
+|stadium = [[Stadion Poljud]]
+|location = [[Split, Croatia|Split]], Croatia
+|attendance = 33,386
+|referee = [[Davide Massa]] ([[Italian Football Federation|Italy]])
+|result = D
+}}
+
+===2025===
+{{football box collapsible
+|date = 20 March 2025
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00]])
+|round = [[2024–25 UEFA Nations League A#Quarter-finals|2025 UEFA NL QF]]
+|team1 = {{fb-rt|DEN}}
+|score = 1–0
+|report = https://www.uefa.com/uefanationsleague/match/2043058--denmark-vs-portugal/
+|team2 = {{fb|POR}}
+|goals1 =
+*[[Christian Eriksen|Eriksen]] {{penmiss}} 24'
+*[[Rasmus Højlund|Højlund]] {{goal|78}}
+|goals2 =
+|stadium = [[Parken Stadium]]
+|location = [[Copenhagen]], Denmark
+|attendance = 36,322
+|referee = [[Irfan Peljto]] ([[Football Association of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+|result = L
+}}
+{{football box collapsible
+|date = 23 March 2025
+|time = 19:45 [[Western European Time|WET]] ([[UTC+00:00]])
+|round = [[2024–25 UEFA Nations League A#Quarter-finals|2025 UEFA NL QF]]
+|team1 = {{fb-rt|POR}}
+|score = 5–2
+|aggregatescore = 5–3
+|aet = yes
+|report = https://www.uefa.com/uefanationsleague/match/2043062/
+|team2 = {{fb|DEN}}
+|goals1 =
+*[[Joachim Andersen (footballer)|Andersen]] {{goal|38|o.g.}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|72}}
+*[[Francisco Trincão|Trincão]] {{goal|86||91}}
+*[[Gonçalo Ramos|Ramos]] {{goal|115}}
+|goals2=
+*[[Rasmus Kristensen|Kristensen]] {{goal|56}}
+*[[Christian Eriksen|Eriksen]] {{goal|76}}
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal
+|attendance = 47,123
+|referee = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|result = W
+}}
+{{football box collapsible
+|date = 4 June 2025
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|round = [[2025 UEFA Nations League Finals|2025 UEFA NL SF]]
+|team1 = {{fb-rt|GER}}
+|score = 1–2
+|report = https://www.uefa.com/uefanationsleague/match/2043064/
+|team2 = {{fb|POR}}
+|goals1 =
+*[[Florian Wirtz|Wirtz]] {{goal|48}}
+|goals2 =
+*[[Francisco Conceição|Conceição]] {{goal|63}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|68}}
+|stadium = [[Allianz Arena]]
+|location = [[Munich]], Germany
+|attendance = 65,823
+|referee = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|result = W
+}}
+{{footballbox collapsible
+|date = 8 June 2025
+|time = 21:00 [[Central European Summer Time|CEST]] 
+|round = [[2024–25 UEFA Nations League A#Final|2025 UEFA NL F]]
+|team1 = {{fb-rt|POR}}
+|score = 2–2
+|aet = yes
+|penaltyscore = 5–3
+|report = https://www.uefa.com/uefanationsleague/match/2044949--portugal-vs-spain/
+|team2 = {{fb|ESP}}
+|goals1 =
+*[[Nuno Mendes (footballer, born 2002)|Mendes]] {{goal|26}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|61}}
+|goals2 = 
+*[[Martín Zubimendi|Zubimendi]] {{goal|21}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|45}}
+|penalties1 =
+*[[Gonçalo Ramos|Ramos]] {{pengoal}}
+*[[Vitinha (footballer, born February 2000)|Vitinha]] {{pengoal}}
+*[[Bruno Fernandes|Fernandes]] {{pengoal}}
+*[[Nuno Mendes (footballer, born 2002)|Mendes]] {{pengoal}}
+*[[Rúben Neves|Neves]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Mikel Merino|Merino]]
+*{{pengoal}} [[Álex Baena|Baena]]
+*{{pengoal}} [[Isco]]
+*{{penmiss}} [[Álvaro Morata|Morata]]
+|location = [[Munich]], Germany
+|stadium = [[Allianz Arena]]
+|attendance = 65,852
+|referee = [[Sandro Schärer]] ([[Swiss Football Association|Switzerland]])
+|result = D
+}}
+{{football box collapsible
+|date = 6 September 2025
+|time = 20:00 [[Armenia Time|AMT]] ([[UTC+04:00]])
+|round = [[2026 FIFA World Cup qualification – UEFA Group F|2026 FWC Q.]]
+|team1 = {{fb-rt|ARM}}
+|score = 0–5
+|report = https://www.uefa.com/european-qualifiers/match/2044232/
+|team2 = {{fb|POR}}
+|goals1 =
+|goals2 =
+*[[João Félix|Félix]] {{goal|10||62}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|21||46}}
+*[[João Cancelo|Cancelo]] {{goal|32}}
+|stadium = [[Vazgen Sargsyan Republican Stadium]]
+|location = [[Yerevan]], Armenia
+|attendance = 14,403
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|result = W
+}}
+{{football box collapsible
+|date = 9 September 2025
+|time = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|round = [[2026 FIFA World Cup qualification – UEFA Group F|2026 FWC Q.]]
+|team1 = {{fb-rt|HUN}}
+|score = 2–3
+|report = https://www.uefa.com/european-qualifiers/match/2044253/
+|team2 = {{fb|POR}}
+|goals1 =
+*[[Barnabás Varga|Varga]] {{goal|21||84}}
+|goals2 =
+*[[Bernardo Silva|B. Silva]] {{goal|36}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|58|pen.}}
+*[[Joao Cancelo|Cancelo]] {{goal|86}}
+|stadium = [[Puskás Aréna]]
+|location = [[Budapest]], Hungary
+|attendance = 61,473
+|referee = [[Erik Lambrechts]] ([[Royal Belgian Football Association|Belgium]])
+|result = W
+}}
+{{football box collapsible
+|date = 11 October 2025
+|time = 19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00]]) 
+|round = [[2026 FIFA World Cup qualification – UEFA Group F|2026 FWC Q.]]
+|team1 = {{fb-rt|POR}}
+|score = 1–0
+|report = https://www.uefa.com/european-qualifiers/match/2044273/
+|team2 = {{fb|IRL}}
+|goals1 =
+*[[Rúben Neves|R. Neves]] {{goal|90+1}}
+|goals2 =
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal
+|attendance = 48,821
+|referee = [[Ivan Kružliak]] ([[Slovak Football Association|Slovakia]])
+|result = W
+}}
+{{football box collapsible
+|date = 14 October 2025
+|time = 19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00]]) 
+|round = [[2026 FIFA World Cup qualification – UEFA Group F|2026 FWC Q.]]
+|team1 = {{fb-rt|POR}}
+|score = 2–2
+|report = https://www.uefa.com/european-qualifiers/match/2044300/
+|team2 = {{fb|HUN}}
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|22||45+3}}
+|goals2 =
+*[[Attila Szalai|Szalai]] {{goal|8}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|90+1}}
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal
+|attendance = 47,854
+|referee = [[Srđan Jovanović (referee)|Srđan Jovanović]] ([[Football Association of Serbia|Serbia]])
+|result = D
+}}
+{{football box collapsible
+|date = 13 November 2025
+|time = 19:45 [[Greenwich Mean Time|WEST]] ([[UTC+01:00]]) 
+|round = [[2026 FIFA World Cup qualification – UEFA Group F|2026 FWC Q.]]
+|team1 = {{fb-rt|IRL}}
+|score = 2–0
+|report = https://www.uefa.com/european-qualifiers/match/2044312/
+|team2 = {{fb|POR}}
+|goals1 =
+*[[Troy Parrott|Parrott]] {{goal|17||45}}
+|goals2 =
+|location = [[Dublin]], Ireland
+|stadium =  [[Aviva Stadium]]
+|attendance = 50,717
+|referee = [[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+|result = L
+}}
+{{football box collapsible
+|date = 16 November 2025
+|time = 14:00 [[Western European Time|WET]] ([[UTC+00:00]]) 
+|round = [[2026 FIFA World Cup qualification – UEFA Group F|2026 FWC Q.]]
+|team1 = {{fb-rt|POR}}
+|score = 9–1
+|report = https://www.uefa.com/european-qualifiers/match/2044336/
+|team2 = {{fb|ARM}}
+|goals1 =
+*[[Renato Veiga|Veiga]] {{goal|7}}
+*[[Gonçalo Ramos|Ramos]] {{goal|28}}
+*[[João Neves|Neves]] {{goal|30||41||81}}
+*[[Bruno Fernandes|Fernandes]] {{goal|45+3|pen.|52||72|pen.}}
+*[[Francisco Conceição|Conceição]] {{goal|90+2}}
+|goals2 =
+*[[Eduard Spertsyan|Spertsyan]] {{goal|18}}
+|stadium = [[Estádio do Dragão]]
+|location = [[Porto]], Portugal
+|attendance = 46,702
+|referee = [[Irfan Peljto]] ([[Football Association of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+|result = W
+}}
+
+===2026===
+{{football box collapsible
+|date = 28 March 2026
+|time = 20:00 [[Central Standard Time|CST]] ([[UTC-06:00]])
+|round = [[Exhibition game|Friendly]]
+|team1 = {{fb-rt|MEX}}
+|score = 0–0
+|report = https://www.uefa.com/european-qualifiers/friendlies/match/2047667--mexico-vs-portugal/
+|team2 = {{fb|POR}}
+|goals1 =
+|goals2 =
+|stadium = [[Estadio Azteca]]
+|location = [[Mexico City]], Mexico
+|attendance = 84,130
+|referee = [[Walter López Castellanos|Walter López]] ([[National Football Federation of Guatemala|Guatemala]])
+|result = D
+}}
+{{football box collapsible
+|date = 31 March 2026
+|time = 19:00 [[Eastern Daylight Time|EDT]] ([[UTC-04:00]]) 
+|round = [[Exhibition game|Friendly]]
+|team1 = {{fb-rt|USA}}
+|score = 0–2
+|report = https://www.uefa.com/european-qualifiers/friendlies/match/2047672--usa-vs-portugal/
+|team2 = {{fb|POR}}
+|goals1 =
+|goals2 =
+*[[Francisco Trincão|Trincão]] {{goal|37}}
+*[[João Félix|Félix]] {{goal|59}}
+|stadium = [[Mercedes-Benz Stadium]] 
+|location = [[Atlanta]], United States
+|attendance = 72,297
+|referee = [[Sven Jablonski]] ([[German Football Association|Germany]])
+|result = W
+}}
+{{football box collapsible
+|date       = 6 June 2026
+|time       = 18:45 [[Eastern European Summer Time|EEST]] ([[UTC+01:00]])
+|round      = [[Exhibition game|Friendly]]
+|team1      = {{fb-rt|POR}}
+|score      = 2–1
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048198--portugal-vs-chile/
+|team2      = {{fb|CHI}}
+|goals1     = 
+*[[Gonçalo Guedes|Guedes]] {{goal|58}}
+*[[Bruno Fernandes|Fernandes]] {{goal|75}}
+|goals2     = 
+*[[Lucas Cepeda|Cepeda]] {{goal|90+2}}
+|stadium    = [[Estádio Nacional]]
+|location   = [[Oeiras, Portugal|Oeiras]], Portugal
+|attendance = 35,812
+|referee    = [[Luca Zufferli]] ([[Italian Football Federation|Italy]])
+|result     = W
+}}
+{{football box collapsible
+|date       = 10 June 2026
+|time       = 20:45 [[Eastern European Summer Time|EEST]] ([[UTC+01:00]])
+|round      = [[Exhibition game|Friendly]]
+|team1      = {{fb-rt|POR}}
+|score      = 2–1
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048201--portugal-vs-nigeria/
+|team2      = {{fb|NGA}}
+|goals1     = 
+*[[Pedro Neto|Neto]] {{goal|23}}
+*[[Francisco Conceição|Conceição]] {{goal|75}}
+|goals2     = 
+*[[Akor Adams|Adams]] {{goal|37}}
+|stadium    = [[Estádio Dr. Magalhães Pessoa]]
+|location   = [[Leiria]], Portugal
+|attendance = 21,049
+|referee    = [[Mateo Busquets Ferrer]] ([[Spanish Football Association|Spain]])
+|result     = W
+}}
+{{football box collapsible
+|date       = 17 June 2026
+|time       = 12:00 [[Eastern Standard Time|EST]] ([[UTC-05:00]])
+|round      = [[2026 FIFA World Cup Group K|2026 FWC GS]]
+|team1      = {{fb-rt|POR}}
+|score      = 1–1
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021502
+|team2      = {{fb|DRC}}
+|goals1=
+*[[João Neves|J. Neves]] {{goal|6}}
+|goals2=
+*[[Yoane Wissa|Wissa]] {{goal|45+5}}
+|stadium    = [[NRG Stadium]]
+|location   = [[Houston]], United States
+|attendance = 68,777
+|referee    = [[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+|result     = D
+}}
+{{football box collapsible
+|date       = 23 June 2026
+|time       = {{UTZ|12:00|-5}}
+|round      = [[2026 FIFA World Cup Group K|2026 FWC GS]]
+|team1      = {{fb-rt|POR}}
+|score      = 5–0
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021503
+|team2      = {{fb|UZB}}
+|goals1     = 
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|6|39}}
+*[[Nuno Mendes (footballer, born 2002)|Mendes]] {{goal|17}}
+*[[Abduvohid Nematov|Nematov]] {{goal|60|o.g.}}
+*[[Rafael Leão|Leão]] {{goal|87}}
+|goals2     =
+|location   = [[Houston]], United States
+|stadium    = [[NRG Stadium]]
+|attendance = 68,777
+|referee    = [[Jalal Jayed]] ([[Royal Moroccan Football Federation|Morocco]])
+|result     = W
+}}
+{{football box collapsible
+|date       = 27 June 2026
+|time       = 17:30 [[Eastern Daylight Time|EDT]] ([[UTC-04:00]])
+|round      = [[2026 FIFA World Cup Group K|2026 FWC GS]]
+|team1      = {{fb-rt|COL}}
+|score      = 0–0
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021505
+|team2      = {{fb|POR}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Hard Rock Stadium]]
+|location   = [[Miami Gardens, Florida|Miami Gardens]], United States
+|attendance = 64,478
+|referee    = [[Alireza Faghani]] ([[Football Australia|Australia]])
+|result     = D
+}}
+{{football box collapsible
+|date       = 2 July 2026
+|time       = 19:00 [[Eastern Daylight Time|EDT]] ([[UTC-04:00]])
+|round      = [[2026 FIFA World Cup round of 32|2026 FWC R32]]
+|team1      = {{fb-rt|POR}}
+|score      = 2–1
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021526
+|team2      = {{fb|CRO}}
+|goals1     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|68|pen.}}
+*[[Gonçalo Ramos|Ramos]] {{goal|90+4}}
+|goals2     =
+*[[Ivan Perišić|Perišić]] {{goal|53}}
+|stadium    =  [[BMO Field]]
+|attendance = 43,036
+|location   = [[Toronto]], Canada
+|referee    = [[Espen Eskås]] ([[Norwegian Football Federation|Norway]])
+|result     = W
+}}
+{{football box collapsible
+|date       = 6 July 2026
+|time       = 14:00 [[Central Time Zone|CDT]] ([[UTC-05:00]])
+|round      = [[2026_FIFA_World_Cup_knockout_stage#Round_of_16|2026 FWC R16]]
+|team1      = {{fb-rt|POR}}
+|score      = 0–1
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289288/400021529
+|team2      = {{fb|ESP}}
+|goals1     =
+|goals2     =
+*[[Mikel Merino|Merino]] {{goal|90+1}}
+|stadium    = [[AT&T Stadium]]
+|attendance = 70,649
+|location   = [[Arlington, Texas|Arlington]], United States
+|referee    = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|result     = L
+}}
+{{football box collapsible
+|date       = 24 September 2026
+|time       = {{UTZ|19:45|+1}}
+|round      = [[2026–27 UEFA Nations League A#Group 4|2026–27 UEFA NL]]
+|score      = 1–0
+|report     = https://www.uefa.com/uefanationsleague/match/2048002/
+|team1      = {{fb-rt|POR}}
+|goals1     = 
+*[[João Félix|Félix]] {{goal|22}}
+|team2      = {{fb|WAL}}
+|goals2     = 
+|stadium    = [[Estádio José Alvalade]]
+|location   = [[Lisbon]], Portugal
+|attendance = 47,725
+|referee    = [[Donatas Rumšas]] ([[Lithuanian Football Federation|Lithuania]])
+|result     = W
+}}
+{{football box collapsible
+|date       = 27 September 2026
+|time       = {{UTZ|20:45|+2}}
+|round      = [[2026–27 UEFA Nations League A#Group 4|2026–27 UEFA NL]]
+|score      = 1–2
+|report     = https://www.uefa.com/uefanationsleague/match/2047978/
+|team1      = {{fb-rt|NOR}}
+|goals1     = 
+*[[Erling Haaland|Haaland]] {{goal|51}}
+|team2      = {{fb|POR}}
+|goals2     = 
+*[[João Félix|Félix]] {{goal|17}}
+*[[Gonçalo Ramos|Ramos]] {{goal|54}}
+|stadium    = [[Ullevaal Stadion]]
+|location   = [[Oslo]], Norway
+|attendance = 25,953
+|referee    = [[François Letexier]] ([[French Football Association|France]])
+|result     = W
+}}
+{{football box collapsible
+|date       = 1 October 2026
+|time       = {{UTZ|20:45|+2}}
+|round      = [[2026–27 UEFA Nations League A#Group 4|2026–27 UEFA NL]]
+|score      = 2–4
+|report     = https://www.uefa.com/uefanationsleague/match/2047957/
+|team1      = {{fb-rt|DEN}}
+|goals1     = 
+*[[Mikkel Damsgaard|Damsgaard]] {{goal|23}}
+*[[Rasmus Højlund|Højlund]] {{goal|53}}
+|team2      = {{fb|POR}} 
+|goals2     =
+*[[João Cancelo|Cancelo]] {{goal|13}}
+*[[Gonçalo Ramos|Ramos]] {{goal|25}}
+*[[Vitinha]] {{goal|67}}
+*[[João Félix|Félix]] {{goal|87}}
+|stadium    = [[Parken Stadium]]
+|location   = [[Copenhagen]], Denmark
+|attendance = 35,951
+|referee    = [[Mykola Balakin]] ([[Ukrainian Association of Football|Ukraine]])
+|result     = W
+}}
+{{football box collapsible
+|date       = 4 October 2026
+|time       = {{UTZ|19:45|+1}}
+|round      = [[2026–27 UEFA Nations League A#Group 4|2026–27 UEFA NL]]
+|score      = 2–1
+|report     = https://www.uefa.com/uefanationsleague/match/2047924/
+|team1      = {{fb-rt|POR}}
+|goals1     = 
+*[[João Cancelo|Cancelo]] {{goal|38}}
+*[[Gonçalo Ramos|Ramos]] {{goal|79}}
+|team2      = {{fb|NOR}}
+|goals2     = 
+*[[Kristoffer Ajer|Ajer]] {{goal|36}}
+|stadium    = [[Estádio do Dragão]]
+|location   = [[Porto]], Portugal
+|attendance = 48,832
+|referee    = [[Maurizio Mariani]] ([[Italian Football Federation|Italy]])
+|result     = W
+}}
+{{football box collapsible
+|date       = 14 November 2026
+|time       = {{UTZ|19:45|+0}}
+|round      = [[2026–27 UEFA Nations League A#Group 4|2026–27 UEFA NL]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047892/
+|team1      = {{fb-rt|POR}}
+|goals1     = 
+|team2      = {{fb|DEN}}
+|goals2     = 
+|stadium    = [[Estádio Municipal de Braga]]
+|location   = [[Braga]], Portugal
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|date       = 17 November 2026
+|time       = {{UTZ|19:45|+0}}
+|round      = [[2026–27 UEFA Nations League A#Group 4|2026–27 UEFA NL]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047920/
+|team1      = {{fb-rt|WAL}}
+|goals1     = 
+|team2      = {{fb|POR}}
+|goals2     = 
+|stadium    = [[Cardiff City Stadium]]
+|location   = [[Cardiff]], Wales
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20070822015300/http://www.fifa.com/associations/association=por/fixturesresults/gender=m/index.html Portugal: Fixtures and Results - FIFA.com]
+* [https://web.archive.org/web/20140714135200/http://www.fpf.pt/Sele%C3%A7%C3%B5es/Futebol/Masculino/Sele%C3%A7%C3%A3o-A/Jogos-e-Resultados/Competi%C3%A7%C3%B5es Seleção A Jogos e Resultados FPF]
+* [https://www.rsssf.org/tablesp/port-intres.html Portugal - International Results]
+
+{{Portugal national football team}}
+{{Football results UEFA}}
+
+{{DEFAULTSORT:National football team results}}
+[[Category:Portugal national football team results|2020–present]]
+[[Category:2020s European men's national association football team results|Portugal]]
+[[Category:2020–21 in Portuguese football]]
+[[Category:2021–22 in Portuguese football]]
+[[Category:2022–23 in Portuguese football]]
+[[Category:2023–24 in Portuguese football]]
+[[Category:2024–25 in Portuguese football]]
+[[Category:2025–26 in Portuguese football]]

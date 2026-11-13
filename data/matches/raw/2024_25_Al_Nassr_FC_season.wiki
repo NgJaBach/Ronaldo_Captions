@@ -1,0 +1,2203 @@
+{{Use dmy dates|date=February 2025}}
+{{Infobox football club season
+| club = [[Al Nassr FC|Al-Nassr]]
+| image = 
+| season = 2024–25
+| stadium = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+| chairman = {{Unbulleted list|Ibrahim Al-Muhaidib<br>''(until 21 August)''<br>Abdullah Al-Majid<br>''(from 28 October)''<ref>{{cite news |title=Al-Majid Appointed as Chairman of Board of Directors of Al-Nassr Club Company |url=https://alnassr.sa/news/read/182/Al-Majid-Appointed-as-Chairman-of-Board-of-Directors-of-AlNassr-Club-Compny|publisher=Al Nassr FC}}</ref>}}
+| chrtitle = President
+| mgrtitle = Head coach
+| manager = [[Luís Castro (footballer, born 1961)|Luís Castro]]<br>''(until 17 September)''<ref>{{cite web |title=رسميا.. النصر يبعد كاسترو بعد 470 يوما وبطولة يتيمة |url=https://arriyadiyah.com/849628}}</ref><br>[[Stefano Pioli]]<br>''(from 18 September)''<ref>{{cite web |title=رسميا.. النصر يعلن التعاقد مع بيولي |url=https://m.kooora.com/?n=1355562&o=n&cz=749&pg=2}}</ref> 
+| league = [[Saudi Pro League|Pro League]]
+| league result = [[2024–25 Saudi Pro League|3rd]]
+| cup1 = [[King's Cup (Saudi Arabia)|King's Cup]]
+| cup1 result = [[2024–25 King's Cup (Saudi Arabia)|Round of 16]]
+| cup2 = [[AFC Champions League Elite]]
+| cup2 result = [[2024–25 AFC Champions League Elite|Semi-finals]]
+| cup3 = [[Saudi Super Cup|Super Cup]]
+| cup3 result = [[2024 Saudi Super Cup final|Runners-up]]
+| league topscorer = <br>[[Cristiano Ronaldo]] (25)
+| season topscorer = <br>Cristiano Ronaldo (35)
+| highest attendance = 25,490 vs [[Al Hilal SFC|Al-Hilal]]<br><small>{{nowrap|(1 November 2024, SPL)}}</small>
+| lowest attendance = 5,889 vs [[Al-Khaleej FC|Al-Khaleej]]<br><small>{{nowrap|(21 May 2025, SPL)}}</small>
+| average attendance = 16,292
+| prevseason = [[2023–24 Al-Nassr FC season|2023–24]]
+| nextseason = [[2025–26 Al-Nassr FC season|2025–26]]
+| pattern_la1 = _alnassr2425h
+| pattern_b1 = _alnassr2425h
+| pattern_ra1 = _alnassr2425h
+| pattern_sh1 = _alnassr2425h
+| pattern_so1 = _alnassr2425hl
+| leftarm1 = FFF000
+| body1 = #002F6C
+| rightarm1 = FFF000
+| shorts1 = 0000DD
+| socks1 = FFF000
+| pattern_la2 = _alnassr2425a
+| pattern_b2 = _alnassr2425a
+| pattern_ra2 = _alnassr2425a
+| pattern_sh2 = _alnassr2425a
+| pattern_so2 = _alnassr2425al
+| leftarm2 = 000060
+| body2 = #FFD700
+| rightarm2 = 000060
+| shorts2 = 000060
+| socks2 = 000060
+| pattern_la3 = _adidas24gold
+| pattern_b3 = _alnassr2425t
+| pattern_ra3 = _adidas24gold
+| pattern_sh3 = _adidas24gold
+| pattern_so3 = _alnassr2425tl
+| body3 = FFFFFF
+| leftarm3 = FFFFFF
+| rightarm3 = FFFFFF
+| shorts3 = FFFFFF
+| socks3 = 
+}}
+The '''2024–25 season''' was [[Al Nassr FC|Al-Nassr]]'s 49th consecutive season in the top flight of [[Football in Saudi Arabia|Saudi football]] and 69th year in existence as a [[Football club (association football)|football club]].<ref>{{cite web |title=عن النادي |url=https://alnassr.sa/ar/about |access-date=3 June 2023 |archive-date=10 June 2022 |archive-url=https://web.archive.org/web/20220610063706/https://alnassr.sa/ar/about |url-status=dead }}</ref> The club participated in the [[2024–25 Saudi Pro League|Pro League]], the [[2024–25 King Cup|King's Cup]], the [[2024–25 AFC Champions League Elite|AFC Champions League Elite]], and the [[2024 Saudi Super Cup|Super Cup]].
+
+The season covers the period from 1 July 2024 to 30 June 2025.
+
+==Overview==
+This season saw the departure of [[Abdullah Madu]] who had been at the club for 17 years.
+
+On 17 September, Al-Nassr terminated the contract of head coach [[Luís Castro (footballer, born 1961)|Luís Castro]] following a slow start to the season.<ref>{{cite web |title=Luis Castro Departs Al-Nassr |url=https://www.spl.com.sa/en/news/508368/luis-castro-departs-al-nassr}}</ref>
+
+On 1 January 2025, Majid Al-Jam'an replaced Guido Fienga as the club's Executive Director with Fienga becoming the club advisor.
+
+Al-Nassr sold [[Seko Fofana]] in the winter window for €20,000,000 to the French side [[Stade Rennais FC|Rennes]], making it the biggest sale outside the Saudi Pro League, although higher sales have been made within the league itself.
+
+==Players==
+===First-team squad===
+{{updated|31 January 2025}}
+
+{{fs start|nonumber=|bg=FFFF00|color=0000FF|border=232658}}
+{{Fs player|no=2|nat=KSA|name=[[Sultan Al-Ghannam]]|pos=DF|other=[[captain (association football)|vice-captain]]}}
+{{Fs player|no=3|nat=FRA|name=[[Mohamed Simakan]]|pos=DF}}
+{{Fs player|no=4|nat=KSA|name=[[Mohammed Al-Fatil]]|pos=DF}}
+{{Fs player|no=7|nat=POR|name=[[Cristiano Ronaldo]]|pos=FW|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=8|nat=KSA|name=[[Abdulmajeed Al-Sulaiheem]]|pos=MF}}
+{{Fs player |no=9|nat=COL|name=[[Jhon Durán]]|pos=FW}}
+{{Fs player|no=10|nat=SEN|name=[[Sadio Mané]]|pos=FW}}
+{{Fs player|no=11|nat=CRO|name=[[Marcelo Brozović]]|pos=MF}}
+{{Fs player|no=12|nat=KSA|name=[[Nawaf Boushal]]|pos=DF}}
+{{Fs player|no=16|nat=KSA|name=[[Mohammed Maran]]|pos=FW}}
+{{Fs player|no=17|nat=KSA|name=[[Abdullah Al-Khaibari]]|pos=MF}}
+{{Fs player|no=19|nat=KSA|name=[[Ali Al-Hassan]]|pos=MF}}
+{{Fs player|no=20|nat=BRA|name=[[Ângelo Gabriel]]|pos=MF}}
+{{Fs player|no=22|nat=KSA|name=[[Ahmed Al-Rehaili]]|pos=GK|other={{small|on loan from [[Al-Ettifaq FC|Al-Ettifaq]]}}}}
+{{Fs player|no=23|nat=KSA|name=[[Ayman Yahya]]|pos=MF}}
+{{Fs player|no=24|nat=BRA|name=[[Bento (footballer)|Bento]]|pos=GK}}
+{{fs mid|nonumber=|bg=FFFF00|color=0000FF|border=232658}}
+{{Fs player|no=25|nat=POR|name=[[Otávio (footballer, born 1995)|Otávio]]|pos=MF}}
+{{Fs player|no=27|nat=ESP|name=[[Aymeric Laporte]]|pos=DF}}
+{{Fs player|no=29|nat=KSA|name=[[Abdulrahman Ghareeb]]|pos=MF}}
+{{Fs player|no=36|nat=KSA|name=[[Raghed Al-Najjar]]|pos=GK}}
+{{Fs player|no=50|nat=KSA|name=[[Majed Qasheesh]]|pos=DF}}
+{{Fs player|no=51|nat=KSA|name=Abdulrahman Al-Enazi {{small|<sup>'''U19'''</sup>}}|pos=FW}}
+{{Fs player|no=54|nat=KSA|name=Faris Salem {{small|<sup>'''U19'''</sup>}}|pos=FW}}
+{{Fs player|no=58|nat=KSA|name=Mohammed Hazazi {{small|<sup>'''U19'''</sup>}}|pos=DF}}
+{{Fs player|no=60|nat=KSA|name=[[Saad Haqawi]] {{small|<sup>'''U19'''</sup>}}|pos=FW}}
+{{Fs player|no=61|nat=KSA|name=Mubarak Al-Buainain {{small|<sup>'''U19'''</sup>}}|pos=GK}}
+{{Fs player|no=70|nat=KSA|name=[[Awad Aman]] {{small|<sup>'''U19'''</sup>}}|pos=DF}}
+{{Fs player|no=71|nat=KSA|name=Mubarak Al-Dawsari {{small|<sup>'''U19'''</sup>}}|pos=MF}}
+{{Fs player|no=78|nat=KSA|name=[[Ali Lajami]]|pos=DF}}
+{{Fs player|no=80|nat=BRA|name=[[Wesley (footballer, born 2005)|Wesley]]|pos=MF}}
+{{Fs player|no=83|nat=KSA|name=[[Salem Al-Najdi]]|pos=DF}}
+{{Fs player|no=|nat=KSA|name=Bassam Hazazi {{small|<sup>'''U19'''</sup>}}|pos=MF}}
+{{fs end}}
+
+=== Other players under contract ===
+{{fs start|nonumber=|bg=FFFF00|color=0000FF|border=232658}}
+{{Fs player|no=14|nat=KSA|name=[[Sami Al-Najei]]|pos=MF}}
+{{fs mid|nonumber=|bg=FFFF00|color=0000FF|border=232658}}
+{{Fs player|no=|nat=KSA|name=[[Hamad Al Mansour]]|pos=DF}}
+{{fs end}}
+
+===Out on loan===
+{{fs start|nonumber=|bg=FFFF00|color=0000FF|border=232658}}
+{{Fs player|no=1|nat=KSA|name=[[Amin Bukhari]]|pos=GK|other={{small|on loan to [[Damac FC|Damac]]}}}}
+{{Fs player|no=5|nat=KSA|name=[[Abdulelah Al-Amri]]|pos=DF|other={{small|on loan to [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]}}}}
+{{Fs player|no=30|nat=KSA|name=[[Meshari Al-Nemer]]|pos=FW|other={{small|on loan to [[Damac FC|Damac]]}}}}
+{{Fs player|no=38|nat=KSA|name=Fahad Al-Taleb|pos=MF|other={{small|on loan to [[Al-Najma SC (Saudi Arabia)|Al-Najma]]}}}}
+{{Fs player|no=42|nat=KSA|name=[[Mansour Al-Shammari]]|pos=DF|other={{small|on loan to [[Al-Jubail Club|Al-Jubail]]}}}}
+{{Fs player|no=44|nat=KSA|name=[[Nawaf Al-Aqidi]]|pos=GK|other={{small|on loan to [[Al-Fateh SC|Al-Fateh]]}}}}
+{{Fs player|no=46|nat=KSA|name=[[Abdulaziz Al-Aliwa]]|pos=MF|other={{small|on loan to [[Al-Ettifaq FC|Al-Ettifaq]]}}}}
+{{fs mid|nonumber=|bg=FFFF00|color=0000FF|border=232658}}
+{{Fs player|no=55|nat=KSA|name=[[Abdulaziz Al-Faraj]]|pos=DF|other={{small|on loan to [[Al-Tai FC|Al-Tai]]}}}}
+{{Fs player|no=57|nat=KSA|name=Muhannad Barah|pos=FW|other={{small|on loan to [[Al-Saqer FC|Al-Saqer]]}}}}
+{{Fs player|no=66|nat=KSA|name=Waleed Saber|pos=DF|other={{small|on loan to [[Al-Jeel Club|Al-Jeel]]}}}}
+{{Fs player|no=92|nat=KSA|name=[[Fahad Al-Zubaidi]]|pos=FW|other={{small|on loan to [[Al-Orobah FC|Al-Orobah]]}}}}
+{{Fs player|no=99|nat=KSA|name=Aser Hawsawi|pos=DF|other={{small|on loan to [[Al-Jubail Club|Al-Jubail]]}}}}
+{{Fs player|no=|nat=KSA|name=Rakan Al-Ghamdi|pos=MF|other={{small|on loan to [[NEC Nijmegen|Jong NEC]]}}}}
+{{fs end}}
+
+==Technical staff==
+
+{| class="wikitable"
+|-
+!Position
+!Name
+|-
+|Manager
+|{{flagicon|ITA}} [[Stefano Pioli]]
+|-
+|Assistant Manager
+| {{flagicon|ITA}}  [[Francesco Conti (footballer)|Francesco Conti]]
+|-
+|First Team Coach
+| {{flagicon|ITA}} [[:it:Giacomo Murelli|Giacomo Murelli]]
+|-
+|Goalkeeping Coach
+| {{flagicon|SPA}} Tony Mingual
+|-
+|Technical Coach
+| {{flagicon|ITA}} Luciano Vulcano
+|-
+|Physiotherapist
+| {{flagicon|ITA}} Roberto Morosi
+|-
+|Head Doctor 
+| {{flagicon|POR}} Carlos Miguel
+|-
+|Youth Coach
+| {{flagicon|CRO}} [[Ivan Matić]]
+|-
+|Youth Coach
+| {{flagicon|CRO}} Džemal Adilji
+|-
+|Video Analyst
+| {{flagicon|ITA}} Gianmarco Pioli
+|-
+|Match Analyst
+| {{flagicon|ITA}} [[Jesse Fioranelli]]
+|-
+|Sporting Director
+| {{flagicon|SPA}} [[Fernando Hierro]]
+|-
+|Assistant Sporting Director & Head of Scouts Department
+| {{flagicon|SPA}} Adrián Espárraga
+|-
+|Executive Director
+| {{flagicon|KSA}} Majid Al-Jam'an 
+|-
+|Talent Scouting
+| {{flagicon|POR}} Marcelo Salazar
+|-
+|Chief Scout
+| {{flagicon|ESP}} Rafa Gil
+|-
+|Director of football
+| {{flagicon|KSA}} [[Omar Hawsawi]]
+|-
+|Club advisor 
+| {{flagicon|ITA}} Guido Fienga
+|-
+|}
+
+==Transfers and loans==
+<!-- SORTED BY DATE, POSITION, SQUAD NUMBER, NAME -->
+
+===Transfers in===
+{| class="wikitable sortable"
+|-
+! style="background:yellow; color:blue;" |'''Entry date''' 
+! style="background:yellow; color:blue;" |'''Position''' 
+! style="background:yellow; color:blue;" |'''No.''' 
+! style="background:yellow; color:blue;" |'''Player''' 
+! style="background:yellow; color:blue;" |'''From club''' 
+! style="background:yellow; color:blue;" |'''Fee''' 
+! style="background:yellow; color:blue;" |'''Ref.'''
+|-
+| 30 June 2024
+| style="text-align:center;"| GK
+| style="text-align:center;"| 1
+| style="text-align:left;"| {{flagicon|KSA}} [[Amin Bukhari]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Ettifaq FC|Al-Ettifaq]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 3
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdullah Madu]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Ettifaq FC|Al-Ettifaq]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 13
+| style="text-align:left;"| {{flagicon|CIV}} [[Ghislain Konan]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Fayha FC|Al-Fayha]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 20
+| style="text-align:left;"| {{flagicon|KSA}} [[Hamad Al Mansour]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Okhdood Club|Al-Okhdood]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 42
+| style="text-align:left;"| {{flagicon|KSA}} [[Mansour Al-Shammari]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Jabalain FC|Al-Jabalain]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 50
+| style="text-align:left;"| {{flagicon|KSA}} [[Majed Qasheesh]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Hazem F.C.|Al-Hazem]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 58
+| style="text-align:left;"| {{flagicon|KSA}} [[Aser Hawsawi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Jeddah Club|Jeddah]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 59
+| style="text-align:left;"| {{flagicon|KSA}} [[Yousef Haqawi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Fayha FC|Al-Fayha]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2024
+| style="text-align:center;"| MF
+| style="text-align:center;"| 6
+| style="text-align:left;"| {{flagicon|CIV}} [[Seko Fofana]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Ettifaq FC|Al-Ettifaq]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2024
+| style="text-align:center;"| MF
+| style="text-align:center;"| 21
+| style="text-align:left;"| {{flagicon|KSA}} [[Mukhtar Ali]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Fateh SC|Al-Fateh]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2024
+| style="text-align:center;"| FW
+| style="text-align:center;"| 56
+| style="text-align:left;"| {{flagicon|KSA}} [[Fahad Al-Zubaidi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Orobah FC|Al-Orobah]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 18 July 2024
+| style="text-align:center;"| GK
+| style="text-align:center;"| 24
+| style="text-align:left;"| {{flagicon|BRA}} [[Bento (footballer)|Bento]]
+| style="text-align:left;"| {{flagicon|BRA}} [[Club Athletico Paranaense|Athletico Paranaense]]
+| {{ntsh|19.65}}$19,650,000
+| <ref>{{Cite web|url=https://aawsat.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/5041240-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%8A%D9%8F%D8%B9%D9%84%D9%86-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7%D9%8B-%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D9%85%D8%B9-%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%B3-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84%D9%8A-%D8%A8%D9%8A%D9%86%D8%AA%D9%88|title=النصر يُعلن رسمياً التوقيع مع الحارس البرازيلي بينتو|website=aawsat.com}}</ref>
+|-
+| 15 August 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 83
+| style="text-align:left;"| {{flagicon|KSA}} [[Salem Al-Najdi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al Fateh SC|Al-Fateh]]
+| {{ntsh|4.8}}$4,800,000
+| <ref>{{Cite web|url=https://www.alarabiya.net/sport/2024/08/15/%D8%A7%D9%84%D9%86%D8%AC%D8%AF%D9%8A-%D9%84%D8%A7%D8%B9%D8%A8%D8%A7%D9%8B-%D9%84%D9%84%D9%86%D8%B5%D8%B1-%D8%AD%D8%AA%D9%89-2029|title=سالم النجدي لاعباً للنصر حتى 2029}}</ref>
+|-
+| 30 August 2024
+| style="text-align:center;"| FW
+| style="text-align:center;"| 80
+| style="text-align:left;"| {{flagicon|BRA}} [[Wesley (footballer, born 2005)|Wesley]]
+| style="text-align:left;"| {{flagicon|BRA}} [[Sport Club Corinthians Paulista|Corinthians]]
+| {{ntsh|19.9}}$19,900,000
+| <ref>{{Cite web|url=https://arriyadiyah.com/848181/|title=رسميّا.. النصر يوقع مع جاسوفا|website=arriyadiyah.com}}</ref>
+|-
+| 2 September 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 3
+| style="text-align:left;"| {{flagicon|FRA}} [[Mohamed Simakan]]
+| style="text-align:left;"| {{flagicon|GER}} [[RB Leipzig]]
+| {{ntsh|38.8}}$38,800,000
+| <ref>{{Cite web|url=https://aawsat.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/5056867-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%8A%D8%AD%D8%B3%D9%85-%D8%B5%D9%81%D9%82%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D8%B3%D9%8A%D9%85%D8%A7%D9%83%D8%A7%D9%86|title=النصر يحسم صفقة الفرنسي سيماكان|website=aawsat.com}}</ref>
+|-
+| 3 September 2024
+| style="text-align:center;"| FW
+| style="text-align:center;"| 20
+| style="text-align:left;"| {{flagicon|BRA}} [[Ângelo Gabriel]]
+| style="text-align:left;"| {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| {{ntsh|25.5}}$25,500,000
+| <ref>{{Cite web|url=https://www.chelseafc.com/en/news/article/angelo-gabriel-joins-al-nassr|title=Angelo Gabriel joins Al Nassr|website=www.chelseafc.com}}</ref>
+|-
+| 29 January 2025
+| style="text-align:center;"| MF
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Bassam Hazazi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Ettifaq FC|Al-Ettifaq]]
+| {{ntsh|0.0}}Swap
+| <ref>{{cite web |title=رسميًا.. النصر يتعاقد مع بسام هزازي |url=https://www.akhbaar24.com/%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-24/%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%8A%D8%AA%D8%B9%D8%A7%D9%82%D8%AF-%D9%85%D8%B9-%D8%A8%D8%B3%D8%A7%D9%85-%D9%87%D8%B2%D8%A7%D8%B2%D9%8A-80579}}</ref>
+|-
+| 31 January 2025
+| style="text-align:center;"| FW
+| style="text-align:center;"| 9
+| style="text-align:left;"| {{flagicon|COL}} [[Jhon Durán]]
+| style="text-align:left;"| {{flagicon|ENG}} [[Aston Villa F.C.|Aston Villa]]
+| {{ntsh|80.0}}$80,000,000
+| <ref>{{cite web |title= Colombia forward Jhon Duran joins Ronaldo at Al-Nassr from Aston Villa |url=https://www.foxsports.com/articles/soccer/colombia-forward-jhon-duran-joins-ronaldo-at-alnassr-from-aston-villa}}</ref>
+|-
+|}
+Total expenditure: {{Decrease}} $188.65 million
+
+===Loans in===
+
+{| class="wikitable sortable"
+|-
+! style="background:yellow; color:blue;" |'''Start date'''
+! style="background:yellow; color:blue;" |'''End date'''
+! style="background:yellow; color:blue;" |'''Position'''
+! style="background:yellow; color:blue;" |'''No.'''
+! style="background:yellow; color:blue;" |'''Player'''
+! style="background:yellow; color:blue;" |'''From club'''
+! style="background:yellow; color:blue;" |'''Fee'''
+! style="background:yellow; color:blue;" |'''Ref.'''
+|-
+| 31 January 2025
+| End of season
+| style="text-align:center;"| GK
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Ahmed Al-Rehaili]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Ettifaq FC|Al-Ettifaq]]
+| None
+| <ref>{{cite web |title=النصر يوقع مع أحمد الرحيلي من الاتفاق |url=https://www.alyaum.com/articles/6576940}}</ref>
+|-
+|}
+
+===Transfers out===
+
+{| class="wikitable sortable"
+|-
+! style="background:yellow; color:blue;" |'''Exit date'''
+! style="background:yellow; color:blue;" |'''Position''' 
+! style="background:yellow; color:blue;" |'''No.''' 
+! style="background:yellow; color:blue;" |'''Player''' 
+! style="background:yellow; color:blue;" |'''To club'''
+! style="background:yellow; color:blue;" |'''Fee''' 
+! style="background:yellow; color:blue;" |'''Ref.'''
+|-
+| 30 June 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 22
+| style="text-align:left;"| {{flagicon|AUS}} [[Aziz Behich]]
+| style="text-align:left;"| {{flagicon|AUS}} [[Melbourne City FC|Melbourne City]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 1 July 2024
+| style="text-align:center;"| GK
+| style="text-align:center;"| 26
+| style="text-align:left;"| {{flagicon|COL}} [[David Ospina]]
+| style="text-align:left;"| {{flagicon|COL}} [[Atlético Nacional]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=Atlético Nacional confirma el regreso de David Ospina con emotivo video |url=https://m.elcolombiano.com/deportes/futbol/david-ospina-vuelve-a-atletico-nacional-LI24792081 |website=el Colombiano |date=15 June 2024 }}</ref>
+|-
+| 8 July 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 24
+| style="text-align:left;"| {{flagicon|KSA}} [[Mohammed Qassem (footballer, born 1995)|Mohammed Qassem]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al Qadsiah FC|Al-Qadsiah]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=القادسية يعلن التعاقد مع محمد قاسم |date=8 July 2024 |url=https://www.alyaum.com/article/6539542}}</ref>
+|-
+| 13 July 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 69
+| style="text-align:left;"| {{flagicon|KSA}} [[Marzouq Tombakti]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Riyadh SC|Al-Riyadh]]
+| {{ntsh|0.0}}Free
+| <ref>{{Cite web|url=https://x.com/AlRiyadhFC/status/1812216038659932297|title=x.com}}</ref>
+|-
+| 16 July 2024
+| style="text-align:center;"| GK
+| style="text-align:center;"| 33
+| style="text-align:left;"| {{flagicon|KSA}} [[Waleed Abdullah]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Diriyah Club|Al-Diriyah]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=النصر يودع وليد عاشق.. قائد.. وأكثر |url=https://arriyadiyah.com/843161/%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%8A%D9%88%D8%AF%D8%B9-%D9%88%D9%84%D9%8A%D8%AF-%D8%B9%D8%A7%D8%B4%D9%82..-%D9%82%D8%A7%D8%A6%D8%AF..-%D9%88%D8%A3%D9%83%D8%AB%D8%B1}}</ref>
+|-
+| 30 July 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 3
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdullah Madu]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Ettifaq FC|Al-Ettifaq]]
+| {{ntsh|0.0}}Undisclosed
+| <ref>{{Cite web|url=https://arriyadiyah.com/845599|title=مادو يعزز دفاع الاتفاق 4 مواسم|website=arriyadiyah.com}}</ref>
+|-
+| 2 August 2024
+| style="text-align:center;"| GK
+| style="text-align:center;"| 37
+| style="text-align:left;"| {{flagicon|KSA}} [[Faris Afandy]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Zulfi FC|Al-Zulfi]]
+| {{ntsh|0.0}}Free
+| <ref>{{Cite web|url=https://x.com/club_zulfi/status/1819476284449096041|title=x.com}}</ref>
+|-
+| 3 August 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 59
+| style="text-align:left;"| {{flagicon|KSA}} [[Yousef Haqawi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Ula FC|Al-Ula]]
+| {{ntsh|0.0}}Free
+| <ref>{{Cite web|url=https://x.com/AlUlaclub/status/1819751907696443451|title=x.com}}</ref>
+|-
+| 11 August 2024
+| style="text-align:center;"| MF
+| style="text-align:center;"| 31
+| style="text-align:left;"| {{flagicon|KSA}} Mohammed Sahlouli
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Riyadh SC|Al-Riyadh]]
+| {{ntsh|0.133}}$133,000
+| <ref>{{Cite web|url=https://arriyadiyah.com/846682|title=صهلولي في الرياض حتى 2027|website=arriyadiyah.com}}</ref>
+|-
+| 3 September 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 13
+| style="text-align:left;"| {{flagicon|BRA}} [[Alex Telles]]
+| style="text-align:left;"| {{flagicon|BRA}} [[Botafogo de Futebol e Regatas|Botafogo]]
+| {{ntsh|0.0}}Released
+| <ref>{{cite web |title=Alex Telles é do fogão! |url=https://www.botafogo.com.br/noticias/alex-ellesedofogao |publisher=Botafogo |access-date=3 September 2024 |language=Portuguese |date=3 September 2024 }}</ref>
+|-
+| 7 September 2024
+| style="text-align:center;"| DF
+| style="text-align:center;"| 3
+| style="text-align:left;"| {{flagicon|CIV}} [[Ghislain Konan]]
+| style="text-align:left;"|{{flagicon|ESP}} [[Burgos CF|Burgos]]
+| {{ntsh|0.0}}Released
+| <ref>{{cite web |title=النصر يخالص كونان بتسعة ملايين |url=https://arriyadiyah.com/848847}}</ref>
+|-
+| 1 January 2025
+| style="text-align:center;"| MF
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|CIV}} [[Seko Fofana]]
+| style="text-align:left;"| {{flagicon|FRA}} [[Stade Rennais FC|Rennes]]
+| {{ntsh|20.7}}$20,700,000
+| <ref>{{Cite web |date=2024-08-30 |title=Seko Fofana joins Stade Rennais {{!}} Stade Rennais F.C. |url=https://www.staderennais.com/en/news/degemer-mat-seko |access-date=2025-01-01 |publisher=[[Stade Rennais F.C.]] |language=en}}</ref>
+|-
+| 28 January 2025
+| style="text-align:center;"| MF
+| style="text-align:center;"| 94
+| style="text-align:left;"| {{flagicon|BRA}} [[Talisca]]
+| style="text-align:left;"| {{flagicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+| {{ntsh|6.125}}$6,125,000
+| <ref>{{Cite web |title=Transfer Bilgilendirme - Fenerbahçe SK |url=https://www.fenerbahce.org/haberler/futbol/2025/1/transfer-bilgilendirme-3 |access-date=2025-01-27 |website=www.fenerbahce.org |language=tr}}</ref>
+|-
+| 29 January 2025
+| style="text-align:center;"| MF
+| style="text-align:center;"| 6
+| style="text-align:left;"| {{flagicon|KSA}} [[Mukhtar Ali]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Ettifaq FC|Al-Ettifaq]]
+| {{ntsh|0.0}}Swap
+| <ref>{{cite web |title=مختار علي يوقع للاتفاق لمدة 4 مواسم ونصف |url=https://ettifaq.com/news/%d9%85%d8%ae%d8%aa%d8%a7%d8%b1-%d8%b9%d9%84%d9%8a-%d9%8a%d9%88%d9%82%d8%b9-%d9%84%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82-%d9%84%d9%85%d8%af%d8%a9-4-%d9%85%d9%88%d8%a7%d8%b3%d9%85-%d9%88%d9%86%d8%b5%d9%81/}}</ref>
+|-
+|}
+Total income: {{Increase}} $26.958 million
+
+===Loans out===
+
+{| class="wikitable sortable"
+|-
+! style="background:yellow; color:blue;" |'''Start date'''
+! style="background:yellow; color:blue;" |'''End date'''
+! style="background:yellow; color:blue;" |'''Position'''
+! style="background:yellow; color:blue;" |'''No.'''
+! style="background:yellow; color:blue;" |'''Player'''
+! style="background:yellow; color:blue;" |'''To club'''
+! style="background:yellow; color:blue;" |'''Fee'''
+! style="background:yellow; color:blue;" |'''Ref.'''
+|-
+| 23 July 2024
+| End of season
+| style="text-align:center;"| FW
+| style="text-align:center;"| 56
+| style="text-align:left;"| {{flagicon|KSA}} [[Fahad Al-Zubaidi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Orobah FC|Al-Orobah]]
+| None
+| <ref>{{Cite web|url=https://arriyadiyah.com/845092|title=العروبة يمدد عقد الزبيدي|website=arriyadiyah.com}}</ref>
+|-
+| 6 August 2024	
+| End of season
+| style="text-align:center;"| MF
+| style="text-align:center;"| 46
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdulaziz Al-Aliwa]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Ettifaq FC|Al-Ettifaq]]
+| None
+| <ref>{{cite web |title=نادي الاتفاق يضم لاعب النصر عبدالعزيز العليوة بنظام الإعارة |url=https://www.alriyadh.com/2088530}}</ref>
+|-
+| 24 August 2024
+| End of season
+| style="text-align:center;"| DF
+| style="text-align:center;"| 55
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdulaziz Al-Faraj]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Tai FC|Al-Tai]]
+| None
+| <ref>{{Cite web|url=https://x.com/tai1381/status/1827410122454311406|title=x.com}}</ref>
+|-
+| 1 September 2024
+| End of season
+| style="text-align:center;"| DF
+| style="text-align:center;"| 5
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdulelah Al-Amri]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+| Undisclosed
+| <ref>{{Cite web|url=https://sabq.org/sports/ngxpz8pvey|title=الاتحاد يضم مدافع النصر "العمري" على سبيل الإعارة حتى نهاية الموسم|date=1 September 2024|website=صحيفة سبق الالكترونية}}</ref>
+|-
+| 2 September 2024
+| End of season
+| style="text-align:center;"| FW
+| style="text-align:center;"| 30
+| style="text-align:left;"| {{flagicon|KSA}} [[Meshari Al-Nemer]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Damac FC|Damac]]
+| None
+| <ref>{{Cite web|url=https://damac.sa/?p=11830|title=“النمر” يدعّم هجوم ضمك}}</ref>
+|-
+| 3 September 2024
+| End of season
+| style="text-align:center;"| GK
+| style="text-align:center;"| 1
+| style="text-align:left;"| {{flagicon|KSA}} [[Amin Bukhari]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Damac FC|Damac]]
+| None
+| <ref>{{cite web |title=النصر يعلن إعارة أمين بخاري لضمك حتى نهاية الموسم |url=https://www.alriyadh.com/2092766}}</ref>
+|-
+| 4 September 2024
+| End of season
+| style="text-align:center;"| MF
+| style="text-align:center;"| _
+| style="text-align:left;"| {{flagicon|KSA}} [[Rakan Al-Ghamdi]]
+| style="text-align:left;"| {{flagicon|NED}} [[NEC Nijmegen|NEC U21]]
+| None
+| <ref>{{Cite web|url=https://www.nec-nijmegen.nl/nieuws/nieuws/n.e.c.-huurt-rakan-al-ghamdi-van-al-nassr.htm|title=N.E.C. huurt Rakan Al-Ghamdi van Al-Nassr|date=4 September 2024|website=www.nec-nijmegen.nl}}</ref>
+|-
+| 11 September 2024
+| End of season
+| style="text-align:center;"| MF
+| style="text-align:center;"| 38
+| style="text-align:left;"| {{flagicon|KSA}} [[Fahad Al-Taleb]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Najma SC (Saudi Arabia)|Al-Najma]]
+| None
+| <ref>{{Cite web|url=https://x.com/alnajmahfc/status/1833904429331816587|title=x.com}}</ref>
+|-
+| 13 September 2024
+| End of season
+| style="text-align:center;"| DF
+| style="text-align:center;"| 42
+| style="text-align:left;"| {{flagicon|KSA}} [[Mansour Al-Shammari]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Jubail Club|Al-Jubail]]
+| None
+| 
+|-
+| 13 September 2024
+| End of season
+| style="text-align:center;"| DF
+| style="text-align:center;"| 58
+| style="text-align:left;"| {{flagicon|KSA}} [[Aser Hawsawi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Jubail Club|Al-Jubail]]
+| None
+| 
+|-
+| 25 September 2024
+| End of season
+| style="text-align:center;"| DF
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Waleed Saber]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Jeel Club|Al-Jeel]]
+| None
+| <ref>{{cite web |title=نادينا يكسب خدمات وليد صابر |url=https://x.com/jeel_club/status/1838984426035793985}}</ref>
+|-
+| 26 September 2024
+| End of season
+| style="text-align:center;"| FW
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Muhannad Barrah]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Saqer FC|Al-Saqer]]
+| None
+| <ref>{{cite web |title=#مهند_براح_صقراوي |url=https://x.com/ALSAQERFC/status/1839349292181668217}}</ref>
+|-
+| 31 January 2025
+| End of season
+| style="text-align:center;"| GK
+| style="text-align:center;"| 44
+| style="text-align:left;"| {{flagicon|KSA}} [[Nawaf Al-Aqidi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Fateh SC|Al-Fateh]]
+| None
+| <ref>{{cite web |title=الفتح يتعاقد مع الحارس نواف العقيدي على سبيل الإعارة |url=https://sabq.org/sports/5hvrgqp3gp}}</ref>
+|-
+|}
+
+==Pre-season and friendlies==
+{{football box collapsible
+| round        = [[Exhibition game#Club football|Friendly]]
+| date         = 14 July 2024
+| time         = 11:00 [[Western European Summer Time|WEST]]
+| team1        = Al-Nassr {{fbaicon|KSA}}
+| score        = 1–1
+| report       = https://arriyadiyah.com/844454/
+| team2        = {{fbaicon|POR}} [[Louletano D.C.|Louletano]]
+| goals1       = [[Mohammed Maran|Maran]] {{goal|52}}
+| goals2       = {{goal|40}}
+| stadium      = [[Estádio Municipal de Albufeira]]
+| location     = [[Albufeira]], [[Portugal]]
+| attendance   = 
+| referee      = 
+| result       = D
+}}
+{{football box collapsible
+| round        = [[Exhibition game#Club football|Friendly]]
+| date         = 19 July 2024
+| time         = 20:30 [[Western European Summer Time|WEST]]
+| team1        = Al-Nassr {{fbaicon|KSA}}
+| score        = 1–0
+| report       = https://arriyadiyah.com/844861
+| team2        = {{fbaicon|POR}} [[C.S. Marítimo|Marítimo]]
+| goals1       = [[Alex Telles|Telles]] {{goal|22}}
+| goals2       = 
+| stadium      = [[Estádio Municipal de Albufeira]]
+| location     = [[Albufeira]], [[Portugal]]
+| attendance   = 
+| referee      = 
+| result       = W
+}}
+{{football box collapsible
+| round        = [[Exhibition game#Club football|Friendly]]
+| date         = 20 July 2024
+| time         = 20:00 [[Western European Summer Time|WEST]]
+| team1        = Al-Nassr {{fbaicon|KSA}}
+| score        = 1–1
+| report       = https://arriyadiyah.com/844923
+| team2        = {{fbaicon|POR}} [[S.C. Farense|Farense]]
+| goals1       = [[Talisca]] {{goal|32}}
+| goals2       = [[Rafael Barbosa (footballer, born 1996)|Barbosa]] {{goal|37|pen.}}
+| stadium      = [[Estádio de São Luís]]
+| location     = [[Faro, Portugal|Faro]], [[Portugal]]
+| attendance   = 
+| referee      = 
+| result       = D
+}}
+{{football box collapsible
+| round        = [[Exhibition game#Club football|Friendly]]
+| date         = 24 July 2024
+| time         = 20:00 [[Western European Summer Time|WEST]] 
+| team1        = Al-Nassr {{fbaicon|KSA}}
+| score        = 0–1
+| report       = https://arriyadiyah.com/845191
+| team2        = {{fbaicon|POR}} [[Portimonense S.C.|Portimonense]]
+| goals1       = 
+| goals2       = [[Hélio Varela|Varela]] {{goal|90+3}}
+| stadium      = [[Estádio Municipal de Portimão]]
+| location     = [[Portimão]] [[Portugal]]
+| attendance   = 
+| referee      = 
+| result       = L
+}}
+{{football box collapsible
+| round        = [[Exhibition game#Club football|Friendly]]
+| date         = 28 July 2024
+| time         = 18:30 [[Western European Summer Time|WEST]]
+| team1        = Al-Nassr {{fbaicon|KSA}}
+| score        = 0–4 
+| report       = https://arriyadiyah.com/845491
+| team2        = {{fbaicon|POR}} [[FC Porto|Porto]]
+| goals1       = 
+| goals2       = [[Nico González (footballer, born 2002)|González]] {{Goal|18||31}}<br />[[Iván Jaime|Jaime]] {{Goal|21}}<br />[[Gonçalo Borges|Borges]] {{Goal|45+5|pen.}}
+| stadium      = [[Estádio do Dragão]]
+| location     = [[Porto]], [[Portugal]]
+| attendance   = 47,000
+| referee      = 
+| result       = L
+}}
+{{football box collapsible
+| round        = [[Exhibition game#Club football|Friendly]]
+| date         = 30 July 2024
+| time         = 19:00 [[Western European Summer Time|WEST]]
+| team1        = Al-Nassr {{fbaicon|KSA}}
+| score        = 0–0
+| report       = https://sabq.org/sports/27i1623y7n
+| team2        = {{fbaicon|POR}} [[Lusitano F.C. (Portugal)|Lusitano]]
+| goals1       = 
+| goals2       = 
+| stadium      = [[Estádio Municipal de Albufeira]]
+| location     = [[Albufeira]], [[Portugal]]
+| attendance   = 
+| referee      = 
+| result       = D
+}}
+{{football box collapsible
+| round        = [[Exhibition game#Club football|Friendly]]
+| date         = 4 August 2024
+| time         = 19:30 [[Central European Summer Time|CEST]] 
+| team1        = Al-Nassr {{fbaicon|KSA}}
+| score        = 0–1
+| report       = https://sabq.org/sports/s3aobd94he
+| team2        = {{fbaicon|SPA}} [[Granada CF|Granada]]
+| goals1       = 
+| goals2       = [[Lucas Boyé|Boyé]] {{goal|45+1}}
+| stadium      = [[Estadio Municipal de La Línea de la Concepción]]
+| location     = [[La Línea de la Concepción|La Línea]], [[Spain]]
+| attendance   = 
+| referee      = 
+| result       = L
+}}
+{{football box collapsible
+| round        = [[Exhibition game#Club football|Friendly]]
+| date         = 8 August 2024
+| time         = 20:30 [[Central European Summer Time|CEST]]
+| team1        = Al-Nassr {{fbaicon|KSA}}
+| score        = 0–3
+| report       = https://arriyadiyah.com/846426
+| team2        = {{fbaicon|SPA}} [[UD Almería|Almería]]
+| goals1       = 
+| goals2       = [[Ali Lajami|Lajami]] {{goal|35|o.g.}}<br />[[Luis Suárez (footballer, born 1997)|Suárez]] {{goal|41}}<br />[[César Montes|Montes]] {{goal|60}}
+| stadium      = [[Power Horse Stadium]]
+| location     = [[Almería]], [[Spain]]
+| attendance   = 
+| referee      = 
+| result       = L
+}}
+
+== Competitions ==
+
+=== Overview ===
+<!--Please don't remove this section because it is full overview of club season.-->
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan=2|Competition
+!colspan=8|Record
+|-
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|GD|Goal difference}}
+!{{Tooltip|Win %|Winning percentage}}
+|-
+| [[2024–25 Saudi Pro League|Pro League]]
+{{WDL|34|21|7|6|for=80|against=38|diff=yes}}
+|-
+| [[2024–25 King Cup|King's Cup]]
+{{WDL|2|1|0|1|for=2|against=2|diff=yes}}
+|-
+| [[2024–25 AFC Champions League Elite|Champions League Elite]]
+{{WDL|12|7|3|2|for=26|against=10|diff=yes}}
+|-
+| [[2024 Saudi Super Cup|Super Cup]]
+{{WDL|2|1|0|1|for=3|against=4|diff=yes}}
+|-
+! Total
+{{WDLtot|50|30|10|10|for=111|against=54|diff=yes}}
+{{fb overall competition footer}}
+
+===Pro League===
+{{main|2024–25 Saudi Pro League}}
+
+====League table====
+{{2024–25 Saudi Pro League table|showteam=NSR}}
+
+====Results summary====
+{{Fb_rs|hw=9 |hd=5 |hl=3 |hgf=34|hga=18|aw=12 |ad=2 |al=3 |agf=46|aga=20}}
+{{Fb rs footer |date=April 2025|s=[https://www.spl.com.sa/en/teams/3093/al-nassr/fixtures?compSeason=858 Saudi Pro League]}}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b|header=Round
+|label1= Ground
+| res1=H/A/H/A/H/H/A/A/H/A/H/H/A/H/A/A/H/A/H/A/H/A/A/H/H/A/H/A/A/H/A/H/H/A
+|label2= Result
+| res2=D/W/D/W/W/W/W/D/D/W/L/W/L/W/D/W/W/W/W/W/L/W/W/D/W/W/W/L/W/L/W/D/W/L
+|label3= Position
+| res3=10/5/7/5/4/3/3/3/3/3/3/3/4/3/4/4/4/3/3/3/4/3/4/4/3/3/3/3/3/4/3/4/4/3
+|label4=Points
+| res4=1p/4p/5p/8p/11p/14p/17p/18p/19p/22p/22p/25p/25p/28p/29p/32p/35p/38p/41p/44p/44p/47p/50p/51p/54p/57p/60p/60p/63p/63p/66p/67p/70p/70p
+|text_H=Home|text_A=Away
+|color_W=green1|text_W=Win
+|color_D=yellow1|text_D=Draw
+|color_L=red1|text_L=Loss
+|color_1=1st|color_2=green1|color_3=blue1|color_4=yellow1|color_16-18=red1
+|source=[https://www.spl.com.sa/en/teams/3093/al-nassr/fixtures?compSeason=858 Saudi Pro League]
+|date=April 2025
+}}
+
+====Matches====
+All times are local, [[Arabia Standard Time|AST]] ([[UTC+03:00|UTC+3]]).
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#CCCCCC|Postponed|border=1px solid #AAAAAA}}
+
+{{football box collapsible
+|round      = 1
+|date       = 22 August 2024
+|time       = 21:00
+|team1      = Al-Nassr
+|score      = 1–1
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/2q567ueilicsuy5gt8a8sd82c/match-summary
+|team2      = [[Al-Raed FC|Al-Raed]]
+|goals1     = [[Cristiano Ronaldo|Ronaldo]] {{goal|34}}<br />[[Marcelo Brozović|Brozović]] {{yel|45+6}}<br />[[Aymeric Laporte|Laporte]] {{yel|48}}<br />[[Sultan Al-Ghannam|Al-Ghannam]] {{yel|90+3}}
+|goals2     = [[Mubarak Al-Rajeh|Al-Rajeh]] {{yel|16}}<br />[[Khalid Al-Subaie|Al-Subaie]] {{yel|20}}<br />[[Mohammed Al-Dossari|M. Al-Dossari]] {{yel|27}}<br />[[Mohamed Fouzair|Fouzair]] {{goal|49|pen.}}<br />[[Oumar Gonzalez|Gonzalez]] {{yel|56}}<br />[[Nawaf Al-Sahli|Al-Sahli]] {{yel|90+9}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 8,951
+|referee    = Khaled Al-Teris
+|result     = D
+}}
+{{football box collapsible
+|round      = 2
+|date       = 27 August 2024
+|time       = 21:00
+|team1      = [[Al-Fayha FC|Al-Fayha]]
+|score      = 1–4
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/2tr4vo88pdnz752eseiae8c9g/match-summary
+|team2      = Al-Nassr
+|goals1     = [[Rakan Kaabi|R. Kaabi]] {{yel|18}}<br />[[Ali Al-Hussain|Al-Hussain]] {{yel|30}}<br />[[Fashion Sakala|Sakala]] {{goal|86}}
+|goals2     = [[Talisca]] {{goal|5||90+5}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|45+10}}<br />[[Marcelo Brozović|Brozović]] {{goal|85}}
+|stadium    = [[King Abdullah Sports City (Buraidah)|King Abdullah Sports City]]
+|location   = [[Buraidah]]
+|attendance = 4,195
+|referee    = [[Majed Al-Shamrani]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 3
+|date       = 13 September 2024
+|time       = 21:00
+|team1      = Al-Nassr
+|score      = 1–1
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/2wi0zc64mzkrtss77jwyur7ro/match-summary
+|team2      = [[Al-Ahli Saudi FC|Al-Ahli]]
+|goals1     = [[Ali Lajami|Lajami]] {{yel|90+7}}<br />[[Bassam Al-Hurayji|Al-Hurayji]] {{goal|90+9|o.g.}}
+|goals2     = [[Ziyad Al-Johani|Al-Johani]] {{yel|28}}<br />[[Franck Kessié|Kessié]] {{goal|57}}, {{yel|90+11}}<br />[[Bassam Al-Hurayji|Al-Hurayji]] {{yel|83}}
+|stadium    = [[King Saud University Stadium|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 23,644
+|referee    = [[Sergei Karasev]] ([[Russian Football Union|Russia]])
+|result     = D
+}}
+{{football box collapsible
+|round      = 4
+|date       = 20 September 2024
+|time       = 21:00
+|team1      = [[Al-Ettifaq FC|Al-Ettifaq]]
+|score      = 0–3
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/3142tru8e5o9uumsy7uj163v8/match-summary
+|team2      = Al-Nassr
+|goals1     = [[Seko Fofana|Fofana]] {{yel|49}}<br />[[Moussa Dembélé (French footballer)|Dembélé]] {{yel|88}}
+|goals2     = [[Cristiano Ronaldo|Ronaldo]] {{goal|33|pen.}}<br />[[Salem Al-Najdi|Al-Najdi]] {{goal|56}}<br />[[Talisca]] {{goal|70}}<br />[[Mukhtar Ali|Ali]] {{yel|87}}
+|stadium    = [[Al-Ettifaq Club Stadium]]
+|location   = [[Dammam]]
+|attendance = 9,390
+|referee    = [[Serdar Gözübüyük]] ([[Royal Dutch Football Association|Netherlands]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 5
+|date       = 27 September 2024
+|time       = 18:20
+|team1      = Al-Nassr
+|score      = 2–0
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/337wm1s8df8w805vogjp5oh78/match-summary
+|team2      = [[Al Wehda FC|Al-Wehda]]
+|goals1     = [[Ângelo Gabriel|Ângelo]] {{goal|41}}<br />[[Otávio (footballer, born 1995)|Otávio]] {{yel|45+4}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|56|pen.}}<br />[[Bento (footballer)|Bento]] {{yel|74}}<br />[[Ali Al-Hassan|Al-Hassan]] {{yel|90+4}}
+|goals2     = [[Waleed Bakshween|Bakshween]] {{sentoff|2|23|86}}
+|stadium    = [[King Saud University Stadium|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 14,758
+|referee    = [[Bastian Dankert]] ([[German Football Association|Germany]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 6
+|date       = 5 October 2024
+|time       = 18:15
+|team1      = Al-Nassr
+|score      = 3–0
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/al-nassr-vs-al-orubah/384hepu17tk5gokjpz8hq37dg/match-summary
+|team2      = [[Al-Orobah FC|Al-Orobah]]
+|goals1     = [[Cristiano Ronaldo|Ronaldo]] {{goal|17|pen.}}<br />[[Sadio Mané|Mané]] {{goal|29||71}}
+|goals2     = [[Hamed Al-Maqati|Al-Maqati]] {{yel|60}}
+|stadium    = [[King Saud University Stadium|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 14,018
+|referee    = [[Yael Falcón Pérez]] ([[Argentine Football Association|Argentina]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 7
+|date       = 18 October 2024
+|time       = 21:00
+|team1      = [[Al Shabab FC (Riyadh)|Al-Shabab]]
+|score      = 1–2
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/39j8g8jjyrnrx4bnih5j0gwt0/match-summary
+|team2      = Al-Nassr
+|goals1     = [[Giacomo Bonaventura|Bonaventura]] {{yel|28}}<br />[[Hussain Al-Sibyani|Al-Sibyani]] {{yel|45}}<br />[[Ali Al-Hassan|Al-Hassan]] {{goal|90|o.g.}}<br />[[Abderrazak Hamdallah|Hamdallah]] {{yel|90+5}}
+|goals2     = [[Salem Al-Najdi|Al-Najdi]] {{yel|31}}<br />[[Talisca]] {{yel|50}}<br />[[Aymeric Laporte|Laporte]] {{goal|69}}<br />[[Ali Lajami|Lajami]] {{yel|79}}<br />[[Mohamed Simakan|Simakan]] {{sentoff|2|90+5|90+12}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|90+7|pen.}}
+|stadium    = [[Al-Shabab Club Stadium]]
+|location   = [[Riyadh]]
+|attendance = 10,760
+|referee    = [[Darío Humberto Herrera|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 8
+|date       = 25 October 2024
+|time       = 18:05
+|team1      = [[Al-Kholood Club|Al-Kholood]]
+|score      = 3–3
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/3eawgs18xjbqk6rvz6k811s7o/match-summary
+|team2      = Al-Nassr
+|goals1     = [[Myziane Maolida|Maolida]] {{goal|12||28}}<br />[[Jackson Muleka|Muleka]] {{yel|68}}, {{goal|71}}<br />[[Sultan Al-Shehri|Al-Shehri]] {{yel|74}}<br />[[Marcelo Grohe|Grohe]] {{yel|90+8}}
+|goals2     = [[Aymeric Laporte|Laporte]] {{goal|16}}<br />[[Talisca]] {{goal|24||90+5|pen.}}<br />[[Marcelo Brozović|Brozović]] {{yel|73}}<br />[[Abdullah Al-Khaibari|Al-Khaibari]] {{yel|83}}
+|stadium    = [[King Abdullah Sports City (Buraidah)|King Abdullah Sports City]]
+|location   = [[Buraidah]]
+|attendance = 3,856
+|referee    = [[Georgi Kabakov]] ([[Bulgarian Football Union|Bulgaria]])
+|result     = D
+}}
+{{football box collapsible
+|round      = 9
+|date       = 1 November 2024
+|time       = 21:00
+|team1      = Al-Nassr
+|score      = 1–1
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/3h6i2gp8hueu5n1bzrewudqms/match-summary
+|team2      = [[Al Hilal SFC|Al-Hilal]]
+|goals1     = [[Talisca]] {{goal|1}}<br />[[Marcelo Brozović|Brozović]] {{yel|20}}<br />[[Sadio Mané|Mané]] {{yel|43}}<br />[[Cristiano Ronaldo|Ronaldo]] {{yel|45+1}}<br />[[Abdullah Al-Khaibari|Al-Khaibari]] {{yel|52}}<br />[[Otávio (footballer, born 1995)|Otávio]] {{yel|84}}
+|goals2     = [[Malcom (footballer)|Malcom]] {{yel|57}}<br />[[Mohamed Kanno|Kanno]] {{yel|60}}<br />[[Sergej Milinković-Savić|Milinković-Savić]] {{goal|77}}<br />[[Ali Al-Bulaihi|Al-Bulaihi]] {{yel|82}}<br />[[Nasser Al-Dawsari|N. Al-Dawsari]] {{yel|90+4}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 25,490
+|referee    = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|result     = D
+}}
+{{football box collapsible
+|round      = 10
+|date       = 8 November 2024
+|time       = 20:00
+|team1      = [[Al-Riyadh SC|Al-Riyadh]]
+|score      = 0–1
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/3lz94puwz3dmrme3bwbn0bqc4/match-summary
+|team2      = Al-Nassr
+|goals1     = [[Ibrahim Bayesh|Bayesh]] {{yel|38}}<br />[[Abdulelah Al-Khaibari|Al-Khaibari]] {{yel|51}}
+|goals2     = [[Sadio Mané|Mané]] {{goal|41}}<br />[[Saad Haqawi|Haqawi]] {{yel|90+1}}
+|stadium    = [[Prince Faisal bin Fahd Sports City]]
+|location   = [[Riyadh]]
+|attendance = 6,822
+|referee    = [[Nikola Dabanović]] ([[Football Association of Montenegro|Montenegro]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 11
+|date       = 22 November 2024
+|time       = 20:00
+|team1      = Al-Nassr
+|score      = 1–2
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/3mc8wjftozja363w0b2es62hg/match-summary
+|team2      = [[Al Qadsiah FC|Al-Qadsiah]]
+|goals1     = [[Cristiano Ronaldo|Ronaldo]] {{goal|32}}<br />[[Mohammed Maran|Maran]] {{yel|81}}
+|goals2     = [[Julián Quiñones|Quiñones]] {{goal|37}}, {{yel|66}}<br />[[Jehad Thakri|Thakri]] {{yel|45}}<br />[[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|50}}<br />[[Nahitan Nández|Nández]] {{yel|82}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 18,471
+|referee    = [[Sergey Ivanov (referee)|Sergey Ivanov]] ([[Russian Football Union|Russia]])
+|result     = L
+}}
+{{football box collapsible
+|round      = 12
+|date       = 29 November 2024
+|time       = 17:40
+|team1      = Al-Nassr
+|score      = 2–0
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/3qze51fqlrmsbyqmeu0u5nr4k/match-summary
+|team2      = [[Damac FC|Damac]]
+|goals1     = [[Cristiano Ronaldo|Ronaldo]] {{goal|17|pen.|79}}<br />[[Sadio Mané|Mané]] {{yel|26}}<br />[[Nawaf Boushal|Boushal]] {{yel|75}}
+|goals2     = [[Sanousi Hawsawi|Hawsawi]] {{yel|36}}<br />[[Abdelkader Bedrane|Bedrane]] {{sent off|0|56}}<br />[[Dhari Al-Anazi|Al-Anazi]] {{yel|76}}<br />[[Meshari Al-Nemer|Al-Nemer]] {{yel|90+3}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 13,481
+|referee    = [[Benoît Bastien]] ([[French Football Federation|France]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 13
+|date       = 6 December 2024
+|time       = 20:00
+|team1      = [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|score      = 2–1
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/3u7o8rrzfo4u11om4ng5h5st0/match-summary
+|team2      = Al-Nassr
+|goals1     = [[Karim Benzema|Benzema]] {{goal|55}}, {{yel|67}}<br />[[Danilo Pereira|Pereira]] {{yel|59}}<br />[[Steven Bergwijn|Bergwijn]] {{yel|64}}, {{goal|90+1}}
+|goals2     = [[Marcelo Brozović|Brozović]] {{yel|24}}<br />[[Sultan Al-Ghannam|Al-Ghannam]] {{yel|42}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|57}}<br />[[Otávio (footballer, born 1995)|Otávio]] {{yel|67}}
+|stadium    = [[King Abdullah Sports City]]
+|location   = [[Jeddah]]
+|attendance = 55,120
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|result     = L
+}}
+{{football box collapsible
+|round      = 14
+|date       = 9 January 2025
+|time       = 20:00
+|team1      = Al-Nassr
+|score      = 3–1
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/3yfpy0qcznidht6z7i9oxdgk4/match-summary
+|team2      = [[Al-Okhdood Club|Al-Okhdood]]
+|goals1     = [[Aymeric Laporte|Laporte]] {{yel|8}}<br />[[Sadio Mané|Mané]] {{goal|29||88}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|42|pen.}}<br />[[Sultan Al-Ghannam|Al-Ghannam]] {{yel|70}}
+|goals2     = [[Saviour Godwin|Godwin]] {{goal|6}}<br />[[Damion Lowe|Lowe]] {{yel|34}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 16,458
+|referee    = [[Mario Escobar (referee)|Mario Escobar]] ([[National Football Federation of Guatemala|Guatemala]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 15
+|date       = 17 January 2025
+|time       = 20:00
+|team1      = [[Al Taawoun FC|Al-Taawoun]]
+|score      = 1–1
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/40lw7exbq184tdbl7m5l37w9g/match-summary
+|team2      = Al-Nassr
+|goals1     = [[Saad Al-Nasser|Al-Nasser]] {{goal|45+5}}<br />[[Abdulfattah Adam|Adam]] {{yel|79}}
+|goals2     = [[Ali Al-Hassan|Al-Hassan]] {{yel|37}}<br />[[Marcelo Brozović|Brozović]] {{yel|40}}<br />[[Aymeric Laporte|Laporte]] {{goal|64}}<br />[[Nawaf Boushal|Boushal]] {{yel|70}}<br />[[Mohammed Maran|Maran]] {{yel|90+11}}
+|stadium    = [[King Abdullah Sports City (Buraidah)|King Abdullah Sports City]]
+|location   = [[Buraidah]]
+|attendance = 13,819
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|result     = D
+}}
+{{football box collapsible
+|round      = 16
+|date       = 21 January 2025
+|time       = 17:50
+|team1      = [[Al-Khaleej FC|Al-Khaleej]]
+|score      = 1–3
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/448bl891okcdn47629dlz4k5w/match-summary
+|team2      = Al-Nassr
+|goals1     = [[Saleh Aboulshamat|Aboulshamat]] {{yel|23}}<br />[[Saeed Al Hamsal|Al Hamsal]] {{sentoff|0|34}}<br />[[Murad Hawsawi|Hawsawi]] {{yel|64}}<br />[[Kostas Fortounis|Fortounis]] {{goal|80|pen.}}<br />[[Fábio Martins|Martins]] {{yel|82}}<br />[[Pedro Rebocho|Rebocho]] {{yel|90+6}}
+|goals2     = [[Nawaf Boushal|Boushal]] {{yel|45+5}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|65||90+8}}<br />[[Salem Al-Najdi|Al-Najdi]] {{yel|76}}<br />[[Sultan Al-Ghannam|Al-Ghannam]] {{goal|81}}<br />[[Mohamed Simakan|Simakan]] {{yel|84}}<br />[[Abdullah Al-Khaibari|Al-Khaibari]] {{yel|90+5}}
+|stadium    = [[Prince Mohamed bin Fahd Stadium]]
+|location   = [[Dammam]]
+|attendance = 13,432
+|referee    = [[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 17
+|date       = 26 January 2025
+|time       = 20:00
+|team1      = Al-Nassr
+|score      = 3–1
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/47s3xvvcd6wgt57ag1ls8y1w4/match-summary
+|team2      = [[Al Fateh SC|Al-Fateh]]
+|goals1     = [[Marwane Saâdane|Saâdane]] {{goal|41|o.g.}}<br />[[Cristiano Ronaldo|Ronaldo]] {{yel|55}}, {{goal|87}}<br />[[Mohamed Simakan|Simakan]] {{goal|57}}
+|goals2     = [[Marwane Saâdane|Saâdane]] {{yel|56}}<br />[[Saeed Baattiah|Baattiah]] {{yel|61}}<br />[[Mourad Batna|Batna]] {{goal|72}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 12,804
+|referee    = [[Andris Treimanis]] ([[Latvian Football Federation|Latvia]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 18
+|date       = 30 January 2025
+|time       = 20:00
+|team1      = [[Al Raed FC|Al-Raed]]
+|score      = 1–2
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/4a9ndutki62tii3qc7kimd7o4/match-summary
+|team2      = Al-Nassr
+|goals1     = [[Mehdi Abeid|Abeid]] {{yel|45+2}}<br />[[Mubarak Al-Rajeh|Al-Rajeh]] {{yel|45+4}}<br />[[Amir Sayoud|Sayoud]] {{goal|76}}, {{yel|90+5}}
+|goals2     = [[Ângelo Gabriel|Ângelo]] {{yel|2}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|35}}<br />[[Marcelo Brozović|Brozović]] {{yel|44}}<br />[[Nawaf Boushal|Boushal]] {{goal|47}}<br />[[Sultan Al-Ghannam|Al-Ghannam]] {{yel|69}}<br />[[Bento (footballer)|Bento]] {{yel|86}}<br />[[Abdulmajeed Al-Sulaiheem|Al-Sulaiheem]] {{yel|87}}<br />[[Ali Al-Hassan|Al-Hassan]] {{yel|90+10}}
+|stadium    = [[King Abdullah Sports City (Buraidah)|King Abdullah Sports City]]
+|location   = [[Buraidah]]
+|attendance = 9,165
+|referee    = [[Donatas Rumšas]] ([[Lithuanian Football Federation|Lithuania]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 19
+|date       = 7 February 2025
+|time       = 18:20
+|team1      = Al-Nassr
+|score      = 3–0
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/4e5evuq4d2s30daq4k5m5r02c/match-summary
+|team2      = [[Al-Fayha FC|Al-Fayha]]
+|goals1     = [[Jhon Durán|Durán]] {{goal|22||72}}<br />[[Nawaf Boushal|Boushal]] {{yel|51}}<br />[[Sadio Mané|Mané]] {{yel|54}}<br />[[Marcelo Brozović|Brozović]] {{yel|67}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|74}}
+|goals2     = [[Ziyad Al-Sahafi|Al-Sahafi]] {{yel|35}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 20,207
+|referee    = [[Nikola Dabanović]] ([[Football Association of Montenegro|Montenegro]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 20
+|date       = 13 February 2025
+|time       = 20:30
+|team1      = [[Al-Ahli Saudi FC|Al-Ahli]]
+|score      = 2–3
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/4gl45ipnljei03grpnfzn1ono/match-summary
+|team2      = Al-Nassr
+|goals1     = [[Ali Majrashi|Majrashi]] {{yel|45+4}}<br />[[Ziyad Al-Johani|Al-Johani]] {{yel|59}}<br />[[Ivan Toney|Toney]] {{goal|78}}<br />[[Roger Ibañez|Ibañez]] {{yel|90+3}}<br />[[Sumayhan Al-Nabit|Al-Nabit]] {{goal|90+8}}
+|goals2     = [[Jhon Durán|Durán]] {{goal|32||88}}, {{yel|88}}<br />[[Mohamed Simakan|Simakan]] {{sentoff|0|47}}<br />[[Ayman Yahya|Yahya]] {{goal|80}}<br />[[Mohammed Al-Fatil|Al-Fatil]] {{yel|90+9}}
+|stadium    = [[King Abdullah Sports City|Alinma Stadium]]
+|location   = [[Jeddah]]
+|attendance = 50,144
+|referee    = [[César Arturo Ramos]] ([[Mexican Football Federation|Mexico]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 21
+|date       = 21 February 2025
+|time       = 20:00
+|team1      = Al-Nassr
+|score      = 2–3
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/4jfenzwdir5c4ixbv8gdhuk2c/match-summary
+|team2      = [[Al-Ettifaq FC|Al-Ettifaq]]
+|goals1     = [[Ayman Yahya|Yahya]] {{goal|47}}<br />[[Marcelo Brozović|Brozović]] {{yel|54}}<br />[[Mohammed Al-Fatil|Al-Fatil]] {{goal|65}}<br />[[Jhon Durán|Durán]] {{sentoff|0|90}}
+|goals2     = [[Georginio Wijnaldum|Wijnaldum]] {{goal|55||89}}<br />[[Radhi Al-Otaibi|Al-Otaibi]] {{yel|61}}<br />[[Mohammed Al-Fatil|Al-Fatil]] {{goal|82|o.g.}}<br />[[Abdulellah Al-Malki|Al-Malki]] {{yel|90+1}}<br />[[Ahmed Bamsaud|Bamsaud]] {{yel|90+7}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 24,626
+|referee    = [[Kirill Levnikov]] ([[Russian Football Union|Russia]])
+|result     = L
+}}
+{{football box collapsible
+|round      = 22
+|date       = 25 February 2025
+|time       = 20:00
+|team1      = [[Al Wehda FC|Al-Wehda]]
+|score      = 0–2
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/4lvff6o0lsnvki8ea0wpa4vf8/match-summary
+|team2      = Al-Nassr
+|goals1     = Al-Alaeli {{yel|68}}<br />[[Hussain Al-Eisa|Al-Eisa]] {{yel|86}}<br />[[Jawad El Yamiq|El Yamiq]] {{yel|90+6}}
+|goals2     = [[Cristiano Ronaldo|Ronaldo]] {{goal|48}}<br />[[Salem Al-Najdi|Al-Najdi]] {{yel|70}}<br />[[Sadio Mané|Mané]] {{goal|90+10|pen.}}
+|stadium    = [[King Abdulaziz Sports City]]
+|location   = [[Mecca]]
+|attendance = 14,679
+|referee    = [[Harm Osmers]] ([[German Football Association|Germany]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 23
+|date       = 28 February 2025
+|time       = 22:00
+|team1      = [[Al-Orobah FC|Al-Orobah]]
+|score      = 0–3
+|scorenote  = Awarded{{efn|[[Al Nassr FC|Al-Nassr]] were awarded a 3–0 win due to [[Al-Orobah FC|Al-Orobah]] fielding an ineligible player. The original match had ended in a 2–1 win for [[Al-Orobah FC|Al-Orobah]].}}
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/4p20brzi55dssvm7f7gigybdg/match-summary
+|team2      = Al-Nassr
+|goals1     = [[Omar Al Somah|Al Somah]] {{goal|40}}, {{yel|88}}<br />[[Jóhann Berg Guðmundsson|Guðmundsson]] {{goal|65}}<br />[[Hamed Al-Maqati|Al-Maqati]] {{yel|80}}
+|goals2     = [[Majed Qasheesh|Qasheesh]] {{yel|34}}<br />[[Nawaf Boushal|Boushal]] {{goal|51}}<br />[[Marcelo Brozović|Brozović]] {{yel|52}}
+|stadium    = [[Al Jouf University Stadium]]
+|location   = [[Sakakah]]
+|attendance = 7,527
+|referee    = [[Maximiliano Ramírez (referee)|Maximiliano Ramírez]] ([[Argentine Football Association|Argentina]])
+|result     = W
+|note       = On 25 May 2025, Al-Nassr were awarded a 3–0 win due to Al-Orobah fielding ineligible player [[Rafea Al-Ruwaili]]. The match originally finished 2–1 to Al-Orobah.<ref>{{cite news |date=25 May 2025 |title=Hope rekindled for Cristiano Ronaldo! Al-Nassr win appeal against Al-Orouba for fielding ineligible player to move back in sight of AFC Champions League Elite qualification |url=https://www.goal.com/en-in/lists/hope-cristiano-ronaldo-al-nassr-win-appeal-against-al-orouba-for-fielding-ineligible-player-back-in-sight-afc-champions-league-elite-qualification/blt30e09e1857286c2b |access-date=26 May 2025 |website=Goal.com}}</ref>
+}}
+{{football box collapsible
+|round      = 24
+|date       = 7 March 2025
+|time       = 22:00
+|team1      = Al-Nassr
+|score      = 2–2
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/4toz3u9zgqqnh7bl924cskopg/match-summary
+|team2      = [[Al Shabab FC (Riyadh)|Al-Shabab]]
+|goals1     = [[Mohamed Simakan|Simakan]] {{yel|37}}<br />[[Ayman Yahya|Yahya]] {{goal|45+2}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|45+7}}<br />[[Mohammed Al-Fatil|Al-Fatil]] {{sentoff|0|52}}<br />[[Jhon Durán|Durán]] {{yel|87}}
+|goals2     = [[Leandrinho (footballer, born 2005)|Leandrinho]] {{yel|12}}<br />[[Abderrazak Hamdallah|Hamdallah]] {{goal|44|pen.}}<br />[[Mohammed Al-Shuwayrikh|Al-Shuwayrikh]] {{goal|67}}, {{yel|90+6}}<br />[[Wesley Hoedt|Hoedt]] {{yel|87}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 15,316
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|result     = D
+}}
+{{football box collapsible
+|round      = 25
+|date       = 14 March 2025
+|time       = 22:00
+|team1      = Al-Nassr
+|score      = 3–1
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/4xc5r5kix6ewg3crqud4of6dw/match-summary
+|team2      = [[Al-Kholood Club|Al-Kholood]]
+|goals1     = [[Cristiano Ronaldo|Ronaldo]] {{goal|4}}<br />[[Sadio Mané|Mané]] {{goal|26}}<br />[[Jhon Durán|Durán]] {{goal|41}}<br />[[Ali Lajami|Lajami]] {{yel|46}}<br />[[Nawaf Boushal|Boushal]] {{sentoff|2|47|56}}
+|goals2     = [[Ali Lajami|Lajami]] {{goal|72|o.g.}}<br />[[Farhah Al-Shamrani|F. Al-Shamrani]] {{yel|79}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 12,492
+|referee    = Faisal Al-Blwi
+|result     = W
+}}
+{{football box collapsible
+|round      = 26
+|date       = 4 April 2025
+|time       = 21:00
+|team1      = [[Al Hilal SFC|Al-Hilal]]
+|score      = 1–3
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/4yrhqqu4n1vto9uhkhyjwz9ck/match-summary
+|team2      = [[Al Nassr FC|Al-Nassr]]
+|goals1     = [[Rúben Neves|Neves]] {{yel|54}}<br />[[Ali Al-Bulaihi|Al-Bulaihi]] {{goal|62}}
+|goals2     = [[Ali Al-Hassan|Al-Hassan]] {{goal|45+4}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|47||88|pen.}}
+|stadium    = [[Kingdom Arena]]
+|location   = [[Riyadh]]
+|attendance = 25,187
+|referee    = [[Georgi Kabakov]] ([[Bulgarian Football Union|Bulgaria]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 27
+|date       = 12 April 2025
+|time       = 21:00
+|team1      = [[Al Nassr FC|Al-Nassr]]
+|score      = 2–1
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/54hfid7lza8lvdcbss7ggial0/match-summary
+|team2      = [[Al-Riyadh SC|Al-Riyadh]]
+|goals1     = [[Jhon Durán|Durán]] {{yel|19}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|56||64}}<br />[[Ângelo Gabriel|Ângelo]] {{yel|87}}
+|goals2     = [[Faïz Selemani|Selemani]] {{goal|45+2}}<br />[[Bernard Mensah (footballer, born October 1994)|Mensah]] {{yel|59}}<br />[[Abdulelah Al-Khaibari|Al-Khaibari]] {{yel|80}}<br />[[Ibrahim Bayesh|Bayesh]] {{yel|82}}<br />[[Ahmed Assiri (footballer, born 1991)|Assiri]] {{sentoff|0|90+4}}<br />[[Marzouq Tambakti|Tambakti]] {{yel|90+12}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 16,304
+|referee    = [[Erik Lambrechts]] ([[Royal Belgian Football Association|Belgium]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 28
+|date       = 18 April 2025
+|time       = 21:00
+|team1      = [[Al Qadsiah FC|Al-Qadsiah]]
+|score      = 2–1
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/569g6qbqrpjzftp5ak6n75zis/match-summary
+|team2      = [[Al Nassr FC|Al-Nassr]]
+|goals1     = [[Ezequiel Fernández (footballer)|Fernández]] {{yel|25}}<br />[[Nacho (footballer, born 1990)|Nacho]] {{yel|27}}<br />[[Turki Al-Ammar|Al-Ammar]] {{goal|35}}, {{yel|76}}<br />[[Nahitan Nández|Nández]] {{yel|39}}<br />[[Gastón Álvarez|Álvarez]] {{yel|53}}<br />[[Mohammed Aboulshamat|Aboulshamat]] {{yel|75}}<br />[[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|87}}
+|goals2     = [[Sadio Mané|Mané]] {{yel|30}}, {{goal|84}}<br />[[Sultan Al-Ghannam|Al-Ghannam]] {{yel|45+1}}<br />[[Nawaf Boushal|Boushal]] {{yel|80}}
+|stadium    = [[Prince Mohamed bin Fahd Stadium]]
+|location   = [[Dammam]]
+|attendance = 17,368
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result     = L
+}}
+{{football box collapsible
+|round      = 29
+|date       = 22 April 2025
+|time       = 21:00
+|team1      = [[Damac FC|Damac]]
+|score      = 2–3
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/58fz3ckf7n13l05kkeserx444/match-summary
+|team2      = [[Al Nassr FC|Al-Nassr]]
+|goals1     = [[Ramzi Solan|Solan]] {{goal|18}}<br />[[Meshari Al-Nemer|Al-Nemer]] {{yel|43}}<br />[[Faisal Al-Sibyani|Al-Sibyani]] {{yel|45+3}}<br />[[Abdelkader Bedrane|Bedrane]] {{yel|56}}<br />[[Nicolae Stanciu (footballer, born 1993)|Stanciu]] {{goal|73}}
+|goals2     = [[Aymeric Laporte|Laporte]] {{goal|25}}<br />[[Salem Al-Najdi|Al-Najdi]] {{yel|39}}<br />[[Nawaf Boushal|Boushal]] {{yel|57}}<br />[[Jhon Durán|Durán]] {{yel|65}}<br />[[Ali Al-Hassan|Al-Hassan]] {{goal|70}}<br />[[Sultan Al-Ghannam|Al-Ghannam]] {{yel|85}}, {{goal|90+4}}
+|stadium    = [[Prince Sultan bin Abdulaziz Sports City]]
+|location   = [[Abha]]
+|attendance = 12,068
+|referee    = [[Tamás Bognár]] ([[Hungarian Football Federation|Hungary]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 30
+|date       = 7 May 2025
+|time       = 21:00
+|team1      = [[Al Nassr FC|Al-Nassr]]
+|score      = 2–3
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/5ddc2fmyuf34ka9ahfodjbl04/match-summary
+|team2      = [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|goals1     = [[Sadio Mané|Mané]] {{goal|3}}<br />[[Ayman Yahya|Yahya]] {{goal|37}}<br />[[Ali Al-Hassan|Al-Hassan]] {{yel|61}}<br />[[Abdullah Al-Khaibari|Al-Khaibari]] {{yel|90+7}}
+|goals2     = [[Karim Benzema|Benzema]] {{goal|49}}<br />[[N'Golo Kanté|Kanté]] {{goal|52}}<br />[[Danilo Pereira|Pereira]] {{yel|67}}<br />[[Fabinho (footballer, born 1993)|Fabinho]] {{yel|90+3}}<br />[[Abdulelah Al-Amri|Al-Amri]] {{yel|90+3}}<br />[[Steven Bergwijn|Bergwijn]] {{yel|90+7}}<br />[[Moussa Diaby|Diaby]] {{sentoff|0|90+7}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 24,575
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result     = L
+}}
+{{football box collapsible
+|round      = 31
+|date       = 12 May 2025
+|time       = 21:00
+|team1      = [[Al-Okhdood Club|Al-Okhdood]]
+|score      = 0–9
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/5gz8293cxw16nzoqt6h2vafx0/match-summary
+|team2      = [[Al Nassr FC|Al-Nassr]]
+|goals1     = [[Paulo Vítor (footballer, born 1988)|Vítor]] {{sentoff|0|47}}
+|goals2     = [[Ayman Yahya|Yahya]] {{goal|16}}<br />[[Jhon Durán|Durán]] {{goal|20||52}}<br />[[Marcelo Brozović|Brozović]] {{goal|27}}, {{yel|68}}<br />[[Abdulmajeed Al-Sulaiheem|Al-Sulaiheem]] {{yel|42}}<br />[[Sadio Mané|Mané]] {{goal|45+6|pen.|59||64||74}}<br />[[Mohammed Maran|Maran]] {{goal|90+4|pen.}}
+|stadium    = [[Prince Hathloul bin Abdulaziz Sports City]]
+|location   = [[Najran]]
+|attendance = 3,861
+|referee    = [[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 32
+|date       = 16 May 2025
+|time       = 21:00
+|team1      = [[Al Nassr FC|Al-Nassr]]
+|score      = 1–1
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/5i5bc5p6ld6wonpvpsr3w49p0/match-summary
+|team2      = [[Al Taawoun FC|Al-Taawoun]]
+|goals1     = [[Ayman Yahya|Yahya]] {{yel|47}}<br />[[Otávio (footballer, born 1995)|Otávio]] {{goal|51}}<br />[[Marcelo Brozović|Brozović]] {{yel|59}}<br />[[Wesley (footballer, born 2005)|Wesley]] {{yel|90+1}}
+|goals2     = [[Mohammed Mahzari|Mahzari]] {{yel|45+2}}<br />[[Roger Martínez|Martínez]] {{goal|70}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 9,488
+|referee    = [[Rafael Rodrigo Klein|Rafael Klein]] ([[Brazilian Football Confederation|Brazil]])
+|result     = D
+}}
+{{football box collapsible
+|round      = 33
+|date       = 21 May 2025
+|time       = 19:10
+|team1      = [[Al Nassr FC|Al-Nassr]]
+|score      = 2–0
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/5lspfmgnj5f5107rit5vun5lg/match-summary
+|team2      = [[Al-Khaleej FC|Al-Khaleej]]
+|goals1     = [[Jhon Durán|Durán]] {{goal|75}}<br />[[Marcelo Brozović|Brozović]] {{yel|90+2}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|90+7|pen.}}
+|goals2     = [[Saleh Aboulshamat|Aboulshamat]] {{yel|90+2}}<br />[[Raed Ozaybi|Ozaybi]] {{yel|90+5}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 5,889
+|referee    = [[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 34
+|date       = 26 May 2025
+|time       = 21:00
+|team1      = [[Al Fateh SC|Al-Fateh]]
+|score      = 3–2
+|report     = https://optaplayerstats.statsperform.com/en_GB/soccer/saudi-league-2024-2025/cft78hoktv5hddrnbl5z4d0yc/match/view/5omcbtgskcxgjx2yheuxziluc/match-summary
+|team2      = [[Al Nassr FC|Al-Nassr]]
+|goals1     = [[Matías Vargas (footballer, born 1997)|Vargas]] {{goal|45+4}}<br />[[Naif Masoud|Masoud]] {{yel|53}}<br />[[Mourad Batna|Batna]] {{goal|81}}, {{yel|83}}<br />[[Marwane Saâdane|Saâdane]] {{yel|90+3}}<br />[[Matheus Machado (footballer, born 2003)|Machado]] {{goal|90+6}}, {{yel|90+7}}
+|goals2     = [[Cristiano Ronaldo|Ronaldo]] {{goal|42}}<br />[[Abdulmajeed Al-Sulaiheem|Al-Sulaiheem]] {{yel|45+1}}<br />[[Ayman Yahya|Yahya]] {{yel|54}}<br />[[Sadio Mané|Mané]] {{goal|75}}<br />[[Salem Al-Najdi|Al-Najdi]] {{yel|79}}
+|stadium    = [[Al-Fateh Club Stadium]]
+|location   = [[Hofuf|Al-Hasa]]
+|attendance = 9,512
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result     = L
+}}
+
+===King's Cup===
+{{main|2024–25 King's Cup (Saudi Arabia)}}
+All times are local, [[Arabia Standard Time|AST]] ([[UTC+03:00|UTC+3]]).
+
+{{football box collapsible
+|round      = [[2024–25 King Cup#Round of 32|Round of 32]]
+|date       = 23 September 2024
+|time       = 18:35
+|team1      = [[Al-Hazem F.C.|Al-Hazem]]
+|score      = 1–2
+|report     = https://us.soccerway.com/matches/2024/09/23/saudi-arabia/champions-cup/al-hazm-rass/al-nasr-riyadh/4364606/
+|team2      = Al-Nassr
+|goals1     = [[Abdullah Al-Samti|Al-Samti]] {{yel|5}}<br />[[Abdulaziz Al-Dhuwayhi|Al-Dhuwayhi]] {{yel|33}}<br />[[Abdulrahman Al-Dakheel|Al-Dakheel]] {{yel|45+2}}<br />[[Juriën Gaari|Gaari]] {{yel|57}}<br />[[Basil Al-Sayyali|Al-Sayyali]] {{goal|62}}<br />[[Ahmed Al-Nakhli|Al-Nakhli]] {{yel|64}}
+|goals2     = [[Sadio Mané|Mané]] {{goal|45+6}}, {{yel|57}}<br />[[Nawaf Boushal|Boushal]] {{goal|90+2}}
+|stadium    = [[King Abdullah Sports City (Buraidah)|King Abdullah Sports City]]
+|location   = [[Buraidah]]
+|attendance = 2,361
+|referee    = [[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2024–25 King Cup#Round of 16|Round of 16]]
+|date       = 29 October 2024
+|time       = 18:30
+|team1      = Al-Nassr
+|score      = 0–1
+|report     = https://us.soccerway.com/matches/2024/10/29/saudi-arabia/champions-cup/al-nasr-riyadh/al-taawon-buraidah/4542268/
+|team2      = [[Al Taawoun FC|Al Taawoun]]
+|goals1     = 
+|goals2     = [[Waleed Al-Ahmed|Al-Ahmed]] {{yel|34}}, {{goal|71}}<br />[[Muteb Al-Mufarrij|Al-Mufarrij]] {{yel|90+4}}<br />[[Aschraf El Mahdioui|El Mahdioui]] {{yel|90+5}}
+|stadium    = [[King Saud University Stadium|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 14,519
+|referee    = [[Rade Obrenovič]] ([[Football Association of Slovenia|Slovenia]])
+|result     = L
+}}
+
+===Super Cup===
+{{main|2024 Saudi Super Cup}}
+
+{{Football box collapsible
+|round      = [[2024 Saudi Super Cup#Semi-finals|Semi-finals]]
+|date       = 14 August 2024
+|time       = {{UTZ|19:15|3}}
+|team1      = [[Al Taawoun FC|Al Taawoun]]
+|score      = 0–2
+|report     = https://www.soccerway.com/match/al-nassr-h4I89ZuE/al-taawon-WjJkJilj/?mid=rJzqRS5K
+|team2      = Al-Nassr
+|goals1     = 
+*[[Fahad Al-Jumayah|Al-Jumayah]] {{yel|3}}
+*[[Waleed Al-Ahmed|Al-Ahmed]] {{yel|29}}
+*[[João Pedro (footballer, born 22 April 1993)|João Pedro]] {{yel|45+2}}
+|goals2     = 
+*[[Ayman Yahya|Yahya]] {{goal|8}}
+*[[Ali Lajami|Lajami]] {{yel|26}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|57}}
+*[[Marcelo Brozović|Brozović]] {{sentoff|0|90+1}}
+|stadium    = [[Prince Sultan bin Abdulaziz Sports City]]
+|location   = [[Abha]], Saudi Arabia
+|attendance = 7,213
+|referee    = [[Davide Massa]] ([[Italian Football Federation|Italy]])
+|result     = W
+}}
+{{Football box collapsible
+|round      = [[2024 Saudi Super Cup final|Final]]
+|date       = 17 August 2024
+|time       = {{UTZ|19:15|3}}
+|team1      = Al-Nassr
+|score      = 1–4
+|report     = https://www.soccerway.com/match/al-hilal-hxxcePl9/al-nassr-h4I89ZuE/?mid=GAFvHhle
+|team2      = [[Al Hilal SFC|Al-Hilal]]
+|goals1     = 
+*[[Otávio (footballer, born 1995)|Otávio]] {{yel|34}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|44}}
+*[[Sultan Al-Ghannam|Al-Ghannam]] {{yel|87}}
+|goals2     = 
+*[[Hassan Al-Tombakti|Al-Tombakti]] {{yel|12}}
+*[[Malcom (footballer)|Malcom]] {{yel|28}}, {{goal|72}}
+*[[Sergej Milinković-Savić|Milinković-Savić]] {{goal|55}}
+*[[Aleksandar Mitrović|Mitrović]] {{goal|63||69}}
+*[[Salem Al-Dawsari|S. Al-Dawsari]] {{yel|77}}
+|stadium    = [[Prince Sultan bin Abdulaziz Sports City]]
+|location   = [[Abha]], Saudi Arabia
+|attendance = 14,357
+|referee    = [[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+|result     = L
+}}
+
+===AFC Champions League Elite===
+{{main|2024–25 AFC Champions League Elite}}
+
+====League stage====
+{{main|2024–25 AFC Champions League Elite league stage}}
+
+{{2024–25 AFC Champions League Elite league stage tables|West Region|show_matches=no|teamwidth=240|showteam=NSR}}
+
+{{football box collapsible
+|round      = 1
+|date       = {{Start date|2024|9|16|df=y}}
+|time       = {{UTZ|19:00|3}}
+|team1      = [[Al-Shorta SC|Al-Shorta]] {{fbaicon|IRQ}}
+|score      = 1–1
+|report     = https://www.the-afc.com/en/matches/afc-champions-league-elite/20242025/2482095
+|team2      = {{fbaicon|KSA}} Al-Nassr
+|goals1     = [[Mohammed Dawood Yaseen|Dawood]] {{goal|24}}<br />[[Lucas Esquedinha|Esquedinha]] {{yel|80}}
+|goals2     = [[Sultan Al-Ghannam|Al-Ghannam]] {{goal|14}}<br />[[Mohamed Simakan|Simakan]] {{yel|40}}<br />[[Salem Al-Najdi|Al-Najdi]] {{yel|45+3}}
+|stadium    = [[Al-Madina Stadium|Al-Madina International Stadium]]
+|location   = [[Baghdad]], [[Iraq]]
+|attendance = 29,270 
+|referee    = Ahmed Al-Ali ([[Kuwait Football Association|Kuwait]])
+|result     = D
+}}
+{{football box collapsible
+|round      = 2
+|date       = {{Start date|2024|9|30|df=y}}
+|time       = {{UTZ|21:00|3}}
+|team1      = Al-Nassr {{fbaicon|KSA}}
+|score      = 2–1
+|report     = https://www.the-afc.com/en/matches/afc-champions-league-elite/20242025/2482109
+|team2      = {{fbaicon|QAT}} [[Al Rayyan SC|Al-Rayyan]]
+|goals1     = [[Salem Al-Najdi|Al-Najdi]] {{yel|21}}<br />[[Sadio Mané|Mané]] {{goal|45+1}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|76}}<br />[[Nawaf Boushal|Boushal]] {{yel|90+3}}<br />[[Otávio (footballer, born 1995)|Otávio]] {{yel|90+6}}
+|goals2     = [[Róger Guedes|Guedes]] {{goal|87}}<br />[[Julien De Sart|De Sart]] {{yel|90}}
+|stadium    = [[King Saud University Stadium|Al-Awwal Park]]
+|location   = [[Riyadh]], [[Saudi Arabia]]
+|attendance = 14,547
+|referee    = [[Shaun Evans (referee)|Shaun Evans]] ([[Football Australia|Australia]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 3
+|date       = {{Start date|2024|10|22|df=y}}
+|time       = {{UTZ|20:00|4}}
+|team1      = [[Esteghlal F.C.|Esteghlal]] {{fbaicon|IRN}}
+|score      = 0–1
+|report     = https://www.the-afc.com/en/matches/afc-champions-league-elite/20242025/2482122
+|team2      = {{fbaicon|KSA}} Al-Nassr
+|goals1     = [[Jaloliddin Masharipov|Masharipov]] {{yel|49}}
+|goals2     = [[Aymeric Laporte|Laporte]] {{goal|81}}
+|stadium    = [[Rashid Stadium]]
+|location   = [[Dubai]], [[United Arab Emirates]]
+|attendance = 7,600
+|referee    = [[Adham Makhadmeh]] ([[Jordan Football Association|Jordan]])
+|result     = W
+|note       = Match moved to Dubai due to security concerns in Iran. 
+}}
+{{football box collapsible
+|round      = 4
+|date       = {{Start date|2024|11|05|df=y}}
+|time       = {{UTZ|21:00|3}}
+|team1      = Al-Nassr {{fbaicon|KSA}}
+|score      = 5–1
+|report     = https://www.the-afc.com/en/matches/afc-champions-league-elite/20242025/2482135
+|team2      = {{fbaicon|UAE}} [[Al Ain FC|Al-Ain]]
+|goals1     = [[Talisca]] {{goal|5||90+4}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|31}}<br />[[Fábio Cardoso|Cardoso]] {{goal|37|o.g.}}<br />[[Marcelo Brozović|Brozović]] {{yel|43}}<br />[[Wesley (footballer, born 2005)|Wesley]] {{goal|81}}
+|goals2     = [[Kaku (footballer)|Kaku]] {{yel|29}}<br />[[Bento (footballer)|Bento]] {{goal|56|o.g.}}<br />[[Abdoul Karim Traoré|Traoré]] {{yel|67}}
+|stadium    = [[King Saud University Stadium|Al-Awwal Park]]
+|location   = [[Riyadh]], [[Saudi Arabia]]
+|attendance = 23,324
+|referee    = [[Ma Ning (referee)|Ma Ning]] ([[Chinese Football Association|China]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 5
+|date       = {{Start date|2024|11|25|df=y}}
+|time       = {{UTZ|19:00|3}}
+|team1      = [[Al-Gharafa SC|Al-Gharafa]] {{fbaicon|QAT}}
+|score      = 1–3
+|report     = https://www.the-afc.com/en/matches/afc-champions-league-elite/20242025/2482144
+|team2      = {{fbaicon|KSA}} Al-Nassr
+|goals1     = [[Seydou Sano|Sano]] {{sentoff|2|61|84}}<br />[[Joselu]] {{goal|75}}
+|goals2     = [[Cristiano Ronaldo|Ronaldo]] {{goal|46||64}}<br />[[Ângelo Gabriel|Ângelo]] {{goal|58}}
+|stadium    = [[Al Bayt Stadium]]
+|location   = [[Al Khor]], [[Qatar]]
+|attendance = 37,293
+|referee    = [[Shaun Evans (referee)|Shaun Evans]] ([[Football Australia|Australia]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 6
+|date       = {{Start date|2024|12|02|df=y}}
+|time       = {{UTZ|21:00|3}}
+|team1      = Al-Nassr {{fbaicon|KSA}}
+|score      = 1–2
+|report     = https://www.the-afc.com/en/matches/afc-champions-league-elite/20242025/2482157
+|team2      = {{fbaicon|QAT}} [[Al Sadd SC|Al-Sadd]]
+|goals1     = [[Romain Saïss|Saïss]] {{goal|80|o.g.}}<br />[[Mohammed Al-Fatil|Al-Fatil]] {{yel|90+6}}
+|goals2     = [[Akram Afif|Afif]] {{goal|53}}<br />[[Paulo Otávio|Otávio]] {{yel|89}}<br />[[Mohamed Camara (footballer, born January 2000)|Camara]] {{yel|90+3}}<br />[[Adam Ounas|Ounas]] {{goal|90+9|pen.}}
+|stadium    = [[King Saud University Stadium|Al-Awwal Park]]
+|location   = [[Riyadh]], [[Saudi Arabia]]
+|attendance = 13,091
+|referee    = Yusuke Araki ([[Japan Football Association|Japan]])
+|result     = L
+}}
+{{football box collapsible
+|round      = 7
+|date       = {{Start date|2025|02|03|df=y}}
+|time       = {{UTZ|21:00|3}}
+|team1      = Al-Nassr {{fbaicon|KSA}}
+|score      = 4–0
+|report     = https://www.the-afc.com/en/matches/afc-champions-league-elite/20242025/2482169
+|team2      = {{fbaicon|UAE}} [[Al Wasl FC|Al-Wasl]]
+|goals1     = [[Ali Lajami|Lajami]] {{yel|14}}<br />[[Ali Al-Hassan|Al-Hassan]] {{goal|25}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|44|pen.|78}}<br />[[Mohammed Al-Fatil|Al-Fatil]] {{goal|88}}
+|goals2     = [[Fábio Lima (footballer, born 1993)|Lima]] {{yel|7}}<br />[[Nicolás Giménez (footballer, born 1996)|Giménez]] {{yel|40}}
+|stadium    = [[King Saud University Stadium|Al-Awwal Park]]
+|location   = [[Riyadh]], [[Saudi Arabia]]
+|attendance = 20,384
+|referee    = [[Ahmed Al-Kaf]] ([[Oman Football Association|Oman]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 8
+|date       = {{Start date|2025|02|17|df=y}}
+|time       = {{UTZ|19:30|3:30}}
+|team1      = [[Persepolis F.C.|Persepolis]] {{fbaicon|IRN}}
+|score      = 0–0
+|report     = https://www.the-afc.com/en/matches/afc-champions-league-elite/20242025/2482180
+|team2      = {{fbaicon|KSA}} Al-Nassr
+|goals1     = [[Hossein Kanaanizadegan|Kanaani]] {{yel|45+2}}<br />[[Serdar Dursun|Dursun]] {{yel|48}}<br />[[Saeid Mehri|Mehri]] {{yel|72}}
+|goals2     = [[Abdulmajeed Al-Sulaiheem|Al-Sulaiheem]] {{yel|90+4}}<br />[[Mohamed Simakan|Simakan]] {{yel|90+10}}
+|stadium    = [[Azadi Stadium]]
+|location   = [[Tehran]], [[Iran]]
+|attendance = 70,350
+|referee    = Rustam Lutfullin ([[Uzbekistan Football Association|Uzbekistan]])
+|result     = D
+}}
+
+====Knockout stage====
+{{main|2024–25 AFC Champions League Elite knockout stage}}
+
+=====Round of 16=====
+{{football box collapsible
+|round      = [[2024–25 AFC Champions League Elite knockout stage#Esteghlal v Al-Nassr|Round of 16<br>First leg]]
+|date       = {{Start date|2025|3|3|df=y}}
+|time       = {{UTZ|19:30|3:30}}
+|team1      = [[Esteghlal F.C.|Esteghlal]] {{fbaicon|IRN}}
+|score      = 0–0
+|report     = https://www.the-afc.com/en/matches/afc-champions-league-elite/20242025/2511524
+|team2      = {{fbaicon|KSA}} Al-Nassr
+|goals1     = 
+|goals2     = 
+|stadium    = [[Azadi Stadium]]
+|location   = [[Tehran]], [[Iran]]
+|attendance = 75,130
+|referee    = [[Ahmed Al-Kaf]] ([[Oman Football Association|Oman]])
+|result     = D
+}}
+{{football box collapsible
+|round      = [[2024–25 AFC Champions League Elite knockout stage#Al-Nassr v Esteghlal|Round of 16<br>Second leg]]
+|date       = {{Start date|2025|03|10|df=y}}
+|time       = {{UTZ|21:00|3}}
+|team1      = Al-Nassr {{fbaicon|KSA}}
+|score      = 3–0
+|aggregatescore = 3–0
+|report     = https://www.the-afc.com/en/matches/afc-champions-league-elite/20242025/2511525
+|team2      = {{fbaicon|IRN}} [[Esteghlal F.C.|Esteghlal]] 
+|goals1     = [[Jhon Durán|Durán]] {{goal|9||84}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|27|pen.}}<br />[[Salem Al-Najdi|Al-Najdi]] {{yel|68}}
+|goals2     = [[Mehran Ahmadi (footballer)|Ahmadi]] {{sentoff|2|17|45+2}}<br />[[Joel Kojo|Kojo]] {{yel|62}}
+|stadium    = [[King Saud University Stadium|Al-Awwal Park]]
+|location   = [[Riyadh]], [[Saudi Arabia]]
+|attendance = 23,256
+|referee    = Ilgiz Tantashev ([[Uzbekistan Football Federation|Uzbekistan]])
+|result     = W
+}}
+
+=====Finals=====
+{{football box collapsible
+|round      = [[2024–25 AFC Champions League Elite knockout stage#Quarter-finals|Quarter-finals]]
+|date       = {{Start date|2025|4|26|df=y}}
+|time       = {{UTZ|22:30|3}}
+|team1      = [[Yokohama F. Marinos]] {{fbaicon|JPN}}
+|score      = 1–4
+|report     = https://www.the-afc.com/en/matches/afc-champions-league-elite/20242025/2515480
+|team2      = {{fbaicon|KSA}} Al-Nassr
+|goals1     = [[Ken Matsubara|Matsubara]] {{yel|15}}<br />[[Kōta Watanabe (footballer)|Watanabe]] {{goal|53}}, {{sentoff|2|58|73}}<br />[[Riku Yamane|Yamane]] {{yel|57}}
+|goals2     = [[Jhon Durán|Durán]] {{goal|27||49}}<br />[[Sadio Mané|Mané]] {{goal|31}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|38}}
+|stadium    = [[Prince Abdullah Al-Faisal Sports City]]
+|location   = [[Jeddah]], [[Saudi Arabia]]
+|attendance = 12,003
+|referee    = Adel Al-Naqbi ([[United Arab Emirates Football Association|United Arab Emirates]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2024–25 AFC Champions League Elite knockout stage#Semi-finals|Semi-finals]]
+|date       = {{Start date|2025|4|30|df=y}}
+|time       = {{UTZ|19:30|3}}
+|team1      = Al-Nassr {{fbaicon|KSA}}
+|score      = 2–3
+|report     = https://www.the-afc.com/en/matches/afc-champions-league-elite/20242025/2515483
+|team2      = {{fbaicon|JPN}} [[Kawasaki Frontale]]
+|goals1     = [[Sadio Mané|Mané]] {{goal|28}}<br />[[Ali Lajami|Lajami]] {{yel|37}}<br />[[Ayman Yahya|Yahya]] {{goal|87}}
+|goals2     = [[Tatsuya Itō (footballer)|Itō]] {{goal|10}}<br />[[Yuto Ozeki|Ozeki]] {{goal|41}}<br />[[Akihiro Ienaga|Ienaga]] {{goal|76}}<br />[[Erison (footballer)|Erison]] {{yel|90+14}}
+|stadium    = [[King Abdullah Sports City]]
+|location   = [[Jeddah]], [[Saudi Arabia]]
+|attendance = 28,810
+|referee    = [[Alireza Faghani]] ([[Football Australia|Australia]])
+|result     = L
+}}
+
+==Statistics==
+===Appearances===
+:''Last updated on 26 May 2025.''
+
+{{Efs start|Pro League|King's Cup|ACL Elite|Super Cup}}
+|-
+! colspan=20 style=background:#dcdcdc; text-align:center|''Goalkeepers''
+{{Efs player|no=22|name=[[Ahmed Al-Rehaili]]|pos=GK|nat=KSA                   |0|0|0|0|0|0|0|0}}
+{{Efs player|no=24|name=[[Bento (footballer)|Bento]]|pos=GK|nat=BRA           |34|0|2|0|11|0|2|0}}
+{{Efs player|no=36|name=[[Raghed Al-Najjar]]|pos=GK|nat=KSA                   |0|0|0|0|1|0|0|0}}
+{{Efs player|no=61|name=[[Mubarak Al-Buainain]]|pos=GK|nat=KSA                |0|0|0|0|0|0|0|0}}
+|-
+! colspan=16 style=background:#dcdcdc; text-align:center|''Defenders''
+{{Efs player|no=2 |name=[[Sultan Al-Ghannam]]|pos=DF|nat=KSA                  |27|2|1+1|0|8+1|1|2|0}}
+{{Efs player|no=3 |name=[[Mohamed Simakan]]|pos=DF|nat=FRA                    |26|1|1+1|0|11|0|0|0}}
+{{Efs player|no=4 |name=[[Mohammed Al-Fatil]]|pos=DF|nat=KSA                  |9+8|1|1|0|5+3|1|0|0}}
+{{Efs player|no=12|name=[[Nawaf Boushal]]|pos=DF|nat=KSA                      |24+6|2|2|1|9+3|0|0|0}}
+{{Efs player|no=27|name=[[Aymeric Laporte]]|pos=DF|nat=ESP                    |18+2|4|2|0|3+3|1|2|0}}
+{{Efs player|no=50|name=[[Majed Qasheesh]]|pos=DF|nat=KSA                     |4+5|0|0|0|1+1|0|0|0}}
+{{Efs player|no=70|name=[[Awad Aman]]|pos=DF|nat=KSA                          |0+1|0|0|0|0|0|0|0}}
+{{Efs player|no=78|name=[[Ali Lajami]]|pos=DF|nat=KSA                         |15+10|0|0|0|5+3|0|2|0}}
+{{Efs player|no=83|name=[[Salem Al-Najdi]]|pos=DF|nat=KSA                     |10+15|1|1+1|0|6+4|0|0|0}}
+|-
+! colspan=16 style=background:#dcdcdc; text-align:center|''Midfielders''
+{{Efs player|no=8 |name=[[Abdulmajeed Al-Sulayhem]]|pos=MF|nat=KSA            |5+8|0|0|0|1+2|0|0|0}}
+{{Efs player|no=11|name=[[Marcelo Brozović]]|pos=MF|nat=CRO                   |26+2|2|1|0|11|0|1|0}}
+{{Efs player|no=14|name=[[Sami Al-Najei]]|pos=MF|nat=KSA                      |0+1|0|0|0|0|0|0+1|0}}
+{{Efs player|no=17|name=[[Abdullah Al-Khaibari]]|pos=MF|nat=KSA               |15+7|0|0+1|0|4+3|0|2|0}}
+{{Efs player|no=19|name=[[Ali Al-Hassan]]|pos=MF|nat=KSA                      |13+9|2|1|0|5+3|1|0|0}}
+{{Efs player|no=23|name=[[Ayman Yahya]]|pos=MF|nat=KSA                        |12+10|5|0|0|3+3|1|2|1}}
+{{Efs player|no=25|name=[[Otávio (footballer, born 1995)|Otávio]]|pos=MF|nat=POR|26+2|1|1+1|0|7+1|0|2|0}}
+{{Efs player|no=29|name=[[Abdulrahman Ghareeb]]|pos=MF|nat=KSA                |7+11|0|1+1|0|3+4|0|0+2|0}}
+{{Efs player|no=40|name=[[Yousef El Tahan]]|pos=MF|nat=EGY                    |0|0|0|0|0|0|0|0}}
+{{Efs player|no=54|name=[[Faris Salem]]|pos=MF|nat=KSA                        |0|0|0|0|0|0|0|0}}
+{{Efs player|no=58|name=[[Mohammed Hazazi]]|pos=MF|nat=KSA                    |0|0|0|0|0+1|0|0|0}}
+{{Efs player|no=80|name=[[Wesley (footballer, born 2005)|Wesley]]|pos=MF|nat=BRA|3+7|0|1+1|0|0+10|1|0|0}}
+{{Efs player|no=88|name=[[Bassam Hazazi]]|pos=MF|nat=KSA                      |0|0|0|0|0|0|0|0}}
+|-
+! colspan=16 style=background:#dcdcdc; text-align:center|''Forwards''
+{{Efs player|no=7 |name=[[Cristiano Ronaldo]]|pos=FW|nat=POR                  |30|25|1|0|8|8|2|2}}
+{{Efs player|no=9 |name=[[Jhon Durán]]|pos=FW|nat=COL                         |12+1|8|0|0|5|4|0|0}}
+{{Efs player|no=10|name=[[Sadio Mané]]|pos=FW|nat=SEN                         |32|14|1+1|1|11|3|2|0}}
+{{Efs player|no=16|name=[[Mohammed Maran]]|pos=FW|nat=KSA                     |0+10|1|0+2|0|1+1|0|0+1|0}}
+{{Efs player|no=20|name=[[Ângelo Gabriel]]|pos=FW|nat=BRA                     |15+10|1|2|0|8+3|1|0|0}}
+{{Efs player|no=60|name=[[Saad Haqawi]]|pos=FW|nat=KSA                        |0+5|0|0|0|0|0|0|0}}
+|-
+! colspan=16 style=background:#dcdcdc; text-align:center| Players sent out on loan this season
+{{Efs player|no=1 |name=[[Amin Bukhari]]|pos=GK|nat=KSA                       |0|0|0|0|0|0|0|0}}
+{{Efs player|no=44|name=[[Nawaf Al-Aqidi]]|pos=GK|nat=KSA                     |0|0|0|0|0|0|0|0}}
+|-
+! colspan=16 style=background:#dcdcdc; text-align:center| Player who made an appearance this season but have left the club
+{{Efs player|no=6 |name=[[Mukhtar Ali]]|pos=MF|nat=KSA                        |0+5|0|1|0|1+2|0|0+2|0}}
+{{Efs player|no=13|name=[[Alex Telles]]|pos=DF|nat=BRA                        |2|0|0|0|0|0|2|0}}
+{{Efs player|no=94|name=[[Talisca]]|pos=MF|nat=BRA                            |9+1|6|2|0|4+1|2|1+1|0}}
+|}
+
+===Goalscorers===
+{| class="wikitable" style="text-align:center"
+|-
+!width=15|Rank
+!width=15|{{Tooltip|No.|Squad number}}
+!width=15|{{Tooltip|Pos.|Position}}
+!width=15|{{Tooltip|Nat.|Nationality}}
+!width=165|Player
+!width=100|Pro League
+!width=100|King's Cup
+!width=100|ACL Elite
+!width=100|Super Cup
+!width=100|Total
+|-
+|'''1'''
+|7
+|[[Forward (association football)|FW]]
+|{{flagicon|POR}}
+|align=left|[[Cristiano Ronaldo]]
+|25
+|0
+|8
+|2
+|'''35'''
+|-
+|'''2'''
+|10
+|[[Forward (association football)|FW]]
+|{{flagicon|SEN}}
+|align=left|[[Sadio Mané]]
+|14
+|1
+|3
+|0
+|'''18'''
+|-
+|'''3'''
+|9
+|[[Forward (association football)|FW]]
+|{{flagicon|COL}}
+|align=left|[[Jhon Durán]]
+|8
+|0
+|4
+|0
+|'''12'''
+|-
+|'''4'''
+|94
+|[[Midfielder|MF]]
+|{{flagicon|BRA}}
+|align=left|[[Talisca]]
+|6
+|0
+|2
+|0
+|'''8'''
+|-
+|'''5'''
+|23
+|[[Midfielder|MF]]
+|{{flagicon|KSA}}
+|align=left|[[Ayman Yahya]]
+|5
+|0
+|1
+|1
+|'''7'''
+|-
+|'''6'''
+|27
+|[[Defender (association football)|DF]]
+|{{flagicon|SPA}}
+|align=left|[[Aymeric Laporte]]
+|4
+|0
+|1
+|0
+|'''5'''
+|-
+|rowspan=3|'''7'''
+|2
+|[[Defender (association football)|DF]]
+|{{flagicon|KSA}}
+|align=left|[[Sultan Al-Ghannam]]
+|2
+|0
+|1
+|0
+|'''3'''
+|-
+|12
+|[[Defender (association football)|DF]]
+|{{flagicon|KSA}}
+|align=left|[[Nawaf Boushal]]
+|2
+|1
+|0
+|0
+|'''3'''
+|-
+|19
+|[[Midfielder|MF]]
+|{{flagicon|KSA}}
+|align=left|[[Ali Al-Hassan]]
+|2
+|0
+|1
+|0
+|'''3'''
+|-
+|rowspan=3|'''10'''
+|4
+|[[Defender (association football)|DF]]
+|{{flagicon|KSA}}
+|align=left|[[Mohammed Al-Fatil]]
+|1
+|0
+|1
+|0
+|'''2'''
+|-
+|11
+|[[Midfielder|MF]]
+|{{flagicon|CRO}}
+|align=left|[[Marcelo Brozović]]
+|2
+|0
+|0
+|0
+|'''2'''
+|-
+|20
+|[[Forward (association football)|FW]]
+|{{flagicon|BRA}}
+|align=left|[[Ângelo Gabriel]]
+|1
+|0
+|1
+|0
+|'''2'''
+|-
+|rowspan=5|'''13'''
+|3
+|[[Defender (association football)|DF]]
+|{{flagicon|FRA}}
+|align=left|[[Mohamed Simakan]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|16
+|[[Forward (association football)|FW]]
+|{{flagicon|KSA}}
+|align=left|[[Mohammed Maran]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|25
+|[[Midfielder|MF]]
+|{{flagicon|POR}}
+|align=left|[[Otávio (footballer, born 1995)|Otávio]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|80
+|[[Midfielder|MF]]
+|{{flagicon|BRA}}
+|align=left|[[Wesley (footballer, born 2005)|Wesley]]
+|0
+|0
+|1
+|0
+|'''1'''
+|-
+|83
+|[[Defender (association football)|DF]]
+|{{flagicon|KSA}}
+|align=left|[[Salem Al-Najdi]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|colspan=5|'''[[Own goal]]'''
+|2
+|0
+|2
+|0
+|'''4'''
+|-
+|colspan=5|'''Total'''
+|'''78'''
+|'''2'''
+|'''26'''
+|'''3'''
+|'''109'''
+|}
+''Last Updated: 26 May 2025''
+
+===Assists===
+{| class="wikitable" style="text-align:center"
+|-
+!width=15|Rank
+!width=15|{{Tooltip|No.|Squad number}}
+!width=15|{{Tooltip|Pos.|Position}}
+!width=15|{{Tooltip|Nat.|Nationality}}
+!width=165|Player
+!width=100|Pro League
+!width=100|King's Cup
+!width=100|ACL Elite
+!width=100|Super Cup
+!width=100|Total
+|-
+|'''1'''
+|10
+|[[Forward (association football)|FW]]
+|{{flagicon|SEN}}
+|align=left|[[Sadio Mané]]
+|11
+|0
+|1
+|0
+|'''12'''
+|-
+|'''2'''
+|20
+|[[Forward (association football)|FW]]
+|{{flagicon|BRA}}
+|align=left|[[Ângelo Gabriel]]
+|6
+|0
+|3
+|0
+|'''9'''
+|-
+|'''3'''
+|25
+|[[Midfielder|MF]]
+|{{flagicon|POR}}
+|align=left|[[Otávio (footballer, born 1995)|Otávio]]
+|5
+|0
+|3
+|0
+|'''8'''
+|-
+|'''4'''
+|12
+|[[Defender (association football)|DF]]
+|{{flagicon|KSA}}
+|align=left|[[Nawaf Boushal]]
+|6
+|0
+|1
+|0
+|'''7'''
+|-
+|'''5'''
+|11
+|[[Midfielder|MF]]
+|{{flagicon|CRO}}
+|align=left|[[Marcelo Brozović]]
+|5
+|0
+|1
+|0
+|'''6'''
+|-
+|'''6'''
+|2
+|[[Defender (association football)|DF]]
+|{{flagicon|KSA}}
+|align=left|[[Sultan Al-Ghannam]]
+|1
+|1
+|2
+|1
+|'''5'''
+|-
+|'''7'''
+|7
+|[[Forward (association football)|FW]]
+|{{flagicon|POR}}
+|align=left|[[Cristiano Ronaldo]]
+|3
+|0
+|0
+|1
+|'''4'''
+|-
+|rowspan=3|'''8'''
+|3
+|[[Defender (association football)|DF]]
+|{{flagicon|FRA}}
+|align=left|[[Mohamed Simakan]]
+|1
+|0
+|2
+|0
+|'''3'''
+|-
+|23
+|[[Midfielder|MF]]
+|{{flagicon|KSA}}
+|align=left|[[Ayman Yahya]]
+|3
+|0
+|0
+|0
+|'''3'''
+|-
+|29
+|[[Midfielder|MF]]
+|{{flagicon|KSA}}
+|align=left|[[Abdulrahman Ghareeb]]
+|1
+|0
+|1
+|1
+|'''3'''
+|-
+|'''11'''
+|80
+|[[Midfielder|MF]]
+|{{flagicon|BRA}}
+|align=left|[[Wesley (footballer, born 2005)|Wesley]]
+|0
+|0
+|2
+|0
+|'''2'''
+|-
+|rowspan=5|'''12'''
+|4
+|[[Defender (association football)|DF]]
+|{{flagicon|KSA}}
+|align=left|[[Mohammed Al-Fatil]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|8
+|[[Midfielder|MF]]
+|{{flagicon|KSA}}
+|align=left|[[Abdulmajeed Al-Sulayhem]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|60
+|[[Forward (association football)|FW]]
+|{{flagicon|KSA}}
+|align=left|[[Saad Haqawi]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|78
+|[[Defender (association football)|DF]]
+|{{flagicon|KSA}}
+|align=left|[[Ali Lajami]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|83
+|[[Defender (association football)|DF]]
+|{{flagicon|KSA}}
+|align=left|[[Salem Al-Najdi]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|colspan=5|'''Total'''
+|'''47'''
+|'''1'''
+|'''16'''
+|'''3'''
+|'''67'''
+|}
+''Last Updated: 26 May 2025''
+
+===Clean sheets===
+{| class="wikitable" style="text-align:center"
+|-
+!width=15|Rank
+!width=15|{{Tooltip|No.|Squad number}}
+!width=15|{{Tooltip|Pos.|Position}}
+!width=15|{{Tooltip|Nat.|Nationality}}
+!width=155|Player
+!width=100|Pro League
+!width=100|King's Cup
+!width=100|ACL Elite
+!width=100|Super Cup
+!width=100|Total
+|-
+|'''1'''
+|24
+|[[Goalkeeper (association football)|GK]]
+|{{flagicon|BRA}}
+|align=left|[[Bento (footballer)|Bento]]
+|9
+|0
+|4
+|1
+|'''14'''
+|-
+|'''2'''
+|36
+|[[Goalkeeper (association football)|GK]]
+|{{flagicon|KSA}}
+|align=left|[[Raghed Al-Najjar]]
+|0
+|0
+|1
+|0
+|'''1'''
+|-
+|colspan=5|'''Total'''
+|'''9'''
+|'''0'''
+|'''5'''
+|'''1'''
+|'''15'''
+|}
+''Last Updated: 21 May 2025''
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist|30em}}
+
+{{Al-Nassr FC seasons}}
+{{2024–25 in Saudi Arabian football}}
+
+{{DEFAULTSORT:Al-Nassr FC season}}
+[[Category:Al-Nassr FC seasons|2024–25]]
+[[Category:Saudi Arabian football clubs 2024–25 season|Nassr]]
+[[Category:2024–25 AFC Champions League Elite participants seasons]]

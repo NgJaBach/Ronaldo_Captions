@@ -1,0 +1,1050 @@
+{{Short description|English football club season}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox football club season
+| club = Manchester United
+| season = [[2021–22 in English football|2021–22]]
+| image=Manchester United v Villarreal CF, 29 September 2021 (06).jpg
+| caption=Manchester United players during a [[2021–22 UEFA Champions League|UEFA Champions League]] match against [[Villarreal CF]] in September 2021
+| manager = [[Ole Gunnar Solskjær]] (until 21 November)<br />[[Michael Carrick]] (caretaker; 21 November – 2 December)<br />[[Ralf Rangnick]] (interim; from 3 December)
+| chairman = [[Joel Glazer|Joel]] and [[Avram Glazer]]
+| chrtitle = Co-chairmen
+| stadium = [[Old Trafford]]
+| league = [[2021–22 Premier League|Premier League]]
+| league result = 6th
+| cup1 = [[2021–22 FA Cup|FA Cup]]
+| cup1 result = Fourth round
+| cup2 = [[2021–22 EFL Cup|EFL Cup]]
+| cup2 result = Third round
+| cup3 = [[2021–22 UEFA Champions League|UEFA Champions League]]
+| cup3 result = Round of 16
+| league topscorer = [[Cristiano Ronaldo]] (18)
+| season topscorer = Cristiano Ronaldo (24)
+| updated = 
+| highest attendance = 73,564<br /> (v. [[Chelsea F.C.|Chelsea]], 28 April 2022)
+| lowest attendance = 71,871<br /> (v. [[Middlesbrough F.C.|Middlesbrough]], 4 February 2022)
+| average attendance = 73,150<!--(72,732*2+72,922+73,128+73,088+73,086+73,123+73,172+73,121+73,045+73,130+73,084+73,012+73,152+73,458+73,444+73,381+73,564+73,482)/19=73,150.3157895, Premier League only-->
+| pattern_la1 = _manutd2122H |pattern_b1 = _manutd2122H |pattern_ra1 = _manutd2122H |pattern_sh1 = _adidascondivo20wr|pattern_so1 = _manutd2122h
+| leftarm1 = FF0000 |body1 = FF0000 |rightarm1 = FF0000 |shorts1 = FFFFFF |socks1 = 000000
+| pattern_la2 = _manutd2122a |pattern_b2 = _manutd2122a |pattern_ra2 = _manutd2122a |pattern_sh2 = _manutd2122a |pattern_so2 = _mufc2122a
+| leftarm2 = FFFFFF |body2 = FFFFFF |rightarm2 = FFFFFF |shorts2 = 008CFF |socks2 = FFFFFF
+| pattern_la3 = _manutd2122t |pattern_b3 = _manutd2122t |pattern_ra3 = _manutd2122t |pattern_sh3 = _manutd2122t |pattern_so3 = _manutd2122t
+| leftarm3 = 0000FF |body3 = 0000FF |rightarm3 = 0000FF |shorts3 = 000000 |socks3 = 000000
+| prevseason = [[2020–21 Manchester United F.C. season|2020–21]]
+| nextseason = [[2022–23 Manchester United F.C. season|2022–23]]
+}}
+The '''2021–22 season''' was [[Manchester United F.C.|Manchester United]]'s 30th season in the [[Premier League]] and their 47th consecutive season in the top flight of [[Football in England|English football]]. 
+
+On 27 August 2021, [[Cristiano Ronaldo]] returned to the club from [[Juventus FC|Juventus]], 12 years after leaving for [[Real Madrid CF|Real Madrid]] in 2009 for a [[List of most expensive association football transfers|world-record transfer fee]].
+
+Manager [[Ole Gunnar Solskjær]] began his third full season in charge following a second-place finish the [[2020–21 Manchester United F.C. season|previous season]] and a loss in the [[2021 UEFA Europa League final|Europa League final]]. Despite a strong start, he was sacked on 21 November after winning just one league game in seven. First-team coach [[Michael Carrick]] took charge as [[Caretaker manager|caretaker]] for three games, after which [[Ralf Rangnick]] was appointed interim manager on 3 December and oversaw the team until the end of the season. [[Erik ten Hag]] was appointed Solskjær's permanent successor on 21 April and took over following the final game of the campaign.
+
+This was United's fifth consecutive trophyless season, their longest drought since a six-season run between [[1968–69 Manchester United F.C. season|1968–69]] and [[1973–74 Manchester United F.C. season|1973–74]]. They recorded their worst points tally in the Premier League era, finishing with just 58 points. Despite this, they placed sixth and qualified for the [[2022–23 UEFA Europa League|UEFA Europa League]]. United were knocked out of the [[2021–22 EFL Cup|EFL Cup]] in the third round by [[West Ham United F.C.|West Ham United]], and out of the [[2021–22 FA Cup|FA Cup]] in the fourth round by [[Middlesbrough F.C.|Middlesbrough]] on [[Penalty shoot-out (association football)|penalties]]. United were eliminated from the [[2021–22 UEFA Champions League|UEFA Champions League]] in the Round of 16 by [[Atlético Madrid]].
+
+==Pre-season and friendlies==
+Due to the [[COVID-19 pandemic]], Manchester United did not go on an overseas tour in the 2021–22 pre-season. Instead, they played matches in England, beginning with an away match against Championship side [[Derby County F.C.|Derby County]] – managed by United's record goalscorer, [[Wayne Rooney]] – on 18 July 2021.<ref name="preseason">{{cite news|title=United announce four pre-season games|url=https://www.manutd.com/en/news/detail/man-utd-announces-pre-season-friendlies-ahead-of-2021-22-campaign|website=ManUtd.com|publisher=Manchester United |date=22 June 2021 |accessdate=22 June 2021}}</ref> [[Tahith Chong]], who was playing despite having agreed to join [[Birmingham City F.C.|Birmingham City]] on loan for the season, scored the first goal in the 18th minute. He was substituted at half-time by [[Facundo Pellistri]], who added a second on the hour mark. [[Colin Kazim-Richards]] pulled a goal back for Derby, but United held on to win 2–1.<ref>{{cite news |first=Adam |last=Marshall |title=Derby 1 Manchester United 2 |url=https://www.manutd.com/en/news/detail/derby-v-man-utd-friendly-match-report-18-july-2021 |website=ManUtd.com |publisher=Manchester United |date=18 July 2021 |accessdate=26 July 2021 }}</ref> United's next game was against [[Queens Park Rangers F.C.|Queens Park Rangers]] on 24 July.<ref name="preseason"/> [[Jesse Lingard]] opened the scoring in the third minute, but [[Charlie Austin]] equalised four minutes later. QPR then scored three goals in the space of eight minutes in the second half to give them a 4–1 lead with half an hour to play. [[Anthony Elanga]] pulled a goal back for Manchester United in the 73rd minute, but it was not enough to prevent defeat.<ref>{{cite news |first=Mikey |last=Partington |title=Report: QPR 4 United 2 |url=https://www.manutd.com/en/news/detail/derby-v-man-utd-friendly-match-report-18-july-2021 |website=ManUtd.com |publisher=Manchester United |date=24 July 2021 |accessdate=26 July 2021 }}</ref>
+
+On 28 July, United returned to [[Old Trafford]] to play Premier League debutants [[Brentford F.C.|Brentford]].<ref name="preseason"/> Elanga scored his second goal in two games in the 12th minute, only for [[Shandon Baptiste]] to equalise eight minutes later. [[Andreas Pereira]] then put United in front again with a volley from 25 yards out that went in off the underside of the crossbar; however, [[Bryan Mbeumo]] equalised for Brentford with 12 minutes left to play, and the visitors left with a draw.<ref>{{cite news |first=Harry |last=Robinson |title=Match report: United 2 Brentford 2 |url=https://www.manutd.com/en/news/detail/match-report-man-united-2-brentford-2-pre-season-friendly-28-july-2021 |website=ManUtd.com |publisher=Manchester United |date=28 July 2021 |accessdate=28 July 2021 }}</ref> United were scheduled to play an away game against another Championship club, [[Preston North End F.C.|Preston North End]], on 31 July,<ref>{{cite news |title=United announce Preston North End friendly |url=https://www.manutd.com/en/news/detail/man-utd-announce-pre-season-friendly-at-preston-north-end |website=ManUtd.com |publisher=Manchester United |date=12 July 2021 |accessdate=12 July 2021 }}</ref> but the match was cancelled due to a number of suspected positive COVID-19 tests within the Manchester United team.<ref>{{cite news |title=Official statement on Saturday's friendly |url=https://www.manutd.com/en/news/detail/update-on-preston-north-end-friendly-on-31-july-2021 |website=ManUtd.com |publisher=Manchester United |date=29 July 2021 |accessdate=29 July 2021 }}</ref> The final pre-season game was at home to fellow [[Premier League]] side [[Everton F.C.|Everton]] on 7 August;<ref name="preseason" /> United were 3–0 up by half-time via goals from [[Mason Greenwood]], [[Harry Maguire]] and [[Bruno Fernandes]], before [[Diogo Dalot]] scored a fourth in the second half.<ref>{{cite news |first=Sam |last=Carney |title=Match report: United 4 Everton 0 |url=https://www.manutd.com/en/news/detail/match-report-man-utd-v-everton-friendly-7-august-2021 |website=ManUtd.com |publisher=Manchester United |date=7 August 2021 |access-date=8 August 2021 }}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Date
+!Opponents
+!H / A
+!Result<br />F–A
+!Scorers
+!Attendance
+|- style="background:#ddffdd"
+|18 July 2021
+|[[Derby County F.C.|Derby County]]
+|A
+|[https://www.manutd.com/en/news/detail/derby-v-man-utd-friendly-match-report-18-july-2021 2–1]
+|[[Tahith Chong|Chong]] 18', [[Facundo Pellistri|Pellistri]] 60'
+|
+|- style="background:#ffdddd"
+|24 July 2021
+|[[Queens Park Rangers F.C.|Queens Park Rangers]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-qpr-v-man-utd-pre-season-friendly-24-july-2021 2–4]
+|[[Jesse Lingard|Lingard]] 3', [[Anthony Elanga|Elanga]] 73'
+|
+|- bgcolor="#ffffdd"
+|28 July 2021
+|[[Brentford F.C.|Brentford]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-man-united-2-brentford-2-pre-season-friendly-28-july-2021 2–2]
+|[[Anthony Elanga|Elanga]] 12', [[Andreas Pereira|Pereira]] 50'
+|30,000
+|- style="background:#C0C0C0;"
+|31 July 2021
+|[[Preston North End F.C.|Preston North End]]
+|A
+|colspan=3|''Cancelled''
+|- style="background:#ddffdd"
+|7 August 2021
+|[[Everton F.C.|Everton]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-man-utd-v-everton-friendly-7-august-2021 4–0]
+|[[Mason Greenwood|Greenwood]] 8', [[Harry Maguire|Maguire]] 15', [[Bruno Fernandes|Fernandes]] 29', [[Diogo Dalot|Dalot]] 90+2'
+|55,000
+|}
+
+==Premier League==
+===Matches===
+The [[2021–22 Premier League]] fixtures were released on 16 June 2021.<ref>{{cite news |title=Revealed: United's Premier League fixtures |url=https://www.manutd.com/en/news/detail/man-utd-2021-22-premier-league-fixtures-full-list-announced |website=ManUtd.com |publisher=Manchester United |date=16 June 2021 |access-date=16 June 2021}}</ref>
+
+The league season started with a home match against [[Leeds United F.C.–Manchester United F.C. rivalry|Roses rival]] [[Leeds United F.C.|Leeds United]] on 14 August 2021. [[Bruno Fernandes]] scored a hat-trick, and [[Mason Greenwood]] and [[Fred (footballer, born 1993)|Fred]] scored the other two goals in a 5–1 win, as [[Paul Pogba]] equalled a Premier League record with four assists. [[Luke Ayling]] scored the only goal for the visitors.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 5–1 Leeds United: Bruno Fernandes hat-trick earns hosts thumping win |url=https://www.bbc.co.uk/sport/football/58124893 |website=BBC Sport |date=14 August 2021 |access-date=14 August 2021 }}</ref> The following week, United travelled to face [[Southampton F.C.|Southampton]], and went behind on the half-hour mark, when Fred deflected [[Ché Adams]]' shot past [[David de Gea]] for an own goal. Greenwood equalised 10 minutes into the second half, but United were unable to find a winner and the game finished 1–1, extending United's unbeaten away run to 27 league matches, equalling the record set by [[Arsenal F.C.|Arsenal]] in 2004.<ref>{{cite news |first=Phil |last=McNulty |title=Southampton 1-1 Man Utd: Mason Greenwood earns lacklustre visitors a point |url=https://www.bbc.co.uk/sport/football/58193443 |website=BBC Sport |date=22 August 2021 |access-date=22 August 2021 }}</ref> That record was broken the following week, when on 29 August 2021, United travelled to face [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] in the final match before the first international break of the season. [[Raphaël Varane]] made his debut following his move from [[Real Madrid CF|Real Madrid]], and provided the assist as Greenwood scored the only goal of the game to secure a 1–0 win.<ref>{{cite news |first=Neil |last=Johnston |title=Wolverhampton Wanderers 0-1 Manchester United: Mason Greenwood hits winner |url=https://www.bbc.co.uk/sport/football/58295875 |website=BBC Sport |date=29 August 2021 |access-date=29 August 2021 }}</ref>
+
+United's first game after the international break was at home to [[Newcastle United F.C.|Newcastle United]] on 11 September and marked [[Cristiano Ronaldo]]'s second debut for the club after re-signing from [[Juventus FC|Juventus]]. It took him until injury time at the end of the first half to open the scoring, turning home the rebound after Newcastle goalkeeper [[Freddie Woodman]] spilled a long-range shot from Greenwood. [[Javier Manquillo]] equalised for Newcastle in the 56th minute, but Ronaldo restored United's lead six minutes later with a shot through Woodman's legs following a through-ball from [[Luke Shaw]]. Fernandes then scored a third with a long-range strike 10 minutes from full time, before [[Jesse Lingard]] scored his first goal for the club since August 2020, as United won 4–1 to return to the top of the table.<ref>{{cite news |first=Simon |last=Stone |title=Cristiano Ronaldo twice scores as Manchester United beat Newcastle |url=https://www.bbc.co.uk/sport/football/58437003 |website=BBC Sport |date=11 September 2021 |access-date=11 September 2021 }}</ref> In the next match away to [[West Ham United F.C.|West Ham United]] on 19 September, United went behind on the half-hour when a shot from [[Saïd Benrahma]] was deflected past De Gea off Varane; however, less than five minutes later, Ronaldo scored the equaliser, following up after his original shot was saved by [[Łukasz Fabiański]]. A minute from the end of normal time, Lingard put United in front with a curling shot into the top corner from just inside the [[penalty area]], but deep into injury time, West Ham were awarded a [[Penalty kick (association football)|penalty]] after Shaw was deemed to have handled the ball in his own area. [[Mark Noble]] was brought on specifically to take the kick, but De Gea dived the right way to make the save;<ref>{{cite news |first=Shamoon |last=Hafez |title=West Ham 1-2 Man Utd: Cristiano Ronaldo and Jesse Lingard score |url=https://www.bbc.co.uk/sport/football/58533941 |website=BBC Sport |date=19 September 2021 |access-date=19 September 2021 }}</ref> it was his first penalty save in the league since October 2014.<ref>{{cite news |title=West Ham 1-2 Man Utd: David de Gea saves late Mark Noble penalty |url=https://www.bbc.co.uk/sport/football/58618556 |website=BBC Sport |date=19 September 2021 |accessdate=20 September 2021 }}</ref> United then played host to [[Aston Villa F.C.|Aston Villa]] on 25 September, and lost defenders [[Harry Maguire]] and Shaw to injury either side of half-time. The match remained goalless until the 88th minute, when [[Kortney Hause]] headed in a corner. The Villa defender then gave away a penalty in injury time when he handled the ball after an [[Edinson Cavani]] flick-on; however, Fernandes' shot went over the bar, giving Villa their first win at Old Trafford in any competition since December 2009.<ref>{{cite news |first=Neil |last=Johnston |title=Manchester United 0-1 Aston Villa: Bruno Fernandes misses late penalty as Villa win at Old Trafford for first time in 12 years |url=https://www.bbc.co.uk/sport/football/58606473 |website=BBC Sport |date=25 September 2021 |access-date=25 September 2021 }}</ref>
+
+United took the lead just before half-time in their first fixture in October, at home to Everton, when [[Anthony Martial]] scored his first club goal since the [[Manchester United F.C. 9–0 Southampton F.C.|9–0 win over Southampton]] in February; however, [[Andros Townsend]] equalised for the visitors 20 minutes into the second half. [[Yerry Mina]] thought he had scored the winning goal in the 86th minute, but it was ruled out for offside by the video assistant referee (VAR).<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 1-1 Everton: Andros Townsend earns point for Toffees at Old Trafford |url=https://www.bbc.co.uk/sport/football/58667844 |website=BBC Sport |date=2 October 2021 |accessdate=2 October 2021 }}</ref> Following the international break, United travelled to the [[King Power Stadium]] two weeks later to face [[Leicester City F.C.|Leicester City]]. Greenwood opened the scoring, but [[Youri Tielemans]] pulled Leicester level just after the half-hour, before [[Çağlar Söyüncü]] put them in front with 12 minutes to go in the match. [[Marcus Rashford]] levelled the scores again in his first appearance since the [[UEFA Euro 2020 final]], but [[Jamie Vardy]] restored Leicester's lead a minute later and [[Patson Daka]] added a fourth in injury time to end United's record-breaking away Premier League unbeaten streak at 29.<ref>{{cite news |first=Phil |last=McNulty |title=Leicester City 4-2 Man Utd: Hosts score two late goals to win enthralling encounter |url=https://www.bbc.co.uk/sport/football/58833898 |website=BBC Sport |date=16 October 2021 |access-date=27 October 2021 }}</ref> The following week, United hosted [[Liverpool F.C.–Manchester United F.C. rivalry|arch-rivals]] [[Liverpool F.C.|Liverpool]]; [[Naby Keïta]] opened the scoring in the fifth minute, before [[Diogo Jota]] doubled the lead eight minutes later. [[Mohamed Salah]] scored two more before half-time to put United four goals down at the break for only the second time in a Premier League game, before completing his hat-trick five minutes into the second half. Pogba was then sent off for a two-footed tackle on Keïta as United suffered their worst ever home defeat to Liverpool.<ref>{{cite news |first=Phil |last=McNulty |title=Manchester United 0-5 Liverpool: Salah hat-trick as Solskjaer's side thrashed |url=https://www.bbc.co.uk/sport/football/58943625 |website=BBC Sport |date=24 October 2021 |access-date=27 October 2021 }}</ref> With United on the verge of losing three league games in a row for the first time since [[2015–16 Manchester United F.C. season#Premier League|December 2015]], they travelled to play [[Tottenham Hotspur F.C.|Tottenham Hotspur]] on 30 October. Playing with five at the back following the return of Varane from injury and with Cavani starting up front alongside Ronaldo, United won the match 3–0. Ronaldo opened the scoring six minutes before half-time before providing an assist for Cavani's first goal of the season almost 20 minutes into the second half, and Rashford completed the scoring four minutes from the end.<ref>{{cite news |first=Phil |last=McNulty |title=Tottenham Hotspur 0-3 Manchester United: Cristiano Ronaldo scores and assists to ease pressure on Ole Gunnar Solskjaer |url=https://www.bbc.co.uk/sport/football/59019333 |website=BBC Sport |date=30 October 2021 |accessdate=30 October 2021 }}</ref>
+
+November began with Manchester United playing host to their [[Manchester derby|local rivals]] [[Manchester City F.C.|Manchester City]] at Old Trafford. [[Eric Bailly]] started in place of Varane, who had been injured in the Champions League match against Atalanta four days earlier, and it was the Ivorian defender who opened the scoring, albeit for the away side, as he put [[João Cancelo]]'s cross into his own net. [[Bernardo Silva]] doubled City's lead just before half-time, when Bailly was substituted by [[Jadon Sancho]]. City remained the more likely of the two sides to score in the second half, but De Gea was able to keep them out for the remainder of the game, and United went into the international break nine points behind league leaders [[Chelsea F.C.|Chelsea]] as City won a league match against United for the first time since 24 April 2019.<ref>{{cite news |first=Phil |last=McNulty |title=Manchester United 0-2 Manchester City: Pep Guardiola's side outclass hosts to win derby |url=https://www.bbc.co.uk/sport/football/59099962 |website=BBC Sport |date=6 November 2021 |accessdate=13 November 2021 }}</ref> On 20 November 2021, United suffered a 4–1 defeat to newly promoted [[Watford F.C.|Watford]], leaving the Red Devils seventh in the table. United academy graduate [[Joshua King (footballer, born 1992)|Joshua King]] opened the scoring before De Gea saved a penalty from [[Ismaïla Sarr]] (as well as the original, which had to be retaken for encroachment); however, Sarr did eventually score just before half-time. [[Donny van de Beek]] scored his first goal of the season five minutes into the second half, but Maguire was sent off for a second yellow card midway through the period. As United searched for an equaliser, [[João Pedro (footballer, born 2001)|João Pedro]] and [[Emmanuel Dennis]] scored in added time to confirm Watford's victory.<ref>{{cite news |first=Lorraine |last=McKenna |title=Watford 4-1 Manchester United: Harry Maguire sent off as misery is compounded for Ole Gunnar Solskjaer |url=https://www.bbc.co.uk/sport/football/59271461 |website=BBC Sport |date=6 November 2021 |accessdate=13 November 2021 }}</ref> It was announced the following day that Solskjær had left his role by mutual consent and that [[Michael Carrick]] had replaced him as caretaker manager.<ref>{{cite news |title=Club statement on Ole Gunnar Solskjaer |url=https://www.manutd.com/en/news/detail/man-utd-statement-on-ole-gunnar-solskjaer |website=ManUtd.com |publisher=Manchester United |date=21 November 2021 |access-date=21 November 2021 }}</ref> In Carrick's first Premier League match in charge, which made him the first English manager to lead United in a league match since [[Ron Atkinson]] in November 1986, United visited Chelsea at [[Stamford Bridge (stadium)|Stamford Bridge]]. United opened the scoring after [[Jorginho (footballer, born December 1991)|Jorginho]] miscontrolled a long clearance from Fernandes, allowing Sancho to take advantage of a two-on-one with [[Édouard Mendy]] and score his first league goal for United; however, Jorginho made up for his mistake from the penalty spot, after [[Aaron Wan-Bissaka]] had fouled [[Thiago Silva]] in the penalty area, and the match finished 1–1,<ref>{{cite news |first=Phil |last=McNulty |title=Chelsea 1-1 Man Utd: Jorginho recovers from mistake to earn Blues a point |url=https://www.bbc.co.uk/sport/football/59363467 |website=BBC Sport |date=28 November 2021 |access-date=29 November 2021 }}</ref> making Chelsea still seeking their first league win against United since November 2017.
+
+[[File:Manchester United v Arsenal, 2 December 2021 (03).jpg|thumb|United fans hold up a banner in tribute to recently sacked manager [[Ole Gunnar Solskjær]] during the match against [[Arsenal F.C.|Arsenal]] on 2 December 2021.]]
+United began December with a home encounter against [[Arsenal F.C.–Manchester United F.C. rivalry|old foes]] Arsenal. [[Emile Smith Rowe]] opened the scoring for Arsenal in the 13th minute with a volley from just outside the penalty area while De Gea lay injured in the middle of the goal after Fred had trodden on his ankle. After a VAR check, the goal was given after initially being disallowed. United equalised 31 minutes later when Fernandes scored for the first time in nearly three months. Ronaldo slotted home seven minutes after the break to bring United into the lead, scoring his 800th career goal in the process. [[Martin Ødegaard]] drew Arsenal level again two minutes later before giving away a penalty with a foul on Fred. Ronaldo sent the penalty down the middle of the goal to give United their first league win against Arsenal since 2018.<ref>{{cite news |first=Simon |last=Stone |title=Man Utd 3-2 Arsenal: Cristiano Ronaldo passes 800 goals in win tinged with controversy |url=https://www.bbc.co.uk/sport/football/59411776 |website=BBC Sport |date=2 December 2021 |access-date=2 December 2021 }}</ref> Carrick left the club immediately after the match, and [[Ralf Rangnick]] took over for the game against [[Crystal Palace F.C.|Crystal Palace]] on 5 December,<ref>{{cite news |first=Simon |last=Stone |title=Rangnick ready for work |url=https://www.bbc.co.uk/sport/articles/c6ypqyenqqvo |work=BBC Sport |date=2 December 2021 |accessdate=6 December 2021 }}</ref> having been waiting to receive his work permit since his appointment on 29 November.<ref>{{cite news |title=Manchester United appoint Ralf Rangnick as interim manager |url=https://www.bbc.co.uk/sport/football/59439956 |website=BBC Sport |date=29 November 2021 |accessdate=6 December 2021 }}</ref> United won 1–0 thanks to a goal from Fred in the 77th minute,<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 1-0 Crystal Palace: Ralf Rangnick pleased with 'better than expected' side |url=https://www.bbc.co.uk/sport/football/59380823 |website=BBC Sport |date=5 December 2021 |accessdate=6 December 2021 }}</ref> and kept their first clean sheet at home in the league since beating West Ham 1–0 on 14 March. In their next match, United visited [[Norwich City F.C.|Norwich City]] and won 1–0 thanks to a penalty from Ronaldo in the 75th minute.<ref>{{cite news |first=Thomas |last=Mallows |title=Norwich 0-1 Manchester United: Cristiano Ronaldo penalty earns win for Red Devils |url=https://www.bbc.co.uk/sport/football/59529643 |website=BBC Sport |date=11 December 2021 |accessdate=11 December 2021 }}</ref> Due to a COVID-19 outbreak in the United camp, the club's training ground was closed on 13 December for 24 hours and the match against [[Brentford F.C.|Brentford]] scheduled for the next day was postponed;<ref name="BREMUN">{{cite news |title=Postponement of Brentford game confirmed |url=https://www.manutd.com/en/news/detail/man-utd-confirm-postponement-of-premier-league-game-with-brentford-on-14-december |website=ManUtd.com |publisher=Manchester United |date=14 December 2021 |access-date=14 December 2021 }}</ref> on 16 December, the home match against [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] was also postponed.<ref name="MUNBHA">{{cite news |title=Official statement on Brighton game |url=https://www.manutd.com/en/news/detail/man-utd-official-statement-about-brighton-match-on-18-dec-2021|website=ManUtd.com |publisher=Manchester United |date=16 December 2021 |access-date=16 December 2021 }}</ref> The team played their first match post-outbreak on 27 December away to Newcastle. [[Allan Saint-Maximin]] scored within seven minutes before Cavani equalised in the second half.<ref>{{cite news |first=Phil |last=Dawkes |title=Newcastle 1-1 Man Utd: Ralf Rangnick 'did not like Man Utd performance at all |url=https://www.bbc.co.uk/sport/football/59722979 |website=BBC Sport |date=27 December 2021 |accessdate=30 December 2021 }}</ref> Three days later, United played the last Premier League match of 2021 against [[Burnley F.C.|Burnley]] at home. [[Scott McTominay]] scored his first goal in nearly 11 months inside seven minutes. [[Ben Mee]] then scored an [[own goal]] after deflecting Sancho's shot slightly into the net. Ronaldo then scored the third goal three minutes before [[Aaron Lennon]] scored his first ever goal against United at the 38th minute as the hosts won 3–1 and finished the year in sixth place.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 3-1 Burnley: Cristiano Ronaldo on target as hosts move into top six |url=https://www.bbc.co.uk/sport/football/59764946 |website=BBC Sport |date=30 December 2021 |accessdate=30 December 2021 }}</ref>
+
+United started the year at home to Wolverhampton. [[Phil Jones (footballer, born 1992)|Phil Jones]] was included in the starting line-up, playing a senior match for the first time in 23 months. Ronaldo's header was disallowed for offside before [[João Moutinho]] scored the winner at the 82nd minute to earn Wolves their first win at Old Trafford since [[1979–80 Manchester United F.C. season#First Division|9 February 1980]], when Wolverhampton also won 1–0.<ref>{{cite web |last=Stone |first=Simon |title=Manchester United 0-1 Wolverhampton Wanderers: Joao Moutinho scores late winner |url=https://www.bbc.co.uk/sport/football/59798468 |website=BBC Sport |access-date=3 January 2022 |date=3 January 2022}}</ref> Twelve days later, they played away to Aston Villa. Fernandes scored twice to give United a 2–0 lead, before [[Jacob Ramsey]] scored the first on the 77th minute and assisted the equaliser for substitute [[Philippe Coutinho]], who scored in the 81st minute to mark his Villa debut.<ref>{{cite web |last=Stone |first=Simon |title=Aston Villa 2-2 Manchester United: Philippe Coutinho scores on debut to rescue point for hosts |url=https://www.bbc.co.uk/sport/football/59918927 |website=BBC Sport |access-date=15 January 2022 |date=15 January 2022}}</ref> The postponed match against Brentford was held on 19 January; [[Anthony Elanga]] scored his first competitive goal of the season seven minutes before Greenwood scored his first league goal since the defeat at Leicester on 16 October. Fifteen minutes later, Rashford made his first goal in all competitions since scoring at Tottenham on 30 October, eight minutes before [[Ivan Toney]] scored the consolation for the hosts as United became the first ever club to win 300 Premier League away matches.<ref>{{cite web|first=Phil |last=McNulty |title=Brentford 1-3 Man Utd: Marcus Rashford gives visitors comfortable win |url=https://www.bbc.co.uk/sport/football/59558239 |website=BBC Sport |date=19 January 2022 |access-date=19 January 2022}}</ref><ref>{{cite news |title=United achieve landmark Premier League win|first=Sam |last=Carney |url=https://www.manutd.com/en/news/detail/manchester-united-reach-300-away-wins-in-the-premier-league |website=ManUtd.com |publisher=Manchester United |date=19 January 2022 |access-date=19 January 2022}}</ref> On 22 January, West Ham came to visit in United's final game prior to the Premier League winter break which took place during the non-European international break. Rashford scored the winning goal with just seconds of added time to go following an onside positioning and assist from Cavani.<ref>{{cite web|first=Simon |last=Stone |title=Man Utd 1-0 West Ham: Marcus Rashford scores stoppage-time winner |url=https://www.bbc.co.uk/sport/football/60005896|website=BBC Sport |date=22 January 2022 |access-date=22 January 2022}}</ref>
+
+Visiting Burnley on 8 February, United went ahead at 12th minute via Varane but the goal was ruled out after Maguire fouled [[Jay Rodriguez]] in the build-up. Six minutes later, they went ahead for real as [[Paul Pogba]] scored his first goal of the season following a pass from Shaw. An own goal from [[Josh Brownhill]] was disallowed before Rodriguez then levelled the scores just two minutes into the second half with an assist from [[Wout Weghorst]].<ref>{{cite web|first=Simon |last=Stone |title=Burnley 1-1 Man Utd: Jay Rodriguez goal dents United's top-four hopes |url=https://www.bbc.co.uk/sport/football/60210237|website=BBC Sport |date=8 February 2022 |access-date=8 February 2022}}</ref> The next match saw Southampton's visit to Old Trafford for the first time since the [[Manchester United F.C. 9–0 Southampton F.C.|0–9 defeat]] a year and 10 days prior. Sancho opened the scoring in the first half but United conceded an early second-half goal again as [[Ché Adams]] levelled in the 48th minute.<ref>{{cite web|first=Shamoon |last=Hafez |title=Man Utd 1-1 Southampton: Jadon Sancho and Che Adams score |url=https://www.bbc.co.uk/sport/football/60269092|website=BBC Sport |date=12 February 2022 |access-date=12 February 2022}}</ref> In the midweek United played at home against Brighton, a match that was postponed from December. After a goalless first half, Ronaldo scored his first goal in the new year following an assist from McTominay. Fernandes later scored a very late goal – his first at home this year, sealing the win for the hosts.<ref>{{cite web|first=Simon |last=Stone |title=Manchester United 2-0 Brighton & Hove Albion: Ronaldo scores as Man Utd beat Brighton |url=https://www.bbc.co.uk/sport/football/59618478|website=BBC Sport |date=15 February 2022 |access-date=15 February 2022}}</ref> Five days later, United visited Elland Road to face Roses rival Leeds. Maguire and Fernandes put the visitors two ahead in the first half before [[Rodrigo (footballer, born 1991)|Rodrigo]] and [[Raphinha (footballer, born 1996)|Raphinha]] – the latter following an assist from former United player [[Daniel James (footballer)|Daniel James]] – equalised via goals at the 53rd and 54th minutes. Two substitutes later scored the winners for Manchester United through Fred and Elanga as United scored more than three goals for the first time since September's win against Newcastle and the first time in the season that it was done away from home.<ref>{{cite web|first=Phil |last=McNulty |title=Leeds United 2-4 Manchester United: Red Devils win Elland Road thriller |url=https://www.bbc.co.uk/sport/football/60364587|website=BBC Sport |date=20 February 2022 |access-date=20 February 2022}}</ref> Six days later United hosted Watford but eventually got their first goalless draw of the season.<ref>{{cite web|first=Simon |last=Stone |title=Manchester United 0-0 Watford: Ralf Rangnick rues wasted chances |url=https://www.bbc.co.uk/sport/football/60441965|website=BBC Sport |date=26 February 2022 |access-date=26 February 2022}}</ref>
+
+United opened March with a visit to the [[City of Manchester Stadium]] for the Manchester derby. It took only five minutes for the league champions to score via [[Kevin De Bruyne]]. City academy graduate Sancho then equalised on his first match at City since his departure to [[Borussia Dortmund]]. However De Bruyne scored again six minutes later to hand City a half-time lead. [[Riyad Mahrez]] scored at 68th and 90th minutes to finish the match 4–1. This was the first time since [[2018–19 Premier League|2018–19 league season]] that City won home and away against United, United's first defeat at City since 11 November 2018, and their heaviest away defeat against City since the [[2013–14 Manchester United F.C. season|2013–14 season]], when they were defeated by the same scoreline.<ref>{{cite web|first=Phil |last=McNulty |title=Manchester City 4-1 Manchester United: Kevin de Bruyne and Riyad Mahrez settle derby |url=https://www.bbc.co.uk/sport/football/60531492|website=BBC Sport |date=6 March 2022 |access-date=6 March 2022}}</ref> On the next match against Tottenham Hotspur, Ronaldo scored his only second ever hat-trick for United, and the first since January 2008. Each of his goals sandwiched [[Harry Kane]]'s 35th-minute penalty and Maguire's 72nd-minute own goal.<ref>{{cite news |first=Simon|last=Stone|title=Manchester United 3-2 Tottenham Hotspur: Cristiano Ronaldo scores hat-trick in thriller |url=https://www.bbc.co.uk/sport/football/60628394|work=BBC Sport|date=12 March 2022|access-date=12 March 2022|publisher=British Broadcasting Corporation}}</ref>
+
+On 2 April, United faced Leicester at home. [[Kelechi Iheanacho]] struck first three minutes before Fred's equaliser.<ref>{{cite news |first=Simon|last=Stone|title=Manchester United 1-1 Leicester City: Hosts' Champions League hopes dented by Foxes|url=https://www.bbc.co.uk/sport/football/60883951|work=BBC Sport|date=2 April 2022|access-date=17 April 2022|publisher=British Broadcasting Corporation}}</ref> The next week, a single goal from [[Anthony Gordon (footballer)|Anthony Gordon]] secured a 1–0 win for the relegation-threatened Everton.<ref>{{cite news |first=Phil |last=McNulty|title=Everton 1-0 Manchester United: Anthony Gordon strike boosts Toffees' survival hopes|url=https://www.bbc.co.uk/sport/football/60963791|work=BBC Sport|date=2 April 2022|access-date=17 April 2022|publisher=British Broadcasting Corporation}}</ref> Seven days later, Ronaldo scored two before goals from [[Kieran Dowell]] and [[Teemu Pukki]] equalised for Norwich. A Ronaldo free-kick secured his hat-trick and a 3–2 win.<ref>{{cite news |first=Simon|last=Stone |title=Manchester United 3-2 Norwich City: Cristiano Ronaldo nets superb hat-trick|url=https://www.bbc.co.uk/sport/football/61048518|work=BBC Sport|date=16 April 2022|access-date=16 April 2022|publisher=British Broadcasting Corporation}}</ref> The following week, United lost 4–0 to rivals Liverpool on the Tuesday – [[Luis Díaz (footballer, born 1997)|Luis Díaz]] and [[Sadio Mané]] scored once each and Salah scored two<ref>{{cite news |first=Phil |last=McNulty|title=Liverpool 4-0 Manchester United: Luis Diaz, Mohamed Salah & Sadio Mane score at Anfield|url=https://www.bbc.co.uk/sport/football/60724991|work=BBC Sport|date=19 April 2022|access-date=28 April 2022|publisher=British Broadcasting Corporation}}</ref> – and 3–1 to Arsenal on the Saturday, in which Ronaldo scored his 100th Premier League goal; however, it was not enough to earn a point due to the goals from [[Nuno Tavares]], [[Bukayo Saka]] and [[Granit Xhaka]], as well as a missed penalty by Fernandes. United lost four straight away league matches for the first time since the [[1980–81 Manchester United F.C. season#First Division|1980–81 season]] as a result.<ref>{{cite news |first=Phil |last=McNulty|title=Arsenal 3-1 Manchester United: Granit Xhaka seals win as Gunners stay fourth in Champions League race|url=https://www.bbc.co.uk/sport/football/61125048|work=BBC Sport|date=23 April 2022|access-date=28 April 2022|publisher=British Broadcasting Corporation}}</ref> The last match of the month saw Chelsea came to visit. [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]] scored for the world champions at the hour mark before Ronaldo equalised and salvaged one point for United. The draw extended United's unbeaten league run against Chelsea, with the last time Chelsea won over United in the league was on 5 November 2017. However, with a maximum of nine points from three remaining games having just earned 55, United were assured of a maximum 64 points, which was already their lowest in the Premier League era, earned in the 2013–14 season.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 1-1 Chelsea: Cristiano Ronaldo scores 17th goal of the season in draw |url=https://www.bbc.co.uk/sport/football/61171596|website=BBC Sport |date=28 April 2022|access-date=3 May 2022}}</ref> They also required to win all those three games to avoid a club record for the fewest wins in a Premier League season, set at 18 in [[2016–17 Manchester United F.C. season|2016–17]] and [[2019–20 Manchester United F.C. season|2019–20]].
+
+In United's last home game of the season on 2 May against Brentford, Fernandes scored his 50th goal for the club after just nine minutes. Ronaldo scored a penalty before Varane sealed a 3–0 win with his first United goal.<ref>{{cite news |first=Simon |last=Stone |title=Man Utd 3-0 Brentford: Fernandes, Ronaldo & Varane score in morale-boosting win|url=https://www.bbc.co.uk/sport/football/61212449|website=BBC Sport |date=2 May 2022|access-date=2 May 2022}}</ref> The next match saw United suffer their worst ever defeat against Brighton & Hove Albion by a score of 4–0, which meant they failed to qualify for the UEFA Champions League for the first time in three years. [[Moisés Caicedo]], [[Marc Cucurella]], [[Pascal Groß]] and [[Leandro Trossard]] scored one each without any reply as United broke the club record for fewest wins in a Premier League season.<ref>{{cite news |first=Michael |last=Emons|title=Brighton 4-0 Manchester United: Big defeat ends United's Champions League hopes|url=https://www.bbc.co.uk/sport/football/61281254|website=BBC Sport |date=7 May 2022|access-date=7 May 2022}}</ref> On the last match of the season, former United player [[Wilfried Zaha]] scored the game's only goal for Crystal Palace as United lost at Palace for the first time since [[1990–91 Manchester United F.C. season#First Division|May 1991]]. With 16 wins, 58 points, and a goal difference of zero, this was United's worst season since recording 13 wins, 48 points, and a −1 goal difference in [[1989–90 Manchester United F.C. season#First Division|1989–90]], when they finished 13th. They conceded 57 goals during the season, the most since the [[1978–79 Manchester United F.C. season#First Division|1978–79 season]], when they conceded 63.<ref>{{cite news |first=Shamoon |last=Hafez |title=Crystal Palace 1-0 Man Utd: Wilfried Zaha scores winner in Ralf Rangnick's last game |url=https://www.bbc.co.uk/sport/football/61453545 |website=BBC Sport |date=22 May 2022 |access-date=22 May 2022 }}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Date
+!Opponents
+!H / A
+!Result<br />F–A
+!Scorers
+!Attendance
+!League<br />position<!--at the end of all matches on the day of each match-->
+|- bgcolor="#ddffdd"
+|14 August 2021
+|[[Leeds United F.C.|Leeds United]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-man-utd-vs-leeds-august-14-2021 5–1]
+|[[Bruno Fernandes|Fernandes]] (3) 30', 54', 60', [[Mason Greenwood|Greenwood]] 52', [[Fred (footballer, born 1993)|Fred]] 68'
+|72,732
+|1st
+|- bgcolor="#ffffdd"
+|22 August 2021
+|[[Southampton F.C.|Southampton]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-southampton-v-man-united-22-august-2021 1–1]
+|[[Mason Greenwood|Greenwood]] 55'
+|29,485
+|5th
+|- bgcolor="#ddffdd"
+|29 August 2021
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-wolverhampton-wanderers-v-man-united-29-august-2021 1–0]
+|[[Mason Greenwood|Greenwood]] 80'
+|30,621
+|3rd
+|- bgcolor="#ddffdd"
+|11 September 2021
+|[[Newcastle United F.C.|Newcastle United]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-man-utd-v-newcastle-premier-league-11-september-2021 4–1]
+|[[Cristiano Ronaldo|Ronaldo]] (2) 45+2', 62', [[Bruno Fernandes|Fernandes]] 80', [[Jesse Lingard|Lingard]] 90+2'
+|72,732
+|1st
+|- bgcolor="#ddffdd"
+|19 September 2021
+|[[West Ham United F.C.|West Ham United]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-west-ham-v-man-utd-19-september-2021 2–1]
+|[[Cristiano Ronaldo|Ronaldo]] 35', [[Jesse Lingard|Lingard]] 89'
+|59,958
+|3rd
+|- bgcolor="#ffdddd"
+|25 September 2021
+|[[Aston Villa F.C.|Aston Villa]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-v-aston-villa-september-25-2021 0–1]
+|
+|72,922
+|4th
+|- bgcolor="#ffffdd"
+|2 October 2021
+|[[Everton F.C.|Everton]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-v-everton-oct-2-2021 1–1]
+|[[Anthony Martial|Martial]] 43'
+|73,128
+|4th
+|- bgcolor="#ffdddd"
+|16 October 2021
+|[[Leicester City F.C.|Leicester City]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-leicester-city-v-man-utd-16-october-2021 2–4]
+|[[Mason Greenwood|Greenwood]] 19', [[Marcus Rashford|Rashford]] 82'
+|32,219
+|5th
+|- bgcolor="#ffdddd"
+|24 October 2021
+|[[Liverpool F.C.|Liverpool]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-v-liverpool-october-24-2021 0–5]
+|
+|73,088
+|7th
+|- bgcolor="#ddffdd"
+|30 October 2021
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-tottenham-hotspur-v-man-utd-on-30-october 3–0]
+|[[Cristiano Ronaldo|Ronaldo]] 39', [[Edinson Cavani|Cavani]] 64', [[Marcus Rashford|Rashford]] 86'
+|60,356
+|5th
+|- bgcolor="#ffdddd"
+|6 November 2021
+|[[Manchester City F.C.|Manchester City]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-v-city-november-6-2021 0–2]
+|
+|73,086
+|5th
+|- bgcolor="#ffdddd"
+|20 November 2021
+|[[Watford F.C.|Watford]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-watford-v-man-utd-premier-league-20-november-2021 1–4]
+|[[Donny van de Beek|Van de Beek]] 50'
+|21,087
+|7th
+|- bgcolor="#ffffdd"
+|28 November 2021
+|[[Chelsea F.C.|Chelsea]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-chelsea-v-manchester-united-premier-league-28-november-2021 1–1]
+|[[Jadon Sancho|Sancho]] 50'
+|40,041
+|8th
+|- bgcolor="#ddffdd"
+|2 December 2021
+|[[Arsenal F.C.|Arsenal]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-manchester-united-v-arsenal-2-december-2021 3–2]
+|[[Bruno Fernandes|Fernandes]] 44', [[Cristiano Ronaldo|Ronaldo]] (2) 52', 70' ([[Penalty kick (association football)|pen.]])
+|73,123
+|7th
+|- bgcolor="#ddffdd"
+|5 December 2021
+|[[Crystal Palace F.C.|Crystal Palace]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-manchester-united-crystal-palace-premier-league-5-december-2021 1–0]
+|[[Fred (footballer, born 1993)|Fred]] 77'
+|73,172
+|6th
+|- bgcolor="#ddffdd"
+|11 December 2021
+|[[Norwich City F.C.|Norwich City]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-norwich-v-man-utd-11-december-2021 1–0]
+|[[Cristiano Ronaldo|Ronaldo]] 75' ([[Penalty kick (association football)|pen.]])
+|27,606
+|5th
+|- bgcolor="#ffffdd"
+|27 December 2021
+|[[Newcastle United F.C.|Newcastle United]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-newcastle-united-v-man-utd-premier-league-27-december-2021 1–1]
+|[[Edinson Cavani|Cavani]] 71'
+|52,178
+|7th
+|- bgcolor="#ddffdd"
+|30 December 2021
+|[[Burnley F.C.|Burnley]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-v-burnley-dec-30-2021 3–1]
+|[[Scott McTominay|McTominay]] 8', [[Ben Mee|Mee]] 27' ([[Own goal#Association football|o.g.]]), [[Cristiano Ronaldo|Ronaldo]] 35'
+|73,121
+|6th
+|- bgcolor="#ffdddd"
+|3 January 2022
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-v-wolves-january-3-2022 0–1]
+|
+|73,045
+|7th
+|- bgcolor="#ffffdd"
+|15 January 2022
+|[[Aston Villa F.C.|Aston Villa]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-aston-villa-vs-man-utd-15-january-2022 2–2]
+|[[Bruno Fernandes|Fernandes]] (2) 6', 67'
+|41,968
+|7th
+|- bgcolor="#ddffdd"
+|19 January 2022{{efn|name=covid_postponed}}
+|[[Brentford F.C.|Brentford]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-brentford-v-man-utd-premier-league-19-january-2022 3–1]
+|[[Anthony Elanga|Elanga]] 55', [[Mason Greenwood|Greenwood]] 62', [[Marcus Rashford|Rashford]] 77'
+|17,094
+|7th
+|- bgcolor="#ddffdd"
+|22 January 2022
+|[[West Ham United F.C.|West Ham United]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-v-west-ham-january-22-2022 1–0]
+|[[Marcus Rashford|Rashford]] 90+3'
+|73,130
+|4th
+|- bgcolor="#ffffdd"
+|8 February 2022
+|[[Burnley F.C.|Burnley]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-burnley-v-man-utd-premier-league-8-feb-2022 1–1]
+|[[Paul Pogba|Pogba]] 18'
+|21,233
+|6th
+|- bgcolor="#ffffdd"
+|12 February 2022
+|[[Southampton F.C.|Southampton]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-vs-southampton-12-february 1–1]
+|[[Jadon Sancho|Sancho]] 21'
+|73,084
+|5th
+|- bgcolor="#ddffdd"
+|15 February 2022{{efn|name=covid_postponed|The Premier League matches away to Brentford on 14 December 2021 and at home to Brighton & Hove Albion on 18 December 2021 were postponed due to an outbreak of COVID-19 in the Manchester United squad.<ref name="BREMUN"/><ref name="MUNBHA"/>}}
+|[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-v-brighton-february-15-2022 2–0]
+|[[Cristiano Ronaldo|Ronaldo]] 51', [[Bruno Fernandes|Fernandes]] 90+7'
+|73,012
+|4th
+|- bgcolor="#ddffdd"
+|20 February 2022
+|[[Leeds United F.C.|Leeds United]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-for-leeds-v-man-utd-on-20-february-2022 4–2]
+|[[Harry Maguire|Maguire]] 34', [[Bruno Fernandes|Fernandes]] 45+5', [[Fred (footballer, born 1993)|Fred]] 70', [[Anthony Elanga|Elanga]] 88'
+|36,715<!--https://www.leedsunited.com/news/team-news/29517/live-updates-leeds-united-vs-manchester-united-->
+|4th
+|- bgcolor="#ffffdd"
+|26 February 2022
+|[[Watford F.C.|Watford]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-v-watford-26-february-2022 0–0]
+|
+|73,152
+|4th
+|- bgcolor="#ffdddd"
+|6 March 2022
+|[[Manchester City F.C.|Manchester City]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-man-city-v-man-united-premier-league-6-march-2022 1–4]
+|[[Jadon Sancho|Sancho]] 22'
+|53,165
+|5th
+|- bgcolor="#ddffdd"
+|12 March 2022
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-v-spurs-march-12-2022 3–2]
+|[[Cristiano Ronaldo|Ronaldo]] (3) 12', 38', 81'
+|73,458
+|5th
+|- bgcolor="#ffffdd"
+|2 April 2022
+|[[Leicester City F.C.|Leicester City]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-manchester-united-v-leicester-city-02-april-2022 1–1]
+|[[Fred (footballer, born 1993)|Fred]] 66'
+|73,444
+|7th
+|-bgcolor="#ffdddd"
+|9 April 2022
+|[[Everton F.C.|Everton]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-everton-v-man-utd-premier-league-saturday-9-april-2022 0–1]
+|
+|39,080
+|7th
+|-bgcolor="#ddffdd"
+|16 April 2022
+|[[Norwich City F.C.|Norwich City]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-v-norwich-april-16-2022 3–2]
+|[[Cristiano Ronaldo|Ronaldo]] (3) 7', 32', 76'
+|73,381
+|5th
+|- bgcolor="#ffdddd"
+|19 April 2022{{efn|name=LIVMUN_changes|The Premier League match away to Liverpool, originally scheduled for 20 March 2022, was postponed due to Liverpool's involvement in the [[2021–22 FA Cup|FA Cup]] quarter-finals.<ref>{{cite news |title=Premier League announces three fixture changes |url=https://www.manutd.com/en/news/detail/three-man-utd-premier-league-fixtures-moved-including-liverpool-game-15-march-2022|first=Joe|last=Ganley|website=ManUtd.com |publisher=Manchester United |date=15 March 2022 |access-date=15 March 2022}}</ref>}}
+|[[Liverpool F.C.|Liverpool]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-liverpool-v-man-utd-premier-league-19-april-2022 0–4]
+|
+|52,686
+|6th
+|- bgcolor="#ffdddd"
+|23 April 2022
+|[[Arsenal F.C.|Arsenal]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-arsenal-v-united-23-april 1–3]
+|[[Cristiano Ronaldo|Ronaldo]] 34'
+|60,223
+|6th
+|- bgcolor="#ffffdd"
+|28 April 2022{{efn|name=MUNCHE_changes|The Premier League match at home to Chelsea, originally scheduled for 15 May 2022, was brought forward due to Chelsea's involvement in the [[2022 FA Cup final|FA Cup final]].<ref>{{cite news |title=Reds learn Premier League schedule for April and May |url=https://www.manutd.com/en/news/detail/manchester-united-learn-premier-league-schedule-after-fa-cup-semi-final-17-april-2022|first=Harry|last=Robinson|website=ManUtd.com |publisher=Manchester United |date=17 April 2022 |access-date=17 April 2022}}</ref>}}
+|[[Chelsea F.C.|Chelsea]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-v-chelsea--april-28-2022 1–1]
+|[[Cristiano Ronaldo|Ronaldo]] 62'
+|73,564
+|6th
+|-bgcolor="#ddffdd"
+|2 May 2022
+|[[Brentford F.C.|Brentford]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-manchester-united-3-brentford-0-2-may-2022 3–0]
+|[[Bruno Fernandes|Fernandes]] 9', [[Cristiano Ronaldo|Ronaldo]] 61' ([[Penalty kick (association football)|pen.]]), [[Raphaël Varane|Varane]] 72'
+|73,482
+|6th
+|-bgcolor="#ffdddd"
+|7 May 2022
+|[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-brighton-v-man-utd-premier-league-07-may-2022 0–4]
+|
+|31,637
+|6th
+|-bgcolor="#ffdddd"
+|22 May 2022
+|[[Crystal Palace F.C.|Crystal Palace]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-crystal-palace-v-man-utd-premier-league-22-may-22 0–1]
+|
+|25,434
+|6th
+|}
+{{notelist}}
+
+===League table===
+{{:2021–22 Premier League|showteam=MUN}}
+
+==FA Cup==
+As a Premier League side, Manchester United entered the [[2021–22 FA Cup|FA Cup]] in the third round proper. The draw took place on 6 December, and United were given a home draw with [[Aston Villa F.C.|Aston Villa]].<ref>{{cite news |title=FA Cup third-round draw: Chelsea host Chesterfield, Man Utd v Aston Villa, West Ham v Leeds |url=https://www.bbc.co.uk/sport/football/59553013 |website=BBC Sport |date=6 December 2021 |access-date=6 December 2021 }}</ref> The match was played on 10 January 2022.<ref>{{cite news |first=Adam |last=Marshall|title=Date fixed for FA Cup third-round tie|url=https://www.manutd.com/en/news/detail/date-fixed-for-man-united-fa-cup-third-round-tie-with-aston-villa-in-2022 |website=ManUtd.com |publisher=Manchester United |date=9 December 2021|accessdate=9 December 2021 }}</ref> Villa had two goals disallowed for offside as [[Scott McTominay]] scored the only goal in a 1–0 win for United.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 1-0 Aston Villa: McTominay the difference for Red Devils against Villa |url=https://www.bbc.co.uk/sport/football/59945468 |website=BBC Sport |date=10 January 2022|accessdate=10 January 2022 }}</ref> United drew Championship side [[Middlesbrough F.C.|Middlesbrough]] in the fourth round proper.<ref>{{Cite web|publisher=The Football Association|title=The draw for the fourth round proper of the Emirates FA Cup has been made|url=http://www.thefa.com/news/2022/jan/09/emirates-fa-cup-fourth-round-proper-draw-20220901|date=9 January 2022|accessdate=10 January 2022 |website=TheFA.com|language=en}}</ref> [[Cristiano Ronaldo]] missed a penalty five minutes before [[Jadon Sancho]] opened the scoring. A handball by former United academy player [[Duncan Watmore]] was ruled accidental by referee [[Anthony Taylor (referee)|Anthony Taylor]] and video assistant referee [[Stuart Attwell]] per the new [[International Football Association Board|IFAB]] rule, meaning the 64th-minute equaliser from [[Matt Crooks]], who also formerly a United academy player, stood. After going through extra time, United and Middlesbrough scored all their first seven penalties in the shoot-out, including one from former United defender [[Paddy McNair]]. [[Lee Peltier]] scored the eighth penalty before [[Anthony Elanga]] missed his and condemned United to their earliest FA Cup exit since the third round defeat in the [[2013–14 FA Cup#Third round proper|2013–14 season]] and the first time in the fourth round since [[2011–12 FA Cup#Fourth round proper|2011–12]].<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 1-1 Middlesbrough (7-8 on pens): Man Utd lose in FA Cup to Championship side |url=https://www.bbc.co.uk/sport/football/60266339 |website=BBC Sport |date=4 February 2022|accessdate=4 February 2022 }}</ref> This was also United's first FA Cup elimination by a lower division side since their elimination by [[Leeds United F.C.|Leeds United]], then a Championship side as well, in the [[2009–10 FA Cup#Third round proper|2009–10 third round]] and the first FA Cup defeat on penalties since the [[2008–09 FA Cup#Semi-finals|2008–09 semi-finals]], as they are yet to win an FA Cup match shoot-out. For Middlesbrough, this was their second consecutive cup triumph over United, having also won on penalties at Old Trafford in the [[2015–16 Football League Cup#Fourth round|2015–16 League Cup fourth round]].
+
+{| class="wikitable" style="text-align:center"
+|-
+!Date
+!Opponents
+!H / A
+!Result<br />F–A
+!Scorers
+!Attendance
+|- bgcolor="#ddffdd"
+|10 January 2022
+|[[Aston Villa F.C.|Aston Villa]]
+|H
+|[https://www.manutd.com/en/news/detail/report-united-v-aston-villa-fa-cup-3rd-january-10-2022 1–0]
+|[[Scott McTominay|McTominay]] 8'
+|72,911
+|- bgcolor="#ffffdd"
+|4 February 2022	
+|[[Middlesbrough F.C.|Middlesbrough]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-v-middlesbrough-04-february-2022 1–1] {{aet}}<br />(7–8[[Penalty shoot-out (association football)|p]])
+|[[Jadon Sancho|Sancho]] 25'
+|71,871
+|}
+
+==EFL Cup==
+As one of the seven English clubs competing in [[UEFA competitions]] in 2021–22, United entered the [[2021–22 EFL Cup]] in the third round. The draw took place on 25 August and United were drawn at home to [[West Ham United F.C.|West Ham United]]; the match was played on 22 September, just three days after the two sides met in the league.<ref>{{cite news |title=Carabao Cup third-round draw: Man Utd host West Ham, Spurs visit Wolves |url=https://www.bbc.co.uk/sport/football/58337035 |website=BBC Sport |date=25 August 2021 |access-date=26 August 2021 }}</ref><ref>{{cite news |first=Mikey |last=Partington |title=Carabao Cup tie date confirmed|url=https://www.manutd.com/en/news/detail/manchester-united-v-west-ham-carabao-cup-third-round-selected-for-live-tv-coverage-22-september-2021 |website=ManUtd.com |publisher=Manchester United |date=7 August 2021 |access-date=27 August 2021 }}</ref> [[Manuel Lanzini]] scored the only goal of the game in the ninth minute, giving West Ham their first win at Old Trafford in all competitions since the last day of the [[2006–07 FA Premier League]] season. This was Manchester United's first League Cup third round exit since the [[2018–19 EFL Cup|2018–19 season]].<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 0-1 West Ham: Lanzini puts Hammers into fourth round of Carabao Cup |url=https://www.bbc.co.uk/sport/football/58566906 |website=BBC Sport |date=22 September 2021 |access-date=22 September 2021 }}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Date
+!Opponents
+!H / A
+!Result<br />F–A
+!Scorers
+!Attendance
+|-bgcolor="#ffdddd"
+|22 September 2021	
+|[[West Ham United F.C.|West Ham United]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-man-utd-0-west-ham-1-in-carabao-cup-22-september-2021 0–1]
+|
+|72,468
+|}
+
+==UEFA Champions League==
+===Group stage===
+{{main|2021–22 UEFA Champions League group stage}}
+Having finished in second place in the [[2020–21 Premier League]], Manchester United qualified automatically for the [[2021–22 UEFA Champions League group stage|group stage]] of the [[2021–22 UEFA Champions League]]. The group stage draw took place on 26 August 2021.<ref>{{cite web |title=2021/22 UEFA Champions League: all you need to know |url=https://www.uefa.com/uefachampionsleague/news/0265-115e77805e06-3dbc1740a323-1000--2021-22-champions-league/ |website=UEFA.com |publisher=Union of European Football Associations |date=1 May 2021 |access-date=22 June 2021 }}</ref> They were drawn against Swiss champions [[BSC Young Boys|Young Boys]], [[Atalanta B.C.|Atalanta]] from Italy and [[Villarreal CF|Villarreal]] of Spain. United had faced Villarreal in the [[2021 UEFA Europa League Final]], as well as the [[2005–06 UEFA Champions League group stage#Group D|2005–06]] and [[2008–09 UEFA Champions League group stage#Group E|2008–09]] Champions League group stages; all ended as draws. United faced Young Boys in the [[2018–19 UEFA Champions League group stage#Group H|2018–19 UEFA Champions League group stage]], during which United won both matches.
+
+In the first match, United were away to Young Boys and took the lead in the 13th minute when Cristiano Ronaldo shot through the goalkeeper's legs after a cross from Bruno Fernandes. In the 35th minute, [[Aaron Wan-Bissaka]] was sent off for stamping on [[Christopher Martins]]' ankle. [[Moumi Ngamaleu]] equalised for Young Boys in the 66th minute, before a back-pass from [[Jesse Lingard]] in the 95th minute allowed [[Jordan Pefok]] to score the winner for the home side.<ref>{{cite news |first=Neil |last=Johnston |title=Young Boys 2-1 Manchester United: Cristiano Ronaldo scores but Red Devils suffer shock defeat |url=https://www.bbc.co.uk/sport/football/58546274 |website=BBC Sport |date=14 September 2021 |access-date=14 September 2021 }}</ref> Wan-Bissaka was given a two-match suspension for his red card and missed the next game against Villarreal at Old Trafford, along with fellow defenders Shaw and Maguire.<ref>{{cite news |first=Samuel |last=Luckhurst |title=Manchester United give Luke Shaw and Harry Maguire injury updates |url=https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-team-news-maguire-21698448 |work=Manchester Evening News |publisher=MEN Media |date=28 September 2021 |accessdate=1 October 2021 }}</ref> Villarreal's [[Paco Alcácer]] opened the scoring in the 53rd minute, United's left-back [[Alex Telles]] – starting in place of Shaw – equalised with a long-range shot seven minutes later, scoring his first goal for United. Ronaldo, who broke the [[European Cup and UEFA Champions League records and statistics#Appearances|record for most Champions League appearances]] on the night, then scored the winning goal in the fifth minute of added time to give United their first ever win against Villarreal.<ref>{{cite news |first=Shamoon |last=Hafez |title=Man Utd 2-1 Villarreal: Cristiano Ronaldo scores injury-time winner |url=https://www.bbc.co.uk/sport/football/58726064 |website=BBC Sport |date=29 September 2021 |accessdate=29 September 2021 }}</ref>
+
+Three weeks later, United hosted [[Atalanta B.C.|Atalanta]] for the first time at Old Trafford, and the away side were 2–0 up within the first half-hour, as [[Mario Pašalić]] scored in the 15th minute before [[Merih Demiral]] doubled their lead in the 28th. [[Marcus Rashford]] scored eight minutes after the interval to halve the deficit before captain [[Harry Maguire]] scored the equaliser with 15 minutes left in normal time. Ronaldo then scored the winner for the second match in a row, heading home [[Luke Shaw]]'s cross nine minutes from time.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 3-2 Atalanta: Hosts fight back from two goals down to win Champions League thriller |url=https://www.bbc.co.uk/sport/football/58973227 |website=BBC Sport |date=20 October 2021 |accessdate=20 October 2021 }}</ref> United again went behind early in the return match away to Atalanta, as [[Josip Iličić]] put the Italian side ahead in the 12th minute. Ronaldo equalised in first-half injury time, assisted by a backheel from Fernandes, making him the first Manchester United player to score in four consecutive Champions League matches since [[Ruud van Nistelrooy]] in 2003. Atalanta went back in front just over 10 minutes into the second half through [[Duván Zapata]], only for Ronaldo to score another late goal to save a point for United.<ref>{{cite news |first=Alex |last=Bysouth |title=Atalanta 2-2 Manchester United: Cristiano Ronaldo rescues visitors |url=https://www.bbc.co.uk/sport/football/59056853 |website=BBC Sport |date=2 November 2021 |accessdate=3 November 2021 }}</ref> United then visited Villarreal in caretaker manager Carrick's first game in charge. Ronaldo opened the scoring 12 minutes from time, before [[Jadon Sancho]] scored his first goal for the club as they secured qualification for the round of 16 for the first time since the [[2018–19 UEFA Champions League knockout phase|2018–19 season]]. Atalanta's 3–3 draw with Young Boys later that night secured top spot for United.<ref>{{cite news |first=Michael|last=Emons|title=Villarreal 0-2 Manchester United: Cristiano Ronaldo and Jadon Sancho goals seal last-16 spot |url=https://www.bbc.co.uk/sport/football/59380052 |website=BBC Sport |date=23 November 2021 |accessdate=23 November 2021 }}</ref> The final group game saw Rangnick change all 11 starters from the league game against Crystal Palace – including Ronaldo who was left out of the matchday squad, denying him the opportunity to become the first player to score in all six Champions League group stage matches for a second time. Rangnick named just seven of a possible 11 substitutes and gave three academy graduates their first-team debuts: [[Tom Heaton]], [[Zidane Iqbal]] and [[Charlie Savage (footballer)|Charlie Savage]]. Another academy graduate [[Mason Greenwood]] open the scoring inside nine minutes before [[Donny van de Beek]] made a mistake that allowed [[Fabian Rieder]] to equalise and end the match at 1–1.<ref>{{cite news |first=Simon |last=Stone |title=Man Utd 1-1 Young Boys: Youthful United side held in final Champions League group game |url=https://www.bbc.co.uk/sport/football/59570192 |website=BBC Sport |date=8 December 2021 |accessdate=8 December 2021 }}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Date
+!Opponents
+!H / A
+!Result<br />F–A
+!Scorers
+!Attendance
+!Group<br />position
+|- bgcolor="ffdddd"
+|14 September 2021
+|[[BSC Young Boys|Young Boys]]
+|A
+|[https://www.manutd.com/en/news/detail/champions-league-match-report-young-boys-v-man-utd-14-september 1–2]
+|[[Cristiano Ronaldo|Ronaldo]] 13'
+|31,120
+|4th
+|- bgcolor="#ddffdd"
+|29 September 2021
+|[[Villarreal CF|Villarreal]]
+|H
+|[https://www.manutd.com/en/news/detail/champions-league-match-report-united-v-villarreal-sept-29-2021 2–1]
+|[[Alex Telles|Telles]] 60', [[Cristiano Ronaldo|Ronaldo]] 90+5'
+|73,130
+|3rd
+|- bgcolor="#ddffdd"
+|20 October 2021
+|[[Atalanta B.C.|Atalanta]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-v-atalanta--20-october-2021 3–2]
+|[[Marcus Rashford|Rashford]] 53', [[Harry Maguire|Maguire]] 75', [[Cristiano Ronaldo|Ronaldo]] 81'
+|72,279
+|1st
+|- bgcolor="#ffffdd"
+|2 November 2021
+|[[Atalanta B.C.|Atalanta]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-atalanta-v-man-utd-2-november-2021 2–2]
+|[[Cristiano Ronaldo|Ronaldo]] (2) 45+1', 90+1'
+|14,443
+|1st
+|- bgcolor="#ddffdd"
+|23 November 2021
+|[[Villarreal CF|Villarreal]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-villarreal-v-man-united-23-november-2021 2–0]
+|[[Cristiano Ronaldo|Ronaldo]] 78', [[Jadon Sancho|Sancho]] 90'
+|20,875
+|1st
+|- bgcolor="#ffffdd"
+|8 December 2021
+|[[BSC Young Boys|Young Boys]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-v-young-boys-december--8-2021 1–1]
+|[[Mason Greenwood|Greenwood]] 9'
+|73,156
+|1st
+|}
+{{:2021–22 UEFA Champions League group stage|transcludesection=Group F|show_matches=no|showteam=MUN|title=Group F}}
+
+===Knockout phase===
+{{main|2021–22 UEFA Champions League knockout phase}}
+The draw for the round of 16 was held on 13 December 2021 at the UEFA headquarters in [[Nyon]], Switzerland.<ref name="drawR16">{{cite news |title=Champions League round of 16 draw: all you need to know |url=https://www.uefa.com/uefachampionsleague/news/026f-13ac24551ac0-33ad3b5a37c0-1000--champions-league-round-of-16-draw-all-you-need-to-know/ |website=UEFA.com |publisher=Union of European Football Associations |date=2 December 2021 |access-date=2 December 2021 }}</ref> Having finishing top of their group, United could be drawn against one of the non-English clubs that finished second in another group: [[Paris Saint-Germain F.C.|Paris Saint-Germain]], [[Atlético Madrid]], [[Sporting CP]], [[Inter Milan|Internazionale]], [[S.L. Benfica|Benfica]] or [[FC Red Bull Salzburg|Red Bull Salzburg]].<ref>{{cite news |title=Who will United face in the last 16? |url=https://www.manutd.com/en/news/detail/who-can-man-utd-play-in-the-2021-22-champions-league-last-16-and-when-is-the-draw |website=ManUtd.com |publisher=Manchester United |date=8 December 2021 |accessdate=9 December 2021 }}</ref> United were originally drawn against Paris Saint-Germain, whom they had met in the [[2020–21 UEFA Champions League group stage#Group H|previous season's group stage]] and in the [[2018–19 UEFA Champions League knockout phase#Round of 16|round of 16 two seasons before that]]; however, technical issues during the original draw meant it was declared void and would be redone entirely at 15:00 CET.<ref>{{cite news |title=Controversy as Manchester United incorrectly excluded from section of Champions League draw|first1=Adam |last1=Crafton |first2=Luke|last2=Brown |url=https://www.nytimes.com/athletic/3687061/2021/12/13/champions-league-draw-declared-null-and-void-after-manchester-united-error/ |work=The Athletic|date=13 December 2021 |access-date=13 December 2021}}</ref><ref>{{cite news |title=Champions League round of 16 draw declared void and will be redone at 15:00 CET|url=https://www.uefa.com/uefachampionsleague/news/0270-13f2ac0aff13-74f2ff9e43b1-1000--round-of-16-draw-to-be-redone/|website=UEFA.com |publisher=Union of European Football Associations |date=13 December 2021 |access-date=13 December 2021 }}</ref> United were then redrawn against Atlético Madrid, who won the only previous meeting between the two clubs in the [[1991–92 European Cup Winners' Cup#Second round|1991–92 European Cup Winners' Cup]].
+
+On 23 February, United visited the [[Metropolitano Stadium]] for the first time ever; the previous meeting between the two having been played at the now-demolished [[Vicente Calderón Stadium]]. [[João Félix]] opened the scoring for Atlético with a diving header past former Atlético goalkeeper [[David de Gea]] in the 7th minute, before [[Anthony Elanga]] scored the equaliser following a pass from [[Bruno Fernandes]] 10 minutes from time; this made Fernandes the first player in Champions League history to assist in six consecutive appearances for an English club, breaking the record held by [[David Beckham]] – also for United – since 1998, while Elanga became United's youngest ever goalscorer in the Champions League knockout stage at 19 years 302 days.<ref>{{cite news|last=Sutcliffe |first=Steve |title=Atletico Madrid 1-1 Manchester United: Anthony Elanga's late goal boost visitors' hopes of Champions League progression |url=https://www.bbc.co.uk/sport/football/60482881 |website=BBC Sport |access-date=23 February 2022 |date=23 February 2022}}</ref> In the second leg at home, a 41st-minute header from [[Renan Lodi]] was enough to eliminate United in the round of 16 for the first time since the [[2017–18 UEFA Champions League knockout phase#Round of 16|2017–18 season]].<ref>{{cite news|last=McNulty|first=Phil |title=Manchester United 0-1 Atletico Madrid (agg 1-2): Renan Lodi puts Diego Simeone's side into quarter-finals|url=https://www.bbc.co.uk/sport/football/60740334|website=BBC Sport |access-date=15 March 2022 |date=15 March 2022}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Date
+!Round
+!Opponents
+!H / A
+!Result<br />F–A
+!Scorers
+!Attendance
+|- bgcolor="#ffffdd"
+|23 February 2022
+|Round of 16<br />First leg
+|[[Atlético Madrid]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-atletico-madrid-v-man-united-champions-league-23-feb-22 1–1]
+|[[Anthony Elanga|Elanga]] 80'
+|63,273
+|- bgcolor="#ffdddd"
+|15 March 2022
+|Round of 16<br />Second leg
+|[[Atlético Madrid]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-united-0-atletico-madrid-1-15-march-2022 0–1]
+|
+|73,008
+|}
+
+==Squad statistics==
+{{updated|22 May 2022}}
+{| class="wikitable" style="text-align:center"
+|-
+!rowspan="2" valign="bottom"|No.<ref>{{cite news |first=Adam |last=Marshall |title=United's Premier League squad confirmed |url=https://www.manutd.com/en/news/detail/man-utd-premier-league-squad-confirmed-for-2021-22 |website=ManUtd.com |publisher=Manchester United |date=10 September 2021 |access-date=12 September 2021 }}</ref>
+!rowspan="2" valign="bottom"|Pos.
+!rowspan="2" valign="bottom"|Name
+!colspan="2" width="85"|League
+!colspan="2" width="85"|FA Cup
+!colspan="2" width="85"|EFL Cup
+!colspan="2" width="85"|Europe
+!colspan="2" width="85"|Total
+!colspan="2" width="85"|Discipline
+|-
+!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!![[File:Yellow card.svg|13px]]!![[File:Red card.svg|13px]]
+|-
+|align="left"|1||align="left"|GK||align="left"|{{flagicon|ESP}} [[David de Gea]]
+|38||0||1||0||0||0||7||0||46||0||0||0
+|-
+|align="left"|2||align="left"|DF||align="left"|{{flagicon|SWE}} [[Victor Lindelöf]]
+|26(2)||0||1||0||1||0||5||0||33(2)||0||5||0
+|-
+|align="left"|3||align="left"|DF||align="left"|{{flagicon|CIV}} [[Eric Bailly]]
+|3(1)||0||0||0||1||0||2||0||6(1)||0||1||0
+|-
+|align="left"|4||align="left"|DF||align="left"|{{flagicon|ENG}} [[Phil Jones (footballer, born 1992)|Phil Jones]]
+|2(2)||0||0(1)||0||0||0||0||0||2(3)||0||0||0
+|-
+|align="left"|5||align="left"|DF||align="left"|{{flagicon|ENG}} [[Harry Maguire]] ([[Captain (association football)|c]])
+|28(2)||1||1||0||0||0||6||1||35(2)||2||9||1
+|-
+|align="left"|6||align="left"|MF||align="left"|{{flagicon|FRA}} [[Paul Pogba]]
+|16(4)||1||1||0||0||0||4(2)||0||21(6)||1||8||1
+|-
+|align="left"|7{{efn|name=number7|[[Edinson Cavani]] wore number 7 until 2 September 2021, following the departure of [[Daniel James (footballer)|Daniel James]] to [[Leeds United F.C.|Leeds United]], whom Cavani replaced as number 21; [[Cristiano Ronaldo]] replaced him as number 7.<ref>{{cite news |first=Lars Magnus |last=Igland Røys |title=Confirmed: Ronaldo's shirt number |url=https://www.manutd.com/en/news/detail/cristiano-ronaldo-to-wear-the-number-7-shirt-for-man-utd |website=ManUtd.com |publisher=Manchester United |date=2 September 2021 |accessdate=2 September 2021 }}</ref>}}||align="left"|FW||align="left"|{{flagicon|POR}} [[Cristiano Ronaldo]]
+|27(3)||18||1||0||0||0||7||6||35(3)||24||9||0
+|-
+|align="left"|8||align="left"|MF||align="left"|{{flagicon|ESP}} [[Juan Mata]]
+|2(5)||0||0(1)||0||1||0||1(2)||0||4(8)||0||0||0
+|-
+|align="left"|9||align="left"|FW||align="left"|{{flagicon|FRA}} [[Anthony Martial]]
+|2(6)||1||0||0||1||0||1(1)||0||4(7)||1||0||0
+|-
+|align="left"|10||align="left"|FW||align="left"|{{flagicon|ENG}} [[Marcus Rashford]]
+|13(12)||4||2||0||0||0||3(2)||1||18(14)||5||3||0
+|-
+|align="left"|11||align="left"|FW||align="left"|{{flagicon|ENG}} [[Mason Greenwood]]
+|16(2)||5||1||0||0(1)||0||3(1)||1||20(4)||6||2||0
+|-
+|align="left"|13||align="left"|GK||align="left"|{{flagicon|ENG}} [[Lee Grant (footballer, born 1983)|Lee Grant]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|14||align="left"|MF||align="left"|{{flagicon|ENG}} [[Jesse Lingard]]
+|2(14)||2||0(1)||0||1||0||1(3)||0||4(18)||2||1||0
+|-
+|align="left"|15||align="left"|MF||align="left"|{{flagicon|BRA}} [[Andreas Pereira]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|16||align="left"|FW||align="left"|{{flagicon|CIV}} [[Amad Diallo]]
+|0||0||0||0||0||0||1||0||1||0||0||0
+|-
+|align="left"|17||align="left"|MF||align="left"|{{flagicon|BRA}} [[Fred (footballer, born 1993)|Fred]]
+|24(4)||4||1(1)||0||0||0||5(1)||0||30(6)||4||8||0
+|-
+|align="left"|18||align="left"|MF||align="left"|{{flagicon|POR}} [[Bruno Fernandes]]
+|35(1)||10||2||0||0(1)||0||6(1)||0||43(3)||10||10||0
+|-
+|align="left"|19||align="left"|DF||align="left"|{{flagicon|FRA}} [[Raphaël Varane]]
+|20(2)||1||2||0||0||0||4(1)||0||26(3)||1||1||0
+|-
+|align="left"|20||align="left"|DF||align="left"|{{flagicon|POR}} [[Diogo Dalot]]
+|19(5)||0||2||0||1||0||2(1)||0||24(6)||0||6||0
+|-
+|align="left"|21{{efn|name=number7}}||align="left"|MF||align="left"|{{flagicon|WAL}} [[Daniel James (footballer)|Daniel James]]
+|2||0||0||0||0||0||0||0||2||0||0||0
+|-
+|align="left"|21{{efn|name=number7}}||align="left"|FW||align="left"|{{flagicon|URU}} [[Edinson Cavani]]
+|7(8)||2||1||0||0||0||0(4)||0||8(12)||2||1||0
+|-
+|align="left"|22||align="left"|GK||align="left"|{{flagicon|ENG}} [[Tom Heaton]]
+|0||0||0||0||0||0||0(1)||0||0(1)||0||0||0
+|-
+|align="left"|23||align="left"|DF||align="left"|{{flagicon|ENG}} [[Luke Shaw]]
+|19(1)||0||2||0||0||0||5||0||26(1)||0||11||0
+|-
+|align="left"|25||align="left"|FW||align="left"|{{flagicon|ENG}} [[Jadon Sancho]]
+|20(9)||3||1||1||1||0||5(2)||1||27(11)||5||0||0
+|-
+|align="left"|26||align="left"|GK||align="left"|{{flagicon|ENG}} [[Dean Henderson]]
+|0||0||1||0||1||0||1||0||3||0||0||0
+|-
+|align="left"|27||align="left"|DF||align="left"|{{flagicon|BRA}} [[Alex Telles]]
+|18(3)||0||0||0||1||0||3(1)||1||22(4)||1||2||0
+|-
+|align="left"|29||align="left"|DF||align="left"|{{flagicon|ENG}} [[Aaron Wan-Bissaka]]
+|20||0||0||0||0||0||5(1)||0||25(1)||0||2||1
+|-
+|align="left"|31||align="left"|MF||align="left"|{{flagicon|SRB}} [[Nemanja Matić]]
+|16(7)||0||0||0||1||0||1(7)||0||18(14)||0||5||0
+|-
+|align="left"|33||align="left"|DF||align="left"|{{flagicon|ENG}} [[Brandon Williams (footballer)|Brandon Williams]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|34||align="left"|MF||align="left"|{{flagicon|NED}} [[Donny van de Beek]]
+|0(8)||1||0(1)||0||1||0||3(1)||0||4(10)||1||1||0
+|-
+|align="left"|36||align="left"|FW||align="left"|{{flagicon|SWE}} [[Anthony Elanga]]
+|14(7)||2||0(2)||0||0(1)||0||2(1)||1||16(11)||3||0||0
+|-
+|align="left"|37||align="left"|MF||align="left"|{{flagicon|ENG}} [[James Garner (footballer, born 2001)|James Garner]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|39||align="left"|MF||align="left"|{{flagicon|SCO}} [[Scott McTominay]]
+|28(2)||1||2||1||0||0||5||0||35(2)||2||10||0
+|-
+|align="left"|43||align="left"|DF||align="left"|{{flagicon|ENG}} [[Teden Mengi]]
+|0||0||0||0||0||0||0(1)||0||0(1)||0||0||0
+|-
+|align="left"|46||align="left"|MF||align="left"|{{flagicon|TUN}} [[Hannibal Mejbri]]
+|1(1)||0||0||0||0||0||0||0||1(1)||0||2||0
+|-
+|align="left"|47||align="left"|FW||align="left"|{{flagicon|ENG}} [[Shola Shoretire]]
+|0(1)||0||0||0||0||0||0(1)||0||0(2)||0||1||0
+|-
+|align="left"|51||align="left"|GK||align="left"|{{flagicon|CZE}} [[Matěj Kovář]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|72||align="left"|MF||align="left"|{{flagicon|WAL}} [[Charlie Savage (footballer)|Charlie Savage]]
+|0||0||0||0||0||0||0(1)||0||0(1)||0||0||0
+|-
+|align="left"|73||align="left"|MF||align="left"|{{flagicon|IRQ}} [[Zidane Iqbal]]
+|0||0||0||0||0||0||0(1)||0||0(1)||0||0||0
+|-
+|align="left"|75||align="left"|FW||align="left"|{{flagicon|ARG}} [[Alejandro Garnacho]]
+|0(2)||0||0||0||0||0||0||0||0(2)||0||0||0
+|-
+|colspan="3" align="center"|[[Own goal]]s<!--For United, not against-->
+|–||1||–||0||–||0||–||0||–||1||colspan=2|N/A
+|}
+{{notelist}}
+
+==Transfers==
+[[File:Manchester United v Leeds United, 14 August 2021 (04).jpg|thumb|[[Raphaël Varane]] was announced as a Manchester United player ahead of the [[Leeds United F.C.–Manchester United F.C. rivalry|Roses derby]] on the opening day of the season.]]
+
+===In===
+{| class="wikitable"
+|-
+! Date
+! Pos.
+! Name
+! From
+! Fee
+! {{abbr|Ref.|Reference}}
+|-
+| 2 July 2021
+| GK
+| {{flagicon|ENG}} [[Tom Heaton]]
+| Unattached{{efn|Most recently played for [[Aston Villa F.C.|Aston Villa]]}}
+| Free
+| <ref>{{cite news |title=Heaton rejoins Manchester United |url=https://www.manutd.com/en/news/detail/man-utd-sign-goalkeeper-tom-heaton-on-two-year-contract |website=ManUtd.com |publisher=Manchester United |date=2 July 2021 |access-date=2 July 2021 }}</ref>
+|-
+| 23 July 2021
+| FW
+| {{flagicon|ENG}} [[Jadon Sancho]]
+| {{flagicon|GER}} [[Borussia Dortmund]]
+| €85&nbsp;million
+| <ref>{{cite news |title=Jadon Sancho close to move to Manchester United |url=https://aktie.bvb.de/eng/IR-News/Ad-Hoc-News/Jadon-Sancho-close-to-move-to-Manchester-United |website=aktie.bvb.de |publisher=Borussia Dortmund |date=1 July 2021 |access-date=1 October 2021 }}</ref>
+|-
+| 23 July 2021
+| DF
+| {{flagicon|IRL}} [[Paul McShane (footballer)|Paul McShane]]
+| {{flagicon|ENG}} [[Rochdale A.F.C.|Rochdale]]
+| Undisclosed
+| <ref>{{cite news|title=McShane rejoins in innovative new role |url=https://www.manutd.com/en/news/detail/man-utd-announce-paul-mcshane-signing-in-innovative-player-coach-role |website=ManUtd.com |publisher=Manchester United |date=23 July 2021 |access-date=24 July 2021 }}</ref>
+|-
+| 14 August 2021
+| DF
+| {{flagicon|FRA}} [[Raphaël Varane]]
+| {{flagicon|ESP}} [[Real Madrid CF|Real Madrid]]
+| €34&nbsp;Million{{efn|Fee reported as £34&nbsp;million, plus £8&nbsp;million in add-ons<ref>{{cite news |title=Raphael Varane: Manchester United sign France defender on four-year deal |url=https://www.bbc.co.uk/sport/football/58176187 |website=BBC Sport |date=14 August 2021 |accessdate=14 August 2021 }}</ref>}}
+| <ref>{{cite news |title=United announce Varane signing |url=https://www.manutd.com/en/news/detail/raphael-varane-completes-transfer-from-real-madrid-to-manchester-united |website=ManUtd.com |publisher=Manchester United |date=14 August 2021 |access-date=14 August 2021 }}</ref>
+|-
+| 31 August 2021
+| FW
+| {{flagicon|POR}} [[Cristiano Ronaldo]]
+| {{flagicon|ITA}} [[Juventus FC|Juventus]]
+| €15&nbsp;million{{efn|Rising to €23&nbsp;million if all additional clauses met}}
+| <ref>{{cite news |title=Agreement with Manchester United for the definitive disposal of the player Cristiano Ronaldo |url=https://www.juventus.com/images/image/upload/dev/akcmbvpyjsqtgs7qf5ef.pdf |website=juventus.com |publisher=Juventus FC |date=31 August 2021 |accessdate=1 September 2021 }}</ref>
+|}
+
+===Out===
+{| class="wikitable"
+|-
+! Date
+! Pos.
+! Name
+! To
+! Fee
+! {{abbr|Ref.|Reference}}
+|-
+| 7 June 2021
+| DF
+| {{flagicon|ENG}} Oliver Kilner
+| {{flagicon|ENG}} [[Oldham Athletic A.F.C.|Oldham Athletic]]
+| Undisclosed
+| <ref>{{cite news |title=Oldham signs Manchester United youngster Oliver Kilner |url=https://manchesternewstoday.com/oldham-signs-manchester-united-youngster-oliver-kilner/ |website=manchesternewstoday.com |publisher=Manchester News Today |date=7 June 2021 |access-date=7 June 2021 |archive-date=30 July 2021 |archive-url=https://web.archive.org/web/20210730170959/https://manchesternewstoday.com/oldham-signs-manchester-united-youngster-oliver-kilner/ |url-status=dead }}</ref>
+|-
+| 29 June 2021
+| GK
+| {{flagicon|SWE}} Johan Guadagno
+| {{flagicon|DEN}} [[F.C. Copenhagen|Copenhagen]]
+| Undisclosed
+| <ref>{{cite news |title=Guadagno completes overseas move |url=https://www.manutd.com/en/news/detail/utd-keeper-johan-guadagno-completes-move-to-fc-copenhagen |website=ManUtd.com |publisher=Manchester United |date=29 June 2021 |access-date=29 June 2021}}</ref>
+|-
+| 30 June 2021
+| GK
+| {{flagicon|ENG}} Jacob Carney
+|colspan="2"| Released{{efn|Joined [[Sunderland A.F.C.|Sunderland]] after release<ref>{{cite news |title=Carney completes move |url=https://www.safc.com/news/team-news/2021/july/carney-completes-move |publisher=Sunderland AFC |access-date=2 July 2021}}</ref>}}
+| <ref name="Retained List">{{cite news |title=Confirmed: Eight players to leave the club |url=https://www.manutd.com/en/news/detail/man-utd-announce-official-retained-list-on-4-june-2021 |website=ManUtd.com |publisher=Manchester United |date=4 June 2021 |access-date=4 June 2021 }}</ref>
+|-
+| 30 June 2021
+| MF
+| {{flagicon|ENG}} Mark Helm
+|colspan="2"| Released{{efn|Joined [[Burnley F.C.|Burnley]] after release<ref>{{cite news|title=New midfield man out to make his Mark|url=https://www.burnleyfootballclub.com/content/new-midfield-man-out-to-make-his-mark|publisher=Burnley FC|date=1 July 2021|access-date=1 July 2021|archive-date=1 July 2021|archive-url=https://web.archive.org/web/20210701135906/https://www.burnleyfootballclub.com/content/new-midfield-man-out-to-make-his-mark|url-status=dead}}</ref>}}
+| <ref name="Retained List"/>
+|-
+| 30 June 2021
+| DF
+| {{flagicon|WAL}} Iestyn Hughes
+|colspan="2"| Released{{efn|Joined [[Leicester City F.C.|Leicester City]] after release<ref>{{cite news |first=Richard |last=Cusack |title=Leicester City sign 'bright talent' from Manchester United |url=https://www.leicestermercury.co.uk/sport/football/transfer-news/manchester-united-transfer-news-leicester-5341184 |work=Leicester Mercury |date=26 April 2021 |access-date=4 July 2021 }}</ref>}}
+| <ref name="Retained List"/>
+|-
+| 30 June 2021
+| GK
+| {{flagicon|POR}} [[Joel Castro Pereira]]
+|colspan="2"| Released{{efn|Joined [[RKC Waalwijk]] after release<ref>{{cite news |title=RKC Waalwijk lijft doelman Joel Pereira in |trans-title=RKC Waalwijk brings in goalkeeper Joel Pereira |url=https://www.rkcwaalwijk.nl/joelpereira |website=rkcwaalwijk.nl |publisher=RKC Waalwijk |language=nl |date=5 July 2021 |access-date=7 July 2021 }}</ref>}}
+| <ref name="Retained List"/>
+|-
+| 30 June 2021
+| MF
+| {{flagicon|ESP}} [[Arnau Puigmal]]
+|colspan="2"| Released{{efn|Joined [[UD Almería|Almería]] after release<ref>{{cite news |first=Richard |last=Fay |title=Arnau Puigmal signs five-year deal following Manchester United release |url=https://www.manchestereveningnews.co.uk/sport/football/manchester-united-puigmal-transfer-news-21021163 |work=Manchester Evening News |publisher=MEN Media |date=10 July 2021 |accessdate=23 July 2021 }}</ref>}}
+| <ref name="Retained List"/>
+|-
+| 30 June 2021
+| GK
+| {{flagicon|ARG}} [[Sergio Romero]]
+|colspan="2"| Released{{efn|Joined [[Venezia F.C.|Venezia]] after release<ref>{{cite news |title=Sergio Romero joins Venezia FC |url=https://www.veneziafc.it/en/news/sergio-romero-joins-venezia-fc |website=veneziafc.it |publisher=Venezia FC |date=11 October 2021 |access-date=11 October 2021 |archive-date=6 June 2023 |archive-url=https://web.archive.org/web/20230606224823/https://www.veneziafc.it/en/news/sergio-romero-joins-venezia-fc |url-status=dead }}</ref>}}
+| <ref name="Retained List"/>
+|-
+| 30 June 2021
+| DF
+| {{flagicon|ENG}} [[Max Taylor (footballer)|Max Taylor]]
+|colspan="2"| Released{{efn|Joined [[Rochdale A.F.C.|Rochdale]] after release<ref>{{cite news |title=Max Taylor joins Rochdale |url=https://www.rochdaleafc.co.uk/news/2021/august/maxtaylor_signs/|publisher=Rochdale AFC|date=2 August 2021|access-date=2 August 2021}}</ref>}}
+| <ref name="Retained List"/>
+|-
+| 30 June 2021
+| MF
+| {{flagicon|FRA}} [[Aliou Traoré]]
+|colspan="2"| Released{{efn|Joined [[Parma Calcio 1913|Parma]] after release<ref>{{cite news |first=Steve |last=Pearson |title=Midfielder never given Man Utd chance agrees terms with Italian side |url=https://www.teamtalk.com/news/midfielder-never-given-man-utd-chance-aliou-traore-parma |website=TeamTalk |date=7 September 2021 |access-date=7 September 2021 }}</ref>}}
+| <ref name="Retained List"/>
+|-
+| 30 July 2021
+| MF
+| {{flagicon|IRL}} [[Charlie McCann]]
+| {{flagicon|SCO}} [[Rangers F.C.|Rangers]]
+| Undisclosed
+| <ref>{{cite news |title=Scottish move for Charlie McCann |url=https://www.manutd.com/en/news/detail/charlie-mccann-signs-for-rangers-in-permanent-deal |website=ManUtd.com |publisher=Manchester United |date=30 July 2021 |access-date=30 July 2021 }}</ref>
+|-
+| 31 August 2021
+| MF
+| {{flagicon|WAL}} [[Daniel James (footballer)|Daniel James]]
+| {{flagicon|ENG}} [[Leeds United F.C.|Leeds United]]
+| Undisclosed{{efn|Fee reported as £25&nbsp;million<ref>{{cite news |title=Daniel James: Leeds sign Wales winger from Manchester United |url=https://www.bbc.co.uk/sport/football/58393587 |website=BBC Sport |date=31 August 2021 |access-date=31 August 2021 }}</ref>}}
+| <ref>{{cite news |title=Transfer news: Daniel James signs for Leeds |url=https://www.manutd.com/en/news/detail/daniel-james-completes-permanent-transfer-from-man-utd-to-leeds|first=Mark |last=Froggatt |website=ManUtd.com |publisher=Manchester United |date=31 August 2021 |access-date=31 August 2021 }}</ref>
+|-
+| 31 January 2022
+| FW
+| {{flagicon|NED}} [[Dillon Hoogewerf]]
+| {{flagicon|GER}} [[Borussia Mönchengladbach]]
+| Undisclosed
+| <ref>{{cite news |title=German move for Hoogewerf |url=https://www.manutd.com/en/news/detail/dillon-hoogewerf-joins-borussia-monchengladbach-on-permanent-transfer|website=ManUtd.com |publisher=Manchester United |date= 1 February 2022 |access-date= 1 February 2022}}</ref>
+|-
+| 23 March 2022
+| GK
+| {{flagicon|ENG}} Paul Woolston
+|colspan="2"| Retired
+| <ref>{{cite news |title=Woolston announces his retirement |url=https://www.manutd.com/en/news/detail/u23s-keeper-paul-woolston-forced-to-retire-due-to-injury |website=ManUtd.com |publisher=Manchester United |date=23 March 2022 |accessdate=11 June 2022 }}</ref>
+|}
+
+===Loan out===
+{| class="wikitable"
+|-
+!Date from
+!Date to
+!Pos.
+!Name
+!To
+!{{abbr|Ref.|Reference}}
+|-
+| 1 July 2021
+| End of season
+| GK
+| {{flagicon|ENG}} [[Nathan Bishop]]
+| {{flagicon|ENG}} [[Mansfield Town F.C.|Mansfield Town]]
+| <ref>{{cite news |title=Loan confirmed for Nathan Bishop |url=https://www.manutd.com/en/news/detail/man-utd-goalkeeper-nathan-bishop-joins-mansfield-town-on-loan |website=ManUtd.com |publisher=Manchester United |date=24 June 2021 |access-date=24 June 2021 }}</ref>
+|-
+| 2 July 2021
+| 28 January 2022
+| DF
+| {{flagicon|ENG}} [[Reece Devine]]
+| {{flagicon|SCO}} [[St Johnstone F.C.|St Johnstone]]
+| <ref>{{cite news |title=Devine clinches move to Scotland |url=https://www.manutd.com/en/news/detail/reece-devine-joins-st-johnstone-on-loan-for-2021-22 |website=ManUtd.com |publisher=Manchester United |date=2 July 2021 |access-date=2 July 2021 }}</ref><ref name="RDevine">{{cite web |title=New Loan Move For Devine |url=https://www.manutd.com/en/news/detail/reece-devine-joins-walsall-on-loan-26-january-2022 |website=ManUtd.com |publisher=Manchester United|date=28 January 2022|access-date=28 January 2022}}</ref>
+|-
+| 9 July 2021
+| End of season
+| FW
+| {{flagicon|NED}} [[Tahith Chong]]
+| {{flagicon|ENG}} [[Birmingham City F.C.|Birmingham City]]
+| <ref>{{cite news |title=Tahith Chong joining Birmingham City on loan |url=https://www.manutd.com/en/news/detail/tahith-chong-joining-birmingham-city-on-loan-for-2021-22 |website=ManUtd.com |publisher=Manchester United |date=9 July 2021 |access-date=9 July 2021}}</ref>
+|-
+| 23 July 2021
+| 7 January 2022
+| DF
+| {{flagicon|ENG}} [[Will Fish]]
+| {{flagicon|ENG}} [[Stockport County F.C.|Stockport County]]
+| <ref>{{cite news |title=Fish secures loan move |url=https://www.manutd.com/en/news/detail/will-fish-joins-stockport-county-in-loan-transfer |website=ManUtd.com |publisher=Manchester United |date=23 July 2021 |accessdate=23 July 2021 }}</ref><ref>{{cite web |title=Fish returns from Stockport loan |url=https://www.manutd.com/en/news/detail/will-fish-returns-to-man-utd-after-loan-at-stockport-county |website=ManUtd.com |publisher=Manchester United |access-date=7 January 2022 |date=7 January 2022}}</ref>
+|-
+| 30 July 2021
+| End of season
+| DF
+| {{flagicon|ENG}} [[Di'Shon Bernard]]
+| {{flagicon|ENG}} [[Hull City A.F.C.|Hull City]]
+| <ref>{{cite news |title=Bernard signs deal and clinches loan |url=https://www.manutd.com/en/news/detail/dishon-bernard-signs-new-deal-and-joins-hull-city-on-loan-for-season |website=ManUtd.com |publisher=Manchester United |date=30 July 2021 |access-date=30 July 2021 }}</ref>
+|-
+| 5 August 2021
+| End of season
+| MF
+| {{flagicon|URU}} [[Facundo Pellistri]]
+| {{flagicon|ESP}} [[Deportivo Alavés|Alavés]]
+| <ref>{{cite news |title=Loan move secured for Pellistri |url=https://www.manutd.com/en/news/detail/facundo-pellistri-rejoins-deportivo-alaves-on-loan-for-the-2021-22-campaign-5-august-2021 |website=ManUtd.com |publisher=Manchester United |date=5 August 2021 |access-date=5 August 2021 }}</ref>
+|-
+| 8 August 2021
+| 8 January 2022
+| DF
+| {{flagicon|ENG}} [[Axel Tuanzebe]]
+| {{flagicon|ENG}} [[Aston Villa F.C.|Aston Villa]]
+| <ref>{{cite news |first=Harry |last=Robinson |title=Tuanzebe signs new deal and goes on loan |url=https://www.manutd.com/en/news/detail/axel-tuanzebe-signs-new-man-utd-contract-and-joins-aston-villa-on-loan |website=ManUtd.com |publisher=Manchester United |date=8 August 2021 |accessdate=8 August 2021 }}</ref><ref name="Tuanzebe">{{cite web |title=New loan move for Tuanzebe |url=https://www.manutd.com/en/news/detail/axel-tuanzebe-moves-to-napoli-on-loan-until-end-of-2021-22-season |website=ManUtd.com |publisher=Manchester United |access-date=8 January 2022 |date=8 January 2022}}</ref>
+|-
+| 13 August 2021
+| End of season
+| MF
+| {{flagicon|NIR}} [[Ethan Galbraith]]
+| {{flagicon|ENG}} [[Doncaster Rovers F.C.|Doncaster Rovers]]
+| <ref>{{cite news |title=Galbraith seals loan transfer |url=https://www.manutd.com/en/news/detail/ethan-galbraith-sent-on-loan-to-doncaster-rovers-2021 |website=ManUtd.com |publisher=Manchester United |date=13 August 2021 |access-date=13 August 2021 }}</ref>
+|-
+| 16 August 2021
+| 6 January 2022
+| DF
+| {{flagicon|ENG}} [[Ethan Laird]]
+| {{flagicon|WAL}} [[Swansea City A.F.C.|Swansea City]]
+| <ref>{{cite news |title=Laird clinches Championship loan move |url=https://www.manutd.com/en/news/detail/ethan-laird-joins-swansea-city-in-loan-move-2021 |website=ManUtd.com |publisher=Manchester United |date=16 August 2021 |accessdate=16 August 2021 }}</ref><ref name="Laird">{{cite web |title=Laird agrees new loan move |url=https://www.manutd.com/en/news/detail/ethan-laird-agrees-bournemouth-loan-from-man-utd-in-january-2022-transfer-window |website=ManUtd.com |publisher=Manchester United |access-date=6 January 2022 |date=6 January 2022}}</ref>
+|-
+| 20 August 2021
+| End of season
+| MF
+| {{flagicon|WAL}} [[Dylan Levitt]] 
+| {{flagicon|SCO}} [[Dundee United F.C.|Dundee United]]
+| <ref>{{cite news |title=Levitt seals loan transfer |url=https://www.manutd.com/en/news/detail/dylan-levitt-joins-dundee-united-in-loan-deal |website=ManUtd.com |publisher=Manchester United |date=20 August 2021 |access-date=20 August 2021 }}</ref>
+|-
+| 21 August 2021
+| End of season
+| MF
+| {{flagicon|BRA}} [[Andreas Pereira]]
+| {{flagicon|BRA}} [[Clube de Regatas do Flamengo|Flamengo]]
+| <ref>{{cite news |first=Mark |last=Froggatt |title=Confirmed: Andreas leaves United for loan spell |url=https://www.manutd.com/en/news/detail/man-utd-midfielder-andreas-pereira-joins-flamengo-on-loan-for-202122-season |website=ManUtd.com |publisher=Manchester United |date=21 August 2021 |access-date=21 August 2021 }}</ref> 
+|-
+| 22 August 2021
+| End of season
+| MF
+| {{flagicon|ENG}} [[James Garner (footballer, born 2001)|James Garner]]
+| {{flagicon|ENG}} [[Nottingham Forest F.C.|Nottingham Forest]] 
+| <ref>{{cite news |title=Garner signs new deal and returns to Forest |url=https://www.manutd.com/en/news/detail/james-garner-signs-new-united-contract-and-joins-nottingham-forest-on-loan |website=ManUtd.com |publisher=Manchester United |date=22 August 2021 |accessdate=22 August 2021 }}</ref>
+|-
+| 23 August 2021
+| End of season
+| DF
+| {{flagicon|ENG}} [[Brandon Williams (footballer)|Brandon Williams]]
+| {{flagicon|ENG}} [[Norwich City F.C.|Norwich City]]
+| <ref>{{cite news |first=Harry |last=Robinson |title=Williams completes season-long loan move |url=https://www.manutd.com/en/news/detail/man-utd-defender-brandon-williams-joins-norwich-city-on-a-season-long-loan |website=ManUtd.com |publisher=Manchester United |date=23 August 2021 |accessdate=23 August 2021 }}</ref>
+|-
+| 28 August 2021
+| 19 January 2022
+| FW
+| {{flagicon|ENG}} [[D'Mani Mellor]]
+| {{flagicon|ENG}} [[Salford City F.C.|Salford City]]
+| <ref>{{cite news |title=Mellor seals loan transfer |url=https://www.manutd.com/en/news/detail/dmani-mellor-joins-salford-city-on-loan-2021 |website=ManUtd.com |publisher=Manchester United |date=28 August 2021 |accessdate=28 August 2021 }}</ref><ref>{{cite web |title=Forward returns from Salford loan |url=https://www.manutd.com/en/news/detail/dmani-mellor-returns-to-man-utd-from-salford-loan |website=ManUtd.com |publisher=Manchester United |access-date=19 January 2022 |date=19 January 2022}}</ref>
+|-
+| 4 January 2022
+| End of season
+| DF
+| {{flagicon|ENG}} [[Teden Mengi]]
+| {{flagicon|ENG}} [[Birmingham City F.C.|Birmingham City]]
+| <ref>{{cite news |title=Mengi joins Birmingham City on loan |url=https://www.manutd.com/en/news/detail/teden-mengi-joins-birmingham-city-on-loan-from-man-utd-for-rest-of-202122-season |website=ManUtd.com |publisher=Manchester United |date=4 January 2022 |access-date=4 January 2022 }}</ref>
+|-
+| 6 January 2022
+| End of season
+| DF
+| {{flagicon|ENG}} [[Ethan Laird]]
+| {{flagicon|ENG}} [[AFC Bournemouth|Bournemouth]]
+| <ref name="Laird" />
+|-
+| 8 January 2022
+| End of season
+| DF
+| {{flagicon|ENG}} [[Axel Tuanzebe]]
+| {{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+| <ref name="Tuanzebe" />
+|-
+| 25 January 2022
+| End of season
+| FW
+| {{flagicon|FRA}} [[Anthony Martial]]
+| {{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+| <ref>{{cite news |title=Martial completes loan move to Sevilla|url=https://www.manutd.com/en/news/detail/anthony-martial-joins-sevilla-on-loan-from-man-utd |website=ManUtd.com |publisher=Manchester United |date=25 January 2022 |first=Joe|last=Ganley|access-date=25 January 2022}}</ref>
+|-
+| 27 January 2022
+| End of season
+| FW
+| {{flagicon|CIV}} [[Amad Diallo]]
+| {{flagicon|SCO}} [[Rangers F.C.|Rangers]]
+| <ref>{{cite news |title=Transfer news: Man Utd winger Amad joins Rangers on loan|url=https://www.manutd.com/en/news/detail/man-utd-winger-amad-joins-rangers-on-loan-transfer |website=ManUtd.com |publisher=Manchester United |date=27 January 2022 |first=Mark |last=Froggatt|access-date=27 January 2022}}</ref>
+|-
+| 28 January 2022
+| End of season
+| DF
+| {{flagicon|ENG}} [[Reece Devine]]
+| {{flagicon|ENG}} [[Walsall F.C.|Walsall]]
+| <ref name="RDevine" />
+|-
+|rowspan=2| 31 January 2022
+|rowspan=2| End of season
+| MF
+| {{flagicon|NED}} [[Donny van de Beek]]
+| {{flagicon|ENG}} [[Everton F.C.|Everton]]
+| <ref>{{cite web |title=Van De Beek Completes Everton Loan Move |url=https://www.evertonfc.com/news/2468326/van-de-beek-completes-everton-loan-move|first=Paul |last=McNamara |publisher=Everton Football Club|website=EvertonFC.com |date=31 January 2022|access-date=31 January 2022}}</ref><ref>{{cite web |title=Transfer window news: Van de Beek loaned to Everton |url=https://www.manutd.com/en/news/detail/man-utd-midfielder-donny-van-de-beek-joins-everton-on-loan |website=ManUtd.com|first=Mark |last=Froggatt |publisher=Manchester United|date=31 January 2022|access-date=31 January 2022}}</ref>
+|-
+|GK
+|{{flagicon|CZE}} [[Matěj Kovář]]
+|{{flagicon|ENG}} [[Burton Albion F.C.|Burton Albion]]
+|<ref>{{Cite web|title=Burton Albion Sign Goalkeeper Matej Kovar on Loan from Manchester United|url=https://www.burtonalbionfc.co.uk/news/2022/january/3101-kovar/|first=Evan |last=Draycott|date=31 January 2022|access-date=1 February 2022|website=BurtonAlbionFC.co.uk|publisher=Burton Albion }}</ref><ref>{{cite web |title=Kovar signs deal and moves on loan |url=https://www.manutd.com/en/news/detail/matej-kovar-joins-burton-albion-on-loan-on-31-january-2022 |website=ManUtd.com|publisher=Manchester United|date=31 January 2022|access-date=1 February 2022}}</ref>
+|}
+{{notelist}}
+
+==References==
+{{reflist}}
+{{Commons|2021–22 Manchester United F.C. kits}}
+
+{{Manchester United F.C. seasons}}
+{{2021–22 in English men's football}}
+
+{{DEFAULTSORT:2021-22 Manchester United F.C. season}}
+[[Category:Manchester United F.C. seasons]]
+[[Category:2021–22 UEFA Champions League participants seasons|Manchester United]]
+[[Category:2021–22 Premier League by team|Manchester United]]
+[[Category:2021 in sport in Manchester]]
+[[Category:2022 in sport in Manchester]]

@@ -1,0 +1,2062 @@
+{{Use dmy dates|date=December 2021}}
+{{Infobox football club season
+| club               = [[Real Madrid C.F.|Real Madrid]]
+| season             = [[2017–18 La Liga|2017–18]]
+| image              = File:Real Madrid C.F. the Winner Of The Champions League in 2018 (1).jpg
+| image_size         = 280px
+| caption            = Captain [[Sergio Ramos]] hoisting the European Cup as Real Madrid celebrate winning the [[2017-18 UEFA Champions League]], on [[2018 UEFA Champions League Final|26 May 2018]]
+| chrtitle           = President
+| chairman           = [[Florentino Pérez]]
+| mgrtitle           = Head coach
+| manager            = [[Zinedine Zidane]]
+| stadium            = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+| league             = [[La Liga]]
+| league result      = [[2017–18 La Liga|3rd]]
+| cup1               = [[Copa del Rey]]
+| cup1 result        = [[2017–18 Copa del Rey|Quarter-finals]]
+| cup2               = [[Supercopa de España]]
+| cup2 result        = '''[[2017 Supercopa de España|Winners]]'''
+| cup3               = [[UEFA Champions League]]
+| cup3 result        = '''[[2017–18 UEFA Champions League|Winners]]'''
+| cup4               = [[UEFA Super Cup]]
+| cup4 result        = '''[[2017 UEFA Super Cup|Winners]]'''
+| cup5               = [[FIFA Club World Cup]]
+| cup5 result        = '''[[2017 FIFA Club World Cup|Winners]]'''
+| league topscorer   = <br>[[Cristiano Ronaldo]] (26)
+| season topscorer   = <br>Cristiano Ronaldo (44)
+| highest attendance = {{nowrap|80,737 vs [[FC Barcelona|Barcelona]]<br>(23 December 2017)}}
+| lowest attendance  = {{nowrap|37,553 vs [[CD Numancia|Numancia]]<br>(10 January 2018)}}
+| average attendance = 65,652
+| largest win        = {{nowrap|Real Madrid 7–1 [[Deportivo de La Coruña|Deportivo La Coruña]]<br>[[APOEL FC|APOEL]] 0–6 Real Madrid <br>Real Madrid 6–0 [[RC Celta de Vigo|Celta Vigo]]}}
+| largest loss       = {{nowrap|Real Madrid 0-3 [[FC Barcelona|Barcelona]]}}
+| pattern_la1        = _realmadrid1718h
+| pattern_b1         = _realmadrid1718h
+| pattern_ra1        = _realmadrid1718h
+| pattern_sh1        = _realmadrid1718h
+| pattern_so1        = _realmadrid1718h
+| leftarm1           = FFFFFF
+| body1              = FFFFFF
+| rightarm1          = FFFFFF
+| shorts1            = FFFFFF
+| socks1             = FFFFFF
+| pattern_la2        = _realmadrid1718a
+| pattern_b2         = _realmadrid1718a
+| pattern_ra2        = _realmadrid1718a
+| pattern_sh2        = _realmadrid1718a
+| pattern_so2        = _realmadrid1718a
+| leftarm2           = 000000
+| body2              = 000000
+| rightarm2          = 000000
+| shorts2            = 000000
+| socks2             = 000000
+| pattern_la3        = _realmadrid1718t
+| pattern_b3         = _realmadrid1718t
+| pattern_ra3        = _realmadrid1718t
+| pattern_sh3        = _realmadrid1718t
+| pattern_so3        = _realmadrid1718t
+| leftarm3           = 
+| body3              = 
+| rightarm3          = 
+| shorts3            = 
+| socks3             = 22A6BF
+| prevseason         = [[2016–17 Real Madrid CF season|2016–17]]
+| nextseason         = [[2018–19 Real Madrid CF season|2018–19]]
+}}
+The 2017–18 season was [[Real Madrid C.F.|Real Madrid Club de Fútbol]]'s [[List of Real Madrid C.F. seasons|114th season]] in existence and the club's [[La Liga records and statistics#All-time table|87th consecutive season]] in the top flight of [[Football in Spain|Spanish football]]. It covered a period from 1 July 2017 to 30 June 2018.
+
+Despite finishing a distant third in the [[2017–18 La Liga|league]] that season, Real Madrid won four trophies out of six possible, including a third consecutive [[2017–18 UEFA Champions League|Champions League]] title, which made them the first team to achieve the feat since [[FC Bayern Munich|Bayern Munich]] in [[1975–76 European Cup|1976]] and the first ever to do it twice. This was also Madrid's fourth European Cup in five years, and their 13th overall. The [[three-peat]] winning manager [[Zinedine Zidane]] resigned shortly after the season concluded; he would return by the end of [[2018–19 Real Madrid CF season#March|next season]].<ref>{{Cite news|url=https://www.bbc.com/sport/football/44315700|title=Zinedine Zidane: Real Madrid boss stands down five days after Champions League win|date=31 May 2018|work=BBC Sport|access-date=14 June 2018|language=en-GB}}</ref> Additionally, this was notably considered being [[Cristiano Ronaldo]]'s final time staying with Los Merengues after 9 years spent winning 16 trophies altogether.<ref>{{Cite news|url=https://www.espn.com/soccer/soccer-transfers/story/3560356/cristiano-ronaldo-leaves-real-madrid-to-join-juventus|title=Ronaldo Ronaldo: Cristiano Ronaldo leaves Real Madrid to sign with Juventus|date=10 Jul 2018|work=ESPN|access-date=10 Jul 2018|language=en-GB}}</ref>
+
+This season was the first since [[2006–07 Real Madrid CF season|2006–07]] without [[Pepe (footballer, born 1983)|Pepe]], who departed to Turkish club [[Beşiktaş J.K.|Besiktas]].
+
+==Summary==
+===Pre-season===
+[[Théo Hernandez]] and [[Dani Ceballos]] joined Madrid on 5 and 14 July 2017.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/07/official-announcement-theo-hernandez|title=Official Announcement: Theo Hernández|publisher=Real Madrid|date=5 July 2017|access-date=5 July 2017}}</ref><ref>{{cite news|url=http://www.realmadrid.com/noticias/2017/07/comunicado-oficial-dani-ceballos|title=Comunicado oficial: Dani Ceballos|trans-title=Official announcement: Dani Ceballos|publisher=Real Madrid|language=es|date=14 July 2017|access-date=14 July 2017}}</ref>
+
+[[Pepe (footballer, born 1983)|Pepe]] went to [[Beşiktaş J.K.|Beşiktaş]] after his contract was up after the last season.<ref>{{cite web|url=http://www.bjk.com.tr/tr/haber/70418/|title=Kepler Laveran Lima Ferreira’nın (Pepe) Transferi İçin Görüşmelere Başlandı|publisher=Beşiktaş J.K.|date=4 July 2017|access-date=4 July 2017}}</ref> [[James Rodríguez]] and [[Fábio Coentrão]] were loaned to [[FC Bayern Munich|Bayern Munich]] and [[Sporting Club de Portugal|Sporting CP]] respectively.<ref>{{cite press release|url=https://fcbayern.com/en/news/2017/07/press-release-james-rodriguez|title= FC Bayern sign James Rodríguez from Real Madrid |date=11 July 2017|access-date=12 July 2017|website=fcbayern.com|publisher=Bayern Munich}}</ref><ref>{{cite web|url=http://www.sporting.pt/pt/noticias/clube/comunicados/2017-07-05/comunicado-sporting-clube-de-portugal-futebol-sad|title=Comunicado por Fábio Coentrão|publisher=Sporting CP|date=5 July 2017|access-date=5 July 2017}}</ref>
+
+[[Mariano Díaz]] was transferred to [[Olympique Lyonnais|Lyon]].<ref>{{cite web|url=http://www.olweb.fr/fr/article/mercato-a-la-decouverte-de-la-nouvelle-recrue-mariano-diaz-31369.html|title=Mercato : A la découverte de la nouvelle recrue Mariano Diaz|date=30 June 2017|work=olweb.fr}}</ref> On 21 July, [[Álvaro Morata]] moved to [[Chelsea F.C.|Chelsea]].<ref>{{cite web |url=http://www.chelseafc.com/news/latest-news/2017/07/morata-is-a-blue.html|title=Morata is a Blue|publisher=chelseafc.com|date=21 July 2017|access-date=21 July 2017}}</ref> Two days later, [[Danilo (footballer, born July 1991)|Danilo]] left Madrid and joined [[Manchester City F.C.|Manchester City]].<ref>{{Cite news |title=Danilo joins Manchester City|website=Manchester City|url=https://www.mancity.com/news/first-team/first-team-news/2017/july/danilo-joins-manchester-city|date=23 July 2017|access-date=23 July 2017}}</ref>
+
+===August===
+On 8 August 2017, Madrid won the [[2017 UEFA Super Cup]], beating [[Manchester United F.C.|Manchester United]] 2–1 with goals from [[Casemiro]] and [[Isco]].<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/08/2-1-european-super-cup-champions|title=2-1: European Super Cup Champions!|publisher=Real Madrid|date=8 August 2017|access-date=8 August 2017}}</ref>
+
+On 13 August 2017, Madrid won the away leg of the [[2017 Supercopa de España]], defeating [[FC Barcelona|Barcelona]] 3–1 with goals from [[Cristiano Ronaldo]], [[Marco Asensio]] and an own goal.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/08/1-3-a-real-madrid-exhibition-at-the-camp-nou|title=1-3: A Real Madrid exhibition at the Camp Nou|publisher=Real Madrid|date=13 August 2017|access-date=13 August 2017}}</ref> The match was controversial, as several referring mistakes affected the teams. First, Barcelona was awarded a questionable penalty on [[Luis Suárez (Uruguayan footballer)|Luis Suárez]],<ref>{{Cite web|url=https://www.fcbarcelona.com/football/first-team/news/2017-2018/social-networks-leo-messi-and-luis-suarez-call-for-optimism|title=Leo Messi and Luis Suárez call for optimism|publisher=FCBarcelona.com|date=14 August 2017|access-date=16 August 2017}}</ref> which [[Lionel Messi|Messi]] converted to equalize in the 77th minute,<ref>{{cite web|url= https://www.theguardian.com/football/live/2017/aug/13/barcelona-v-real-madrid-spanish-super-cup-first-leg-live|title= Barcelona 1-3 Real Madrid: Spanish Super Cup, first leg – as it happened|date=13 August 2017|work=Guardian|access-date=24 August 2017}}</ref> and then, after Real scored their second via substitute Ronaldo,<ref>{{Cite web|date=13 August 2017|title=Barcelona vs. Real Madrid - Football Match Report|url=https://www.espn.com/soccer/report?gameId=479398|access-date=15 October 2017|website=ESPN}}</ref> who shot into the top right corner from the edge of the box in the 80th minute, Cristiano was booked for removing his shirt as part of the celebration; two minutes later, he was booked again by the referee for allegedly diving when he collided with [[Samuel Umtiti]] in the box, which resulted in a second yellow card and Ronaldo being [[Fouls and misconduct (association football)#Red card (dismissal)|sent off]],<ref>{{Cite web|date=2017-08-14|title=Barcelona 1 - 3 Real Madrid: as it happened, goals, match report|url=https://en.as.com/en/2017/08/13/football/1502613292_718396.html|access-date=2020-10-15|website=AS.com|language=en|archive-date=20 October 2020|archive-url=https://web.archive.org/web/20201020055355/https://en.as.com/en/2017/08/13/football/1502613292_718396.html|url-status=dead}}</ref> therefore getting suspended for the second leg. He was later given a five-match suspension after replays showed him push the referee in frustration for the red card. The latter penalty in hindsight derailed Madrid's season start and cost them points in La Liga. Real's last goal was scored in the 90th minute in similar fashion to the second, as Asensio shot into the top left corner following an assist from [[Lucas Vázquez]].<ref>{{cite web |url=https://www.fcbarcelona.com/football/first-team/news/2017-2018/match-report-fc-barcelona-1-3-real-madrid-to-be-continued... |publisher=FCBarcelona.com |title=FC Barcelona 1-3 Real Madrid: To be continued... |date=13 August 2017 |access-date=13 August 2017 |archive-url=https://web.archive.org/web/20171029152757/https://www.fcbarcelona.com/football/first-team/news/2017-2018/match-report-fc-barcelona-1-3-real-madrid-to-be-continued... |archive-date=29 October 2017 |url-status=dead |df=dmy-all }}</ref><ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/08/1-3-a-real-madrid-exhibition-at-the-camp-nou|title=1-3: A Real Madrid exhibition at the Camp Nou|publisher=Real Madrid|date=13 August 2017|access-date=13 August 2017}}</ref>
+
+Three days later, on 16 August 2017, Madrid clinched the title, after a 2–0 home win (5–1 on aggregate) with goals from Asensio and [[Karim Benzema]].<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/08/2-0-spanish-super-cup-champions|title=2-0: Spanish Super Cup Champions!|publisher=Real Madrid|date=17 August 2017|access-date=17 August 2017}}</ref> Goals from [[Gareth Bale]], Casemiro and [[Toni Kroos]] gave Madrid a 3–0 winning start in the [[2017–18 La Liga|league campaign]] at [[Deportivo de La Coruña|Deportivo La Coruña]] on 20 August 2017.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/08/0-3-handsome-victory-and-top-spot-in-laliga-opener|title=0-3: Handsome victory and top spot in LaLiga opener|publisher=Real Madrid|date=20 August 2017|access-date=20 August 2017}}</ref> On 24 August 2017, the [[2017–18 UEFA Champions League group stage]] draw was held, and Madrid was drawn in Group H, along with [[Borussia Dortmund]], [[Tottenham Hotspur F.C.|Tottenham Hotspur]] and [[APOEL FC|APOEL]].<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/08/real-madrid-will-play-borussia-dortmund-tottenham-and-apoel-in-group-h-of-the-champions-league|title=Real Madrid will play Borussia Dortmund, Tottenham and APOEL in Group H of the Champions League|publisher=Real Madrid|date=20 August 2017|access-date=20 August 2017}}</ref> On 27 August 2017, two goals from Asensio were not enough as Madrid drew [[Valencia CF|Valencia]] 2–2 at the Bernabéu.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/08/2-2-madrid-sought-victory-until-the-end|title=2-2: Madrid sought victory until the end|publisher=Real Madrid|date=27 August 2017|access-date=27 August 2017}}</ref>
+
+===September===
+[[Marcelo (footballer, born 1988)|Marcelo]] signed a new contract on 13 September, keeping him at the club until the summer of 2022.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/09/marcelos-contract-extension|title=Marcelo's contract extension|date=13 September 2017|work=realmadrid.com}}</ref> The same day, Madrid kicked off the new [[2017–18 UEFA Champions League|Champions League]] season with a 3–0 victory over APOEL, with a brace from Ronaldo and a goal from [[Sergio Ramos]].<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/09/3-0-real-madrid-make-light-work-of-apoel-as-ronaldo-nets-a-brace|title=3-0: Real Madrid make light work of APOEL as Ronaldo nets a brace|date=13 September 2017|work=realmadrid.com}}</ref> A day later, [[Isco]] renewed his contract until 2022.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/09/iscos-contract-extension|title=Isco's contract extension|date=14 September 2017|work=realmadrid.com}}</ref> The contract from [[Dani Carvajal]] was extended to 2022 on 17 September 2017.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/09/ceremony-to-mark-carvajals-contract-renewal|title=Ceremony to mark Carvajal's contract renewal|date=17 September 2017|work=realmadrid.com}}</ref> Later that day, Madrid got a 3–1 victory at [[Real Sociedad]] after goals from [[Borja Mayoral]], Bale and an own goal.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/09/1-3-madrid-clinch-vital-win-at-anoeta|title=1-3: Madrid clinch vital win at Anoeta|date=17 September 2017|work=realmadrid.com}}</ref> Because of the first goal, Madrid scored in their 73rd consecutive match, equalling the record set by [[Santos FC]] in 1963.<ref>{{cite web|url=http://www.marca.com/en/football/real-madrid/2017/09/17/59becb21268e3e55348b4592.html|title=Real Madrid equal Santos' run of 73 consecutive games scoring|date=17 September 2017|work=marca.com}}</ref> The contract of Benzema was extended until 2021 on 20 September 2017.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/09/ceremony-to-mark-benzemas-contract-renewal|title=Ceremony to mark Benzema's contract renewal|date=20 September 2017|work=realmadrid.com}}</ref> On the same day, Madrid lost to [[Real Betis]] 0–1, conceding a late goal. The defeat also ended their goalscoring streak.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/09/0-1-real-madrid-succumb-to-defeat-late-on|title=0-1: Real Madrid succumb to defeat late on|date=20 September 2017|work=realmadrid.com}}</ref> [[Marcos Llorente]]'s contract was extended until 2021 on 23 September 2017.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/09/marcos-llorentes-contract-extension|title=Ceremony to mark Marcos Llorente's contract renewal|date=23 September 2017|work=realmadrid.com}}</ref> A brace from Ceballos secured Madrid a 2–1 win over [[Deportivo Alavés|Alavés]] on the same day.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/09/1-2-ceballos-brace-bags-the-win-at-mendizorroza|title=1-2: Ceballos brace bags the win at Mendizorroza|date=23 September 2017|work=realmadrid.com}}</ref> Madrid produced a comprehensive 3–1 away victory against [[Borussia Dortmund]] in the Champions League just three days later, with a brace from Ronaldo and another goal from Bale.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/09/1-3-real-madrid-conquer-signal-iduna-park|title=1-3: Real Madrid conquer Signal Iduna Park|date=26 September 2017|work=realmadrid.com}}</ref> A day later, [[Raphaël Varane]]'s contract was extended until 2022.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/09/varanes-contract-extension|title=Ceremony to mark Raphaël Varane's contract renewal|date=27 September 2017|work=realmadrid.com}}</ref> On 28 September 2017, Asensio's contract was extended until 2023.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/09/ceremony-to-mark-asensios-contract-renewal|title=Ceremony to mark Asensio's contract renewal|date=28 September 2017|work=realmadrid.com}}</ref>
+
+===October===
+A brace from Isco helped Madrid to defeat [[RCD Espanyol|Espanyol]] 2–0 on the first day of the month.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/10/2-0-isco-brace-decisive-against-espanyol|title=2-0: Isco brace decisive against Espanyol|date=1 October 2017|work=realmadrid.com}}</ref> On 14 October 2017, a late winner from Ronaldo secured a 2–1 victory at [[Getafe CF|Getafe]] after Benzema initially gave Madrid the lead.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/10/1-2-a-goal-from-cristiano-ronaldo-seals-the-win-over-getafe|title=1-2: A goal from Cristiano Ronaldo seals the win over Getafe|date=14 October 2017|work=realmadrid.com}}</ref> Three days later, against [[Tottenham Hotspur F.C.|Tottenham Hotspur]], a goal from Ronaldo was not enough as the game ended in a 1–1 draw.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/10/1-1-top-spot-on-the-line-at-wembley|title=1-1: Top spot on the line at Wembley|date=17 October 2017|work=realmadrid.com}}</ref> Goals from Asensio, [[Marcelo (footballer, born 1988)|Marcelo]] and an own goal gave Madrid a 3–0 win over [[SD Eibar|Eibar]] on 22 October 2017.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/10/3-0-superb-marcelo-strike-rounds-off-victory-over-eibar|title=3-0: Superb Marcelo strike rounds off victory over Éibar|date=22 October 2017|work=realmadrid.com}}</ref> On 26 October 2017, two converted penalties by Asensio and Vázquez saw Madrid kick off the [[2017–18 Copa del Rey|Copa del Rey]] season with a 2–0 away win in the first leg against [[CF Fuenlabrada|Fuenlabrada]].<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/10/0-2-real-madrid-take-their-first-step-towards-the-copa-del-rey-last-sixteen|title=0-2: Real Madrid take their first step towards the Copa del Rey last-sixteen|date=26 October 2017|work=realmadrid.com}}</ref> A goal from Isco was not enough as Madrid lost to [[Girona FC|Girona]], which ended their 13-game winning streak away from home.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/10/2-1-real-madrid-drop-three-points-in-girona|title=2-1: Real Madrid drop three points in Girona|date=29 October 2017|work=realmadrid.com}}</ref>
+
+===November===
+On the first day of the new month, Madrid lost 1–3 against Tottenham in the Champions League, to concede their second consecutive loss. A late goal from Ronaldo was not enough.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/11/3-1-real-madrid-slip-up-on-their-wembley-debut|title=3-1: Real Madrid slip up on their Wembley debut|date=1 November 2017|work=realmadrid.com}}</ref> The next league match, on 5 November 2017, was won 3–0 against [[UD Las Palmas|Las Palmas]] with goals from Casemiro, Asensio and Isco.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/11/3-0-three-points-before-the-international-break|title=3-0: Three points before the international break|date=5 November 2017|work=realmadrid.com}}</ref>
+
+On 18 November 2017, the [[Madrid derby]] ended in a goalless draw.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/11/0-0-all-square-in-the-first-derby-at-the-wanda-metropolitano|title=0-0: All square in the first derby at the Wanda Metropolitano|date=18 November 2017|work=realmadrid.com}}</ref> Madrid booked their place in the Champions League knockout stage after a 6–0 away victory over APOEL, with braces from Benzema and Ronaldo plus goals from [[Luka Modrić]] and [[Nacho (footballer, born 1990)|Nacho]] on 21 November 2017.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/11/0-6-resounding-victory-secures-last-16-spot|title=0-6: Resounding victory secures last-16 spot|date=21 November 2017|work=realmadrid.com}}</ref> Four days later, [[Málaga CF]] was defeated after goals from Benzema, Casemiro and Ronaldo, 3–2.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2017/11/3-2-crucial-victory-over-malaga|title=3-2: Crucial victory over Málaga|date=25 November 2017|work=realmadrid.com}}</ref> The return leg of the Copa del Rey tie against Fuenlabrada, on 28 November 2017, ended in a 2–2 draw with both goals coming from Mayoral. The aggregate score was 4–2 in favour of Madrid who advanced to the next round.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2017/11/2-2-mayoral-brace-secures-passage-into-copa-del-rey-last-16|title=2-2: Mayoral brace secures passage into Copa del Rey last 16|date=28 November 2017|work=realmadrid.com}}</ref>
+
+===December===
+On the second day of the month, Madrid travelled to [[Athletic Bilbao|Bilbao]] and came up short with a 0–0 draw.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2017/12/0-0-the-onslaught-goes-unrewarded-at-san-mames|title=0-0: The onslaught goes unrewarded at San Mamés|date=2 December 2017|work=realmadrid.com}}</ref> Four days later, the last group stage match saw Madrid taking on Borussia Dortmund. Goals from Mayoral, Ronaldo and Vázquez gave Real a 3–2 victory. Ronaldo also set a competition record, having scored in every group stage match.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2017/12/3-2-a-win-and-a-cristiano-ronaldo-record-to-close-out-the-group-stage|title=3-2: A win and a Cristiano Ronaldo record to close out the group stage|date=6 December 2017|work=realmadrid.com}}</ref><ref>{{cite web|url=https://www.realmadrid.com/en/news/2017/12/cristiano-ronaldo-becomes-first-player-to-find-the-net-in-every-group-stage-match|title=Cristiano Ronaldo becomes first player to find the net in every group stage match|date=6 December 2017|work=realmadrid.com}}</ref> Three days later, on 9 December, Madrid won 5–0 against [[Sevilla FC|Sevilla]], with a brace from Ronaldo and goals from Nacho, Kroos and [[Achraf Hakimi]], who all scored in the first half.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2017/12/5-0-goal-fest-to-head-into-the-club-world-cup|title=5-0: Goal fest to head into the Club World Cup|date=9 December 2017|work=realmadrid.com}}</ref> On 13 December 2017, the semi-final in the [[2017 FIFA Club World Cup]] against [[Al Jazira Club|Al Jazira]] was won 2–1 by goals from Ronaldo and Bale.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2017/12/1-2-goals-from-ronaldo-and-bale-secure-a-club-world-cup-final-spot|title=1-2: Goals from Ronaldo and Bale secure a Club World Cup final spot|date=13 December 2017|work=realmadrid.com}}</ref> Three days later, Madrid won the tournament after a 1–0 [[2017 FIFA Club World Cup Final|final]] victory over [[Grêmio Foot-Ball Porto Alegrense|Grêmio]], with Ronaldo scoring the decisive goal from a spectacular free kick.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2017/12/1-0-sixth-club-world-cup|title=1-0: Sixth Club World Cup!|date=16 December 2017|work=realmadrid.com}}</ref> Back in Spain, ''[[El Clásico]]'' ended in a 0–3 defeat on 23 December 2017.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2017/12/0-3-barcelona-take-el-clasico-victory|title=0-3: Barcelona take El Clásico victory|date=23 December 2017|work=realmadrid.com}}</ref>
+
+===January===
+The new year started just four days in, with a Copa del Rey round of 16 first leg against [[CD Numancia|Numancia]]. The game ended in a 3–0 win after goals from Bale, Isco and Mayoral.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/01/0-3-real-madrid-put-themselves-in-the-driving-seat-in-copa-del-rey-last-sixteen|title=0-3: Real Madrid put themselves in the driving seat in Copa del Rey last-sixteen|date=4 January 2018|work=realmadrid.com}}</ref> On 7 January 2018, the match against [[Celta de Vigo|Celta Vigo]] ended in a 2–2 draw, with a brace from Bale.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/01/2-2-bale-brace-not-enough-to-claim-victory-in-vigo|title=2-2: Bale brace not enough to claim victory in Vigo|date=7 January 2018|work=realmadrid.com}}</ref> Three days later, a brace from Vázquez in a 2–2 draw in the return leg of the Copa del Rey against Numnacia was enough for Madrid to advance to the quarter-finals, thanks to a 5–2 aggregate win.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/01/2-2-a-lucas-vazquez-double-seals-copa-del-rey-quarter-final-spot|title=2-2: A Lucas Vázquez double seals Copa del Rey quarter-final spot|date=10 January 2018|work=realmadrid.com}}</ref> On 13 January 2018, Madrid lost 0–1 against [[Villarreal CF|Villarreal]], conceding a late goal.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/01/0-1-a-cruel-result-at-the-bernabeu|title=0-1: A cruel result at the Bernabéu|date=13 January 2018|work=realmadrid.com}}</ref> A goal from Asensio gave Madrid a 1–0 advantage after the first leg of the Copa del Rey quarter-finals against [[CD Leganés|Leganés]] on 18 January 2018.<ref>{{cite web|url=http://www.realmadrid.com/en/news/2018/01/0-1-asensio-takes-madrid-a-step-closer-to-copa-semi-final|title=0-1: Asensio takes Madrid a step closer to Copa semi-final|date=18 January 2018|work=realmadrid.com}}</ref> Three days later, braces from Nacho, Bale and Ronaldo, plus a goal from Modrić, secured Madrid a resounding 7–1 victory over Deportivo La Coruña.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/01/7-1-madrid-claim-biggest-win-recorded-in-laliga-this-term|title=7-1: Madrid claim biggest win recorded in LaLiga this term|date=21 January 2018|work=realmadrid.com}}</ref> Madrid was eliminated from the Copa del Rey on 24 January 2018, after they lost the second leg against Leganés 1–2, despite a goal from Benzema. Leganés advanced on the [[away goals rule]], with the aggregate score being tied 2–2.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/01/1-2-real-madrid-bow-out-of-the-copa-del-rey|title=1-2: Real Madrid bow out of the Copa del Rey|date=24 January 2018|work=realmadrid.com}}</ref> The next weekend, on 27 January 2018, Madrid went on to win 4–1 at Valencia after a brace from Ronaldo and goals from Marcelo and Kroos.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/01/1-4-a-sensational-at-mestalla|title=1-4: A sensational win at Mestalla|date=27 January 2018|work=realmadrid.com}}</ref>
+
+===February===
+On 3 February 2018, Madrid travelled to Levante and came away with a 2–2 draw, despite having been in front twice after goals from Ramos and Isco.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/02/2-2-a-last-minute-goal-denies-the-whites-victory-against-levante|title=2-2: A last minute goal denies the Whites victory against Levante|date=3 February 2018|work=realmadrid.com}}</ref> A hat-trick from Ronaldo and goals from Vázquez and Kroos gave Madrid a 5–2 victory against Real Sociedad, a week later.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/02/5-2-real-madrid-thrash-real-sociedad-before-taking-on-psg|title=5-2: Real Madrid thrash Real Sociedad before taking on PSG|date=10 February 2018|work=realmadrid.com}}</ref> The first leg of the Champions League round of 16 against [[Paris Saint-Germain F.C.|Paris Saint-Germain]] on 14 February 2018 was won 3–1 after a brace from Ronaldo and a goal from Marcelo.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/02/3-1-the-european-champions-draw-first-blood|title=3-1: The European Champions draw first blood|date=14 February 2018|work=realmadrid.com}}</ref> Four days later, two goals from Asensio and goals from Ramos, Ronaldo and Benzema secured Madrid a 5–3 win over Real Betis.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/02/3-5-madrid-come-out-on-top-in-pulsating-contest|title=3-5: Madrid come out on top in pulsating contest|date=18 February 2018|work=realmadrid.com}}</ref> Against Leganés, on 21 February 2018, Madrid won 3–1 after goals from Vázquez, Casemiro and Ramos.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/02/1-3-madrid-come-from-behind-to-win-at-butarque|title=1-3: Madrid come from behind to win at Butarque|date=21 February 2018|work=realmadrid.com}}</ref> Just three days later, a brace from Ronaldo and goals from Bale and Benzema secured Real a 4–0 win over Alavés.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/02/4-0-the-bbc-lead-the-way-as-real-madrid-thrash-alaves|title=4-0: The BBC lead the way as Real Madrid thrash Alavés|date=24 February 2018|work=realmadrid.com}}</ref> The away game at Espanyol was lost 0–1 after an injury-time goal on 27 February 2018.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/02/1-0-real-madrid-lose-in-the-last-minute|title=1-0: Real Madrid lose in the last minute|date=27 February 2018|work=realmadrid.com}}</ref>
+
+===March===
+On 3 March 2018, a brace from Ronaldo and a goal from Bale helped Madrid to get a 3–1 win over Getafe.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/03/3-1-victory-over-getafe-as-attentions-turn-to-the-champions-league|title=3-1: Victory over Getafe as attentions turn to the Champions League|date=3 March 2018|work=realmadrid.com}}</ref> Three days later, the return leg of the UEFA Champions League round of 16 tie against Paris Saint-Germain was won 2–1 after goals from Ronaldo and Casemiro. That result gave Madrid a 5–2 advantage over the two legs.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/03/1-2-the-european-champions-impose-their-rule-in-paris|title=1-2: The European champions impose their rule in Paris|date=6 March 2018|work=realmadrid.com}}</ref> Another four days later, a brace from Ronaldo secured Real all three points in a 2–1 away win at Eibar.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/03/1-2-cristiano-ronaldo-claims-the-winner-at-ipurua|title=1-2: Cristiano Ronaldo claims the winner at Ipurua|date=10 March 2018|work=realmadrid.com}}</ref> On 18 March 2018, Madrid defeated Girona 6–3 at home with four goals from Ronaldo and singles from Vázquez and Bale.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/03/6-3-attacking-masterclass-sees-cristiano-ronaldo-hit-four|title=6-3: Attacking masterclass sees Cristiano Ronaldo hit four|date=18 March 2018|work=realmadrid.com}}</ref> On the last day of March, a brace from Bale and a goal from Benzema helped Real to record a fifth consecutive victory with a 3–0 win at Las Palmas.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/03/0-3-victory-in-las-palmas-ahead-of-champions-league-clash|title=0-3: Victory in Las Palmas ahead of Champions League clash|date=31 March 2018|work=realmadrid.com}}</ref>
+
+===April===
+On 3 April 2018, in the Champions League quarter-finals against [[Juventus FC|Juventus]], Ronaldo scored twice, including a spectacular overhead kick, and Marcelo added another goal to give Madrid a 3–0 first leg victory.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/04/0-3-ronaldo-stars-as-real-madrid-thump-juventus|title=0-3: Ronaldo stars as Real Madrid thump Juventus|date=3 April 2018|work=realmadrid.com}}</ref> Five days later, a volley goal from Ronaldo put Madrid in the lead against Atlético, but the match eventually ended 1–1.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/04/1-1-oblak-and-the-woodwork-deny-real-madrid-victory|title=1-1: Oblak and the woodwork deny Real Madrid victory|date=8 April 2018|work=realmadrid.com}}</ref> On 11 April 2018, down 0–3, Ronaldo converted an injury time penalty to secure Madrid a spot in the semi-finals of the Champions League; the 1–3 loss was enough as Real won 4–3 on aggregate against Juventus.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/04/1-3-into-the-semis-after-weathering-the-storm|title=1-3: Into the semis after weathering the storm|date=11 April 2018|work=realmadrid.com}}</ref> Four days later, goals from Isco and Casemiro secured a 2–1 win over Málaga.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/04/1-2-isco-proves-decisive-in-the-win-against-malaga|title=1-2: Isco proves decisive in the win against Málaga|date=15 April 2018|work=realmadrid.com}}</ref> A late Ronaldo equalizer got Madrid a 1–1 draw against Athletic Bilbao on 18 April 2018.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/04/1-1-real-madrid-deserve-more-against-athletic|title=1-1: Real Madrid deserve more against Athletic|date=18 April 2018|work=realmadrid.com}}</ref> A week later, against [[FC Bayern Munich|Bayern Munich]] in the semi-finals of the Champions League, Madrid got a 2–1 away leg win after goals from Marcelo and Asensio.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/04/1-2-real-madrid-strike-back-to-beat-bayern-in-munich|title=1-2: Real Madrid strike back to beat Bayern in Munich|date=25 April 2018|work=realmadrid.com}}</ref> On 28 April 2018, the game against Leganés was won 2–1 with goals from Bale and Mayoral.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/04/2-1-bale-and-mayoral-secure-all-three-points-against-leganes|title=2-1: Bale and Mayoral secure all three points against Leganés|date=28 April 2018|work=realmadrid.com}}</ref>
+
+===May===
+A brace from Benzema against Bayern Munich helped Madrid to reach the [[2018 UEFA Champions League Final|final]] after the second leg ended in a 2–2 draw on 1 May 2018, which secured a 4–3 aggregate victory.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/05/2-2-all-out-for-the-decimotercera-in-kiev|title=2-2: All out for the Decimotercera in Kiev!|date=1 May 2018|website=Realmadrid.com}}</ref> The ''Clásico'', five days later, ended in a 2–2 draw with goals from Ronaldo and Bale.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/05/2-2-real-madrid-deserved-the-win-in-el-clasico|title=2-2: Real Madrid deserved the win in el Clásico|date=6 May 2018|website=Realmadrid.com}}</ref> Just three days later, on 9 May 2018, Madrid lost 2–3 at Sevilla with late goals from Mayoral and Ramos.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/05/3-2-madrid-slip-up-at-the-sanchez-pizjuan|title=3-2: Madrid slip up at the Sánchez-Pizjuán|date=9 May 2018|website=Realmadrid.com}}</ref> Three days later, Madrid won 6–0 against Celta Vigo, with Bale scoring a brace and Isco, Hakimi, Kroos and an own goal chipping in the other goals.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/05/6-0-the-bernabeu-enjoys-an-attacking-exhibition-in-the-final-home-game-of-the-season|title=6-0: The Bernabéu enjoys an attacking exhibition in the final home game of the season|date=12 May 2018|website=Realmadrid.com}}</ref> The last game of the league season, on 19 May 2018, ended in a 2–2 away draw against Villarreal, after goals from Bale and Ronaldo initially gave Madrid the lead.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/05/2-2-real-madrid-finish-off-their-laliga-season-with-a-draw-against-villarreal|title=2-2: Real Madrid finish off their LaLiga season with a draw against Villarreal|date=19 May 2018|website=Realmadrid.com}}</ref> On 26 May 2018, two goals from Bale and another one from Benzema helped Madrid to win their third consecutive Champions League title, and fourth in five years, after defeating [[Liverpool F.C.|Liverpool]] 3–1.<ref>{{cite web|url=https://www.realmadrid.com/en/news/2018/05/3-1-madrid-clinch-la-decimotercera|title=3-1: Madrid clinch La Decimotercera|date=26 May 2018|website=Realmadrid.com}}</ref>
+
+==Squad==
+{{fb si header |age=y}}
+{{fb si player |bg= |p={{sortname|Keylor|Navas}}                        |eu=y |nb=CRC |n=1 |pos=GK |age={{Age|1986|12|15|2018|7|1}} |s={{sort|2014.8|2014}} |a=141 |g=0  |e=2020 |f={{ntsh|10}}€10M |notes=Second nationality: Spain}}
+{{fb si player |bg=y|p={{sortname|Dani|Carvajal}}                       |eu=y |nb=ESP |n=2  |pos=RB |age={{Age|1992|1|11|2018|7|1}} |s={{sort|2013.4|2013}} |a=199 |g=4  |e=2022 |f={{ntsh|6.5}}€6.5M |notes=Originally from [[La Fábrica (Real Madrid)|youth system]]}}
+{{fb si player |bg= |p={{sortname|Jesús|Vallejo}}                       |eu=y |nb=ESP |n=3  |pos=CB |age={{Age|1997|1|5|2018|7|1}}  |s={{sort|2015.7|2015}} |a=12  |g=0  |e=2021 |f={{ntsh|6}}€6M }}
+{{fb si player |bg=y|p={{sortname|Sergio|Ramos}}                        |eu=y |nb=ESP |n=4  |pos=CB |age={{Age|1986|3|30|2018|7|1}} |s={{sort|2005.0|2005}} |a=564 |g=73 |e=2020 |f={{ntsh|28}}€28M |cap=Y}}
+{{fb si player |bg= |p={{sortname|Raphaël|Varane||Varane, Raphael}}     |eu=y |nb=FRA |n=5 |pos=CB |age={{Age|1993|4|25|2018|7|1}}  |s={{sort|2011.4|2011}} |a=233 |g=10 |e=2022 |f={{ntsh|10}}€10M}}
+{{fb si player |bg=y|p={{sortname||Nacho|Nacho (footballer, born 1990)}}|eu=y |nb=ESP |n=6  |pos=CB |age={{Age|1990|1|18|2018|7|1}} |s={{sort|2012.4|2012}} |a=160 |g=9  |e=2021 |f=YS}}
+{{fb si player |bg= |p={{sortname|Cristiano|Ronaldo}}                   |eu=y |nb=POR |n=7  |pos=LW |age={{Age|1985|2|5|2018|7|1}}  |s={{sort|2009.4|2009}} |a=438 |g=450|e=2021 |f={{ntsh|94}}€94M |vc=2nd vice-captain}}
+{{fb si player |bg=y|p={{sortname|Toni|Kroos}}                          |eu=y |nb=GER |n=8  |pos=CM |age={{Age|1990|1|4|2018|7|1}}  |s={{sort|2014.7|2014}} |a=190 |g=12 |e=2022 |f={{ntsh|25}}€25M}}
+{{fb si player |bg= |p={{sortname|Karim|Benzema}}                       |eu=y |nb=FRA |n=9  |pos=ST |age={{Age|1987|12|19|2018|7|1}}|s={{sort|2009.5|2009}} |a=412 |g=192|e=2021 |f={{ntsh|35}}€35M |vc=3rd vice-captain |notes=Second nationality: Algeria}}
+{{fb si player |bg=y|p={{sortname|Luka|Modrić||Modric, Luka}}           |eu=y |nb=CRO |n=10 |pos=CM |age={{Age|1985|9|9|2018|7|1}}  |s={{sort|2012.2|2012}} |a=257 |g=13 |e=2020 |f={{ntsh|30}}€30M}}
+{{fb si player |bg= |p={{sortname|Gareth|Bale}}                         |eu=y |nb=WAL |n=11 |pos=RW |age={{Age|1989|7|16|2018|7|1}} |s={{sort|2013.8|2013}} |a=185 |g=88 |e=2022 |f={{ntsh|100}}€100.8M}}
+{{fb si player |bg=y|p={{sortname||Marcelo|Marcelo (footballer, born 1988)}} |eu=y |nb=BRA |n=12 |pos=LB |age={{Age|1988|5|12|2018|7|1}} |s={{sort|2007.2|2007}}  |a=452 |g=33 |e=2022 |f={{ntsh|6.5}}€6.5M |tw=w|vc=vice-captain |notes=Second nationality: Spain}}
+{{fb si player |bg= |p={{sortname|Kiko|Casilla}}                        |eu=y |nb=ESP |n=13 |pos=GK |age={{Age|1986|10|2|2018|7|1}} |s={{sort|2015.7|2015}} |a=43  |g=0  |e=2020 |f={{ntsh|6}}€6M |notes=Originally from [[La Fábrica (Real Madrid)|youth system]]}}
+{{fb si player |bg=y|p={{sortname||Casemiro}}                           |eu=n |nb=BRA |n=14 |pos=CM |age={{Age|1992|2|23|2018|7|1}} |s={{sort|2013.7|2013}} |a=149 |g=14 |e=2021 |f={{ntsh|6}}€6M}}
+{{fb si player |bg= |p={{sortname|Théo|Hernandez}}                      |eu=y |nb=FRA |n=15 |pos=LB |age={{Age|1997|10|6|2018|7|1}} |s={{sort|2017.7|2017}} |a=23  |g=0  |e=2023 |f={{ntsh|30}}€30M}}
+{{fb si player |bg=y|p={{sortname|Lucas|Vázquez||Vazquez, Lucas}}       |eu=y |nb=ESP |n=17 |pos=RW |age={{Age|1991|7|1|2018|7|1}}  |s={{sort|2015.7|2015}} |a=135 |g=16 |e=2021 |f={{ntsh|1}}€1M |notes=Originally from [[La Fábrica (Real Madrid)|youth system]]}}
+{{fb si player |bg= |p={{sortname|Marcos|Llorente}}                     |eu=y |nb=ESP |n=18 |pos=CM |age={{Age|1995|1|30|2018|7|1}} |s={{sort|2015.7|2015}} |a=23  |g=0  |e=2021 |f=YS}}
+{{fb si player |bg=y|p={{sortname|Achraf|Hakimi}}                       |eu=y |nb=MAR |n=19 |pos=RB |age={{Age|1998|11|4|2018|7|1}} |s={{sort|2017.7|2017}} |a=17  |g=2  |e=2018 |f=YS |notes=Second nationality: Spain}}
+{{fb si player |bg= |p={{sortname|Marco|Asensio}}                       |eu=y |nb=ESP |n=20 |pos=LW |age={{Age|1996|1|21|2018|7|1}} |s={{sort|2014.7|2014}} |a=90  |g=21 |e=2023 |f={{ntsh|3.9}}€3.9M |notes=Second nationality: Netherlands}}
+{{fb si player |bg=y|p={{sortname|Borja|Mayoral}}                       |eu=y |nb=ESP |n=21 |pos=ST |age={{Age|1997|4|5|2018|7|1}}  |s={{sort|2015.10|2015}}|a=29  |g=7  |e=2021 |f=YS}}
+{{fb si player |bg= |p={{sortname||Isco}}                               |eu=y |nb=ESP |n=22 |pos=CM |age={{Age|1992|4|21|2018|7|1}} |s={{sort|2013.5|2013}} |a=240 |g=42 |e=2022 |f={{ntsh|27}}€27M}}
+{{fb si player |bg=y|p={{sortname|Mateo|Kovačić}}                       |eu=y |nb=CRO |n=23 |pos=CM |age={{Age|1994|5|6|2018|7|1}}  |s={{sort|2015.8|2015}} |a=108 |g=3  |e=2021 |f={{ntsh|29}}€29M}}
+{{fb si player |bg= |p={{sortname|Dani|Ceballos}}                       |eu=y |nb=ESP |n=24 |pos=CM |age={{Age|1996|8|7|2018|7|1}}  |s={{sort|2017.7|2017}} |a=22  |g=2  |e=2023 |f={{ntsh|16.5}}€16.5M}}
+{{Fb si footer|u=26 May 2018|c=ESP |ss=2017–18 |o=squad number |s=<span class="plainlinks"> [http://www.realmadrid.com/en/football/squad realmadrid.com] </span>|date=May 2017}}
+
+==Transfers==
+===In===
+{{fb in2 header |age=y}}
+{{fb in2 player|tc=ESP|bg=|p={{sortname|Jesús|Vallejo}}|type=End of loan|eu=y|nb=ESP|n=3|pos=DF|age={{age|1997|1|5|2017|7|1}}|fcl={{flagicon|GER}} [[Eintracht Frankfurt]]|e=2021|f=Free|w=S|os=}}
+{{fb in2 player|tc=ESP|bg=y|p={{sortname|Théo|Hernandez}}|type=Transfer|eu=y|nb=FRA|n=15|pos=DF|age={{age|1997|10|6|2017|7|1}}|fcl=[[Atlético Madrid|Atlético&nbsp;Madrid]]|fcnat=ESP|e=2023|f=€24M|w=S|os=[http://www.realmadrid.com/en/news/2017/07/official-announcement-theo-hernandez Real Madrid C.F.]}}
+{{fb in2 player|tc=ESP|bg=|p={{sortname|Marcos|Llorente}}|type=End of loan|eu=y|nb=ESP|n=18|pos=MF|age={{age|1995|1|30|2017|7|1}}|fcl=[[Deportivo Alavés|Alavés]]|fcnat=ESP|e=2018|f=Free|w=S|os=}}
+{{fb in2 player|tc=ESP|bg=y|p={{sortname|Achraf|Hakimi}}|type=Promoted|eu=y|nb=MAR|n=19|pos=DF|age={{age|1998|11|4|2017|7|1}}|fcl=[[Real Madrid Castilla|R.M. Castilla]]|e=2018|f=YS|w=S|os=}}
+{{fb in2 player|tc=ESP|bg=|p={{sortname|Borja|Mayoral}}|type=End of loan|eu=y|nb=ESP|n=21|pos=FW|age={{age|1997|4|5|2017|7|1}}|fcl={{flagicon|GER}} [[VfL Wolfsburg]]|e=2021|f=Free|w=S|os=}}
+{{fb in2 player|tc=ESP|p={{sortname|Dani|Ceballos}}|type=Transfer|eu=y|nb=ESP|bg=y|n=24|pos=MF|age={{age|1996|8|7|2017|7|1}}|fcl=[[Real Betis]]|fcnat=ESP|e=2023|f=€16.5M|w=S|os=[http://www.realmadrid.com/en/news/2017/07/official-announcement-dani-ceballos Real Madrid C.F.]}}
+{{fb in2 player|tc=ESP|bg=|p={{sortname|Diego|Llorente}}|type=End of loan|eu=y|nb=ESP|n=|pos=DF|age={{age|1993|8|16|2017|7|1}}|fcl=[[Málaga CF|Málaga]]|fcnat=ESP|e=2020|f=Free|w=S|os=}}
+{{fb in2 player|tc=ESP|bg=y|p={{sortname|Burgui|}}|type=End of loan|eu=y|nb=ESP|n=|pos=FW|age={{age|1993|10|29|2017|7|1}}|fcl=[[Sporting de Gijón|Sporting Gijón]]|fcnat=ESP|e=2017|f=Free|w=S|os=}}
+{{fb out2 footer|date=July 2017}}
+<small>Total spending: {{decrease}} €40.5M</small>
+
+===Out===
+{{fb out2 header |age=y}}
+{{fb out2 player|tc=ESP|bg=|p={{sortname||Pepe|Pepe (footballer, born 1983)}}|type=End of contract|eu=y|nb=POR|n=3|pos=DF|age={{age|1983|2|26|2017|7|1}}|ncl={{flagicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]|f=Free|w=S|os=[http://www.bjk.com.tr/tr/haber/70418/kepler_laveran_lima_ferreira_rsquo_nin_pepe_transferi_icin_gorusmelere_baslandi.html Beşiktaş J.K.]}}
+{{fb out2 player|tc=COL|bg=y|p={{sortname||James Rodríguez|James Rodríguez}}|type=Loan|eu=n|nb=COL|n=10|pos=MF|age={{Age|1991|7|12|2017|7|1}}|ncl={{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]|e=2020|f=€13M|w=S|os=[https://fcbayern.com/de/news/2017/07/presseerklaerung-fc-bayern-verpflichtet-james-rodriguez FC Bayern Munich]}}
+{{fb out2 player |tc=ESP|bg=|p={{sortname|Fábio|Coentrão}}|type=Loan|eu=y|nb=POR|n=15|pos=DF|age={{age|1988|3|11|2017|7|1}}|ncl={{flagicon|POR}} [[Sporting Clube de Portugal|Sporting CP]]|e=2019|f=Free|w=S|os=[http://www.sporting.pt/pt/noticias/clube/comunicados/2017-07-05/comunicado-sporting-clube-de-portugal-futebol-sad Sporting Clube de Portugal]}}
+{{fb out2 player|tc=ESP|bg=y|p={{sortname||Mariano|Mariano Díaz}}|type=Transfer|eu=y|nb=DOM|n=18|pos=FW|age={{age|1993|8|1|2017|7|1}}|ncl={{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]|e=2022|f=€8M|w=S|os=[http://www.olweb.fr/fr/article/mercato-a-la-decouverte-de-la-nouvelle-recrue-mariano-diaz-31369.html Olympique Lyonnais]}}
+{{fb out2 player|tc=ESP|bg=|p={{sortname|Álvaro|Morata}}|type=Transfer|eu=y|nb=ESP|n=21|pos=FW|age={{age|1992|10|23|2017|7|1}}|ncl={{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]|e=2022|f=€65M|w=S|os=[http://www.chelseafc.com/news/latest-news/2017/07/morata-is-a-blue.html Chelsea F.C.]}}
+{{fb out2 player|tc=ESP|bg=y|p={{sortname||Danilo|Danilo (footballer, born July 1991)}}|type=Transfer|eu=n|nb=BRA|n=23|pos=DF|age={{age|1991|7|15|2017|7|1}}|ncl={{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]|e=2022|f=€30M|w=S|os=[https://www.mancity.com/news/first-team/first-team-news/2017/july/danilo-joins-manchester-city Manchester City F.C.]}}
+{{fb out2 player|tc=ESP|bg=|p={{sortname|Rubén|Yáñez}}|type=Transfer|eu=y|nb=ESP|n=25|pos=GK|age={{age|1993|10|12|2017|7|1}}|ncl=[[Getafe CF|Getafe]]|ncnat=ESP|e=2021|f=Free|w=S|os=[http://getafecf.com/Noticia/tabid/137/Article/4622/COMUNICADO-OFICIAL.aspx Getafe CF]}}
+{{fb out2 player|tc=ESP|bg=y|p={{sortname|Diego|Llorente}}|type=Transfer|eu=y|nb=ESP|n=|pos=DF|age={{age|1993|8|16|2017|7|1}}|ncl=[[Real Sociedad|Real&nbsp;Sociedad]]|ncnat=ESP|e=2020|f=€7M|w=S|os=[https://beta.realsociedad.com/es/noticias/detalle/la-real-sociedad-ficha-a-diego-llorente Real Sociedad]}}
+{{fb out2 player|tc=ESP|bg=|p={{sortname|Burgui|}}|type=Transfer|eu=y|nb=ESP|n=|pos=FW|age={{age|1993|10|29|2017|7|1}}|ncl=[[Deportivo Alavés|Alavés]]|ncnat=ESP|e=2017|f=€3M|w=S|os=[http://www.deportivoalaves.com/noticia/el-deportivo-alaves-ficha-a-burgui-por-4-temporadas Deportivo Alavés]}}
+{{fb out2 footer|date=July 2017}}
+<small>Total income: {{increase}} €141M
+Net income: {{increase}} €100.5M</small>
+
+==Pre-season and friendlies==
+{{football box collapsible
+|round        = [[2017 International Champions Cup|1]]
+|date         = 23 July 2017<ref name=ICC>{{cite news|title=The International Champions Cup presented by Heineken — the summer home of world football|url=http://www.internationalchampionscup.com/articles/539bbb104e368bb6c324|work=internationalchampionscup.com|access-date=22 March 2017|archive-url=https://web.archive.org/web/20170402154615/http://www.internationalchampionscup.com/articles/539bbb104e368bb6c324|archive-date=2 April 2017|url-status=dead|df=dmy-all}}</ref>
+|time         = 14:00 [[Pacific Daylight Time|PDT]]
+|team1        = Real Madrid 
+|score        = 1–1
+|report       = https://web.archive.org/web/20170725081200/http://www.internationalchampionscup.com/matches/168
+|team2        =  [[Manchester United F.C.|Manchester United]]
+|goals1       = 
+*[[Casemiro]] {{goal|69|pen.}}
+*[[Óscar Rodríguez Arnaiz|Óscar]] {{yel|85}}
+|goals2       = [[Jesse Lingard|Lingard]] {{goal|45+1}}
+|stadium      = [[Levi's Stadium]]
+|location     = [[Santa Clara, California|Santa Clara]], United States
+|attendance   = 65,109
+|referee      = [[Kevin Stott]] ([[United States Soccer Federation|United States]])
+|result       = D
+|penalties1   = 
+*[[Mateo Kovačić|Kovačić]] {{penmiss}}
+*[[Óscar Rodríguez Arnaiz|Óscar]] {{penmiss}}
+*[[Luismi Quezada|Quezada]] {{pengoal}}
+*[[Théo Hernandez|Hernandez]] {{penmiss}}
+*[[Casemiro]] {{penmiss}}
+|penaltyscore = 1–2
+|penalties2   = 
+*{{penmiss}} [[Anthony Martial|Martial]]
+*{{penmiss}} [[Scott McTominay|McTominay]]
+*{{pengoal}} [[Henrikh Mkhitaryan|Mkhitaryan]]
+*{{penmiss}} [[Victor Lindelöf|Lindelöf]]
+*{{pengoal}} [[Daley Blind|Blind]]
+}}
+{{football box collapsible
+|round        = [[2017 International Champions Cup|2]]
+|date         = 26 July 2017<ref name=ICC />
+|time         = 20:30 [[Pacific Daylight Time|PDT]]
+|team1        = [[Manchester City F.C.|Manchester City]] 
+|score        = 4–1
+|report       = https://web.archive.org/web/20170729151158/http://www.internationalchampionscup.com/matches/172
+|team2        =  Real Madrid
+|goals1       = 
+*[[Yaya Touré|Touré]] {{yel|29}}
+*[[Nicolás Otamendi|Otamendi]] {{goal|52}}
+*[[Raheem Sterling|Sterling]] {{goal|59}}
+*[[John Stones|Stones]] {{goal|67}}
+*[[Brahim Díaz|Brahim]] {{goal|81}}
+*[[Samir Nasri|Nasri]] {{yel|88}}
+|goals2       = 
+*[[Nacho (footballer, born 1990)|Nacho]] {{yel|33}}
+*[[Dani Carvajal|Carvajal]] {{yel|41}}
+*[[Óscar Rodríguez Arnaiz|Óscar]] {{goal|90}}
+|stadium      = [[Los Angeles Memorial Coliseum]]
+|location     = Los Angeles, United States
+|attendance   = 93,098
+|referee      = [[Baldomero Toledo]] ([[United States Soccer Federation|United States]])
+|result       = L
+}}
+{{football box collapsible
+|round        = [[2017 International Champions Cup|3]]
+|date         = 29 July 2017<ref>{{cite news|title=ICC announce El Clásico Miami|url=http://www.internationalchampionscup.com/articles/icc-announce-el-clasico-miami|work=internationalchampionscup.com|access-date=15 March 2017|archive-url=https://web.archive.org/web/20170402142058/http://www.internationalchampionscup.com/articles/icc-announce-el-clasico-miami|archive-date=2 April 2017|url-status=dead|df=dmy-all}}</ref>
+|time         = 20:05 [[Eastern Daylight Time|EDT]]
+|team1        = Real Madrid 
+|score        = 2–3
+|report       = https://web.archive.org/web/20170731150022/http://www.internationalchampionscup.com/matches/165
+|team2        =  [[FC Barcelona|Barcelona]]
+|goals1       = 
+*[[Mateo Kovačić|Kovačić]] {{goal|14}}
+*[[Raphaël Varane|Varane]] {{yel|22}}
+*[[Marco Asensio|Asensio]] {{goal|36}}
+*[[Dani Carvajal|Carvajal]] {{yel|60}}
+|goals2       = 
+*[[Lionel Messi|Messi]] {{goal|3}}
+*[[Ivan Rakitić|Rakitić]] {{goal|7}}
+*[[Gerard Piqué|Piqué]] {{goal|50}}
+*[[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{yel|60}}
+*[[Sergi Samper|Samper]] {{yel|78}}
+|stadium      = [[Hard Rock Stadium]]
+|location     = [[Miami Gardens, Florida|Miami Gardens]], United States
+|attendance   = 66,014
+|referee      = [[Jair Marrufo]] ([[United States Soccer Federation|United States]])
+|result       = L
+}}
+{{football box collapsible
+|round        = [[2017 MLS All-Star Game|4]]
+|date         = 2 August 2017<ref>{{cite news|title=Real Madrid to play 2017 All-Star Game against the stars of the MLS|url=http://www.realmadrid.com/en/news/2017/04/real-madrid-to-play-2017-all-star-game-against-the-stars-of-the-mls|work=realmadrid.com|access-date=15 April 2017}}</ref>
+|time         = 18:30 [[Central Time Zone|CT]]
+|team1        = [[MLS All-Stars]] 
+|score        = 1–1
+|report       = https://matchcenter.mlssoccer.com/matchcenter/2017-08-02-mls-all-star-team-vs-real-madrid/
+|team2        = Real Madrid
+|goals1       = [[Dom Dwyer|Dwyer]] {{goal|87}}
+|goals2       = [[Borja Mayoral|Mayoral]] {{goal|59}}
+|stadium      = [[Soldier Field]]
+|location     = [[Chicago]], United States
+|attendance   = 61,428
+|referee      = [[Allen Chapman]] ([[United States Soccer Federation|United States]])
+|result       = D
+|penalties1   = 
+*[[Dom Dwyer|Dwyer]] {{penmiss}}
+*[[Giovani dos Santos|Dos Santos]] {{penmiss}}
+*[[Diego Valeri|Valeri]] {{pengoal}}
+*[[Miguel Almirón|Almirón]] {{pengoal}}
+|penaltyscore = 2–4
+|penalties2   = 
+*{{pengoal}} [[Karim Benzema|Benzema]]
+*{{pengoal}} [[Gareth Bale|Bale]]
+*{{pengoal}} [[Mateo Kovačić|Kovačić]]
+*{{pengoal}} [[Marcelo (footballer, born 1988)|Marcelo]]
+}}
+{{football box collapsible
+|round        = [[Trofeo Santiago Bernabéu|5]]
+|date         = 23 August 2017<ref>{{cite news|title=The XXXVIII Santiago Bernabéu Trophy will be played on 23 August against Fiorentina|url=http://www.realmadrid.com/en/news/2017/07/the-xxxvii-santiago-bernabeu-trophy-will-be-played-on-23-august-against-fiorentina|work=realmadrid.com|access-date=31 July 2017}}</ref>
+|time         = 22:45
+|team1        = Real Madrid
+|score        = 2–1
+|report       = http://www.realmadrid.com/en/news/2017/08/2-1-ronaldo-stunner-decides-santiago-bernabeu-trophy
+|team2        = [[ACF Fiorentina|Fiorentina]]
+|goals1       = 
+*[[Borja Mayoral|Mayoral]] {{goal|7}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|33}}
+|goals2       = 
+*[[Jordan Veretout|Veretout]] {{goal|4}}
+*[[Marco Benassi|Benassi]] {{yel|49}}
+*[[Sebastián Cristóforo|Cristóforo]] {{yel|68}}
+*[[Maximiliano Olivera|Olivera]] {{yel|89}}
+|stadium      = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location     = [[Madrid]], Spain
+|attendance   = 
+|referee      = [[:es:Ignacio Iglesias Villanueva|Ignacio Iglesias Villanueva]] ([[Royal Spanish Football Federation|Spain]])
+|result       = W
+}}
+
+==Competitions==
+''Times from 1 July to 29 October 2017 and from 25 March to 30 June 2018 are [[Central European Summer Time|UTC+2]], from 30 October 2017 to 25 March 2018 [[Central European Time|UTC+1]].''
+
+===Overview===
+{{Fb overview2
+|c=6
+|c1=[[2017–18 La Liga|La Liga]]                        |fm1=20 August 2017 |lm1=19 May 2018 |sr1=Matchday 1 |fp1=Third place |w1=22|d1=10|l1=6 |f1=94|a1=44
+|c2=[[2017–18 Copa del Rey|Copa del Rey]]              |fm2=26 October 2017 |lm2=24 January 2018 |sr2=Round of 32 |fp2=Quarter-finals |w2=3 |d2=2 |l2=1 |f2=11 |a2=6
+|c3=[[2017 Supercopa de España|Supercopa de España]]   |fm3=13 August 2017 |lm3=16 August 2017 |sr3=Final |fp3=Winners |w3=2 |d3=0 |l3=0 |f3=5 |a3=1
+|c4=[[2017–18 UEFA Champions League|Champions League]] |fm4=13 September 2017 |lm4=26 May 2018 |sr4=Group stage |fp4=Winners |w4=9 |d4=2 |l4=2 |f4=33|a4=16
+|c5=[[2017 UEFA Super Cup|UEFA Super Cup]]             |dm5=8 August 2017 |sr5=Final |fp5=Winners |w5=1 |d5=0 |l5=0 |f5=2 |a5=1
+|c6=[[2017 FIFA Club World Cup|FIFA Club World Cup]]   |fm6=13 December 2017 |lm6=16 December 2017 |sr6=Semi-finals |fp6=Winners |w6=2 |d6=0 |l6=0 |f6=3 |a6=1
+|u=26 May 2018
+|s=[https://www.soccerway.com/team/real-madrid/W8mj7MDD/ Soccerway]
+}}
+
+===La Liga===
+{{Main|2017–18 La Liga}}
+
+====League table====
+{{:2017–18 La Liga|showteam=RMA}}
+====Results summary====
+{{Fb_rs |hw=12|hd=4 |hl=3 |hgf=54|hga=20|aw=10|ad=6 |al=3 |agf=40|aga=24}}
+{{Fb_rs footer|u=19 May 2018|s=[http://www.laliga.es/en/laliga-santander#clasificacion LaLiga]|date=July 2017}}
+
+====Result round by round====
+{{#invoke:sports rbr table|table|legendpos=b
+|header=Round
+|label1= Ground
+| res1=A/H/H/A/H/A/H/A/H/A/H/A/H/A/H/H/A/H/H/A/A/H/A/A/H/A/H/A/H/A/H/A/H/H/A/A/H/A
+|label2= Result
+| res2=W/D/D/W/L/W/W/W/W/L/W/D/W/D/W/L/D/L/W/W/D/W/W/W/W/L/W/W/W/W/D/W/D/W/D/L/W/D
+|label3= Position
+| res3=1/5/7/4/8/6/5/3/3/3/3/3/4/4/4/4/4/4/4/4/4/4/4/3/3/3/3/3/3/3/4/3/3/3/3/3/3/3
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green1|text_W=Win
+|color_D=yellow1|text_D=Draw
+|color_L=red1|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|color_18-20=red1
+
+|updated=19 May 2018
+|source=[http://www.laliga.es/en/laliga-santander#clasificacion LaLiga]
+|date=July 2017
+}}
+
+====Matches====
+{{football box collapsible
+|round      = 1
+|date       = 20 August 2017
+|time       = 22:15
+|team1      = [[Deportivo de La Coruña|Deportivo La Coruña]]
+|score      = 0–3
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/1/deportivo_real-madrid
+|team2      = Real Madrid
+|goals1     = 
+*[[Zakaria Bakkali|Bakkali]] {{yel|24}}
+*[[Fabian Schär|Schär]] {{yel|53}}
+*[[Federico Cartabia|Cartabia]] {{yel|60}}
+*[[Pedro Mosquera|Mosquera]] {{yel|84}}
+*[[Florin Andone|Andone]] {{yel|87}}
+|goals2     =
+*[[Gareth Bale|Bale]] {{goal|20}}
+*[[Casemiro]] {{goal|27}}
+*[[Sergio Ramos|Ramos]] {{sent off|2|53|90+2}}
+*[[Luka Modrić|Modrić]] {{yel|57}}
+*[[Toni Kroos|Kroos]] {{goal|62}}
+|stadium    = [[Estadio Riazor|Abanca Riazor]]
+|location   = [[A Coruña]]
+|attendance = 27,801
+|referee    = [[:es:José Luis González González|José González González]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 2
+|date       = 27 August 2017
+|time       = 22:15
+|team1      = Real Madrid
+|score      = 2–2
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/2/real-madrid_valencia
+|team2      = [[Valencia CF|Valencia]]
+|goals1     =
+*[[Marco Asensio|Asensio]] {{goal|10||83}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{yel|53}}
+*[[Casemiro]] {{yel|61}}
+*[[Dani Carvajal|Carvajal]] {{yel|72}}
+|goals2     =
+*[[Carlos Soler (footballer)|Soler]] {{goal|18}}, {{yel|84}}
+*[[Martín Montoya|Montoya]] {{yel|49}}
+*[[Dani Parejo|Parejo]] {{yel|66}}
+*[[Geoffrey Kondogbia|Kondogbia]] {{goal|77}}
+*[[Rodrigo (footballer, born 1991)|Rodrigo]] {{yel|81}}
+*[[Simone Zaza|Zaza]] {{yel|90+2}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 61,739
+|referee    = [[David Fernández Borbalán]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 3
+|date       = 9 September 2017
+|time       = 13:00
+|team1      = Real Madrid
+|score      = 1–1
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/3/real-madrid_levante
+|team2      = [[Levante UD|Levante]]
+|goals1     =
+*[[Lucas Vázquez|Vázquez]] {{goal|36}}
+*[[Sergio Ramos|Ramos]] {{yel|54}}
+*[[Dani Carvajal|Carvajal]] {{yel|66}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{sent off|0|89}}
+|goals2     =
+*[[Ivi (footballer)|Ivi]] {{goal|12}}
+*[[Jefferson Lerma|Lerma]] {{yel|45}}
+*[[Álex Alegría|Alegría]] {{yel|47}}
+*[[Emmanuel Boateng (footballer, born 1996)|Boateng]] {{yel|60}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 67,789
+|referee    = [[Alejandro Hernández Hernández]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 4
+|date       = 17 September 2017
+|time       = 20:45
+|team1      = [[Real Sociedad]]
+|score      = 1–3
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/4/real-sociedad_real-madrid
+|team2      = Real Madrid
+|goals1     =
+*[[Kévin Rodrigues|Rodrigues]] {{goal|28}}
+*[[Diego Llorente|Llorente]] {{yel|36}}
+*[[Asier Illarramendi|Illarramendi]] {{yel|42}}
+*[[Adnan Januzaj|Januzaj]] {{yel|45}}
+|goals2     =
+*[[Borja Mayoral|Mayoral]] {{goal|19}}
+*[[Kévin Rodrigues|Rodrigues]] {{goal|36|o.g.}}
+*[[Marco Asensio|Asensio]] {{yel|38}}
+*[[Gareth Bale|Bale]] {{goal|61}}
+*[[Casemiro]] {{yel|64}}
+|stadium    = [[Anoeta Stadium|Anoeta]]
+|location   = [[San Sebastián]]
+|attendance = 24,675
+|referee    = [[:es:Ignacio Iglesias Villanueva|Ignacio Iglesias Villanueva]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 5
+|date       = 20 September 2017
+|time       = 22:00
+|team1      = Real Madrid
+|score      = 0–1
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/5/real-madrid_betis
+|team2      = [[Real Betis]]
+|goals1     = 
+|goals2     = 
+*[[Cristian Tello|Tello]] {{yel|36}}
+*[[Aïssa Mandi|Mandi]] {{yel|38}}
+*[[Zouhair Feddal|Feddal]] {{yel|58}}
+*[[Antonio Sanabria|Sanabria]] {{goal|90+4}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 61,757
+|referee    = [[Antonio Mateu Lahoz]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 6
+|date       = 23 September 2017
+|time       = 16:15
+|team1      = [[Deportivo Alavés|Alavés]]
+|score      = 1–2
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/6/alaves_real-madrid
+|team2      = Real Madrid
+|goals1     = 
+*[[Carlos Vigaray|Vigaray]] {{yel|14}}
+*[[Manu García (footballer, born 1986)|M. García]] {{goal|40}}, {{yel|67}}
+*[[Rodrigo Ely|Ely]] {{yel|45}}
+*[[Álvaro Medrán|Medrán]] {{yel|61}}
+*[[Daniel Alejandro Torres|Torres]] {{yel|87}}
+|goals2     = 
+*[[Dani Ceballos|Ceballos]] {{goal|10||43}}
+*[[Dani Carvajal|Carvajal]] {{yel|32}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{yel|88}}
+|stadium    = [[Mendizorrotza Stadium|Mendizorrotza]]
+|location   = [[Vitoria-Gasteiz]]
+|attendance = 19,559
+|referee    = [[Alberto Undiano Mallenco]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 7
+|date       = 1 October 2017
+|time       = 20:45
+|team1      = Real Madrid
+|score      = 2–0
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/7/real-madrid_espanyol
+|team2      = [[RCD Espanyol|Espanyol]]
+|goals1     = 
+*[[Isco]] {{goal|30||71}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{yel|36}}
+*[[Casemiro]] {{yel|77}}
+|goals2     =
+*[[Sergio Sánchez Ortega|Sánchez]] {{yel|65}}
+*[[Aarón Martín (footballer, born 1997)|Martín]] {{yel|90}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 71,205
+|referee    = [[:es:José Luis González González|José González González]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 8
+|date       = 14 October 2017
+|time       = 16:15
+|team1      = [[Getafe CF|Getafe]]
+|score      = 1–2
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/8/getafe_real-madrid
+|team2      = Real Madrid
+|goals1     = 
+*[[Mauro Arambarri|Arambarri]] {{yel|34}}
+*[[Jorge Molina Vidal|Molina]] {{goal|56}}
+*[[Mehdi Lacen|Lacen]] {{yel|85}}
+|goals2     =
+*[[Karim Benzema|Benzema]] {{goal|39}}
+*[[Toni Kroos|Kroos]] {{yel|48}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{yel|58}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|85}}
+*[[Théo Hernandez|Hernandez]] {{yel|90+4}}
+|stadium    = [[Coliseum Alfonso Pérez]]
+|location   = [[Getafe]]
+|attendance = 15,350
+|referee    = [[Juan Martínez Munuera]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 9
+|date       = 22 October 2017
+|time       = 20:45
+|team1      = Real Madrid
+|score      = 3–0
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/9/real-madrid_eibar
+|team2      = [[SD Eibar|Eibar]]
+|goals1     = 
+*[[Paulo Oliveira|Oliveira]] {{goal|18|o.g.}}
+*[[Casemiro]] {{yel|23}}
+*[[Marco Asensio|Asensio]] {{goal|28}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|82}}
+|goals2     = [[Charles (footballer, born 1984)|Charles]] {{yel|24}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 63,705
+|referee    = [[:es:Alfonso Javier Álvarez Izquierdo|Alfonso Álvarez Izquierdo]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 10
+|date       = 29 October 2017
+|time       = 16:15
+|team1      = [[Girona FC|Girona]]
+|score      = 2–1
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/10/girona_real-madrid
+|team2      = Real Madrid
+|goals1     =
+*[[Cristhian Stuani|Stuani]] {{goal|54}}
+*[[Portu]] {{goal|58}}
+*[[Aday Benítez|Aday]] {{yel|87}}
+*[[Johan Mojica|Mojica]] {{yel|90+4}}
+|goals2     = 
+*[[Isco]] {{goal|12}}
+*[[Luka Modrić|Modrić]] {{yel|45}}
+|stadium    = [[Estadi Montilivi|Montilivi]]
+|location   = [[Girona]]
+|attendance = 13,382
+|referee    = [[Alejandro Hernández Hernández]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 11
+|date       = 5 November 2017
+|time       = 20:45
+|team1      = Real Madrid
+|score      = 3–0
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/11/real-madrid_las-palmas
+|team2      = [[UD Las Palmas|Las Palmas]]
+|goals1     = 
+*[[Casemiro]] {{goal|41}}
+*[[Isco]] {{yel|45}}, {{goal|74}}
+*[[Marco Asensio|Asensio]] {{goal|56}}
+*[[Toni Kroos|Kroos]] {{yel|64}}
+|goals2     = [[Joaquín Navarro Jiménez|Ximo]] {{yel|79}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 63,326
+|referee    = [[José María Sánchez Martínez]]
+|result     = W
+}}
+{{football box collapsible
+|round      = [[Madrid Derby|12]]
+|date       = 18 November 2017
+|time       = 20:45
+|team1      = [[Atlético Madrid]]
+|score      = 0–0
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/12/atletico_real-madrid
+|team2      = Real Madrid
+|goals1     = 
+*[[Stefan Savić|Savić]] {{yel|34}}
+*[[Saúl Ñíguez|Saúl]] {{yel|63}}
+*[[Koke (footballer, born 1992)|Koke]] {{yel|70}}
+*[[Juanfran (footballer, born 1985)|Juanfran]] {{yel|77}}
+*[[Lucas Hernandez|Hernandez]] {{yel|82}}
+*[[Diego Godín|Godín]] {{yel|89}}
+|goals2     =
+*[[Dani Carvajal|Carvajal]] {{yel|20}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{yel|82}}
+|stadium    = [[Metropolitano Stadium|Wanda Metropolitano]]
+|location   = [[Madrid]]
+|attendance = 66,591
+|referee    = [[David Fernández Borbalán]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 13
+|date       = 25 November 2017
+|time       = 16:15
+|team1      = Real Madrid
+|score      = 3–2
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/13/real-madrid_malaga
+|team2      = [[Málaga CF|Málaga]]
+|goals1     =
+*[[Karim Benzema|Benzema]] {{goal|9}}
+*[[Casemiro]] {{goal|21}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{yel|45}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|76}}
+|goals2     =
+*[[Diego Rolán|Rolán]] {{goal|18}}
+*[[Adalberto Peñaranda|Peñaranda]] {{yel|29}}
+*[[Adrián González Morales|Adrián]] {{yel|43}}
+*[[Chory Castro|Castro]] {{goal|58}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 75,671
+|referee    = [[Jesús Gil Manzano]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 14
+|date       = 2 December 2017
+|time       = 20:45
+|team1      = [[Athletic Bilbao]]
+|score      = 0–0
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/14/athletic_real-madrid
+|team2      = Real Madrid
+|goals1     =
+*[[Óscar de Marcos|De Marcos]] {{yel|45}}
+*[[Xabier Etxeita|Etxeita]] {{yel|57}}
+|goals2     =
+*[[Sergio Ramos|Ramos]] {{sent off|2|11|86}}
+*[[Casemiro]] {{yel|73}}
+*[[Dani Carvajal|Carvajal]] {{yel|90+1}}
+*[[Cristiano Ronaldo|Ronaldo]] {{yel|90+3}}
+|stadium    = [[San Mamés Stadium (2013)|San Mamés]]
+|location   = [[Bilbao]]
+|attendance = 44,992
+|referee    = [[Antonio Mateu Lahoz]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 15
+|date       = 9 December 2017
+|time       = 16:15
+|team1      = Real Madrid
+|score      = 5–0
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/15/real-madrid_sevilla
+|team2      = [[Sevilla FC|Sevilla]]
+|goals1     = 
+*[[Nacho (footballer, born 1990)|Nacho]] {{goal|3}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|22||31|pen.}}
+*[[Toni Kroos|Kroos]] {{goal|38}}
+*[[Achraf Hakimi|Hakimi]] {{goal|42}}
+|goals2     =
+*[[Jesús Navas|J. Navas]] {{yel|31}}
+*[[Éver Banega|Banega]] {{yel|37}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 76,924
+|referee    = [[Juan Martínez Munuera]]
+|result     = W
+}}
+{{football box collapsible
+|round      = [[El Clásico|16]]
+|date       = 23 December 2017
+|time       = 13:00
+|team1      = Real Madrid
+|score      = 0–3
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/17/real-madrid_barcelona
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = 
+*[[Sergio Ramos|Ramos]] {{yel|59}}
+*[[Dani Carvajal|Carvajal]] {{sent off|0|63}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{yel|83}}
+|goals2     =
+*[[Thomas Vermaelen|Vermaelen]] {{yel|18}}
+*[[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|54}}
+*[[Lionel Messi|Messi]] {{goal|64|pen.}}
+*[[Sergio Busquets|Busquets]] {{yel|88}}
+*[[Aleix Vidal|Vidal]] {{goal|90+3}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 80,737
+|referee    = [[José María Sánchez Martínez]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 17
+|date       = 7 January 2018
+|time       = 20:45
+|team1      = [[Celta de Vigo|Celta Vigo]]
+|score      = 2–2
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/18/celta_real-madrid
+|team2      = Real Madrid
+|goals1     =
+*[[Daniel Wass|Wass]] {{goal|33}}
+*[[Hugo Mallo|Mallo]] {{yel|67}}
+*[[Maxi Gómez|Gómez]] {{goal|82}}
+*[[Iago Aspas|Aspas]] {{yel|88}}
+|goals2     = 
+*[[Gareth Bale|Bale]] {{goal|36||38}}
+*[[Casemiro]] {{yel|44}}
+*[[Keylor Navas|Navas]] {{yel|71}}
+|stadium    = [[Balaídos]]
+|location   = [[Vigo]]
+|attendance = 20,895
+|referee    = Santiago Jaime Latre
+|result     = D
+}}
+{{football box collapsible
+|round      = 18
+|date       = 13 January 2018
+|time       = 16:15
+|team1      = Real Madrid
+|score      = 0–1
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/19/real-madrid_villarreal
+|team2      = [[Villarreal CF|Villarreal]]
+|goals1     = 
+*[[Dani Carvajal|Carvajal]] {{yel|58}}
+*[[Lucas Vázquez|Vázquez]] {{yel|89}}
+|goals2     =
+*[[Carlos Bacca|Bacca]] {{yel|44}}
+*[[Pablo Fornals|Fornals]] {{goal|87}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 63,477
+|referee    = [[Alberto Undiano Mallenco]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 19
+|date       = 21 January 2018
+|time       = 16:15
+|team1      = Real Madrid
+|score      = 7–1
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/20/real-madrid_deportivo
+|team2      = [[Deportivo de La Coruña|Deportivo La Coruña]]
+|goals1     =
+*[[Nacho (footballer, born 1990)|Nacho]] {{goal|32||88}}
+*[[Gareth Bale|Bale]] {{goal|42||58}}
+*[[Luka Modrić|Modrić]] {{goal|68}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|78||84}}
+|goals2     = 
+*[[Adrián López|Adrián]] {{goal|23}}
+*[[Florin Andone|Andone]] {{yel|38}}
+*[[Lucas Pérez|Pérez]] {{yel|56}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 63,468
+|referee    = [[David Fernández Borbalán]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 20
+|date       = 27 January 2018
+|time       = 16:15
+|team1      = [[Valencia CF|Valencia]]
+|score      = 1–4
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/21/valencia_real-madrid
+|team2      = Real Madrid
+|goals1     =
+*[[Santi Mina|Mina]] {{goal|58}}
+*[[José Luis Gayà|Gayà]] {{yel|60}}
+*[[Dani Parejo|Parejo]] {{yel|87}}
+|goals2     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|16|pen.|38|pen.}}
+*[[Gareth Bale|Bale]] {{yel|52}}
+*[[Raphaël Varane|Varane]] {{yel|63}}
+*[[Dani Carvajal|Carvajal]] {{yel|71}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|84}}
+*[[Toni Kroos|Kroos]] {{goal|89}}
+|stadium    = [[Mestalla Stadium|Mestalla]]
+|location   = [[Valencia]]
+|attendance = 47,076
+|referee    = [[Xavier Estrada Fernández]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 21
+|date       = 3 February 2018
+|time       = 20:45
+|team1      = [[Levante UD|Levante]]
+|score      = 2–2
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/22/levante_real-madrid
+|team2      = Real Madrid
+|goals1     =
+*[[Cheick Doukouré|Doukouré]] {{yel|13}}
+*[[Iván López Álvarez|Ivi]] {{yel|26}}
+*[[Emmanuel Boateng (footballer, born 1996)|Boateng]] {{goal|42}}
+*[[Coke (footballer)|Coke]] {{yel|88}}
+*[[Giampaolo Pazzini|Pazzini]] {{goal|89}}
+|goals2     =
+*[[Sergio Ramos|Ramos]] {{goal|11}}, {{yel|21}}
+*[[Isco]] {{goal|81}}
+*[[Marco Asensio|Asensio]] {{yel|84}}
+*[[Raphaël Varane|Varane]] {{yel|90+1}}
+|stadium    = [[Estadi Ciutat de València|Ciutat de València]]
+|location   = [[Valencia]]
+|attendance = 23,542
+|referee    = Mario Melero López
+|result     = D
+}}
+{{football box collapsible
+|round      = 22
+|date       = 10 February 2018
+|time       = 20:45
+|team1      = Real Madrid
+|score      = 5–2
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/23/real-madrid_real-sociedad
+|team2      = [[Real Sociedad]]
+|goals1     =
+*[[Lucas Vázquez|Vázquez]] {{goal|1}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|27||37||80}}
+*[[Toni Kroos|Kroos]] {{goal|34}}
+*[[Dani Carvajal|Carvajal]] {{yel|49}}
+*[[Mateo Kovačić|Kovačić]] {{yel|90+1}}
+|goals2     =
+*[[Alberto de la Bella|De la Bella]] {{yel|47}}
+*[[Jon Bautista|Bautista]] {{goal|74}}
+*[[Asier Illarramendi|Illarramendi]] {{goal|83}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 63,800
+|referee    = [[Alejandro Hernández Hernández]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 23
+|date       = 18 February 2018
+|time       = 20:45
+|team1      = [[Real Betis]]
+|score      = 3–5
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/24/betis_real-madrid
+|team2      = Real Madrid
+|goals1     = 
+*[[Aïssa Mandi|Mandi]] {{goal|33}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{goal|37|o.g.}}
+*[[Antonio Barragán|Barragán]] {{yel|44}}
+*[[Junior Firpo|Junior]] {{yel|49}}
+*[[Loren Morón (footballer, born 1993)|Loren]] {{yel|61}}
+*[[Sergio León|León]] {{goal|85}}
+|goals2     =
+*[[Dani Carvajal|Carvajal]] {{yel|5}}
+*[[Marco Asensio|Asensio]] {{goal|11||59}}
+*[[Mateo Kovačić|Kovačić]] {{yel|46}}
+*[[Sergio Ramos|Ramos]] {{goal|50}}, {{yel|55}}
+*[[Gareth Bale|Bale]] {{yel|57}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|65}}
+*[[Casemiro]] {{yel|81}}
+*[[Karim Benzema|Benzema]] {{goal|90+2}}
+|stadium    = [[Estadio Benito Villamarín|Benito Villamarín]]
+|location   = [[Seville]]
+|attendance = 53,533
+|referee    = [[Jesús Gil Manzano]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 24
+|date       = 21 February 2018
+|time       = 18:45
+|team1      = [[CD Leganés|Leganés]]
+|score      = 1–3
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/16/leganes_real-madrid
+|team2      = Real Madrid
+|goals1     =
+*[[Unai Bustinza|Bustinza]] {{goal|6}}
+*[[Diego Rico|Rico]] {{yel|51}}
+*[[Iván Cuéllar|Cuéllar]] {{yel|85}}
+*[[Rubén Pérez del Mármol|Pérez]] {{yel|86}}
+|goals2     =
+*[[Lucas Vázquez|Vázquez]] {{goal|11}}
+*[[Casemiro]] {{goal|29}}
+*[[Sergio Ramos|Ramos]] {{yel|57}}, {{goal|90|pen.}}
+|stadium    = [[Estadio Municipal de Butarque|Butarque]]
+|location   = [[Leganés]]
+|attendance = 11,423
+|referee    = José Luis González González
+|result     = W
+|note       = The match, originally scheduled for 17 December 2017, was pushed back due to Real Madrid's participation in the [[2017 FIFA Club World Cup]].
+}}
+{{football box collapsible
+|round      = 25
+|date       = 24 February 2018
+|time       = 16:15
+|team1      = Real Madrid
+|score      = 4–0
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/25/real-madrid_alaves
+|team2      = [[Deportivo Alavés|Alavés]]
+|goals1     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|44||61}}
+*[[Gareth Bale|Bale]] {{goal|46}}
+*[[Marcos Llorente|Llorente]] {{yel|82}}
+*[[Karim Benzema|Benzema]] {{goal|89|pen.}}
+|goals2     =
+*[[Hernán Pérez (footballer, born 1989)|Pérez]] {{yel|5}}
+*[[Rubén Sobrino|Sobrino]] {{yel|20}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 65,228
+|referee    = [[Xavier Estrada Fernández]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 26
+|date       = 27 February 2018
+|time       = 20:00
+|team1      = [[RCD Espanyol|Espanyol]]
+|score      = 1–0
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/26/espanyol_real-madrid
+|team2      = Real Madrid
+|goals1     =
+*[[Aarón Martín (footballer, born 1997)|Aarón]] {{yel|81}}
+*[[Gerard Moreno|Gerard]] {{goal|90+3}}
+|goals2     = [[Gareth Bale|Bale]] {{yel|37}}
+|stadium    = [[RCDE Stadium]]
+|location   = [[Cornellà de Llobregat]]
+|attendance = 19,805
+|referee    = [[José María Sánchez Martínez]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 27
+|date       = 3 March 2018
+|time       = 20:45
+|team1      = Real Madrid
+|score      = 3–1
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/27/real-madrid_getafe
+|team2      = [[Getafe CF|Getafe]]
+|goals1     =
+*[[Gareth Bale|Bale]] {{goal|24}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{yel|34}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|45||78}}
+|goals2     = 
+*[[Loïc Rémy|Rémy]] {{sent off|2|25|47}}
+*[[Francisco Portillo (footballer, born 1990)|Portillo]] {{yel|53}}, {{goal|65|pen.}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 55,143
+|referee    = Mario Melero López
+|result     = W
+}}
+{{football box collapsible
+|round      = 28
+|date       = 10 March 2018
+|time       = 13:00
+|team1      = [[SD Eibar|Eibar]]
+|score      = 1–2
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/28/eibar_real-madrid
+|team2      = Real Madrid
+|goals1     = [[Iván Ramis|Ramis]] {{yel|45}}, {{goal|50}}
+|goals2     = 
+*[[Gareth Bale|Bale]] {{yel|30}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|34||84}}
+|stadium    = [[Ipurua Municipal Stadium|Ipurua]]
+|location   = [[Eibar]]
+|attendance = 6,707
+|referee    = [[José Luis Munuera Montero]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 29
+|date       = 18 March 2018
+|time       = 20:45
+|team1      = Real Madrid
+|score      = 6–3
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/29/real-madrid_girona
+|team2      = [[Girona FC|Girona]]
+|goals1     = 
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|11||47||64||90+1}}
+*[[Dani Carvajal|Carvajal]] {{yel|52}}
+*[[Lucas Vázquez|Vázquez]] {{goal|59}}
+*[[Gareth Bale|Bale]] {{goal|86}}
+|goals2     =
+*[[Cristhian Stuani|Stuani]] {{goal|29||67}}
+*[[Johan Mojica|Mojica]] {{yel|30}}
+*[[Juanpe (footballer, born 1991)|Juanpe]] {{goal|88}}
+*[[Álex Granell|Granell]] {{yel|90+4}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 59,205
+|referee    = [[Jesús Gil Manzano]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 30
+|date       = 31 March 2018
+|time       = 18:30<br />(17:30 [[UTC+1]])
+|team1      = [[UD Las Palmas|Las Palmas]]
+|score      = 0–3
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/30/las-palmas_real-madrid
+|team2      = Real Madrid
+|goals1     =
+*[[Momo (Spanish footballer)|Momo]] {{yel|36}}
+*[[Álex Gálvez|Gálvez]] {{yel|45}}
+*[[Ximo Navarro (footballer, born 1990)|Navarro]] {{yel|51}}
+|goals2     =
+*[[Gareth Bale|Bale]] {{goal|26||51|pen.}}
+*[[Karim Benzema|Benzema]] {{goal|39|pen.}}
+|stadium    = [[Estadio Gran Canaria|Gran Canaria]]
+|location   = [[Las Palmas]]
+|attendance = 22,785
+|referee    = Pablo González Fuertes
+|result     = W
+}}
+{{football box collapsible
+|round      = [[Madrid Derby|31]]
+|date       = 8 April 2018
+|time       = 16:15
+|team1      = Real Madrid
+|score      = 1–1
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/31/real-madrid_atletico
+|team2      = [[Atlético Madrid]]
+|goals1     =
+*[[Toni Kroos|Kroos]] {{yel|14}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|53}}
+*[[Lucas Vázquez|Vázquez]] {{yel|88}}
+|goals2     =
+*[[Vitolo (footballer, born 1989)|Vitolo]] {{yel|17}}
+*[[Thomas Partey|Partey]] {{yel|34}}
+*[[Antoine Griezmann|Griezmann]] {{goal|57}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 78,536
+|referee    = [[Xavier Estrada Fernández]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 32
+|date       = 15 April 2018
+|time       = 20:45
+|team1      = [[Málaga CF|Málaga]]
+|score      = 1–2
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/32/malaga_real-madrid
+|team2      = Real Madrid
+|goals1     = 
+*[[Federico Ricca|Ricca]] {{yel|36}}
+*[[Manuel Iturra|Iturra]] {{yel|55}}
+*[[Iván Rodríguez del Pozo|Rodríguez]] {{yel|81}}
+*[[Roberto Rosales|Rosales]] {{yel|90+2}}
+*[[Diego Rolán|Rolán]] {{goal|90+3}}
+|goals2     =
+*[[Isco]] {{goal|29}}
+*[[Casemiro]] {{goal|63}}
+|stadium    = [[La Rosaleda Stadium|La Rosaleda]]
+|location   = [[Málaga]]
+|attendance = 27,117
+|referee    = [[Ricardo de Burgos Bengoetxea]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 33
+|date       = 18 April 2018
+|time       = 21:30
+|team1      = Real Madrid
+|score      = 1–1
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/33/real-madrid_athletic
+|team2      = [[Athletic Bilbao]]
+|goals1     = 
+*[[Lucas Vázquez|Vázquez]] {{yel|46}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|87}}
+*[[Dani Carvajal|Carvajal]] {{yel|90+2}}
+|goals2     = 
+*[[Iñaki Williams|Williams]] {{goal|14}}, {{yel|39}}
+*[[Ander Iturraspe|Iturraspe]] {{yel|61}}
+*[[Óscar de Marcos|De Marcos]] {{yel|84}}
+*[[Mikel San José|San José]] {{yel|89}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 59,293
+|referee    = [[Juan Martínez Munuera]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 34
+|date       = 28 April 2018
+|time       = 18:30
+|team1      = Real Madrid
+|score      = 2–1
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/35/real-madrid_leganes
+|team2      = [[CD Leganés|Leganés]]
+|goals1     =
+*[[Gareth Bale|Bale]] {{goal|8}}
+*[[Borja Mayoral|Mayoral]] {{goal|45}}
+|goals2     = 
+*[[Darko Brašanac|Brašanac]] {{goal|66}}
+*[[Joseba Zaldúa|Zaldúa]] {{yel|73}}
+*[[Gabriel Appelt Pires|Gabriel]] {{sent off|0|90+3}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 59,812
+|referee    = Ignacio Iglesias Villanueva
+|result     = W
+}}
+{{football box collapsible
+|round      = [[El Clásico|35]]
+|date       = 6 May 2018
+|time       = 20:45
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 2–2
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/36/barcelona_real-madrid
+|team2      = Real Madrid
+|goals1     =
+*[[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{goal|10}}, {{yel|44}}
+*[[Lionel Messi|Messi]] {{yel|45}}, {{goal|52}}
+*[[Sergi Roberto|Roberto]] {{sent off|0|45+3}}
+*[[Ivan Rakitić|Rakitić]] {{yel|85}}
+|goals2     =
+*[[Nacho (footballer, born 1990)|Nacho]] {{yel|12}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|14}}
+*[[Raphaël Varane|Varane]] {{yel|31}}
+*[[Sergio Ramos|Ramos]] {{yel|44}}
+*[[Gareth Bale|Bale]] {{goal|72}}, {{yel|76}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{yel|77}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 97,939
+|referee    = [[Alejandro Hernández Hernández]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 36
+|date       = 9 May 2018
+|time       = 21:30
+|team1      = [[Sevilla FC|Sevilla]]
+|score      = 3–2
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/34/sevilla_real-madrid
+|team2      = Real Madrid
+|goals1     =
+*[[Wissam Ben Yedder|Ben Yedder]] {{goal|26}}
+*[[Gabriel Mercado|Mercado]] {{yel|42}}
+*[[Miguel Layún|Layún]] {{goal|45}}
+*[[Guido Pizarro|Pizarro]] {{yel|69}}
+*[[Sergio Ramos|Ramos]] {{goal|84|o.g.}}
+*[[Sergio Escudero (footballer, born 1989)|Escudero]] {{yel|90+5}}
+|goals2     =
+*[[Borja Mayoral|Mayoral]] {{goal|87}}
+*[[Sergio Ramos|Ramos]] {{yel|83}}, {{goal|90+5|pen.}}
+|stadium    = [[Ramón Sánchez Pizjuán Stadium|Ramón Sánchez Pizjuán]]
+|location   = [[Seville]]
+|attendance = 38,524
+|referee    = [[Antonio Mateu Lahoz]]
+|result     = L
+|note       = The match, originally scheduled for 22 April 2018, was moved back because of Sevilla's involvement in the [[2018 Copa del Rey Final|Copa del Rey final]].
+}}
+{{football box collapsible
+|round      = 37
+|date       = 12 May 2018
+|time       = 20:45
+|team1      = Real Madrid
+|score      = 6–0
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/37/real-madrid_celta
+|team2      = [[Celta de Vigo|Celta Vigo]]
+|goals1     =
+*[[Gareth Bale|Bale]] {{goal|13||30}}
+*[[Isco]] {{goal|42}}
+*[[Achraf Hakimi|Hakimi]] {{goal|52}}
+*[[Sergi Gómez|S. Gómez]] {{goal|74|o.g.}}
+*[[Toni Kroos|Kroos]] {{goal|81}}
+|goals2     = [[Hugo Mallo|Mallo]] {{yel|84}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 56,583
+|referee    = Pablo González Fuertes
+|result     = W
+}}
+{{football box collapsible
+|round      = 38
+|date       = 19 May 2018
+|time       = 20:45
+|team1      = [[Villarreal CF|Villarreal]]
+|score      = 2–2
+|report     = http://www.laliga.es/directo/temporada-2017-2018/laliga-santander/38/villarreal_real-madrid
+|team2      = Real Madrid
+|goals1     =
+*[[Roger Martínez|Roger]] {{goal|70}}, {{yel|88}}
+*[[Samu Castillejo|Castillejo]] {{yel|79}}, {{goal|85}}
+*[[Álvaro González Soberón|Álvaro]] {{yel|79}}
+*[[Salem Al-Dawsari|Salem]] {{yel|90+4}}
+|goals2     =
+*[[Gareth Bale|Bale]] {{goal|11}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|32}}
+*[[Luka Modrić|Modrić]] {{yel|48}}
+*[[Casemiro]] {{yel|84}}
+*[[Toni Kroos|Kroos]] {{yel|89}}
+|stadium    = [[Estadio de la Cerámica]]
+|location   = [[Villarreal]]
+|attendance = 18,891
+|referee    = [[José María Sánchez Martínez]]
+|result     = D
+}}
+
+===Copa del Rey===
+{{Main|2017–18 Copa del Rey}}
+
+====Round of 32====
+{{football box collapsible
+|round      = First leg
+|date       = 26 October 2017
+|time       = 21:30
+|team1      = [[CF Fuenlabrada|Fuenlabrada]]
+|score      = 0–2
+|report     = http://www.laliga.es/en/other-competitions-live/temporada-2017-2018/copa-del-rey/4/fuenlabrada_real-madrid
+|team2      = Real Madrid
+|goals1     = 
+*[[Francisco García Solsona|F. García]] {{yel|62}}
+*[[Paco Candela|Candela]] {{sent off|2|73|79}}
+*[[Cata Díaz|C. Díaz]] {{yel|84}}
+|goals2     =
+*[[Marco Asensio|Asensio]] {{goal|63|pen.}}
+*[[Lucas Vázquez|Vázquez]] {{goal|80|pen.}}
+*[[Jesús Vallejo|Vallejo]] {{sent off|0|89}}
+|stadium    = Estadio Fernando Torres
+|location   = [[Fuenlabrada]]
+|attendance = 7,200
+|referee    = [[:es:Ignacio Iglesias Villanueva|Ignacio Iglesias Villanueva]]
+|result     = W
+}}
+{{football box collapsible
+|round      = Second leg
+|date       = 28 November 2017
+|time       = 21:30
+|team1      = Real Madrid
+|score      = 2–2
+|aggregatescore = 4–2
+|report     = http://www.laliga.es/en/other-competitions-live/temporada-2017-2018/copa-del-rey/5/real-madrid_fuenlabrada
+|team2      = [[CF Fuenlabrada|Fuenlabrada]]
+|goals1     =
+*Óscar {{yel|60}}
+*[[Borja Mayoral|Mayoral]] {{goal|62||70}}
+|goals2     =
+*[[Luis Milla Manzanares|Milla]] {{goal|25}}
+*[[Matheus Aias|Aias]] {{yel|58}}
+*[[Cata Díaz|Díaz]] {{yel|83}}
+*[[Álvaro Portilla|Portilla]] {{goal|89}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 49,638
+|referee    = Pablo González Fuertes
+|result     = D
+}}
+
+====Round of 16====
+{{football box collapsible
+|round      = First leg
+|date       = 4 January 2018
+|time       = 21:00
+|team1      = [[CD Numancia|Numancia]]
+|score      = 0–3
+|report     = http://www.laliga.es/directo-otras-competiciones/temporada-2017-2018/copa-del-rey/6/numancia_real-madrid
+|team2      = Real Madrid
+|goals1     =
+*[[Pape Maly Diamanka|Diamanka]] {{sent off|2|35|60}}
+*[[Pablo Larrea|Larrea]] {{yel|38}}
+*[[Higinio Marín|Marín]] {{yel|51}}
+*[[Unai Medina|Medina]] {{yel|82}}
+*[[Carlos Gutiérrez González|C. Gutiérrez]] {{yel|88}}
+|goals2     = 
+*[[Gareth Bale|Bale]] {{goal|35|pen.}}
+*[[Jesús Vallejo|Vallejo]] {{yel|59}}
+*[[Isco]] {{goal|89|pen.}}
+*[[Borja Mayoral|Mayoral]] {{goal|90+1}}
+*[[Mateo Kovačić|Kovačić]] {{yel|90+3}}
+|stadium    = [[Nuevo Estadio Los Pajaritos|Los Pajaritos]]
+|location   = [[Soria]]
+|attendance = 8,787
+|referee    = [[Xavier Estrada Fernández]]
+|result     = W
+}}
+{{football box collapsible
+|round      = Second leg
+|date       = 10 January 2018
+|time       = 21:30
+|team1      = Real Madrid
+|score      = 2–2
+|aggregatescore = 5–2
+|report     = http://www.laliga.es/directo-otras-competiciones/temporada-2017-2018/copa-del-rey/7/real-madrid_numancia
+|team2      = [[CD Numancia|Numancia]]
+|goals1     = 
+*[[Lucas Vázquez|Vázquez]] {{goal|10||59}}
+*[[Casemiro]] {{yel|87}}
+|goals2     = 
+*[[Gregorio Sierra Pérez|Sierra]] {{yel|18}}
+*[[Guillermo Fernández Hierro|Guillermo]] {{goal|45||82}}
+*[[Dani Calvo]] {{yel|84}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 37,553
+|referee    = [[José Luis Munuera Montero]]
+|result     = D
+}}
+
+====Quarter-finals====
+{{football box collapsible
+|round      = First leg
+|date       = 18 January 2018
+|time       = 21:30
+|team1      = [[CD Leganés|Leganés]]
+|score      = 0–1
+|report     = http://www.laliga.es/directo-otras-competiciones/temporada-2017-2018/copa-del-rey/8/leganes_real-madrid
+|team2      = Real Madrid
+|goals1     = 
+*[[Nabil El Zhar|El Zhar]] {{yel|39}}
+*[[Gerard Gumbau|Gumbau]] {{yel|62}}
+*[[José Manuel García Naranjo|Naranjo]] {{yel|67}}
+|goals2     = 
+*[[Marco Asensio|Asensio]] {{goal|89}}
+|stadium    = [[Estadio Municipal de Butarque|Butarque]]
+|location   = [[Leganés]]
+|attendance = 11,327
+|referee    = [[José María Sánchez Martínez]]
+|result     = W
+}}
+{{football box collapsible
+|round      = Second leg
+|date       = 24 January 2018
+|time       = 21:30
+|team1      = Real Madrid
+|score      = 1–2
+|aggregatescore = 2–2 ([[Away goals rule|a]])
+|report     = http://www.laliga.es/directo-otras-competiciones/temporada-2017-2018/copa-del-rey/9/real-madrid_leganes
+|team2      = [[CD Leganés|Leganés]]
+|goals1     = 
+*[[Karim Benzema|Benzema]] {{goal|47}}
+*[[Sergio Ramos|Ramos]] {{yel|80}}
+|goals2     = 
+*[[Tito (footballer, born July 1985)|Tito]] {{yel|27}}
+*[[Javier Eraso|Eraso]] {{goal|31}}
+*[[Gabriel Appelt Pires|Gabriel]] {{goal|55}}
+*[[Nereo Champagne|Nereo]] {{yel|75}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 46,409
+|referee    = [[Jesús Gil Manzano]]
+|result     = L
+}}
+
+===Supercopa de España===
+{{Main|2017 Supercopa de España}}
+
+{{football box collapsible
+|round      = First leg
+|date       = 13 August 2017
+|time       = 22:00
+|team1      = [[FC Barcelona|Barcelona]]
+|score      = 1–3
+|report     = http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=42775
+|team2      = Real Madrid
+|goals1     = 
+*[[Gerard Piqué|Piqué]] {{yel|27}}
+*[[Lionel Messi|Messi]] {{yel|40}}, {{goal|77|pen.}}
+*[[Sergio Busquets|Busquets]] {{yel|57}}
+|goals2     =
+*[[Casemiro]] {{yel|20}}
+*[[Gareth Bale|Bale]] {{yel|41}}
+*[[Dani Carvajal|Carvajal]] {{yel|41}}
+*[[Gerard Piqué|Piqué]] {{goal|50|o.g.}}
+*[[Keylor Navas|Navas]] {{yel|76}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|80}}, {{sent off|2|80|82}}
+*[[Marco Asensio|Asensio]] {{goal|90}}
+|stadium    = [[Camp Nou]]
+|location   = [[Barcelona]]
+|attendance = 89,514
+|referee    = [[Ricardo de Burgos Bengoetxea]]
+|result     = W
+}}
+{{football box collapsible
+|round      = Second leg
+|date       = 16 August 2017
+|time       = 23:00
+|team1      = Real Madrid
+|score      = 2–0
+|aggregatescore = 5–1
+|report     = http://actas.rfef.es/actas/RFEF_CmpPartido?cod_primaria=1000144&CodActa=42781
+|team2      = [[FC Barcelona|Barcelona]]
+|goals1     = 
+*[[Marco Asensio|Asensio]] {{goal|4}}
+*[[Karim Benzema|Benzema]] {{goal|39}}
+|goals2     = 
+*[[Luis Suárez (Uruguayan footballer)|L. Suárez]] {{yel|83}}
+*[[Javier Mascherano|Mascherano]] {{yel|90+3}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]]
+|attendance = 75,167
+|referee    = [[José María Sánchez Martínez]]
+|result     = W
+}}
+
+===UEFA Champions League===
+{{Main|2017–18 UEFA Champions League}}
+Madrid joined the competition in the group stage.
+
+====Group stage====
+{{main|2017–18 UEFA Champions League group stage}}
+{{:2017–18 UEFA Champions League group stage|transcludesection=Group H|show_matches=yes|showteam=RMA}}
+{{football box collapsible
+|round      = [[2017–18 UEFA Champions League group stage#Real Madrid v APOEL|1]]
+|date       = 13 September 2017
+|time       = 20:45
+|team1      = Real Madrid {{flagicon|ESP}}
+|score      = 3–0
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021601/index.html
+|team2      = {{flagicon|CYP}} [[APOEL FC|APOEL]]
+|goals1     = 
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|12||51|pen.}}
+*[[Dani Carvajal|Carvajal]] {{yel|52}}
+*[[Sergio Ramos|Ramos]] {{goal|61}}
+|goals2     = 
+*[[Roland Sallai|Sallai]] {{yel|53}}
+*[[Lorenzo Ebecilio|Ebecilio]] {{yel|63}}
+*[[Agustín Farías|Farías]] {{yel|90}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]], Spain
+|attendance = 71,060
+|referee    = [[Benoît Bastien]] ([[French Football Federation|France]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2017–18 UEFA Champions League group stage#Borussia Dortmund v Real Madrid|2]]
+|date       = 26 September 2017
+|time       = 20:45
+|team1      = [[Borussia Dortmund]] {{flagicon|GER}}
+|score      = 1–3
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021609/index.html
+|team2      = {{flagicon|ESP}} Real Madrid
+|goals1     = 
+*[[Ömer Toprak|Toprak]] {{yel|52}}
+*[[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|54}}
+*[[Julian Weigl|Weigl]] {{yel|63}}
+|goals2     = 
+*[[Gareth Bale|Bale]] {{goal|18}}, {{yel|29}}
+*[[Dani Carvajal|Carvajal]] {{yel|39}}
+*[[Luka Modrić|Modrić]] {{yel|40}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|49||79}}
+|stadium    = [[Westfalenstadion]]
+|location   = [[Dortmund]], Germany
+|attendance = 65,849
+|referee    = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2017–18 UEFA Champions League group stage#Real Madrid v Tottenham Hotspur|3]]
+|date       = 17 October 2017
+|time       = 20:45
+|team1      = Real Madrid {{flagicon|ESP}}
+|score      = 1–1
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021626/index.html
+|team2      = {{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|goals1     = [[Cristiano Ronaldo|Ronaldo]] {{yel|32}}, {{goal|43|pen.}}
+|goals2     =
+*[[Raphaël Varane|Varane]] {{goal|28|o.g.}}
+*[[Serge Aurier|Aurier]] {{yel|43}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]], Spain
+|attendance = 76,589
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result     = D
+}}
+{{football box collapsible
+|round      = [[2017–18 UEFA Champions League group stage#Tottenham Hotspur v Real Madrid|4]]
+|date       = 1 November 2017
+|time       = 20:45<br />(19:45 [[UTC±0]])
+|team1      = [[Tottenham Hotspur F.C.|Tottenham Hotspur]] {{flagicon|ENG}}
+|score      = 3–1
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021650/index.html
+|team2      = {{flagicon|ESP}} Real Madrid
+|goals1     = 
+*[[Dele Alli|Alli]] {{goal|27||56}}
+*[[Christian Eriksen|Eriksen]] {{goal|65}}
+*[[Mousa Dembélé (Belgian footballer)|M. Dembélé]] {{yel|89}}
+|goals2     = 
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|80}}
+*[[Sergio Ramos|Ramos]] {{yel|90+1}}
+|stadium    = [[Wembley Stadium]]
+|location   = London, England
+|attendance = 83,782
+|referee    = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result     = L
+}}
+{{football box collapsible
+|round      = [[2017–18 UEFA Champions League group stage#APOEL v Real Madrid|5]]
+|date       = 21 November 2017
+|time       = 20:45<br />(21:45 [[UTC+2]])
+|team1      = [[APOEL FC|APOEL]] {{flagicon|CYP}}
+|score      = 0–6
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021657/index.html
+|team2      = {{flagicon|ESP}} Real Madrid
+|goals1     = 
+|goals2     = 
+*[[Luka Modrić|Modrić]] {{goal|23}}
+*[[Karim Benzema|Benzema]] {{goal|39||45+1}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{goal|41}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|49||54}}
+*[[Dani Carvajal|Carvajal]] {{yel|90}}
+|stadium    = [[GSP Stadium]]
+|location   = [[Nicosia]], [[Cyprus]]
+|attendance = 19,705
+|referee    = [[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2017–18 UEFA Champions League group stage#Real Madrid v Borussia Dortmund|6]]
+|date       = 6 December 2017
+|time       = 20:45
+|team1      = Real Madrid {{flagicon|ESP}}
+|score      = 3–2
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000881/match=2021681/index.html
+|team2      = {{flagicon|GER}} [[Borussia Dortmund]]
+|goals1     = 
+*[[Borja Mayoral|Mayoral]] {{goal|8}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|12}}
+*[[Lucas Vázquez|Vázquez]] {{goal|81}}
+|goals2     =
+*[[Marc Bartra|Bartra]] {{yel|16}}
+*[[Pierre-Emerick Aubameyang|Aubameyang]] {{goal|43||49}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]], Spain
+|attendance = 73,323
+|referee    = [[Pavel Královec]] ([[Football Association of the Czech Republic|Czech&nbsp;Republic]])
+|result     = W
+}}
+
+====Knockout phase====
+{{main|2017–18 UEFA Champions League knockout phase}}
+
+=====Round of 16=====
+{{football box collapsible
+|round      = [[2017–18 UEFA Champions League knockout phase#Real Madrid v Paris Saint-Germain|First leg]]
+|date       = 14 February 2018
+|time       = 20:45
+|team1      = Real Madrid {{flagicon|ESP}}
+|score      = 3–1
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021689/index.html
+|team2      = {{flagicon|FRA|1974}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|goals1     = 
+*[[Isco]] {{yel|32}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|45|pen.|83}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{yel|78}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|86}}
+|goals2     =
+*[[Neymar]] {{yel|14}}
+*[[Giovani Lo Celso|Lo Celso]] {{yel|25}}
+*[[Adrien Rabiot|Rabiot]] {{goal|33}}, {{yel|64}}
+*[[Thomas Meunier|Meunier]] {{yel|90}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]], Spain
+|attendance = 78,158
+|referee    = [[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2017–18 UEFA Champions League knockout phase#Paris Saint-Germain v Real Madrid|Second leg]]
+|date       = 6 March 2018
+|time       = 20:45
+|team1      = [[Paris Saint-Germain F.C.|Paris Saint-Germain]] {{flagicon|FRA|1974}}
+|score      = 1–2
+|aggregatescore = 2–5
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000882/match=2021695/index.html
+|team2      = {{flagicon|ESP}} Real Madrid
+|goals1     = 
+*[[Marco Verratti|Verratti]] {{sent off|2|20|66}}
+*[[Edinson Cavani|Cavani]] {{goal|70}}, {{yel|84}}
+|goals2     =
+*[[Mateo Kovačić|Kovačić]] {{yel|32}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|51}}
+*[[Sergio Ramos|Ramos]] {{yel|78}}
+*[[Casemiro]] {{goal|80}}
+|stadium    = [[Parc des Princes]]
+|location   = [[Paris]], France
+|attendance = 46,585
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|result     = W
+}}
+
+=====Quarter-finals=====
+{{football box collapsible
+|round      = [[2017–18 UEFA Champions League knockout phase#Juventus v Real Madrid|First leg]]
+|date       = 3 April 2018
+|time       = 20:45
+|team1      = [[Juventus FC|Juventus]] {{flagicon|ITA}}
+|score      = 0–3
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000883/match=2021701/index.html
+|team2      = {{flagicon|ESP}} Real Madrid
+|goals1     = 
+*[[Rodrigo Bentancur|Bentancur]] {{yel|27}}
+*[[Paulo Dybala|Dybala]] {{sent off|2|45|66}}
+|goals2     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|3||64}}
+*[[Sergio Ramos|Ramos]] {{yel|55}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|72}}
+*[[Mateo Kovačić|Kovačić]] {{yel|88}}
+|stadium    = [[Juventus Stadium]]
+|location   = [[Turin]], Italy
+|attendance = 40,849
+|referee    = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2017–18 UEFA Champions League knockout phase#Real Madrid v Juventus|Second leg]]
+|date       = 11 April 2018
+|time       = 20:45
+|team1      = Real Madrid {{flagicon|ESP}}
+|score      = 1–3
+|aggregatescore = 4–3
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000883/match=2021703/index.html
+|team2      = {{flagicon|ITA}} [[Juventus FC|Juventus]]
+|goals1     = 
+*[[Dani Carvajal|Carvajal]] {{yel|22}}
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{yel|81}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|90+8|pen.}}, {{yel|90+8}}
+|goals2     =
+*[[Mario Mandžukić|Mandžukić]] {{goal|2||37}}, {{yel|29}}
+*[[Miralem Pjanić|Pjanić]] {{yel|17}}
+*[[Stephan Lichtsteiner|Lichtsteiner]] {{yel|36}}
+*[[Blaise Matuidi|Matuidi]] {{goal|61}}
+*[[Alex Sandro]] {{yel|67}}
+*[[Douglas Costa|Costa]] {{yel|73}}
+*[[Medhi Benatia|Benatia]] {{yel|90}}
+*[[Gianluigi Buffon|Buffon]] {{sent off|0|90+3}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]], Spain
+|attendance = 75,796
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result     = L
+}}
+
+=====Semi-finals=====
+{{football box collapsible
+|round      = [[2017–18 UEFA Champions League knockout phase#Bayern Munich v Real Madrid|First leg]]
+|date       = 25 April 2018
+|time       = 20:45
+|team1      = [[FC Bayern Munich|Bayern Munich]] {{flagicon|GER}}
+|score      = 1–2
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000884/match=2021708/index.html
+|team2      = {{flagicon|ESP}} Real Madrid
+|goals1     = 
+*[[Joshua Kimmich|Kimmich]] {{goal|28}}
+*[[Franck Ribéry|Ribéry]] {{yel|52}}
+*[[Thiago Alcântara|Thiago]] {{yel|89}}
+|goals2     =
+*[[Marcelo (footballer, born 1988)|Marcelo]] {{goal|44}}
+*[[Marco Asensio|Asensio]] {{goal|57}}
+*[[Casemiro]] {{yel|78}}
+|stadium    = [[Allianz Arena]]
+|location   = [[Munich]], Germany
+|attendance = 70,000
+|referee    = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2017–18 UEFA Champions League knockout phase#Real Madrid v Bayern Munich|Second leg]]
+|date       = 1 May 2018
+|time       = 20:45
+|team1      = Real Madrid {{flagicon|ESP}}
+|score      = 2–2
+|aggregatescore = 4–3
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000884/match=2021709/index.html
+|team2      = {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+|goals1     = 
+*[[Karim Benzema|Benzema]] {{goal|11||46}}
+*[[Luka Modrić|Modrić]] {{yel|62}}
+*[[Lucas Vázquez|Vázquez]] {{yel|65}}
+*[[Raphaël Varane|Varane]] {{yel|88}}
+*[[Casemiro]] {{yel|89}}
+|goals2     =
+*[[Joshua Kimmich|Kimmich]] {{goal|3}}
+*[[James Rodríguez|Rodríguez]] {{goal|63}}
+|stadium    = [[Santiago Bernabéu Stadium|Santiago Bernabéu]]
+|location   = [[Madrid]], Spain
+|attendance = 77,459
+|referee    = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result     = D
+}}
+
+=====Final=====
+{{main|2018 UEFA Champions League Final}}
+{{football box collapsible
+|round      = [[2018 UEFA Champions League Final|Final]]
+|date       = 26 May 2018
+|time       = 20:45<br >(21:45 [[UTC+3]])
+|team1      = Real Madrid {{flagicon|ESP}}
+|score      = 3–1
+|report     = http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000885/match=2021711/index.html
+|team2      = {{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|goals1     =
+*[[Karim Benzema|Benzema]] {{goal|51}}
+*[[Gareth Bale|Bale]] {{goal|64||83}}
+|goals2     = [[Sadio Mané|Mané]] {{goal|55}}, {{yel|82}}
+|stadium    = [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy Stadium]]
+|location   = [[Kyiv]], [[Ukraine]]
+|attendance = 61,561
+|referee    = [[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|result     = W
+}}
+
+===UEFA Super Cup===
+{{Main|2017 UEFA Super Cup}}
+
+{{football box collapsible
+|date       = 8 August 2017
+|time       = 20:45
+|team1      = Real Madrid {{flagicon|ESP}}
+|score      = 2–1
+|report     = http://www.uefa.com/uefasupercup/season=2017/matches/round=2000896/match=2022539/index.html
+|team2      = {{flagicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     = 
+*[[Casemiro]] {{goal|24}}
+*[[Isco]] {{goal|52}}
+*[[Dani Carvajal|Carvajal]] {{yel|84}}
+*[[Sergio Ramos|Ramos]] {{yel|86}}
+|goals2     = 
+*[[Jesse Lingard|Lingard]] {{yel|42}}
+*[[Romelu Lukaku|Lukaku]] {{goal|62}}
+*[[Marcus Rashford|Rashford]] {{yel|90+4}}
+|stadium    = [[Philip II Arena]]
+|location   = [[Skopje]], [[Republic of Macedonia|Macedonia]]
+|attendance = 30,421
+|referee    = [[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|result     = W
+}}
+
+===FIFA Club World Cup===
+{{Main|2017 FIFA Club World Cup}}
+Madrid joined the competition in the semi-finals.
+
+{{football box collapsible
+|round      = [[2017 FIFA Club World Cup#Semi-finals|Semi-finals]]
+|date       = 13 December 2017
+|time       = 21:00 ([[Gulf Standard Time|UTC+4]])
+|team1      = [[Al Jazira Club|Al-Jazira]] {{flagicon|UAE}}
+|score      = 1–2
+|report     = https://www.fifa.com/clubworldcup/matches/round=279803/match=300398167/report.html
+|team2      = {{flagicon|ESP}} Real Madrid
+|goals1     =
+*[[Romarinho (footballer, born December 1990)|Romarinho]] {{goal|41}}
+*[[Mohammed Ali Ayed|Ayed]] {{yel|68}}
+|goals2     =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|53}}
+*[[Gareth Bale|Bale]] {{goal|81}}
+|stadium    = [[Zayed Sports City Stadium]]
+|location   = [[Abu Dhabi]], [[United Arab Emirates]]
+|attendance = 36,650
+|referee    = [[Sandro Ricci]] ([[Brazilian Football Confederation|Brazil]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2017 FIFA Club World Cup Final|Final]]
+|date       = 16 December 2017
+|time       = 21:00 ([[Gulf Standard Time|UTC+4]])
+|team1      = Real Madrid {{flagicon|ESP}}
+|score      = 1–0
+|report     = https://www.fifa.com/clubworldcup/matches/round=279805/match=300398163/report.html
+|team2      = {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|goals1     = 
+*[[Casemiro]] {{yel|27}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|53}}
+|goals2     = 
+|stadium    = [[Zayed Sports City Stadium]]
+|location   = [[Abu Dhabi]], [[United Arab Emirates]]
+|attendance = 41,094
+|referee    = [[César Arturo Ramos|César Ramos]] ([[Mexican Football Federation|Mexico]])
+|result     = W
+}}
+
+==Statistics==
+===Squad statistics===
+{{updated|26 May 2018}}
+
+{{Extended football squad start|[[2017–18 La Liga|La Liga]]|[[2017–18 Copa del Rey|Copa del Rey]]|[[2017 Supercopa de España|Supercopa de España]]|[[2017–18 UEFA Champions League|Champions League]]|[[2017 UEFA Super Cup|Super Cup]]|[[2017 FIFA Club World Cup|Club World Cup]]}}
+{{Efs player|no=1|name=[[Keylor Navas]]|pos=GK|nat=CRC|27|0|1|0|2|0|11|0|1|0|2|0}}
+{{Efs player|no=2|name=[[Dani Carvajal]]|pos=DF|nat=ESP|25|0|4|0|2|0|8|0|1|0|1|0}}
+{{Efs player|no=4|name=[[Sergio Ramos]]|pos=DF|nat=ESP|26|4|1|0|2|0|11|1|1|0|1|0}}
+{{Efs player|no=5|name=[[Raphaël Varane]]|pos=DF|nat=FRA|27|0|1|0|2|0|11|0|1|0|2|0}}
+{{Efs player|no=12|name=[[Marcelo (footballer, born 1988)|Marcelo]]|pos=DF|nat=BRA|26+2|2|0|0|2|0|11|3|1|0|2|0}}
+{{Efs player|no=8|name=[[Toni Kroos]]|pos=MF|nat=GER|26+1|5|0|0|2|0|10+2|0|1|0|1|0}}
+{{Efs player|no=10|name=[[Luka Modrić]]|pos=MF|nat=CRO|23+3|1|2|0|1|0|11|1|1|0|2|0}}
+{{Efs player|no=14|name=[[Casemiro]]|pos=MF|nat=BRA|30|5|1|0|2|0|11+1|1|1|1|2|0}}
+{{Efs player|no=7|name=[[Cristiano Ronaldo]]|pos=FW|nat=POR|27|26|0|0|1|1|13|15|1|0|2|2}}
+{{Efs player|no=9|name=[[Karim Benzema]]|pos=FW|nat=FRA|25+7|5|1|1|2|1|8+1|5|1|0|2|0}}
+{{Efs player|no=11|name=[[Gareth Bale]]|pos=FW|nat=WAL|20+6|16|2|1|1|0|3+4|3|1|0|2|1}}
+{{Efs player|no=13|name=[[Kiko Casilla]]|pos=GK|nat=ESP|10|0|5|0|0|0|2|0|0|0|0|0}}
+{{Efs player|no=6|name=[[Nacho (footballer, born 1990)|Nacho]]|pos=DF|nat=ESP|22+5|3|6|0|0|0|6+2|1|0|0|1|0}}
+{{Efs player|no=22|name=[[Isco]]|pos=MF|nat=ESP|21+9|7|4|1|1|0|10+1|0|1|1|2|0}}
+{{Efs player|no=20|name=[[Marco Asensio]]|pos=FW|nat=ESP|19+14|6|5|2|2|2|3+9|1|1|0|1|0}}
+{{Efs player|no=17|name=[[Lucas Vázquez]]|pos=FW|nat=ESP|16+17|4|5|3|2|0|5+5|1|1|0|2|0}}
+{{Efs player|no=23|name=[[Mateo Kovačić]]|pos=MF|nat=CRO|10+11|0|5|0|2|0|4+3|0|0|0|1|0}}
+{{Efs player|no=15|name=[[Théo Hernandez]]|pos=DF|nat=FRA|10+3|0|6|0|1|0|3|0|0|0|0|0}}
+{{Efs player|no=19|name=[[Achraf Hakimi]]|pos=DF|nat=MAR|8+1|2|5|0|0|0|2|0|0|0|1|0}}
+{{Efs player|no=3|name=[[Jesús Vallejo]]|pos=DF|nat=ESP|7|0|4|0|0|0|1|0|0|0|0|0}}
+{{Efs player|no=18|name=[[Marcos Llorente]]|pos=MF|nat=ESP|5+8|0|6|0|0|0|1|0|0|0|0|0}}
+{{Efs player|no=24|name=[[Dani Ceballos]]|pos=MF|nat=ESP|4+8|2|5|0|1|0|0+4|0|0|0|0|0}}
+{{Efs player|no=21|name=[[Borja Mayoral]]|pos=FW|nat=ESP|3+11|3|6|3|0|0|4|1|0|0|0|0}}
+{{Efs player|no=30|name=[[Luca Zidane]]|pos=GK|nat=FRA|1|0|0|0|0|0|0|0|0|0|0|0}}
+{{Efs player|no=27|name=[[Álvaro Tejero]]|pos=DF|nat=ESP|0|0|2|0|0|0|0|0|0|0|0|0}}
+{{Efs player|no=29|name=[[Francisco Feuillassier]]|pos=MF|nat=ARG|0|0|2|0|0|0|0|0|0|0|0|0}}
+{{Efs player|no=31|name=[[Luismi Quezada]]|pos=DF|nat=DOM|0|0|1|0|0|0|0|0|0|0|0|0}}
+{{Efs player|no=32|name=[[Óscar Rodríguez (footballer, born 1998)|Óscar Rodríguez]]|pos=MF|nat=ESP                            |0|0|1|0|0|0|0|0|0|0|0|0}}
+{{Efs player|no=38|name=[[Jaime Seoane]]|pos=MF|nat=ESP                               |0|0|1|0|0|0|0|0|0|0|0|0}}
+|}
+
+===Goals===
+{{updated|26 May 2018}}
+
+{| class="wikitable"
+|-
+!Rank
+!style="width:150px;"|Player
+!Position
+!La Liga
+!Copa del Rey
+!UEFA CL
+!Other<sup>1</sup>
+!Total
+|-
+|align=center|1
+|{{flagicon|POR}} [[Cristiano Ronaldo]]
+|align=center|{{Abbr|FW|Forward}}
+|align=center|26
+|align=center|0
+|align=center|15
+|align=center|3
+|align=center|'''44'''
+|-
+|align=center|2
+|{{flagicon|WAL}} [[Gareth Bale]]
+|align=center|{{Abbr|FW|Forward}}
+|align=center|16
+|align=center|1
+|align=center|3
+|align=center|1
+|align=center|'''21'''
+|-
+|align=center|3
+|{{flagicon|FRA|1974}} [[Karim Benzema]]
+|align=center|{{Abbr|FW|Forward}}
+|align=center|5
+|align=center|1
+|align=center|5
+|align=center|1
+|align=center|'''12'''
+|-
+|align=center|4
+|{{flagicon|ESP}} [[Marco Asensio]]
+|align=center|{{Abbr|FW|Forward}}
+|align=center|6
+|align=center|2
+|align=center|1
+|align=center|2
+|align=center|'''11'''
+|-
+|align=center|5
+|{{flagicon|ESP}} [[Isco]]
+|align=center|{{Abbr|MF|Midfielder}}
+|align=center|7
+|align=center|1
+|align=center|0
+|align=center|1
+|align=center|'''9'''
+|-
+|align=center|6
+|{{flagicon|ESP}} [[Lucas Vázquez]]
+|align=center|{{Abbr|FW|Forward}}
+|align=center|4
+|align=center|3
+|align=center|1
+|align=center|0
+|align=center|'''8'''
+|-
+|align=center rowspan=2|7
+|{{flagicon|BRA}} [[Casemiro]]
+|align=center|{{Abbr|MF|Midfielder}}
+|align=center|5
+|align=center|0
+|align=center|1
+|align=center|1
+|align=center rowspan=2|'''7'''
+|-
+|{{flagicon|ESP}} [[Borja Mayoral]]
+|align=center|{{Abbr|FW|Forward}}
+|align=center|3
+|align=center|3
+|align=center|1
+|align=center|0
+|-
+|align=center rowspan=3|9
+|{{flagicon|GER}} [[Toni Kroos]]
+|align=center|{{Abbr|MF|Midfielder}}
+|align=center|5
+|align=center|0
+|align=center|0
+|align=center|0
+|align=center rowspan=3|'''5'''
+|-
+|{{flagicon|BRA}} [[Marcelo (footballer, born 1988)|Marcelo]]
+|align=center|{{Abbr|DF|Defender}}
+|align=center|2
+|align=center|0
+|align=center|3
+|align=center|0
+|-
+|{{flagicon|ESP}} [[Sergio Ramos]]
+|align=center|{{Abbr|DF|Defender}}
+|align=center|4
+|align=center|0
+|align=center|1
+|align=center|0
+|-
+|align=center|12
+|{{flagicon|ESP}} [[Nacho (footballer, born 1990)|Nacho]]
+|align=center|{{Abbr|DF|Defender}}
+|align=center|3
+|align=center|0
+|align=center|1
+|align=center|0
+|align=center|'''4'''
+|-
+|align=center rowspan=3|13
+|{{flagicon|ESP}} [[Dani Ceballos]]
+|align=center|{{Abbr|MF|Midfielder}}
+|align=center|2
+|align=center|0
+|align=center|0
+|align=center|0
+|align=center rowspan=3|'''2'''
+|-
+|{{flagicon|MAR}} [[Achraf Hakimi]]
+|align=center|{{Abbr|DF|Defender}}
+|align=center|2
+|align=center|0
+|align=center|0
+|align=center|0
+|-
+|{{flagicon|CRO}} [[Luka Modrić]]
+|align=center|{{Abbr|MF|Midfielder}}
+|align=center|1
+|align=center|0
+|align=center|1
+|align=center|0
+|-
+|colspan=3 align=center|Own goals
+|align=center|3
+|align=center|0
+|align=center|0
+|align=center|1
+|align=center|'''4'''
+|-
+!align=center colspan=3|Total
+!align=center|94
+!align=center|11
+!align=center|33
+!align=center|10
+!align=center|148
+|}
+<small><sup>1</sup> Includes [[2017 UEFA Super Cup]], [[2017 Supercopa de España]] and [[2017 FIFA Club World Cup]].</small>
+
+===Clean sheets===
+{{updated|26 May 2018}}
+
+{|class="wikitable" style="text-align: center;"
+|-
+!Rank
+!Name
+!La Liga
+!Copa del Rey
+!UEFA CL
+!Other<sup>1</sup>
+!Total
+|-
+|1
+|align=left|{{flagicon|CRC}} [[Keylor Navas]]
+|7
+|0
+|2
+|2
+|'''11'''
+|-
+|2
+|align=left|{{flagicon|ESP}} [[Kiko Casilla]]
+|3
+|3
+|1
+|0
+|'''7'''
+|-
+!colspan=2|Total!!10!!3!!3!!2!!18
+|}
+<small><sup>1</sup> Includes [[2017 UEFA Super Cup]], [[2017 Supercopa de España]] and [[2017 FIFA Club World Cup]].</small>
+
+===Disciplinary record===
+{{fb disc header 3|c1=La Liga|c2=Copa del Rey|c3=UEFA CL|c4=Other<sup>1</sup>}}
+{{Fb disc player 3|p=[[Dani Carvajal]]                           |nb=ESP |n=2 |pos=DF |yc1=11|syc1=0 |rc1=1 |yc2=0 |syc2=0 |rc2=0 |yc3=4 |syc3=0 |rc3=0 |yc4=2 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Marcelo (footballer, born 1988)|Marcelo]] |nb=BRA |n=12|pos=DF |yc1=3 |syc1=0 |rc1=1 |yc2=0 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Jesús Vallejo]]                           |nb=ESP |n=3 |pos=DF |yc1=0 |syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=1 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Sergio Ramos]]                            |nb=ESP |n=4 |pos=DF |yc1=7 |syc1=2 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=3 |syc3=0 |rc3=0 |yc4=1 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Cristiano Ronaldo]]                       |nb=POR |n=7 |pos=FW |yc1=1 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=1 |rc4=0}}
+{{Fb disc player 3|p=[[Casemiro]]                                |nb=BRA |n=14|pos=MF |yc1=8 |syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=2 |syc3=0 |rc3=0 |yc4=2 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Nacho (footballer, born 1990)|Nacho]]     |nb=ESP |n=6 |pos=DF |yc1=7 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Gareth Bale]]                             |nb=WAL |n=11|pos=FW |yc1=5 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=1 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Luka Modrić]]                             |nb=CRO |n=10|pos=MF |yc1=3 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=2 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Mateo Kovačić]]                           |nb=CRO |n=23|pos=MF |yc1=2 |syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=2 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Raphaël Varane]]                          |nb=FRA |n=5 |pos=DF |yc1=3 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Toni Kroos]]                              |nb=GER |n=8 |pos=MF |yc1=4 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Lucas Vázquez]]                           |nb=ESP |n=17|pos=MF |yc1=3 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Keylor Navas]]                            |nb=CRC |n=1 |pos=GK |yc1=1 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=1 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Marco Asensio]]                           |nb=ESP |n=20|pos=FW |yc1=2 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Isco]]                                    |nb=ESP |n=22|pos=MF |yc1=1 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=1 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Théo Hernandez]]                          |nb=FRA |n=15|pos=DF |yc1=1 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Marcos Llorente]]                         |nb=ESP |n=18|pos=MF |yc1=1 |syc1=0 |rc1=0 |yc2=0 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc player 3|p=[[Óscar Rodríguez (footballer, born 1998)|Óscar Rodríguez]]                             |nb=ESP |n=32|pos=MF |yc1=0 |syc1=0 |rc1=0 |yc2=1 |syc2=0 |rc2=0 |yc3=0 |syc3=0 |rc3=0 |yc4=0 |syc4=0 |rc4=0}}
+{{Fb disc footer 3|s=Matches|u=26 May 2018|date=August 2017}}
+
+<small><sup>1</sup> Includes [[2017 UEFA Super Cup]], [[2017 Supercopa de España]] and [[2017 FIFA Club World Cup]].</small>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|http://www.realmadrid.com/en}}
+
+{{Real Madrid CF seasons}}
+{{2017–18 in Spanish football}}
+
+{{DEFAULTSORT:2017-18 Real Madrid C.F. Season}}
+[[Category:Real Madrid CF seasons]]
+[[Category:Spanish football clubs 2017–18 season|Real Madrid]]
+[[Category:2017–18 La Liga|Real Madrid]]
+[[Category:2017 FIFA Club World Cup participants seasons|Real Madrid]]
+[[Category:2017–18 UEFA Champions League participants seasons|Real Madrid]]
+[[Category:UEFA Champions League–winning seasons]]
+[[Category:FIFA Club World Cup–winning seasons]]
+[[Category:2017 in Madrid]]
+[[Category:2018 in Madrid]]

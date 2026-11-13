@@ -1,0 +1,2587 @@
+{{Short description|Italian football club season}}
+{{Use dmy dates|date=June 2020}}
+
+{{Infobox football club season
+|club               = [[Juventus FC|Juventus]]
+|season             = [[2020–21 in Italian football|2020–21]]
+|image              = 
+|image_size         = 
+|alt                = 
+|caption            = 
+|chrtitle           = 
+|ownertitle         = 
+|owner              = 
+|chairman           = [[Andrea Agnelli]]
+|mgrtitle           = Head coach
+|manager            = [[Andrea Pirlo]]
+|stdtitle           = 
+|stadium            = [[Juventus Stadium]]
+|league             = [[Serie A]]
+|league result      = [[2020–21 Serie A|4th]]
+|cup1               = [[Coppa Italia]]
+|cup1 result        = '''[[2020–21 Coppa Italia|Winners]]'''
+|cup2               = [[Supercoppa Italiana]]
+|cup2 result        = '''[[2020 Supercoppa Italiana|Winners]]'''
+|cup3               = [[UEFA Champions League]]
+|cup3 result        = [[2020–21 UEFA Champions League|Round of 16]]
+|league topscorer   = <br>[[Cristiano Ronaldo]] (29)
+|season topscorer   = <br>Cristiano Ronaldo (36)
+|highest attendance = 
+|lowest attendance  = 
+|average attendance = 
+|largest win        = [[Parma Calcio 1913|Parma]] 0–4 Juventus<br>Juventus 4–0 [[S.P.A.L.|SPAL]]
+|largest loss       = Juventus 0–3 [[ACF Fiorentina|Fiorentina]]<br>Juventus 0–3 [[A.C. Milan|AC Milan]]
+| pattern_la1 = _juventus2021H
+| pattern_b1  = _juventus2021H
+| pattern_ra1 = _juventus2021H
+| pattern_sh1 = _juventus2021h
+| pattern_so1 = _jfc2021h
+| leftarm1    = FFFFFF
+| body1       = FFFFFF
+| rightarm1   = FFFFFF
+| shorts1     = FFFFFF
+| socks1      = FFFFFF
+| pattern_la2 = _juventus2021a
+| pattern_b2 = _juventus2021a
+| pattern_ra2 = _juventus2021a
+| pattern_sh2 = _juventus2021a
+| pattern_so2 = _3_stripes_white
+| leftarm2 = 103055
+| body2 = 103055
+| rightarm2 = 103055
+| shorts2 = 103055
+| socks2 = 103055
+| pattern_la3 = _juventus2021t
+| pattern_b3 = _juventus2021t
+| pattern_ra3 = _juventus2021t
+| pattern_sh3 = _juventus2021t
+| pattern_so3 = _3_stripes_black
+| leftarm3  = FE7E16
+| body3     = FE7E16
+| rightarm3 = FE7E16
+| shorts3 = FE7E16
+| socks3  = FE7E16
+|prevseason         = [[2019–20 Juventus FC season|2019–20]]
+|nextseason         = [[2021–22 Juventus FC season|2021–22]]
+}}
+
+The '''2020–21 season''' was the 123rd season in the existence of [[Juventus FC|Juventus]] and the club's 14th consecutive season in the top flight of [[Football in Italy|Italian football]]. In addition to the [[2020–21 Serie A|domestic league]], Juventus participated in this season's editions of the [[2020–21 Coppa Italia|Coppa Italia]], the [[2020 Supercoppa Italiana|Supercoppa Italiana]], and the [[2020–21 UEFA Champions League|UEFA Champions League]]. The season covered the period from 1 September 2020 to 30 June 2021. On 25 November 2021, an eight-episode docu-series called ''All or Nothing: Juventus'', which followed the club throughout the season, by spending time with the players behind the scenes both on and off the field, was released on [[Amazon Prime]].<ref>{{cite web|url=https://www.cbssports.com/soccer/news/all-or-nothing-juventus-faithfully-captures-a-unique-moment-of-turbulence-in-the-italian-giants-history/|title='All or Nothing: Juventus' faithfully captures a unique moment of turbulence in the Italian giant's history|publisher=cbssports.com|date=25 November 2021}}</ref>
+
+==Players==
+===Squad information===
+<small>Players and squad numbers last updated on 2 May 2021. Appearances include league matches only.<ref>{{cite web|title=First Team Men|url=https://www.juventus.com/en/teams/first-team-men/squad/|publisher=juventus.com|date=2 May 2021|access-date=2 May 2021}}</ref></small><br><small>Note: Flags indicate national team as has been defined under [[FIFA eligibility rules]]. Players may hold more than one non-FIFA nationality.</small>
+{| class="wikitable" style="text-align:left; font-size:90%; width:100%;"
+|-
+! style="background:#000; color:white; text-align:center;"| No.
+! style="background:#000; color:white; text-align:center;"| Name
+! style="background:#000; color:white; text-align:center;"| Nat.
+! style="background:#000; color:white; text-align:center;"| Position(s)
+! style="background:#000; color:white; text-align:center;"| Date of birth (age)
+! style="background:#000; color:white; text-align:center;"| Signed in
+! style="background:#000; color:white; text-align:center;"| Contract ends
+! style="background:#000; color:white; text-align:center;"| Signed from
+! style="background:#000; color:white; text-align:center;"| Transfer fee
+! style="background:#000; color:white; text-align:center;"| Apps.
+! style="background:#000; color:white; text-align:center;"| Goals
+|-
+! colspan=11 style="background:#dcdcdc; text-align:center;"| Goalkeepers
+|-
+| 1
+| [[Wojciech Szczęsny]]
+| {{flagicon|POL}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|2021|6|30|df=yes|1990|4|18}}
+| 2017
+| 2024<ref>{{cite web|url=https://www.juventus.com/en/news/news/2020/szczesny-renewal.php|title=Szczesny renews!|website=juventus.com|publisher=Juventus F.C.|date=11 February 2020}}</ref>
+| {{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+| €12M<ref>{{cite web|url=http://www.football-italia.net/106018/official-juve-sign-szczesny|title=OFFICIAL: Juve sign Szczesny|website=football-italia.net|publisher=Football Italia|date=19 July 2017}}</ref>
+|74
+|0
+|-
+| 31
+| [[Carlo Pinsoglio]]
+| {{flagicon|ITA}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|2021|6|30|df=yes|1990|3|16}}
+| 2014
+| 2021<ref>{{cite web|url=http://www.juventus.com/en/news/news/2018/carlo-pinsoglio-stays-black-and-white.php|title=Pinsoglio stays black and white|website=juventus.com|publisher=Juventus F.C.|date=27 September 2018}}</ref>
+| {{flagicon|ITA}} [[Juventus F.C. Youth Sector|Youth Sector]]
+| N/A
+|3
+|0
+|-
+| 77
+| [[Gianluigi Buffon]]
+| {{flagicon|ITA}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|2021|6|30|df=yes|1978|01|28}}
+| 2019
+| 2021<ref name=buffchi>{{cite news|url=https://www.juventus.com/en/news/articles/gigi-and-chiello-2021|title=GIGI AND CHIELLO, 2021!|date=29 June 2020|access-date=29 June 2020|publisher=Juventus}}</ref>
+| {{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|Free<ref>{{cite web|url=https://www.juventus.com/en/news/news/2019/welcome-home-gigi.php|title=Welcome home, Gigi!|website=Juventus Official Website}}</ref>
+|509
+|0
+|-
+! colspan=11 style="background:#dcdcdc; text-align:center;"|Defenders
+|-
+| 3
+| [[Giorgio Chiellini]] ([[Captain (association football)|C]])
+| {{flagicon|ITA}}
+| [[Centre back|CB]]
+| {{Birth date and age2|2021|6|30|df=yes|1984|8|14}}
+| 2005
+| 2021<ref name=buffchi/>
+| {{flagicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+| €7.4M<ref>{{cite web|url=http://www.juventus.com/media/native/investor-relations-docs/english/price-sensitive-press-releases/2004-2005/comunicato%2031082004%20cannavaro_chiellini%20eng.pdf|title=Juventus Football Club: Operations concerning players' registration rights|publisher=juventus.com|access-date=26 April 2016|archive-date=5 March 2016|archive-url=https://web.archive.org/web/20160305021508/http://www.juventus.com/media/native/investor-relations-docs/english/price-sensitive-press-releases/2004-2005/comunicato%2031082004%20cannavaro_chiellini%20eng.pdf|url-status=dead}}</ref><ref>{{cite web|url=http://www.repubblica.it/2005/f/sezioni/sport/calcio/calciomerc/calciomerc/calciomerc.html|title=Comproprietà, Chiellini alla Juve per Miccoli si andrà alle buste|publisher=repubblica.it|access-date=26 April 2016}}</ref>
+|387
+|27
+|-
+| 4
+| [[Matthijs de Ligt]]
+| {{flagicon|NED}}
+| [[Centre back|CB]]
+| {{Birth date and age2|2021|6|30|df=yes|1999|8|12}}
+| 2019
+| 2024
+| {{flagicon|NED}} [[AFC Ajax|Ajax]]
+| €75M<ref>{{cite web|url=https://www.juventus.com/en/news/news/2019/de-ligt-is-bianconero.php|title=de Ligt is Bianconero!|publisher=juventus.com|access-date=18 July 2019}}</ref>
+|29
+|4
+|-
+| 12
+| [[Alex Sandro]]
+| {{flagicon|BRA}}
+| [[Left back (association football)|LB]] / [[Left wing-back|LWB]]
+| {{Birth date and age2|2021|6|30|df=yes|1991|1|26}}
+| 2015
+| 2023<ref name="Alex Sandro stays Bianconero until 2023!">{{cite web|url=http://www.juventus.com/en/news/news/2018/alex-sandro-stays-bianconero-until-2023.php|title=Alex Sandro stays Bianconero until 2023!|publisher=Juventus.com|date=20 December 2018}}</ref>
+| {{flagicon|POR}} [[FC Porto|Porto]]
+| €26M<ref>{{cite web|url=http://www.juventus.com/media/native/investor-relations-docs/english/price-sensitive-press-releases/2015-2016/comunicato%2020082015%20alexsandro%20eng.pdf|title=Agreement with Porto for the Acquisition of the player Alex Sandro|publisher=juventus.com|access-date=26 April 2016|archive-date=27 January 2016|archive-url=https://web.archive.org/web/20160127223533/http://www.juventus.com/media/native/investor-relations-docs/english/price-sensitive-press-releases/2015-2016/comunicato%2020082015%20alexsandro%20eng.pdf|url-status=dead}}</ref>
+|135
+|11
+|-
+| 13
+| [[Danilo (footballer, born July 1991)|Danilo]]
+| {{flagicon|BRA}}
+| [[Right back (association football)|RB]] / [[Right wing-back|RWB]]
+| {{Birth date and age2|2021|6|30|df=yes|1991|7|15}}
+| 2019
+| 2024
+| {{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+| €37M<ref>{{cite web|url=https://www.juventus.com/en/news/news/2019/official-danilo-is-bianconero.php|title=Danilo is Bianconero!|publisher=juventus.com|date=7 August 2019}}</ref>
+|22
+|2
+|-
+| 16
+| [[Juan Cuadrado]]
+| {{flagicon|COL}}
+| [[Right back (association football)|RB]] / [[Right wing-back|RWB]] / [[Right winger (association football)|RW]]
+| {{Birth date and age2|2021|6|30|df=yes|1988|5|26}}
+| 2016
+| 2022<ref>{{cite web|url=https://www.juventus.com/en/news/news/2019/cuadrado-and-juventus-together-until-2022.php|title=Cuadrado and Juventus together until 2022!|date=21 November 2019|access-date=21 November 2019}}</ref>
+| {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| €25M<ref>{{Cite news |title=Cuadrado, ransom! |url=http://www.juventus.com/it/news/news/2017/la-juve-riscatta-cuadrado.php |publisher=Juventus Official Site |date=22 May 2017 |access-date=22 May 2017}}</ref>
+|130
+|13
+|-
+| 19
+| [[Leonardo Bonucci]]
+| {{flagicon|ITA}}
+| [[Centre back|CB]]
+| {{Birth date and age2|2021|6|30|df=yes|1987|5|1}}
+| 2018<ref name="Welcome back, Leo!">{{cite news|title=Welcome back, Leo!|url=http://www.juventus.com/en/news/news/2018/welcome-back-leonardo-bonucci.php|publisher=juventus.com|date=2 August 2018}}</ref>
+| 2024<ref>{{cite news|url=https://www.juventus.com/en/news/news/2019/bonucci-extension.php|title=Bonucci a Bianconero until 2024!|date=19 November 2019|access-date=19 November 2019|publisher=Juventus F.C.}}</ref>
+| {{flagicon|ITA}} [[A.C. Milan|AC Milan]]
+| €35M<ref name="Welcome back, Leo!"/>
+|291
+|19
+|-
+| 28
+| [[Merih Demiral]]
+| {{flagicon|TUR}}
+| [[Centre back|CB]]
+| {{Birth date and age2|2021|6|30|df=yes|1998|3|5}}
+| 2019
+| 2024
+| {{flagicon|ITA}} [[U.S. Sassuolo|Sassuolo]]
+| €18M<ref>{{cite web|url=https://www.juventus.com/en/news/news/2019/merih-demiral---bianconero-.php|title=Merih Demiral is Bianconero!|date=5 July 2019|access-date=5 July 2019|publisher=Juventus F.C.}}</ref>
+|6
+|1
+|-
+| 36
+| [[Alessandro Di Pardo]]
+| {{flagicon|ITA}}
+| [[Right back (association football)|RB]] / [[Right wing-back|RWB]] / [[Right winger (association football)|RW]]
+| {{Birth date and age2|2021|6|30|df=yes|1999|7|18}}
+| 2018
+| 2023
+| {{flagicon|ITA}} [[S.P.A.L.|SPAL]]
+| €0.5M<ref>{{cite web|url=https://www.juventus.com/en/news/articles/juventus-january-transfer-round-up|title=Juventus January transfer round-up|date=1 February 2018|access-date=31 January 2021|publisher=Juventus F.C.}}</ref>
+|0
+|0
+|-
+| 37
+| [[Radu Drăgușin]]
+| {{flagicon|ROU}}
+| [[Centre back|CB]]
+| {{Birth date and age2|2021|6|30|df=yes|2002|2|3}}
+| 2020
+| 2025
+| {{flagicon|ITA}} [[Juventus F.C. Youth Sector|Youth Sector]]
+| N/A
+|0
+|0
+|-
+| 38
+| [[Gianluca Frabotta]]
+| {{flagicon|ITA}}
+| [[Left back (association football)|LB]]
+| {{Birth date and age2|2021|6|30|df=yes|1999|6|24}}
+| 2019
+| 2023
+| {{flagicon|ITA}} [[Bologna F.C. 1909|Bologna]]
+|€2.6M<ref>{{cite web|url=https://twitter.com/JuventusFCYouth/status/1158683847615234049|title=Gianluca Frabotta è un nuovo giocatore dell'Under23|date=6 August 2020|access-date=6 August 2020|language=it|publisher=Juventus F.C. Youth Sector}}</ref>
+|1
+|0
+|-
+! colspan=11 style="background:#dcdcdc; text-align:center;"| Midfielders
+|-
+| 5
+| [[Arthur Melo|Arthur]]
+| {{flagicon|BRA}}
+| [[Central midfielder|CM]]
+| {{Birth date and age2|2021|6|30|df=yes|1996|8|12}}
+| 2020
+| 2025
+| {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|€72M
+|0
+|0
+|-
+| 8
+| [[Aaron Ramsey]]
+| {{flagicon|WAL}}
+| [[Central Midfielder|CM]] /  [[Attacking Midfielder|AM]]
+| {{Birth date and age2|2021|6|30|df=yes|1990|12|26}}
+| 2019
+| 2023
+| {{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+| Free<ref>{{cite web|url=https://www.juventus.com/en/news/news/2019/aaron-ramsey-signs-for-juventus.php|title=Aaron Ramsey signs for Juventus!|publisher=juventus.com|date=11 February 2019}}</ref>
+|24
+|3
+|-
+| 14
+| [[Weston McKennie]]
+| {{flagicon|USA}}
+| [[Central midfielder|CM]]
+| {{Birth date and age2|2021|6|30|df=yes|1998|8|28}}
+| 2020
+| 2021
+| {{flagicon|GER}} [[FC Schalke 04|Schalke 04]]
+|€4.5M
+|0
+|0
+|-
+| 22
+| [[Federico Chiesa]]
+| {{flagicon|ITA}}
+| [[Midfielder#Attacking midfielder|AM]] / [[Forward (association football)#Winger|RW]]
+| {{Birth date and age2|2021|6|30|df=yes|1997|10|25}}
+| 2020
+| 2022
+| {{flagicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+| €10M<ref name="Chiesa">{{Cite web|url=https://www.juventus.com/en/news/articles/federico-chiesa-is-bianconero|date=5 October 2020|title=Federico Chiesa è bianconero!|website=Juventus F.C.|access-date=5 October 2020}}</ref>
+|0
+|0
+|-
+| 25
+| [[Adrien Rabiot]]
+| {{flagicon|FRA}}
+| [[Central midfielder|CM]]
+| {{Birth date and age2|2021|6|30|df=yes|1995|4|3}}
+| 2019
+| 2023
+| {{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+| Free<ref>{{cite news|title=À bientôt, Rabiot!|url=https://www.juventus.com/en/news/news/2019/a-bientot-adrien-rabiot.php|publisher=juventus.com|date=1 July 2019}}</ref>
+|28
+|1
+|-
+| 30
+| [[Rodrigo Bentancur]]
+| {{flagicon|URU}}
+| [[Central midfielder|CM]]
+| {{Birth date and age2|2021|6|30|df=yes|1997|6|25}}
+| 2017
+| 2024<ref>{{cite web|url=https://www.football-italia.net/139766/official-bentancur-extends-juve|title=Official: Bentancur extends with Juve|publisher=Football Italia|date=22 June 2019}}</ref>
+| {{flagicon|ARG}} [[Boca Juniors]]
+| €9.5M<ref>{{cite web|url=http://www.juventus.com/media/native/investor-relations-docs/english/price-sensitive-press-releases/2015-2016/comunicato%2021042017%20bentancur%20eng.pdf|title=Rodrigo Bentacur Joins Juventus|publisher=juventus.com|access-date=21 April 2017|archive-date=12 February 2018|archive-url=https://web.archive.org/web/20180212005015/http://www.juventus.com/media/native/investor-relations-docs/english/price-sensitive-press-releases/2015-2016/comunicato%2021042017%20bentancur%20eng.pdf|url-status=dead}}</ref>
+|81
+|2
+|-
+| 33
+| [[Federico Bernardeschi]]
+| {{flagicon|ITA}}
+| [[Right winger (association football)|RW]] / [[Left winger (association football)|LW]] / [[Attacking midfielder|AM]]
+| {{Birth date and age2|2021|6|30|df=yes|1994|2|16}}
+| 2017
+| 2022
+| {{flagicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+| €40M<ref>{{cite web|url=http://www.juventus.com/en/news/news/2017/bernardeschi-is-bianconero.php|title=Bernardeschi is a Bianconero! – Juventus.com}}</ref>
+|79
+|7
+|-
+| 41
+| [[Nicolò Fagioli]]
+| {{flagicon|ITA}}
+| [[Central midfielder|CM]]
+| {{Birth date and age2|2021|6|30|df=yes|2001|2|12}}
+| 2019
+| 2023
+| {{flagicon|ITA}} [[Juventus F.C. Youth Sector|Youth Sector]]
+| N/A
+| 0
+| 0
+|-
+| 44
+| [[Dejan Kulusevski]]
+| {{flagicon|SWE}}
+| [[Central midfielder|CM]] / [[Right winger (association football)|RW]]
+| {{Birth date and age2|2021|6|30|df=yes|2000|4|25}}
+| 2020
+| 2024
+| {{flagicon|ITA}} [[Parma Calcio 1913|Parma]]
+| €35M<ref>{{cite web|url=https://www.juventus.com/en/news/news/2020/dejan-kulusevski-joins-juventus.php|title=Dejan Kulusevski is a Juventus player|publisher=Juventus.com|date=2 January 2020}}</ref>
+|1
+|1
+|-
+! colspan=11 style="background:#dcdcdc; text-align:center;"| Forwards
+|-
+| 7
+| [[Cristiano Ronaldo]]
+| {{flagicon|POR}}
+| [[Left winger (association football)|LW]] / [[Striker (association football)|ST]]
+| {{Birth date and age2|2021|6|30|df=yes|1985|2|5}}
+| 2018
+| 2022
+| {{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+| €100M{{ref|a|a}}<ref name="auto">{{cite press release |title=Cristiano Ronaldo signs for Juventus!|url=http://www.juventus.com/en/news/news/2018/cristiano-ronaldo-signs-for-juventus.php |website=juventus.com |date=10 July 2018}}</ref>
+|64
+|52
+|-
+| 9
+| [[Álvaro Morata]]
+| {{flagicon|ESP}}
+| [[Striker (association football)|ST]]
+| {{Birth date and age2|2021|6|30|df=yes|1992|10|23}}
+| 2020
+| 2021
+| {{flagicon|ESP}} [[Atlético Madrid]]
+| €10M<ref name="Morata">{{Cite web|url=https://www.juventus.com/en/news/articles/welcome-home-alvaro|date=22 September 2020|title=Welcome home, Alvaro!|website=Juventus F.C.|access-date=22 September 2020}}</ref>
+| 63
+| 15
+|-
+| 10
+| [[Paulo Dybala]]
+| {{flagicon|ARG}}
+| [[Right winger (association football)|RW]] / [[Attacking midfielder|AM]] / [[Striker (association football)|SS]]
+| {{Birth date and age2|2021|6|30|df=yes|1993|11|15}}
+| 2015
+| 2022<ref>{{cite web|url=http://www.football-italia.net/101060/official-dybala-renews-juventus|title=Official: Dybala renews with Juventus|publisher=Football Italia|date=13 April 2017|access-date=13 April 2017}}</ref>
+| {{flagicon|ITA}} [[Palermo F.C.|Palermo]]
+| €32M<ref>{{cite web|url=http://www.juventus.com/wps/wcm/connect/2415f0d0-9cb1-4394-bb43-0b49efd52466/comunicato+04062015+dybala+ita.pdf?MOD=AJPERES&CACHEID=2415f0d0-9cb1-4394-bb43-0b49efd52466|title=Accordo con il Palermo per l'aquisizione del calciatore Paulo Dybala|publisher=juventus.com|access-date=26 April 2016|archive-url=https://web.archive.org/web/20150630181915/http://www.juventus.com/wps/wcm/connect/2415f0d0-9cb1-4394-bb43-0b49efd52466/comunicato+04062015+dybala+ita.pdf?MOD=AJPERES&CACHEID=2415f0d0-9cb1-4394-bb43-0b49efd52466|archive-date=30 June 2015|url-status=dead}}</ref>
+|162
+|68
+|-
+| 34
+| [[Marco Da Graca]]
+| {{flagicon|ITA}}
+| [[Striker (association football)|ST]]
+| {{Birth date and age2|2021|6|30|df=yes|2002|5|1}}
+| 2020
+| 2022
+| {{flagicon|ITA}} [[Palermo F.C.|Palermo]]
+| Free
+| 0
+| 0
+|-
+| 40
+| [[Giacomo Vrioni]]
+| {{flagicon|ALB}}
+| [[Striker (association football)|ST]]
+| {{Birth date and age2|2021|6|30|df=yes|1998|10|15}}
+| 2020
+| 2024
+| {{flagicon|ITA}} [[U.C. Sampdoria|Sampdoria]]
+| €4M<ref>{{cite web|url=https://www.sampdoria.it/francofonte-gerbi-e-stoppa-sono-blucerchiati-vrioni-passa-alla-juventus/|title=Francofonte, Gerbi e Stoppa sono blucerchiati. Vrioni passa alla Juventus|website=U.C. Sampdoria|date=30 January 2020|access-date=30 January 2020|language=it}}</ref>
+| 1
+| 0
+|-
+| 50
+| [[Hamza Rafia]]
+| {{flagicon|TUN}}
+| [[Attacking midfielder|AM]] / [[Central midfielder|CM]]
+| {{Birth date and age2|2021|6|30|df=yes|1999|4|22}}
+| 2019
+| 2022
+| {{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+| €0.4M<ref>{{cite web|url=https://twitter.com/JuventusFCYouth/status/1151539969321836544|title=3 nuovi arrivi per la #Under23! Erik Gerbi, Hamza Rafia e Daouda Peeters! Benvenuti, ragazzi!|language=it|website=Juventus F.C.|date=17 July 2019|access-date=17 July 2019}}</ref>
+| 0
+| 0
+|-
+| 53
+| [[Félix Correia]]
+| {{flagicon|POR}}
+| [[Striker (association football)|ST]]
+| {{Birth date and age2|2021|6|30|df=yes|2001|1|22}}
+| 2020
+| 2025
+| {{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+| €10.5M<ref>{{Cite web|url=https://www.juventus.com/images/image/upload/fl_attachment/dev/t7hmh503vpvaf8byoz5e.pdf|title=Agreements with Manchester City|date=30 June 2020|website=Juventus F.C.|access-date=30 June 2020}}</ref>
+|0
+|0
+|-
+! colspan=11 style="background:#dcdcdc; text-align:center;"| Players transferred during the season
+|-
+| 2
+| [[Mattia De Sciglio]]
+| {{flagicon|ITA}}
+| [[Right back (association football)|RB]] / [[Right wing-back|RWB]] / [[Left back (association football)|LB]] / [[Left wing-back|LWB]]
+| {{Birth date and age2|2021|6|30|df=yes|1992|10|20}}
+| 2017
+| 2022
+| {{flagicon|ITA}} [[A.C. Milan|AC Milan]]
+| €12M<ref>{{cite web|url=http://www.juventus.com/it/news/news/2017/mattia---de-sciglio---bianconero-.php|title=Mattia De Sciglio è bianconero!|language=it|work=juventus.com|date=20 July 2017|access-date=20 July 2017}}</ref>
+|43
+|1
+|-
+| 6
+| [[Sami Khedira]]
+| {{flagicon|GER}}
+| [[Defensive midfielder|DM]] / [[Central midfielder|CM]]
+| {{Birth date and age2|2021|6|30|df=yes|1987|4|4}}
+| 2015
+| 2021<ref>{{cite web|url=http://www.juventus.com/en/news/videos/2018/sami-khedira-extends-juventus-contract-until-2021.php|title=Sami extends until 2021!|publisher=juventus.com|access-date=12 September 2018}}</ref>
+| {{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+| Free<ref>{{cite web|url=http://www.juventus.com/juve/en/news/khedira+signs+for+juventus|title=Khedira signs for Juventus|publisher=juventus.com|access-date=26 April 2016}}</ref>
+|99
+|21
+|-
+| 11
+| [[Douglas Costa]]
+| {{flagicon|BRA}}
+| [[Left winger (association football)|LW]] / [[Right winger (association football)|RW]]
+| {{Birth date and age2|2021|6|30|df=yes|1990|9|14}}
+| 2017
+| 2022
+| {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| €40M<ref>{{cite web|url=http://www.juventus.com/en/news/news/2018/juventus-make-douglas-costa-deal-permanent.php|title=Juve make Douglas Costa deal permanent |publisher=juventus.com|access-date=7 June 2018}}</ref>
+|71
+|6
+|-
+| 39
+| [[Manolo Portanova]]
+| {{flagicon|ITA}}
+| [[Central midfielder|CM]] / [[Attacking midfielder|AM]]
+| {{Birth date and age2|2021|6|30|df=yes|2000|6|2}}
+| 2019
+| 2023
+|{{flagicon|ITA}} [[Juventus F.C. Youth Sector|Youth Sector]]
+|N/A
+|1
+|0
+|-
+| 52
+| [[Wesley David de Oliveira Andrade|Wesley]]
+| {{flagicon|BRA}}
+| [[Right back (association football)|RB]]
+| {{Birth date and age2|2021|6|30|df=yes|2000|3|13}}
+| 2020
+| 2022
+| {{flagicon|ITA}} [[Hellas Verona F.C.|Hellas Verona]]
+|€1.5M<ref>{{cite web|url=https://twitter.com/JuventusFCYouth/status/1222912679838388224|title=Benvenuto Wesley! Il difensore brasiliano arriva a titolo definitivo dal Verona|language=it|date=30 January 2020|access-date=30 January 2020|website=Juventus F.C.}}</ref>
+|0
+|0
+|-
+|}
+:a.{{note|a}} Additional costs of €12 million to be paid.
+
+==Transfers==
+===Summer 2020===
+====In====
+{| class="wikitable sortable"
+|-
+! style="width:50px;"| Date
+! style="width:10px;"| {{tooltip|Pos.|Position}}
+! style="width:150px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:120px;"| Moving from
+! style="width:330px;" class="unsortable"| Fee
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2020|6|29}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|BRA}} [[Arthur Melo|Arthur]]
+| align="center" | {{Age|1996|8|12|2020|6|29}}
+|align=left| {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+| align=center| €72M+€10M variables
+| <ref>{{Cite web|url=https://www.fcbarcelona.com/en/football/first-team/news/1700293/agreement-with-juventus-for-the-transfer-of-arthur|title=Agreement with Juventus for the transfer of Arthur|date=29 June 2020|website=FC Barcelona|language=en|access-date=29 June 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|8|29}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|USA}} [[Weston McKennie]]
+| align="center" | {{Age|1998|8|28|2020|8|29}}
+|align=left| {{flagicon|GER}} [[FC Schalke 04|Schalke 04]]
+| align=center|€4.5M with option to buy for €18.5M+€7M variables
+|<ref>{{Cite web|url=https://www.juventus.com/en/news/articles/welcome-weston|title= Welcome Weston!|date=29 August 2020|website=Juventus F.C.|language=en|access-date=29 August 2020}}</ref><ref>{{cite web|url=https://schalke04.de/en/team/weston-mckennie-moves-juventus/|title=Weston McKennie moves to Juventus|date=30 August 2020|access-date=30 August 2020|website=FC Schalke 04}}</ref>
+|-
+| {{dts|format=dmy|2020|9|1}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|SWE}} [[Dejan Kulusevski]]
+| align="center" | {{Age|2000|4|25|2020|9|1}}
+|align=left| {{flagicon|ITA}} [[Parma Calcio 1913|Parma]]
+| align=center| End of loan
+| <ref name="training">{{Cite web|url=https://www.juventus.com/it/news/articoli/training-center-gruppo-al-completo|date=10 September 2020|title=Training Center – Gruppo al completo|website=Juventus F.C.|language=it|access-date=11 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|22}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|ESP}} [[Álvaro Morata]]
+| align="center" | {{Age|1992|10|23|2020|9|22}}
+| align=left| {{flagicon|ESP}} [[Atlético Madrid]]
+| align=center| €10M loan with option to buy for €45M
+| <ref name="Morata"/>
+|-
+| {{dts|format=dmy|2020|10|3}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|ITA}} [[Rolando Mandragora]]
+| align="center" | {{Age|1997|6|29|2020|10|3}}
+|align=left| {{flagicon|ITA}} [[Udinese Calcio|Udinese]]
+| align=center| €10.7M
+| <ref name="Mandragora">{{Cite web|url=https://www.juventus.com/en/news/articles/agreement-with-udinese-for-the-acquisition-of-the-player-rolando-mandragora|date=3 October 2020|title=Agreement with Udinese for the acquisition of the player Rolando Mandragora|website=Juventus F.C.|access-date=3 October 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|10|5}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|ITA}} [[Federico Chiesa]]
+| align="center" | {{Age|1997|10|25|2020|10|5}}
+| align=left| {{flagicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+| align=center| €3M loan for the first season, €7M loan for the second season, with an obligation to buy for €40M+€10M variables
+| <ref name="Chiesa"/>
+|}
+
+====Out====
+{| class="wikitable sortable"
+|-
+! style="width:50px;"| Date
+! style="width:10px;"| {{tooltip|Pos.|Position}}
+! style="width:150px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:120px;"| Moving to
+! style="width:330px;" class="unsortable"| Fee
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2020|6|29}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|BIH}} [[Miralem Pjanić]]
+| align="center" | {{Age|1990|4|2|2020|6|29}}
+|align=left| {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+| align=center| €60M+€5M in variables
+| <ref>{{Cite web|url=https://www.juventus.com/en/news/articles/official-arthur-pjanic-agreements-with-fc-barcelona|title=Official Arthur & Pjanić, Agreements with FC Barcelona|date=29 June 2020|website=Juventus F.C.|language=en|access-date=29 June 2020}}</ref><ref>{{Cite web|url=https://www.fcbarcelona.com/en/news/1700297/fc-barcelona-sign-miralem-pjanic/amp|title=FC Barcelona sign Miralem Pjanić|date=29 June 2020|website=FC Barcelona|access-date=16 July 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|8|12}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|FRA}} [[Blaise Matuidi]]
+| align="center" | {{Age|1987|4|9|2020|8|12}}
+|align=left| {{flagicon|USA}} [[Inter Miami CF|Inter Miami]]
+| align=center| Contract terminated
+| <ref>{{Cite web|url=https://www.juventus.com/en/news/articles/thank-you-blaise|title= Thank you, Blaise!|date=12 August 2020|website=Juventus F.C.|access-date=12 August 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|17}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|ARG}} [[Gonzalo Higuaín]]
+| align="center" | {{Age|1987|12|10|2020|9|17}}
+|align=left| {{flagicon|USA}} [[Inter Miami CF|Inter Miami]]
+| align=center| Contract terminated
+| <ref>{{Cite web|url=https://www.juventus.com/en/news/articles/thanks-for-everything-pipita|title= Thanks for everything, Pipita!|date=17 September 2020|website=Juventus F.C.|access-date=17 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|10|3}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Daniele Rugani]]
+| align="center" | {{Age|1994|7|29|2020|10|3}}
+| align=left| {{flagicon|FRA}} [[Stade Rennais F.C.|Rennes]]
+| align=center| On loan until 30 June 2021
+| <ref>{{Cite web|url=https://www.juventus.com/en/news/articles/thanks-for-everything-daniele|date=3 October 2020|title=Thanks for everything, Daniele!|website=Juventus F.C.|access-date=3 October 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|10|3}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|ITA}} [[Rolando Mandragora]]
+| align="center" | {{Age|1997|6|29|2020|10|3}}
+|align=left| {{flagicon|ITA}} [[Udinese Calcio|Udinese]]
+| align=center| On loan until 30 June 2021
+| <ref name="Mandragora"/>
+|-
+| {{dts|format=dmy|2020|10|5}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Mattia De Sciglio]]
+| align="center" | {{Age|1992|10|20|2020|10|5}}
+|align=left| {{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+| align=center| On loan until 30 June 2021
+| <ref>{{Cite web|url=https://www.juventus.com/en/news/articles/thanks-and-good-luck-mattia|date=5 October 2020|title=Thanks and good luck, Mattia!|website=Juventus F.C.|access-date=5 October 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|10|5}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|BRA}} [[Douglas Costa]]
+| align="center" | {{Age|1990|9|14|2020|10|5}}
+|align=left| {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| align=center| On loan until 30 June 2021
+| <ref>{{Cite web|url=https://www.juventus.com/en/news/articles/obrigado-douglas|date=5 October 2020|title=Obrigado, Douglas!|website=Juventus F.C.|access-date=5 October 2020}}</ref>
+|}
+
+====Other acquisitions====
+{| class="wikitable sortable"
+|-
+! style="width:50px;"| Date
+! style="width:10px;"| {{tooltip|Pos.|Position}}
+! style="width:175px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:120px;"| Moving from
+! style="width:150px;" class="unsortable"| Fee
+! style="width:200px;" class="unsortable"| Notes
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2020|6|28}}
+| align=center| {{sortname||GK|Goalkeeper (association football)}}
+| {{flagicon|ITA}} [[Stefano Gori]]
+| align="center" | {{Age|1996|3|9|2020|6|28}}
+|align=left| {{flagicon|ITA}} [[A.C. Pisa|Pisa]]
+| align=center| €2M
+|
+| <ref name="operazioni">{{cite web|url=https://www.juventus.com/it/news/articoli/tutte-le-operazioni-di-mercato|title=Tutte le operazioni di mercato|website=Juventus F.C. |language=it|date=6 October 2020|access-date=6 October 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|6|30}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|POR}} [[Félix Correia]]
+| align="center" | {{Age|2001|1|22|2020|6|30}}
+| align=left| {{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+| align=center| €10.5M
+| align=center| To play with [[Juventus F.C. Under-23|Juventus U23]]
+| <ref>{{Cite web|url=https://www.juventus.com/images/image/upload/fl_attachment/dev/t7hmh503vpvaf8byoz5e.pdf|title=Agreements with Manchester City|date=30 June 2020|website=Juventus F.C.|access-date=30 June 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|1}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|FRA}} [[Felix Nzouango Bikien]]
+| align="center" | {{Age|2003|1|7|2020|9|1}}
+| align=left| {{flagicon|FRA}} [[Amiens SC|Amiens]]
+| align=center| Undisclosed fee
+| align=center| To play with [[Juventus F.C. Youth Sector|Juventus U19]]
+| <ref name="Samuel Iling Jr.-Felix Nzouango Bikien"/>
+|-
+| {{dts|format=dmy|2020|9|1}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|ENG}} [[Samuel Iling-Junior]]
+| align="center" | {{Age|2003|10|3|2020|9|1}}
+| align=left| {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| align=center| Undisclosed fee
+| align=center| To play with [[Juventus F.C. Youth Sector|Juventus U19]]
+| <ref name="Samuel Iling Jr.-Felix Nzouango Bikien">{{cite web|url=https://twitter.com/JuventusFCYouth/status/1300749847348346880|title=Diamo il benvenuto a due nuovi bianconeri|website=Juventus F.C.|date=1 September 2020|language=it|access-date=1 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|1}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|ITA}} [[Hans Nicolussi]]
+| align=center| {{Age|2000|6|18|2020|9|1}}
+| align=left| {{flagicon|ITA}} [[A.C. Perugia Calcio|Perugia]]
+| align=center| End of loan
+|
+|
+|-
+| {{dts|format=dmy|2020|9|1}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}}  [[Luca Pellegrini (footballer, born 1999)|Luca Pellegrini]]
+| align="center" | {{Age|1999|3|7|2020|9|1}}
+| align=left| {{flagicon|ITA}} [[Cagliari Calcio|Cagliari]]
+| align=center| End of loan
+|
+|<ref name="training"/>
+|-
+| {{dts|format=dmy|2020|9|1}}
+| align=center| {{sortname||GK|Goalkeeper (association football)}}
+| {{flagicon|ITA}} [[Mattia Perin]]
+| align="center" | {{Age|1992|11|10|2020|9|1}}
+| align=left| {{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+| align=center| End of loan
+|
+| <ref>{{Cite web|url=https://www.juventus.com/en/news/articles/mattia-perin-joins-genoa-on-loan|title=Mattia Perin joins Genoa on loan|date=4 September 2020|website=Juventus F.C.|access-date=4 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|1}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|CRO}} [[Marko Pjaca]]
+| align=center| {{Age|1995|5|6|2020|9|1}}
+| align=left| {{flagicon|BEL}} [[RSC Anderlecht|Anderlecht]]
+| align=center| End of loan
+|
+| <ref name="operazioni"/>
+|-
+| {{dts|format=dmy|2020|9|1}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ARG}} [[Cristian Romero (footballer, born 1998)|Cristian Romero]]
+| align="center" | {{Age|1998|4|27|2020|9|1}}
+| align=left| {{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+| align=center| End of loan
+|
+| <ref>{{Cite web|url=https://www.juventus.com/en/news/articles/cristian-romero-joins-atalanta-on-loan|title=Cristian Romero joins Atalanta on loan|date=5 September 2020|website=Juventus F.C.|access-date=5 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|2}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|ITA}} [[Andrea Brighenti]]
+| align="center" | {{Age|1987|12|2|2020|9|2}}
+| align=left| {{flagicon|ITA}} [[A.C. Monza|Monza]]
+| align=center| Undisclosed fee
+| align=center| To play with [[Juventus F.C. Under-23|Juventus U23]]
+| <ref>{{cite web|url=https://twitter.com/JuventusFCYouth/status/1301127823382511622|title=Andrea Brighenti è un giocatore della Under23|website=Juventus F.C.|date=2 September 2020|language=it|access-date=2 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|7}}
+| align=center| {{sortname||GK|Goalkeeper (association football)}}
+| {{flagicon|ITA}} [[Matteo Bucosse]]
+| align="center" | {{Age|2002|10|23|2020|9|7}}
+|align=left| {{flagicon|ITA}} [[U.S. Tolentino|Tolentino]]
+| align=center| Undisclosed fee
+| align=center| To play with [[Juventus F.C. Under-23|Juventus U23]]
+| <ref>{{cite web|url=https://twitter.com/JuventusFCYouth/status/1302988412086095872|title=Ufficiale l’arrivo in prestito annuale di Matteo Bucosse dal Tolentino. Benvenuto!|website=Juventus F.C.|date=7 September 2020|language=it|access-date=7 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|11}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Tommaso Barbieri]]
+| align="center" | {{Age|2002|8|26|2020|9|11}}
+|align=left| {{flagicon|ITA}} [[Novara Calcio|Novara]]
+| align=center| Undisclosed fee
+| align=center| To play with [[Juventus F.C. Under-23|Juventus U23]]
+| <ref>{{cite web|url=https://twitter.com/JuventusFCYouth/status/1304419423713923074|title=Tommaso Barbieri è bianconero|website=Juventus F.C.|date=11 September 2020|language=it|access-date=11 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|19}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|SWI}} [[Albian Hajdari]]
+| align="center" | {{Age|2003|5|18|2020|9|19}}
+|align=left| {{flagicon|SWI}} [[FC Basel|Basel]]
+| align=center| Undisclosed fee
+| align=center|
+| <ref name="Hajdari">{{cite web|url=https://twitter.com/FC_Basel_fr/status/1307231544856186884|title=Mercato, Albian Hajdari s’engage à la Juventus F.C.|website=FC Basel|date=19 September 2020|language=fr|access-date=19 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|10|2}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Diego Stramaccioni]]
+| align="center" | {{Age|2001|1|2|2020|10|2}}
+|align=left| {{flagicon|ITA}} [[Vis Pesaro dal 1898|Vis Pesaro]]
+| align=center| Undisclosed fee
+| align=center| On loan to [[Vis Pesaro dal 1898|Vis Pesaro]] until June 2021
+| <ref name="operazioni"/>
+|}
+
+====Other disposals====
+{| class="wikitable sortable"
+|-
+! style="width:50px;"| Date
+! style="width:10px;"| {{tooltip|Pos.|Position}}
+! style="width:150px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:120px;"| Moving to
+! style="width:330px;" class="unsortable"| Fee
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2020|6|28}}
+| align=center| {{sortname||GK|Goalkeeper (association football)}}
+| {{flagicon|ITA}} [[Leonardo Loria]]
+| align="center" | {{Age|1999|3|28|2020|6|28}}
+|align=left| {{flagicon|ITA}} [[A.C. Pisa|Pisa]]
+| align=center| €2M
+| <ref name="operazioni"/>
+|-
+| {{dts|format=dmy|2020|6|29}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|ITA}} [[Simone Muratore]]
+| align="center" | {{Age|1998|5|30|2020|6|29}}
+|align=left| {{flagicon|ITA}} [[Atalanta B.C.|Atalanta]]
+| align=center| €7M
+| <ref>{{Cite web|url=https://www.juventus.com/en/news/articles/official-simone-muratore-sold-to-atalanta|title=Official Simon Muratore sold to Atalanta|date=29 June 2020|website=Juventus F.C.|access-date=29 June 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|6|30}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|ENG}} [[Stephy Mavididi]]
+| align="center" | {{Age|1998|5|31|2020|6|30}}
+|align=left| {{flagicon|FRA}} [[Montpellier HSC|Montpellier]]
+| align=center| €6.3M
+| <ref>{{Cite web|url=https://www.juventus.com/images/image/upload/fl_attachment/dev/lvrj4xzbjxiqcykqk75l.pdf|title=Agreement with Montpellier HSC for the definitive disposal of the player Stephy Alvaro Mavididi|date=30 June 2020|website=Juventus F.C.|access-date=30 June 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|6|30}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|SPA}} [[Pablo Moreno]]
+| align="center" | {{Age|2002|5|3|2020|6|30}}
+|align=left| {{flagicon|ENG}} [[Manchester City F.C.|Manchester City]]
+| align=center| €10M
+| <ref>{{Cite web|url=https://www.juventus.com/images/image/upload/fl_attachment/dev/t7hmh503vpvaf8byoz5e.pdf|title=Agreements with Manchester City|date=30 June 2020|website=Juventus F.C.|access-date=30 June 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|8|25}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|DEN}} [[Nikolai Baden Frederiksen|Nikolai Frederiksen]]
+| align="center" | {{Age|2000|5|18|2020|8|25}}
+|align=left| {{flagicon|AUT}} [[WSG Swarovski Tirol|WSG Tirol]]
+| align=center| On loan
+| <ref name="operazioni"/>
+|-
+| {{dts|format=dmy|2020|9|1}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Pietro Beruatto]]
+| align="center" | {{Age|1998|12|21|2020|9|1}}
+|align=left| {{flagicon|ITA}} [[L.R. Vicenza Virtus|Vicenza]]
+| align=center| On loan with option to buy for undisclosed fee
+| <ref>{{cite web|url=https://www.lrvicenza.net/beruatto-sono-felicissimo-di-essere-tornato-non-vedo-lora-della-prima-partita-al-menti/|website=L.R. Vicenza Virtus|title=Beruatto: "Sono felicissimo di essere tornato, non vedo l’ora della prima partita al Menti"|date=1 September 2020|language=it|access-date=1 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|1}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|ITA}} [[Luca Zanimacchia]]
+| align="center" | {{Age|1998|7|18|2020|9|1}}
+|align=left| {{flagicon|ESP}} [[Real Zaragoza|Zaragoza]]
+| align=center| On loan with option to buy for undisclosed fee
+| <ref>{{cite web|url=https://www.realzaragoza.com/noticias/luca-zanimacchia-nueva-incorporaci-n-del-real-zaragoza|title=Luca Zanimacchia, nueva incorporación del Real Zaragoza|website=Real Zaragoza|date=1 September 2020|language=es|access-date=1 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|1}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|ITA}} [[Matteo Luigi Brunori]]
+| align="center" | {{Age|1994|11|1|2020|9|1}}
+|align=left| {{flagicon|ITA}} [[Virtus Entella]]
+| align=center| On loan with option to buy for undisclosed fee
+| <ref>{{cite web|url=https://www.entella.it/prima-squadra/brunori-e-biancoceleste-benvenuto-matteo/|title=Brunori è biancoceleste! Benvenuto Matteo|website=Virtus Entella|date=1 September 2020|language=it|access-date=1 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|3}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|GER}} [[Idrissa Touré]]
+| align=center| {{Age|1998|4|29|2020|9|3}}
+| align=left| {{flagicon|NED}} [[SBV Vitesse|Vitesse]]
+| align=center| On loan
+| <ref name="operazioni"/>
+|-
+| {{dts|format=dmy|2020|9|4}}
+| align=center| {{sortname||GK|Goalkeeper (association football)}}
+| {{flagicon|ITA}} [[Mattia Perin]]
+| align="center" | {{Age|1992|11|10|2020|9|4}}
+|align=left| {{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+| align=center| On loan
+| <ref>{{cite web|url=https://www.juventus.com/en/news/articles/mattia-perin-joins-genoa-on-loan|title=Mattia Perin joins Genoa on loan|website=Juventus F.C.|date=4 September 2020|access-date=4 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|5}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ARG}} [[Cristian Romero (footballer, born 1998)|Cristian Romero]]
+| align="center" | {{Age|1998|4|27|2020|9|5}}
+|align=left| {{flagicon|ITA}} [[Atalanta B.C.|Atalanta]]
+| align=center| On loan until 2022 for €2M+€2M variables with option to buy for €16M
+| <ref>{{cite web|url=https://www.juventus.com/en/news/articles/cristian-romero-joins-atalanta-on-loan|title=Cristian Romero joins Atalanta on loan|website=Juventus F.C.|date=5 September 2020|access-date=5 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|9}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|ITA}} [[Marco Olivieri]]
+| align="center" | {{Age|1999|6|30|2020|9|9}}
+|align=left| {{flagicon|ITA}} [[Empoli F.C.|Empoli]]
+| align=center| On loan
+| <ref>{{cite web|url=https://empolifc.com/marco-olivieri-e-un-nuovo-calciatore-dellempoli|title=Marco Olivieri è un nuovo calciatore dell'Empoli|website=Empoli Football Club|date=9 September 2020|language=it|access-date=9 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|10}}
+| align=center| {{sortname||GK|Goalkeeper (association football)}}
+| {{flagicon|ITA}} [[Mattia Del Favero]]
+| align="center" | {{Age|1998|6|5|2020|9|10}}
+|align=left| {{flagicon|ITA}} [[Delfino Pescara 1936|Pescara]]
+| align=center| On loan with option to buy
+| <ref>{{cite web|url=https://www.pescaracalcio.com/ufficiale-mattia-del-favero-e-biancazzurro/|title=UFFICIALE – Mattia Del Favero è #BiancAzzurro|website=Delfino Pescara 1936|language=it|date=15 September 2020|access-date=16 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|12}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|CYP}} [[Grigoris Kastanos]]
+| align="center" | {{Age|1998|1|30|2020|9|12}}
+|align=left| {{flagicon|ITA}} [[Frosinone Calcio|Frosinone]]
+| align=center|On loan with option to buy
+| <ref name="operazioni"/>
+|-
+| {{dts|format=dmy|2020|9|15}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|SUI}} [[Joël Ribeiro]]
+| align="center" | {{Age|2003|2|14|2020|9|15}}
+|align=left| {{flagicon|GER}} [[SC Freiburg|Freiburg]]
+| align=center|On loan until June 2022
+| <ref name="operazioni"/>
+|-
+| {{dts|format=dmy|2020|9|19}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|SUI}} [[Albian Hajdari]]
+| align="center" | {{Age|2003|5|18|2020|9|19}}
+| align=left| {{flagicon|SUI}} [[FC Basel|Basel]]
+| align=center| On loan for two seasons
+| <ref name="Hajdari"/>
+|-
+| {{dts|format=dmy|2020|9|19}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|CRO}} [[Marko Pjaca]]
+| align="center" | {{Age|1995|5|6|2020|9|19}}
+| align=left| {{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+| align=center| On loan
+| <ref>{{Cite web|url=https://www.juventus.com/en/news/articles/marko-pjaca-sent-on-loan-to-genoa|date=19 September 2020|title=Marko Pjaca sent on loan to Genoa|website=Juventus F.C.|access-date=19 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|26}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}}  [[Luca Pellegrini (footballer, born 1999)|Luca Pellegrini]]
+| align="center" | {{Age|1999|3|7|2020|9|26}}
+| align=left| {{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+| align=center| On loan
+| <ref>{{Cite web|url=https://www.juventus.com/en/news/articles/luca-pellegrini-loaned-to-genoa|date=26 September 2020|title=Luca Pellegrini loaned to Genoa|website=Juventus F.C.|access-date=26 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|9|28}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|NED}} [[Leandro Fernandes]]
+| align=center| {{Age|1999|12|25|2020|9|28}}
+| align=left| {{flagicon|ITA}} [[Delfino Pescara 1936|Pescara]]
+| align=center| Undisclosed
+| <ref>{{Cite web|url=https://www.pescaracalcio.com/ufficiale-leandro-fernandes-e-biancazzurro/|title=UFFICIALE Leandro Fernandes è BiancAzzurro|date=28 September 2020|website=Pescara Calcio|language=it|access-date=28 September 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|10|2}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Dario Del Fabro]]
+| align="center" | {{Age|1995|3|24|2020|10|2}}
+| align=left| {{flagicon|NED}} [[ADO Den Haag]]
+| align=center| On loan
+| <ref name="operazioni"/>
+|-
+| {{dts|format=dmy|2020|10|5}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|ITA}} [[Hans Nicolussi]]
+| align=center| {{Age|2000|6|18|2020|10|5}}
+| align=left| {{flagicon|ITA}} [[Parma Calcio 1913|Parma]]
+| align=center| On loan
+| <ref>{{Cite web|url=https://parmacalcio1913.com/2020/10/05/hans-nicolussi-caviglia-e-un-giocatore-del-parma-calcio/|title=Hans Nicolussi Caviglia è un nuovo giocatore del Parma Calcio|date=5 October 2020|website=Parma Calcio 1913|language=it|access-date=5 October 2020|archive-date=6 October 2020|archive-url=https://web.archive.org/web/20201006104547/https://parmacalcio1913.com/2020/10/05/hans-nicolussi-caviglia-e-un-giocatore-del-parma-calcio/|url-status=dead}}</ref>
+|-
+| {{dts|format=dmy|2020|10|05}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|FRA}} [[Naouirou Ahamada]]
+| align=center| {{Age|2002|3|29|2020|10|05}}
+| align=left| {{flagicon|GER}} [[VfB Stuttgart]]
+| align=center| On loan with option to buy for €1.5M
+|<ref>{{cite web|url=https://www.vfb.de/en/vfb/latest/news/professionals/2020/transfer-naouirou-ahamada/|title=VfB sign Naouirou Ahamada on loan|website=VfB Stuttgart|date=5 October 2020|access-date=5 October 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|10|12}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|ITA}} [[Luca Clemenza]]
+| align=center| {{Age|1997|7|9|2020|10|12}}
+| align=left| {{flagicon|SUI}} [[FC Sion|Sion]]
+| align=center| On loan
+|<ref>{{cite web|url=https://www.fcsion.ch/fr/news/detail/1538/musa-araz-et-luca-clemenza-s-engagent-avec-le-fc-sion--|title=Musa Araz et Luca Clemenza s'engagent avec le FC Sion !|language=fr|website=Sion|date=10 October 2020|access-date=10 October 2020}}</ref>
+|-
+| {{dts|format=dmy|2020|10|12}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|FRA}} [[Kévin Monzialo]]
+| align="center" | {{Age|2000|7|18|2020|10|12}}
+| align=left| {{flagicon|SUI}} [[FC Lugano|Lugano]]
+| align=center| On loan with option to buy
+| <ref>{{Cite web|url=https://www.fclugano.com/kevin-monzialo-in-prestito-dalla-juventus-u23/|date=12 October 2020|title=Kevin Monzialo in prestito dalla Juventus U23|website=FC Lugano|access-date=12 October 2020|language=it|archive-date=22 January 2022|archive-url=https://web.archive.org/web/20220122100200/https://www.fclugano.com/kevin-monzialo-in-prestito-dalla-juventus-u23/|url-status=dead}}</ref>
+|}
+
+===Winter 2020–21===
+====In====
+{| class="wikitable sortable"
+|-
+! style="width:50px;"| Date
+! style="width:10px;"| {{tooltip|Pos.|Position}}
+! style="width:150px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:120px;"| Moving from
+! style="width:330px;" class="unsortable"| Fee
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2021|2|1}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|ITA}} [[Rolando Mandragora]]
+| align="center" | {{Age|1997|6|29|2021|2|1}}
+|align=left| {{flagicon|ITA}} [[Udinese Calcio|Udinese]]
+| align=center| End of loan
+| <ref name="R. Mandragora">{{cite web|url=https://www.juventus.com/it/news/articoli/rolando-mandragora-in-prestito-al-torino|title=Rolando Mandragora in prestito al Torino|website=Juventus F.C.|date=1 February 2021|access-date=1 February 2021|language=it}}</ref>
+|-
+| {{dts|format=dmy|2021|2|1}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Daniele Rugani]]
+| align="center" | {{Age|1994|7|29|2021|2|1}}
+| align=left| {{flagicon|FRA}} [[Stade Rennais F.C.|Rennes]]
+| align=center| End of loan
+| <ref name="Rugani">{{cite web|url=https://www.juventus.com/it/news/articoli/daniele-rugani-in-prestito-al-cagliari|title=Daniele Rugani in prestito al Cagliari|language=it|website=Juventus F.C.|date=1 February 2021|access-date=1 February 2021}}</ref>
+|}
+
+====Out====
+{| class="wikitable sortable"
+|-
+! style="width:50px;"| Date
+! style="width:10px;"| {{tooltip|Pos.|Position}}
+! style="width:150px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:120px;"| Moving to
+! style="width:330px;" class="unsortable"| Fee
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2021|1|29}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|ITA}} [[Manolo Portanova]]
+| align="center" | {{Age|2000|6|2|2021|1|29}}
+|align=left| {{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+| align=center| €10M+€5M in variables
+| <ref name="Portanova-Petrelli-Rovella">{{Cite web|url=https://www.juventus.com/it/news/articoli/ufficiale-portanova-petrelli-rovella-gli-accordi-con-il-genoa|title=Ufficiale {{!}} Portanova, Petrelli, Rovella: gli accordi con il Genoa|date=29 January 2021|website=Juventus F.C.|language=it|access-date=29 January 2021}}</ref>
+|-
+| {{dts|format=dmy|2021|2|1}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|GER}} [[Sami Khedira]]
+| align="center" | {{Age|1987|4|4|2021|2|1}}
+|align=left| {{flagicon|GER}} [[Hertha BSC]]
+| align=center| Undisclosed fee
+| <ref>{{Cite web|url=https://www.juventus.com/it/news/articoli/grazie-di-tutto-sami|title=Grazie di tutto, Sami!|date=1 February 2021|website=Juventus F.C.|language=it|access-date=1 February 2021}}</ref>
+|-
+| {{dts|format=dmy|2021|2|1}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|ITA}} [[Rolando Mandragora]]
+| align="center" | {{Age|1997|6|29|2021|2|1}}
+|align=left| {{flagicon|ITA}} [[Torino F.C.|Torino]]
+| align=center| On loan with option to buy
+| <ref name="R. Mandragora"/>
+|-
+| {{dts|format=dmy|2021|2|1}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Daniele Rugani]]
+| align="center" | {{Age|1994|7|29|2021|2|1}}
+| align=left| {{flagicon|ITA}} [[Cagliari Calcio|Cagliari]]
+| align=center| On loan
+| <ref name="Rugani"/>
+|}
+
+====Other acquisitions====
+{| class="wikitable sortable"
+|-
+! style="width:50px;"| Date
+! style="width:10px;"| {{tooltip|Pos.|Position}}
+! style="width:150px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:120px;"| Moving from
+! style="width:330px;" class="unsortable"| Fee
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2021|1|14}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|FRA}} [[Abdoulaye Dabo]]
+| align="center" | 19
+|align=left| {{flagicon|FRA}} [[FC Nantes|Nantes]]
+| align=center| On loan, to play for [[Juventus F.C. Under-23|Juventus U23]] with option to buy for €0.5M
+| <ref>{{Cite web|date=14 January 2021|title=Ufficiale, Abdoulaye Dabo alla Juventus: giocherà con l'Under 23|url=https://www.goal.com/it/notizie/ufficiale-abdoulaye-dabo-alla-juventus-giochera-con-lunder/1gbwe4bz0x5z91idj3rvutr352|access-date=14 January 2021|website=Goal.com|language=it}}</ref>
+|-
+| {{dts|format=dmy|2021|1|16}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Davide De Marino]]
+| align="center" | {{Age|2000|3|17|2021|1|16}}
+|align=left| {{flagicon|ITA}} [[F.C. Pro Vercelli 1892|Pro Vercelli]]
+| align=center| To play with [[Juventus F.C. Under-23|Juventus U23]]
+| <ref>{{cite web|url=https://www.fcprovercelli.it/news/123-davide-de-marino-ceduto-alla-juventus|title=Davide De Marino ceduto alla Juventus|website=F.C. Pro Vercelli 1892|language=it|date=16 January 2021|access-date=16 January 2021|archive-date=16 January 2021|archive-url=https://web.archive.org/web/20210116112630/https://www.fcprovercelli.it/news/123-davide-de-marino-ceduto-alla-juventus|url-status=dead}}</ref>
+|-
+| {{dts|format=dmy|2021|1|22}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|CHE}} [[Christopher Lungoyi]]
+| align="center" | {{Age|2000|7|4|2021|1|22}}
+| align=left| {{flagicon|SUI}} [[FC Lugano|Lugano]]
+| align=center| Undisclosed
+| <ref name="Lungoyi">{{cite web|url=https://www.fclugano.com/lungoyi-alla-juventus-ma-resta-in-prestito-monzialo-a-lugano-a-titolo-definitivo/|title=Lungoyi alla Juventus ma resta in prestito; Monzialo a Lugano a titolo definitivo.|website=FC Lugano|language=it|date=22 January 2021|access-date=22 January 2021|archive-date=22 January 2021|archive-url=https://web.archive.org/web/20210122100240/https://www.fclugano.com/lungoyi-alla-juventus-ma-resta-in-prestito-monzialo-a-lugano-a-titolo-definitivo/|url-status=dead}}</ref>
+|-
+| {{dts|format=dmy|2021|1|28}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|FRA}} [[Marley Aké]]
+| align="center" | {{Age|2001|1|5|2021|1|28}}
+|align=left| {{flagicon|FRA}} [[Olympique de Marseille|Marseille]]
+| align=center| €8M, to play with [[Juventus F.C. Under-23|Juventus U23]]
+| <ref name="Aké-Tongya">{{cite web|url=https://www.juventus.com/it/news/articoli/ufficiale-marley-ake-e-bianconero-tongya-al-marsiglia|title=Ufficiale {{!}} Marley Akè è bianconero. Tongya al Marsiglia|language=it|website=Juventus F.C.|date=28 January 2021|access-date=28 January 2021}}</ref>
+|-
+| {{dts|format=dmy|2021|1|29}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|ITA}} [[Nicolò Rovella]]
+| align="center" | {{Age|2001|12|4|2021|1|29}}
+|align=left| {{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+| align=center| €22.5M+€8.5M in variables
+| <ref name="Portanova-Petrelli-Rovella"/>
+|-
+| {{dts|format=dmy|2021|2|1}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Gabriele Boloca]]
+| align="center" | {{Age|2001|3|31|2021|2|1}}
+|align=left| {{flagicon|ITA}} [[A.C. Monza|Monza]]
+| align=center| End of loan
+| <ref name="operazioni inverno">{{cite web|url=https://www.juventus.com/it/news/articoli/la-sessione-invernale-tutte-le-operazioni-di-mercato|title=La sessione invernale {{!}} Tutte le operazioni di mercato|website=Juventus F.C. |language=it|date=2 February 2021|access-date=2 February 2021}}</ref>
+|-
+| {{dts|format=dmy|2021|2|1}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|ITA}} [[Mattia Compagnon]]
+| align="center" | {{Age|2001|11|6|2021|2|1}}
+|align=left| {{flagicon|ITA}} [[Udinese Calcio|Udinese]]
+| align=center|On loan, to play with [[Juventus F.C. Under-23|Juventus U23]] with option to buy for €0,125M
+| <ref name="operazioni inverno"/>
+|-
+| {{dts|format=dmy|2021|2|1}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|ITA}} [[Emanuele Pecorino]]
+| align="center" | {{Age|2000|7|15|2021|2|1}}
+|align=left| {{flagicon|ITA}} [[Calcio Catania|Catania]]
+| align=center|Undisclosed, to play with [[Juventus F.C. Under-23|Juventus U23]]
+| <ref name="operazioni inverno"/>
+|}
+
+====Other disposals====
+{| class="wikitable sortable"
+|-
+! style="width:50px;"| Date
+! style="width:10px;"| {{tooltip|Pos.|Position}}
+! style="width:150px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:120px;"| Moving to
+! style="width:330px;" class="unsortable"| Fee
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2021|1|12}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Giulio Parodi]]
+| align="center" | {{Age|1997|9|30|2021|1|12}}
+|align=left| {{flagicon|ITA}} [[F.C. Pro Vercelli 1892|Pro Vercelli]]
+| align=center|Undisclosed
+| <ref>{{cite web|url=https://www.fcprovercelli.it/news/122-benvenuto-giulio-parodi|title=Benvenuto Giulio Parodi!|website=F.C. Pro Vercelli 1892|language=it|date=12 January 2021|access-date=12 January 2021|archive-date=15 January 2021|archive-url=https://web.archive.org/web/20210115181816/https://www.fcprovercelli.it/news/122-benvenuto-giulio-parodi|url-status=dead}}</ref>
+|-
+| {{dts|format=dmy|2021|1|15}}
+| align=center| {{sortname||GK|Goalkeeper (association football)}}
+| {{flagicon|ITA}} [[Stefano Gori]]
+| align="center" | {{Age|1996|3|9|2021|1|15}}
+|align=left| {{flagicon|ITA}} [[A.C. Pisa|Pisa]]
+| align=center| On loan
+| <ref>{{cite web|url=https://pisachannel.tv/stefano-gori-ritorna-in-nerazzurro/|title=Stefano Gori ritorna in Nerazzurro|website=A.C. Pisa|language=it|date=15 January 2021|access-date=15 January 2021}}</ref>
+|-
+| {{dts|format=dmy|2021|1|22}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|FRA}} [[Kévin Monzialo]]
+| align="center" | {{Age|2000|7|28|2021|1|22}}
+| align=left| {{flagicon|SUI}} [[FC Lugano|Lugano]]
+| align=center| Undisclosed
+| <ref name="operazioni inverno"/>
+|-
+| {{dts|format=dmy|2021|1|22}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|CHE}} [[Christopher Lungoyi]]
+| align="center" | {{Age|2000|7|4|2021|1|22}}
+| align=left| {{flagicon|SUI}} [[FC Lugano|Lugano]]
+| align=center| On loan
+| <ref name="Lungoyi"/>
+|-
+| {{dts|format=dmy|2021|1|26}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Luca Coccolo]]
+| align="center" | {{Age|1998|2|23|2021|1|26}}
+|align=left| {{flagicon|ITA}} [[U.S. Cremonese|Cremonese]]
+| align=center|On loan
+| <ref>{{cite web|url=https://www.uscremonese.it/coccolo-in-grigiorosso/|title=Coccolo in Grigiorosso|website=U.S. Cremonese|language=it|date=26 January 2021|access-date=26 January 2021|archive-date=28 February 2023|archive-url=https://web.archive.org/web/20230228233106/https://www.uscremonese.it/coccolo-in-grigiorosso/|url-status=dead}}</ref>
+|-
+| {{dts|format=dmy|2021|1|28}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|ITA}} [[Franco Tongya]]
+| align="center" | {{Age|2002|5|1|2021|1|28}}
+|align=left| {{flagicon|FRA}} [[Olympique de Marseille|Marseille]]
+| align=center| €8M
+| <ref name="Aké-Tongya"/>
+|-
+| {{dts|format=dmy|2021|1|29}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|ITA}} [[Elia Petrelli]]
+| align="center" | {{Age|2001|8|15|2021|1|29}}
+|align=left| {{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+| align=center|€8M+€5.3M in variables
+| <ref name="Portanova-Petrelli-Rovella"/>
+|-
+| {{dts|format=dmy|2021|1|29}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|ITA}} [[Nicolò Rovella]]
+| align="center" | {{Age|2001|12|4|2021|1|29}}
+|align=left| {{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+| align=center| On loan
+| <ref name="Portanova-Petrelli-Rovella"/>
+|-
+| {{dts|format=dmy|2021|2|1}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|ITA}} [[Nicola Mosti]]
+| align="center" | {{Age|1998|2|7|2021|2|1}}
+|align=left| {{flagicon|ITA}} [[Ascoli Calcio 1898 F.C.|Ascoli]]
+| align=center|Undisclosed
+| <ref name="operazioni inverno"/>
+|-
+| {{dts|format=dmy|2021|2|1}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|BRA}} [[Wesley David de Oliveira Andrade|Wesley]]
+| align="center" | {{Age|2000|3|13|2021|2|1}}
+|align=left| {{flagicon|SUI}} [[FC Sion|Sion]]
+| align=center|On loan
+| <ref>{{cite web|url=https://www.fcsion.ch/fr/news/detail/1702/wesley-debarque-en-pret-au-fc-sion|title=Wesley débarque en prêt au FC Sion|website=FC Sion|language=fr|date=1 February 2021|access-date=1 February 2021}}</ref>
+|}
+
+===End of season===
+
+====Other acquisitions====
+{| class="wikitable sortable"
+|-
+! style="width:50px;"| Date
+! style="width:10px;"| {{tooltip|Pos.|Position}}
+! style="width:150px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:120px;"| Moving from
+! style="width:330px;" class="unsortable"| Fee
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2021|3|3}}
+| align=center| {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|USA}} [[Weston McKennie]]
+| align="center" | {{Age|1999|8|28|2021|3|3}}
+|align=left| {{flagicon|GER}} [[FC Schalke 04|Schalke 04]]
+| align=center| €18.5M+€6.5M in variables
+| <ref>{{cite web|url=https://www.juventus.com/it/news/articoli/ufficiale-il-riscatto-di-weston-mckennie|title=Ufficiale il riscatto di Weston Mckennie|website=Juventus F.C.|date=3 March 2021|access-date=3 March 2021|language=it}}</ref>
+|-
+|-
+| {{dts|format=dmy|2021|5|21}}
+| align=center| {{sortname||FW|Forward (association football)|FW}}
+| {{flagicon|BRA}} [[Douglas Costa]]
+| align="center" | {{Age|1990|9|14|2021|5|21}}
+|align=left| {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| align=center| End of loan
+| <ref>{{cite web|url=https://fcbayern.com/en/news/2021/05/costa-and-dantas-to-leave-fc-bayern|title=Costa und Dantas to leave FC Bayern|website=FC Bayern Munich|date=21 May 2021|access-date=21 May 2021}}</ref>
+|-
+| {{dts|format=dmy|2021|6|15}}
+| align=center| {{sortname||FW|Forward (association football)|FW}}
+| {{flagicon|ESP}} [[Álvaro Morata]]
+| align="center" | {{Age|1992|10|23|2021|6|15}}
+|align=left| {{flagicon|ESP}} [[Atlético Madrid]]
+| align=center| €10M loan renewal
+| <ref>{{cite web|url=https://www.juventus.com/it/news/articoli/ufficiale-morata-e-rinnovo|title=Ufficiale {{!}} Morata: è rinnovo!|website=Juventus F.C.|date=15 June 2021|access-date=15 June 2021|language=it}}</ref>
+|}
+
+====Other disposals====
+{| class="wikitable sortable"
+|-
+! style="width:50px;"| Date
+! style="width:10px;"| {{tooltip|Pos.|Position}}
+! style="width:150px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:120px;"| Moving to
+! style="width:330px;" class="unsortable"| Fee
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2021|5|21}}
+| align=center| {{sortname||FW|Forward (association football)|FW}}
+| {{flagicon|BRA}} [[Douglas Costa]]
+| align="center" | {{Age|1990|9|14|2021|5|21}}
+|align=left| {{flagicon|BRA}} [[Grêmio Foot-Ball Porto Alegrense|Gremio]]
+| align=center| On loan
+| <ref>{{cite web|url=https://www.juventus.com/it/news/articoli/douglas-costa-in-prestito-al-gremio|title=Douglas Costa in prestito al Gremio|website=Juventus F.C.|date=21 May 2021|access-date=21 May 2021|language=it}}</ref>
+|}
+
+==Pre-season and friendlies==
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+
+{{Football box collapsible
+|round = [[Exhibition game|Friendly]]
+|date = 13 September 2020
+|time = 10:30 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1 = Juventus 
+|score = 5–0
+|report = https://www.juventus.com/en/news/articles/match-report-five-goals-in-first-friendly-vs-novara
+|team2 =  [[Novara Calcio|Novara]]
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|20}}
+*[[Aaron Ramsey|Ramsey]] {{goal|56}}
+*[[Marko Pjaca|Pjaca]] {{goal|66}}
+*[[Manolo Portanova|Portanova]] {{goal|90+1||90+3}}
+|goals2 =
+|stadium = [[Juventus Training Center (Vinovo)|Juventus Training Center]]
+|location = Continassa, [[Turin]]
+|referee = Davide Gandino
+|result = W
+}}
+
+==Competitions==
+===Overview===
+{{Fb overview2
+|c=4
+|c1=[[2020–21 Serie A|Serie A]] |fm1=20 September 2020 |lm1=23 May 2021 |sr1=Matchday 1 |fp1=4th |w1=23 |d1=9 |l1=6 |f1=77 |a1=38
+|c2=[[2020–21 Coppa Italia|Coppa Italia]] |fm2=13 January 2021 |lm2=19 May 2021 |sr2=Round of 16 |fp2=Winners |w2=4 |d2=1 |l2=0 |f2=11 |a2=4
+|c3=[[2020 Supercoppa Italiana|Supercoppa Italiana]] |dm3=20 January 2021 |sr3=Final |fp3=Winners |w3=1 |d3=0 |l3=0 |f3=2 |a3=0
+|c4=[[2020–21 UEFA Champions League|Champions League]] |fm4=20 October 2020 |lm4=9 March 2021 |sr4=Group stage |fp4=Round of 16 |w4=6 |d4=0 |l4=2 |f4=18 |a4=8
+|s=[https://www.soccerway.com/team/juventus/C06aJvIB/ Soccerway]
+}}
+
+===Serie A===
+{{main|2020–21 Serie A}}
+
+====League table====
+{{2020–21 Serie A table|showteam=JUV}}
+
+====Results summary====
+{{Fb_rs |hw=14 |hd=2 |hl=3 |hgf=40 |hga=18 |aw=9 |ad=7 |al=3 |agf=37 |aga=20 }}
+{{Fb_rs footer|s=[http://www.legaseriea.it/en/serie-a/league-table Serie A] |date=March 2020}}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b
+| header=Round
+| label1=Ground
+| res1=H/A/H/A/H/A/A/H/A/H/A/H/A/H/H/A/H/A/H/A/H/A/H/A/H/H/A/H/A/H/A/H/A/A/H/A/H/A
+| label2=Result
+| res2=W/D/W/D/D/W/D/W/D/W/W/D/W/L/W/W/W/L/W/W/W/L/W/D/W/W/W/L/D/W/L/W/D/W/L/W/W/W
+| label3=Position
+| pos3=3/6/4/5/5/3/5/4/4/4/4/3/4/6/5/4/4/5/4/4/3/4/3/3/3/3/3/3/4/3/4/4/4/3/5/5/5/4
+| color_W=green2|text_W=Win
+| color_D=yellow2|text_D=Draw
+| color_L=red2|text_L=Loss
+| text_H=Home|text_A=Away
+| color1=gold|color_2–4=green1|color_5–6=blue1|color_7=yellow1|color_18–20=red1
+| source=[http://www.legaseriea.it/en/serie-a/league-table Serie A]
+}}
+
+====Matches====
+The league fixtures were announced on 2 September 2020.<ref>{{cite web |title=Serie A TIM for 2020/2021 announced |url=http://www.legaseriea.it/en/press/news/info/serie-a-tim-for-2020-2021-announced |publisher=Lega Serie A |date=2 September 2020 |access-date=3 November 2020 |archive-date=26 June 2022 |archive-url=https://web.archive.org/web/20220626102110/https://www.legaseriea.it/en/press/news/info/serie-a-tim-for-2020-2021-announced |url-status=dead }}</ref>
+
+{{Football box collapsible
+|round = 1
+|date = 20 September 2020
+|time = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Juventus
+|score = 3–0
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/1/JUVSAM
+|team2 = [[U.C. Sampdoria|Sampdoria]]
+|goals1 =
+*[[Dejan Kulusevski|Kulusevski]] {{goal|13}}
+*[[Leonardo Bonucci|Bonucci]] {{goal|78}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|88}}
+|goals2 =
+|stadium = [[Juventus Stadium]]
+|location = [[Turin]]
+|attendance = About 1,000
+|referee = Marco Piccinini
+|result = W
+}}
+{{Football box collapsible
+|round = 2
+|date = 27 September 2020
+|time = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[A.S. Roma|Roma]]
+|score = 2–2
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/2/ROMJUV
+|team2 = Juventus
+|goals1 =
+*[[Jordan Veretout|Veretout]] {{goal|31|pen.|45+1}}
+|goals2 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|43|pen.|69}}
+|stadium = [[Stadio Olimpico]]
+|location = [[Rome]]
+|attendance = About 1,000
+|referee = [[Marco Di Bello]]
+|result = D
+}}
+{{Football box collapsible
+|round = 4
+|date = 17 October 2020
+|time = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[F.C. Crotone|Crotone]]
+|score = 1–1
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/4/CROJUV
+|team2 = Juventus
+|goals1 =
+*[[Simeon Nwankwo|Simy]] {{goal|12|pen.}}
+|goals2 =
+*[[Álvaro Morata|Morata]] {{goal|21}}
+|stadium = [[Stadio Ezio Scida]]
+|location = [[Crotone]]
+|attendance = About 1,000
+|referee = Francesco Fourneau
+|result = D
+}}
+{{Football box collapsible
+|round = 5
+|date = 25 October 2020
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 1–1
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/5/JUVVER
+|team2 = [[Hellas Verona F.C.|Hellas Verona]]
+|goals1 =
+*[[Dejan Kulusevski|Kulusevski]] {{goal|78}}
+|goals2 =
+*[[Andrea Favilli (footballer)|Favilli]] {{goal|60}}
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = About 1,000
+|referee = Fabrizio Pasqua
+|result = D
+}}
+{{Football box collapsible
+|round = 6
+|date = 1 November 2020
+|time = 15:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Spezia Calcio|Spezia]]
+|score = 1–4
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/6/SPEJUV
+|team2 = Juventus
+|goals1 =
+*[[Tommaso Pobega|Pobega]] {{goal|32}}
+|goals2 =
+*[[Álvaro Morata|Morata]] {{goal|14}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|59||76|pen.}}
+*[[Adrien Rabiot|Rabiot]] {{goal|67}}
+|stadium = [[Stadio Dino Manuzzi]]
+|location = [[Cesena]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy|Due to the [[COVID-19 pandemic in Italy]], the match was played [[Behind closed doors (sport)|behind closed doors]].}}
+|referee = Rosario Abisso
+|result = W
+}}
+{{Football box collapsible
+|round = 7
+|date = 8 November 2020
+|time = 12:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[S.S. Lazio|Lazio]]
+|score = 1–1
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/7/LAZJUV
+|team2 = Juventus
+|goals1 =
+*[[Felipe Caicedo|Caicedo]] {{goal|90+5}}
+|goals2 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|15}}
+|stadium = [[Stadio Olimpico]]
+|location = [[Rome]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = [[Davide Massa]]
+|result = D
+}}
+{{Football box collapsible
+|round = 8
+|date = 21 November 2020
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 2–0
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/8/JUVCAG
+|team2 = [[Cagliari Calcio|Cagliari]]
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|38||42}}
+|goals2 =
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Fabio Maresca
+|result = W
+}}
+{{Football box collapsible
+|round = 9
+|date = 28 November 2020
+|time = 18:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Benevento Calcio|Benevento]]
+|score = 1–1
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/9/BENJUV
+|team2 = Juventus
+|goals1 = 
+*[[Gaetano Letizia|Letizia]] {{goal|45+3}}
+|goals2 = 
+*[[Álvaro Morata|Morata]] {{goal|21}}
+|stadium = [[Stadio Ciro Vigorito]]
+|location = [[Benevento]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Fabrizio Pasqua
+|result = D
+}}
+{{Football box collapsible
+|round = [[Derby della Mole|10]]
+|date = 5 December 2020
+|time = 18:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 2–1
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/10/JUVTOR
+|team2 = [[Torino F.C.|Torino]]
+|goals1 =
+*[[Weston McKennie|McKennie]] {{goal|77}}
+*[[Leonardo Bonucci|Bonucci]] {{goal|89}}
+|goals2 =
+*[[Nicolas Nkoulou|Nkoulou]] {{goal|9}}
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = [[Daniele Orsato]]
+|result = W
+}}
+{{Football box collapsible
+|round = 11
+|date = 13 December 2020
+|time = 18:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Genoa C.F.C.|Genoa]]
+|score = 1–3
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/11/GENJUV
+|team2 = Juventus
+|goals1 =
+*[[Stefano Sturaro|Sturaro]] {{goal|61}}
+|goals2 =
+*[[Paulo Dybala|Dybala]] {{goal|57}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|78|pen.|89|pen.}}
+|stadium = [[Stadio Luigi Ferraris]]
+|location = [[Genoa]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = [[Marco Di Bello]]
+|result = W
+}}
+{{Football box collapsible
+|round = 12
+|date = 16 December 2020
+|time = 18:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 1–1
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/12/JUVATA
+|team2 = [[Atalanta B.C.|Atalanta]]
+|goals1 =
+*[[Federico Chiesa|Chiesa]] {{goal|29}}
+|goals2 =
+*[[Remo Freuler|Freuler]] {{goal|57}}
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Daniele Doveri
+|result = D
+}}
+{{Football box collapsible
+|round = 13
+|date = 19 December 2020
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Parma Calcio 1913|Parma]]
+|score = 0–4
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/13/PARJUV
+|team2 = Juventus
+|goals1 =
+|goals2 =
+*[[Dejan Kulusevski|Kulusevski]] {{goal|23}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|26||48}}
+*[[Álvaro Morata|Morata]] {{goal|86}}
+|stadium = [[Stadio Ennio Tardini]]
+|location = [[Parma]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Gianpaolo Calvarese
+|result = W
+}}
+{{Football box collapsible
+|round = [[ACF Fiorentina–Juventus F.C. rivalry|14]]
+|date = 22 December 2020
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 0–3
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/14/JUVFIO
+|team2 = [[ACF Fiorentina|Fiorentina]]
+|goals1 =
+|goals2 =
+*[[Dušan Vlahović|Vlahović]] {{goal|3}}
+*[[Alex Sandro]] {{goal|76|o.g.}}
+*[[Martín Cáceres|Cáceres]] {{goal|81}}
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Federico La Penna
+|result = L
+}}
+{{Football box collapsible
+|round = 15
+|date = 3 January 2021
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 4–1
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/15/JUVUDI
+|team2 = [[Udinese Calcio|Udinese]]
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|31||70}}
+*[[Federico Chiesa|Chiesa]] {{goal|49}}
+*[[Paulo Dybala|Dybala]] {{goal|90+3}}
+|goals2 =
+*[[Marvin Zeegelaar|Zeegelaar]] {{goal|90}}
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Piero Giacomelli
+|result = W
+}}
+{{Football box collapsible
+|round = [[Juventus F.C.–A.C. Milan rivalry|16]]
+|date = 6 January 2021
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[A.C. Milan|AC Milan]]
+|score = 1–3
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/16/MILJUV
+|team2 = Juventus
+|goals1 =
+*[[Davide Calabria|Calabria]] {{goal|41}}
+|goals2 =
+*[[Federico Chiesa|Chiesa]] {{goal|18||62}}
+*[[Weston McKennie|McKennie]] {{goal|76}}
+|stadium = [[San Siro]]
+|location = [[Milan]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = [[Massimiliano Irrati]]
+|result = W
+}}
+{{Football box collapsible
+|round = 17
+|date = 10 January 2021
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 3–1
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/17/JUVSAS
+|team2 = [[U.S. Sassuolo Calcio|Sassuolo]]
+|goals1 =
+*[[Danilo (footballer, born July 1991)|Danilo]] {{goal|50}}
+*[[Aaron Ramsey|Ramsey]] {{goal|82}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|90+2}}
+|goals2 =
+*[[Grégoire Defrel|Defrel]] {{goal|58}}
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = [[Davide Massa]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[Derby d'Italia|18]]
+|date = 17 January 2021
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Inter Milan|Internazionale]]
+|score = 2–0
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/18/INTJUV
+|team2 = Juventus
+|goals1 =
+*[[Arturo Vidal|Vidal]] {{goal|12}}
+*[[Nicolò Barella|Barella]] {{goal|52}}
+|goals2 =
+|stadium = [[San Siro]]
+|location = [[Milan]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Daniele Doveri
+|result = L
+}}
+{{Football box collapsible
+|round = 19
+|date = 24 January 2021
+|time = 12:30 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 2–0
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/19/JUVBOL
+|team2 = [[Bologna F.C. 1909|Bologna]]
+|goals1 =
+*[[Arthur Melo|Arthur]] {{goal|15}}
+*[[Weston McKennie|McKennie]] {{goal|71}}
+|goals2 =
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Juan Luca Sacchi
+|result = W
+}}
+{{Football box collapsible
+|round = 20
+|date = 30 January 2021
+|time = 18:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[U.C. Sampdoria|Sampdoria]]
+|score = 0–2
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/20/SAMJUV
+|team2 = Juventus
+|goals1 =
+|goals2 =
+*[[Federico Chiesa|Chiesa]] {{goal|20}}
+*[[Aaron Ramsey|Ramsey]] {{goal|90+1}}
+|stadium = [[Stadio Luigi Ferraris]]
+|location = [[Genoa]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Michael Fabbri
+|result = W
+}}
+{{Football box collapsible
+|round = 21
+|date = 6 February 2021
+|time = 18:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 2–0
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/21/JUVROM
+|team2 = [[A.S. Roma|Roma]]
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|13}}
+*[[Roger Ibañez|Ibañez]] {{goal|69|o.g.}}
+|goals2 =
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = [[Daniele Orsato]]
+|result = W
+}}
+{{Football box collapsible
+|round = [[Juventus F.C.–S.S.C. Napoli rivalry|22]]
+|date = 13 February 2021
+|time = 18:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[S.S.C. Napoli|Napoli]]
+|score = 1–0
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/22/NAPJUV
+|team2 = Juventus
+|goals1 =
+*[[Lorenzo Insigne|Insigne]] {{goal|31|pen.}}
+|goals2 =
+|stadium = [[Stadio San Paolo]]
+|location = [[Naples]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Daniele Doveri
+|result = L
+}}
+{{Football box collapsible
+|round = 23
+|date = 22 February 2021
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 3–0
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/23/JUVCRO
+|team2 = [[F.C. Crotone|Crotone]]
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|38||45+1}}
+*[[Weston McKennie|McKennie]] {{goal|66}}
+|goals2 =
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Valerio Marini
+|result = W
+}}
+{{Football box collapsible
+|round = 24
+|date = 27 February 2021
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Hellas Verona F.C.|Hellas Verona]]
+|score = 1–1
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/24/VERJUV
+|team2 = Juventus
+|goals1 =
+*[[Antonín Barák|Barák]] {{goal|77}}
+|goals2 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|49}}
+|stadium = [[Stadio Marcantonio Bentegodi]]
+|location = [[Verona]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Fabio Maresca
+|result = D
+}}
+{{Football box collapsible
+|round = 25
+|date = 2 March 2021
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 3–0
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/25/JUVSPE
+|team2 = [[Spezia Calcio|Spezia]]
+|goals1 =
+*[[Álvaro Morata|Morata]] {{goal|62}}
+*[[Federico Chiesa|Chiesa]] {{goal|71}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|89}}
+|goals2 =
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Juan Luca Sacchi
+|result = W
+}}
+{{Football box collapsible
+|round = 26
+|date = 6 March 2021
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 3–1
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/26/JUVLAZ
+|team2 = [[S.S. Lazio|Lazio]]
+|goals1 =
+*[[Adrien Rabiot|Rabiot]] {{goal|39}}
+*[[Álvaro Morata|Morata]] {{goal|57||60|pen.}}
+|goals2 =
+*[[Joaquín Correa|Correa]] {{goal|14}}
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = [[Davide Massa]]
+|result = W
+}}
+{{Football box collapsible
+|round = 27
+|date = 14 March 2021
+|time = 18:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Cagliari Calcio|Cagliari]]
+|score = 1–3
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/27/CAGJUV
+|team2 = Juventus
+|goals1 =
+*[[Giovanni Simeone|Simeone]] {{goal|61}}
+|goals2 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|10||25|pen.|32}}
+|stadium = [[Sardegna Arena]]
+|location = [[Cagliari]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Gianpaolo Calvarese
+|result = W
+}}
+{{Football box collapsible
+|round = 28
+|date = 21 March 2021
+|time = 15:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 0–1
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/28/JUVBEN
+|team2 = [[Benevento Calcio|Benevento]]
+|goals1 =
+|goals2 =
+*[[Adolfo Gaich|Gaich]] {{goal|69}}
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Rosario Abisso
+|result = L
+}}
+{{Football box collapsible
+|round = 29
+|date = 3 April 2021
+|time = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Torino F.C.|Torino]]
+|score = 2–2
+|report = https://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/29/TORJUV
+|team2 = Juventus
+|goals1 =
+*[[Antonio Sanabria|Sanabria]] {{goal|27||46}}
+|goals2 =
+*[[Federico Chiesa|Chiesa]] {{goal|13}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|79}}
+|stadium = [[Stadio Olimpico Grande Torino]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Michael Fabbri
+|result = D
+}}
+{{Football box collapsible
+|round = 3
+|date = 7 April 2021
+|time = 18:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Juventus
+|score = 2–1
+|report = http://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/3/JUVNAP
+|team2 = [[S.S.C. Napoli|Napoli]]
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|13}}
+*[[Paulo Dybala|Dybala]] {{goal|73}}
+|goals2 =
+*[[Lorenzo Insigne|Insigne]] {{goal|90|pen.}}
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Maurizio Mariani
+|result = W
+|note= The match was initially scheduled to take place on 4 October 2020, but [[S.S.C. Napoli|Napoli]] abandoned the match [[sub judice]] after they did not travel due to the [[COVID-19 pandemic]]. On 14 October 2020, Juventus were awarded a 3–0 victory by default and Napoli docked one point as the Disciplinary Commission ruled Napoli did not follow the COVID-19 protocol.<ref>{{cite web|url=https://www.football-italia.net/160561/napoli-given-3-0-juve-defeat-and-docked-point|title=Napoli given 3-0 Juve defeat and docked point|date=14 October 2020|publisher=Football Italia}}</ref> However, Napoli appealed the result to the [[Italian National Olympic Committee]], and the verdict was overturned on 22 December 2020, to be replayed.<ref>{{cite web|url=https://www.football-italia.net/163888/official-juventus-napoli-will-be-replayed|title=Official: Juventus-Napoli will be replayed|publisher=Football Italia|date=22 December 2020}}</ref> On 3 March 2021, it was announced that the match was to be replayed on 17 March 2021.<ref>{{cite web|url=https://www.football-italia.net/167156/official-juve-napoli-be-replayed-march-17|title=Official: Juve-Napoli to be replayed on March 17|publisher=Football Italia|date=3 March 2021}}</ref> On 12 March 2021, the match was moved to 7 April 2021.<ref>{{cite web|url=https://www.football-italia.net/167625/juventus-vs-napoli-postponed-april-7|title=Juventus vs. Napoli postponed to April 7|publisher=Football Italia|date=12 March 2021}}</ref>
+}}
+{{Football box collapsible
+|round = 30
+|date = 11 April 2021
+|time = 15:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Juventus
+|score = 3–1
+|report = https://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/30/JUVGEN
+|team2 = [[Genoa C.F.C.|Genoa]]
+|goals1 =
+*[[Dejan Kulusevski|Kulusevski]] {{goal|4}}
+*[[Álvaro Morata|Morata]] {{goal|22}}
+*[[Weston McKennie|McKennie]] {{goal|70}}
+|goals2 =
+*[[Gianluca Scamacca|Scamacca]] {{goal|49}}
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = [[Marco Di Bello]]
+|result = W
+}}
+{{Football box collapsible
+|round = 31
+|date = 18 April 2021
+|time = 15:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Atalanta B.C.|Atalanta]]
+|score = 1–0
+|report = https://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/31/ATAJUV
+|team2 = Juventus
+|goals1 =
+*[[Ruslan Malinovskyi|Malinovskyi]] {{goal|87}}
+|goals2 =
+|stadium = [[Stadio Atleti Azzurri d'Italia|Gewiss Stadium]]
+|location = [[Bergamo]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = [[Daniele Orsato]]
+|result = L
+}}
+{{Football box collapsible
+|round = 32
+|date = 21 April 2021
+|time = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Juventus
+|score = 3–1
+|report = https://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/32/JUVPAR
+|team2 = [[Parma Calcio 1913|Parma]]
+|goals1 =
+*[[Alex Sandro]] {{goal|43||47}}
+*[[Matthijs de Ligt|De Ligt]] {{goal|68}}
+|goals2 =
+*[[Gastón Brugman|Brugman]] {{goal|25}}
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Piero Giacomelli
+|result = W
+}}
+{{Football box collapsible
+|round = 33
+|date = 25 April 2021
+|time = 15:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[ACF Fiorentina|Fiorentina]]
+|score = 1–1
+|report = https://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/33/FIOJUV
+|team2 = Juventus
+|goals1 =
+*[[Dušan Vlahović|Vlahović]] {{goal|29|pen.}}
+|goals2 =
+*[[Álvaro Morata|Morata]] {{goal|46}}
+|stadium = [[Stadio Artemio Franchi]]
+|location = [[Florence]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = [[Davide Massa]]
+|result = D
+}}
+{{Football box collapsible
+|round = 34
+|date = 2 May 2021
+|time = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Udinese Calcio|Udinese]]
+|score = 1–2
+|report = https://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/34/UDIJUV
+|team2 = Juventus
+|goals1 =
+*[[Nahuel Molina|Molina]] {{goal|10}}
+|goals2 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|83|pen.|89}}
+|stadium = [[Stadio Friuli]]
+|location = [[Udine]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Daniele Chiffi
+|result = W
+}}
+{{Football box collapsible
+|round = 35
+|date = 9 May 2021
+|time = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Juventus
+|score = 0–3
+|report = https://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/35/JUVMIL
+|team2 = [[A.C. Milan|AC Milan]]
+|goals1 =
+|goals2 =
+*[[Brahim Díaz|Brahim]] {{goal|45+1}}
+*[[Ante Rebić|Rebić]] {{goal|78}}
+*[[Fikayo Tomori|Tomori]] {{goal|82}}
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = [[Paolo Valeri]]
+|result = L
+}}
+{{Football box collapsible
+|round = 36
+|date = 12 May 2021
+|time = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[U.S. Sassuolo Calcio|Sassuolo]]
+|score = 1–3
+|report = https://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/36/SASJUV
+|team2 = Juventus
+|goals1 =
+*[[Giacomo Raspadori|Raspadori]] {{goal|59}}
+|goals2 =
+*[[Adrien Rabiot|Rabiot]] {{goal|28}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|45}}
+*[[Paulo Dybala|Dybala]] {{goal|66}}
+|stadium = [[Mapei Stadium – Città del Tricolore]]
+|location = [[Reggio Emilia]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Piero Giacomelli
+|result = W
+}}
+{{Football box collapsible
+|round = 37
+|date = 15 May 2021
+|time = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = Juventus
+|score = 3–2
+|report = https://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/37/JUVINT
+|team2 = [[Inter Milan|Internazionale]]
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|24}}
+*[[Juan Cuadrado|Cuadrado]] {{goal|45+3||88|pen.}}
+|goals2 =
+*[[Romelu Lukaku|Lukaku]] {{goal|35|pen.}}
+*[[Giorgio Chiellini|Chiellini]] {{goal|83|o.g.}}
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Gianpaolo Calvarese
+|result = W
+}}
+{{Football box collapsible
+|round = 38
+|date = 23 May 2021
+|time = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Bologna F.C. 1909|Bologna]]
+|score = 1–4
+|report = https://www.legaseriea.it/en/serie-a/match-report/2020-21/UNICO/UNI/38/BOLJUV
+|team2 = Juventus
+|goals1 =
+*[[Riccardo Orsolini|Orsolini]] {{goal|85}}
+|goals2 =
+*[[Federico Chiesa|Chiesa]] {{goal|6}}
+*[[Álvaro Morata|Morata]] {{goal|29||47}}
+*[[Adrien Rabiot|Rabiot]] {{goal|45}}
+|stadium = [[Stadio Renato Dall'Ara]]
+|location = [[Bologna]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = [[Paolo Valeri]]
+|result = W
+}}
+
+===Coppa Italia===
+{{main|2020–21 Coppa Italia}}
+
+{{Football box collapsible
+|round = [[2020–21 Coppa Italia#Round of 16|Round of 16]]
+|date = 13 January 2021
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 3–2
+|aet = yes
+|report = http://www.legaseriea.it/en/coppa-italia/match-report/2020-21/OTTAV/UNI/1/JUVGEN
+|team2 = [[Genoa C.F.C.|Genoa]]
+|goals1 =
+*[[Dejan Kulusevski|Kulusevski]] {{goal|2}}
+*[[Álvaro Morata|Morata]] {{goal|23}}
+*[[Hamza Rafia|Rafia]] {{goal|105}}
+|goals2 =
+*[[Lennart Czyborra|Czyborra]] {{goal|28}}
+*[[Filippo Melegoni|Melegoni]] {{goal|74}}
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Daniele Chiffi
+|result = W
+}}
+{{Football box collapsible
+|round = [[2020–21 Coppa Italia#Quarter-finals|Quarter-finals]]
+|date = 27 January 2021
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 4–0
+|report = http://www.legaseriea.it/en/coppa-italia/match-report/2020-21/QUART/UNI/1/JUVSPA
+|team2 = [[S.P.A.L.|SPAL]]
+|goals1 = 
+*[[Álvaro Morata|Morata]] {{goal|16|pen.}}
+*[[Gianluca Frabotta|Frabotta]] {{goal|33}}
+*[[Dejan Kulusevski|Kulusevski]] {{goal|78}}
+*[[Federico Chiesa|Chiesa]] {{goal|90+4}}
+|goals2 = 
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Ivano Pezzuto
+|result = W
+}}
+{{Football box collapsible
+|round = [[2020–21 Coppa Italia#Semi-finals|Semi-finals<br>First leg]]
+|date = 2 February 2021
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[Inter Milan|Internazionale]]
+|score = 1–2
+|report = http://www.legaseriea.it/en/coppa-italia/match-report/2020-21/SEMIF/AND/1/INTJUV
+|team2 = Juventus
+|goals1 = 
+*[[Lautaro Martínez|Martínez]] {{goal|9}}
+|goals2 = 
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|26|pen.|35}}
+|stadium = [[San Siro]]
+|location = [[Milan]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Gianpaolo Calvarese
+|result = W
+}}
+{{Football box collapsible
+|round = [[2020–21 Coppa Italia#Semi-finals|Semi-finals<br>Second leg]]
+|date = 9 February 2021
+|time = 20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 0–0
+|aggregatescore = 2–1
+|report = http://www.legaseriea.it/en/coppa-italia/match-report/2020-21/SEMIF/RIT/1/JUVINT
+|team2 = [[Inter Milan|Internazionale]]
+|goals1 = 
+|goals2 = 
+|stadium = [[Juventus Stadium|Allianz Stadium]]
+|location = [[Turin]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = Maurizio Mariani
+|result = D
+}}
+{{Football box collapsible
+|round = [[2021 Coppa Italia Final|Final]]
+|date = 19 May 2021
+|time = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1 = [[Atalanta B.C.|Atalanta]]
+|score = 1–2
+|report = http://www.legaseriea.it/en/coppa-italia/match-report/2020-21/FINAL/UNI/1/ATAJUV
+|team2 = Juventus
+|goals1 =
+*[[Ruslan Malinovskyi|Malinovskyi]] {{goal|41}}
+|goals2 =
+*[[Dejan Kulusevski|Kulusevski]] {{goal|31}}
+*[[Federico Chiesa|Chiesa]] {{goal|73}}
+|stadium = [[Mapei Stadium – Città del Tricolore]]
+|location = [[Reggio Emilia]]
+|attendance = 4,300
+|referee = [[Davide Massa]]
+|result = W
+}}
+
+===Supercoppa Italiana===
+{{main|2020 Supercoppa Italiana}}
+
+{{Football box collapsible
+|round = [[2020 Supercoppa Italiana|Final]]
+|date = 20 January 2021
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus
+|score = 2–0
+|report = http://www.legaseriea.it/en/supercoppa-italiana/match-report/2020-21/FINAL/UNI/1/JUVNAP
+|team2 = [[S.S.C. Napoli|Napoli]]
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|64}}
+*[[Álvaro Morata|Morata]] {{goal|90+5}}
+|goals2 =
+|stadium = [[Mapei Stadium – Città del Tricolore]]
+|location = [[Reggio Emilia]]
+|attendance = 0{{refn|group=note|name=Behind closed doors in Italy}}
+|referee = [[Paolo Valeri]]
+|result = W
+}}
+
+===UEFA Champions League===
+{{main|2020–21 UEFA Champions League}}
+
+====Group stage====
+{{main|2020–21 UEFA Champions League group stage#Group G}}
+
+The draw for the group stage was held on 1 October 2020.<ref>{{Cite web|url=https://www.uefa.com/uefachampionsleague/news/0262-1081d9c1805c-fff671c9455e-1000--champions-league-group-stage-draw-made/|title=Champions League group stage draw made in Geneva|date=1 October 2020|access-date=1 October 2020|website=[[UEFA]]}}</ref>
+{{:2020–21 UEFA Champions League group stage|transcludesection=Group G|show_matches=yes|showteam=JUV}}
+{{Football box collapsible
+|round = 1
+|date = 20 October 2020
+|time = 19:55 [[Eastern European Summer Time|EEST]] ([[UTC+03:00]])
+|team1 = [[FC Dynamo Kyiv|Dynamo Kyiv]] {{flagicon|UKR}}
+|score = 0–2
+|report = https://www.uefa.com/uefachampionsleague/match/2029387/
+|team2 = {{flagicon|ITA}} Juventus
+|goals1 = 
+|goals2 =
+*[[Álvaro Morata|Morata]] {{goal|46||84}}
+|stadium = [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy]]
+|location = [[Kyiv]], Ukraine
+|attendance = 14,850
+|referee = [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+|result = W
+}}
+{{Football box collapsible
+|round = 2
+|date = 28 October 2020
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1 = Juventus {{flagicon|ITA}}
+|score = 0–2
+|report = https://www.uefa.com/uefachampionsleague/match/2029394/
+|team2 = {{flagicon|ESP}} [[FC Barcelona|Barcelona]]
+|goals1 =
+|goals2 =
+*[[Ousmane Dembélé|Dembélé]] {{goal|14}}
+*[[Lionel Messi|Messi]] {{goal|90+1|pen.}}
+|stadium = [[Juventus Stadium]]
+|location = [[Turin]], Italy
+|attendance = 0{{refn|group=note|name=Behind closed doors in Europe|Due to the [[COVID-19 pandemic in Europe]], the match was played [[Behind closed doors (sport)|behind closed doors]].}}
+|referee = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result = L
+}}
+{{Football box collapsible
+|round = 3
+|date = 4 November 2020
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1 = [[Ferencvárosi TC|Ferencváros]] {{flagicon|HUN}}
+|score = 1–4
+|report = https://www.uefa.com/uefachampionsleague/match/2029410/
+|team2 = {{flagicon|ITA}} Juventus
+|goals1 =
+*[[Franck Boli|Boli]] {{goal|90}}
+|goals2 =
+*[[Álvaro Morata|Morata]] {{goal|7||60}}
+*[[Paulo Dybala|Dybala]] {{goal|73}}
+*[[Lasha Dvali|Dvali]] {{goal|81|o.g.}}
+|stadium = [[Puskás Aréna]]{{refn|group=note|[[Ferencvárosi TC|Ferencváros]] played their home match against [[Juventus FC|Juventus]] at [[Puskás Aréna]], [[Budapest]], instead of their regular home stadium [[Groupama Arena]].<ref>{{cite web |url=https://www.fradi.hu/labdarugas/elso-csapat/hirek/uefa-dontes-a-puskasban-a-juventus-es-a-barcelona |title=UEFA-döntés: a Puskásban a Juventus és a Barcelona |publisher=fradi.hu|language=hu |date=6 October 2020}}</ref>}}
+|location = [[Budapest]], Hungary
+|attendance = 18,531
+|referee = [[Orel Grinfeld]] ([[Israel Football Association|Israel]])
+|result = W
+}}
+{{Football box collapsible
+|round = 4
+|date = 24 November 2020
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1 = Juventus {{flagicon|ITA}}
+|score = 2–1
+|report = https://www.uefa.com/uefachampionsleague/match/2029434/
+|team2 = {{flagicon|HUN}} [[Ferencvárosi TC|Ferencváros]]
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|35}}
+*[[Álvaro Morata|Morata]] {{goal|90+2}}
+|goals2 =
+*[[Myrto Uzuni|Uzuni]] {{goal|19}}
+|stadium = [[Juventus Stadium]]
+|location = [[Turin]], Italy
+|attendance = 0{{refn|group=note|name=Behind closed doors in Europe}}
+|referee = [[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Federation|Germany]])
+|result = W
+}}
+{{Football box collapsible
+|round = 5
+|date = 2 December 2020
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1 = Juventus {{flagicon|ITA}}
+|score = 3–0
+|report = https://www.uefa.com/uefachampionsleague/match/2029443/
+|team2 = {{flagicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|goals1 =
+*[[Federico Chiesa|Chiesa]] {{goal|21}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|57}}
+*[[Álvaro Morata|Morata]] {{goal|66}}
+|goals2 =
+|stadium = [[Juventus Stadium]]
+|location = [[Turin]], Italy
+|attendance = 0{{refn|group=note|name=Behind closed doors in Europe}}
+|referee = [[Stéphanie Frappart]] ([[French Football Federation|France]])
+|result = W
+}}
+{{Football box collapsible
+|round = 6
+|date = 8 December 2020
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1 = [[FC Barcelona|Barcelona]] {{flagicon|ESP}}
+|score = 0–3
+|report = https://www.uefa.com/uefachampionsleague/match/2029466/
+|team2 = {{flagicon|ITA}} Juventus
+|goals1 =
+|goals2 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|13|pen.|52|pen.}}
+*[[Weston McKennie|McKennie]] {{goal|20}}
+|stadium = [[Camp Nou]]
+|location = [[Barcelona]], Spain
+|attendance = 0{{refn|group=note|name=Behind closed doors in Europe}}
+|referee = [[Tobias Stieler]] ([[German Football Association|Germany]])
+|result = W
+}}
+
+====Knockout phase====
+{{main|2020–21 UEFA Champions League knockout phase}}
+
+=====Round of 16=====
+The draw for the round of 16 was held on 14 December 2020.<ref>{{cite news|url=https://www.uefa.com/uefachampionsleague/news/0263-10f40a367baa-d393e355b55a-1000--last-16-draw-all-you-need-to-know|title=Champions League round of 16 draw: all you need to know|date=14 December 2020|website=[[UEFA]]}}</ref>
+
+{{Football box collapsible
+|round = [[2020–21 UEFA Champions League knockout phase#Round of 16|First leg]]
+|date = 17 February 2021
+|time = 20:00 [[Western European Time|WET]] ([[UTC+01:00|UTC+1]])
+|team1 = [[FC Porto|Porto]] {{fbaicon|POR}}
+|score = 2–1
+|report = https://www.uefa.com/uefachampionsleague/match/2029476/
+|team2 = {{flagicon|ITA}} Juventus
+|goals1 =
+*[[Mehdi Taremi|Taremi]] {{goal|2}}
+*[[Moussa Marega|Marega]] {{goal|46}}
+|goals2 =
+*[[Federico Chiesa|Chiesa]] {{goal|82}}
+|stadium = [[Estádio do Dragão]]
+|location = [[Porto]], Portugal
+|attendance = 0{{refn|group=note|name=Behind closed doors in Europe}}
+|referee = [[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+|result = L
+}}
+{{Football box collapsible
+|round = [[2020–21 UEFA Champions League knockout phase#Round of 16|Second leg]]
+|date = 9 March 2021
+|time = 21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1 = Juventus {{fbaicon|ITA}}
+|score = 3–2
+|aet = yes
+|aggregatescore = 4–4 ([[Away goals rule|a]])
+|report = https://www.uefa.com/uefachampionsleague/match/2029482/
+|team2 = {{fbaicon|POR}} [[FC Porto|Porto]]
+|goals1 =
+*[[Federico Chiesa|Chiesa]] {{goal|49||63}}
+*[[Adrien Rabiot|Rabiot]] {{goal|117}}
+|goals2 =
+*[[Sérgio Oliveira|Oliveira]] {{goal|19|pen.|115}}
+|stadium = [[Juventus Stadium]]
+|location = [[Turin]], Italy
+|attendance = 0{{refn|group=note|name=Behind closed doors in Europe}}
+|referee = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|result = W
+}}
+
+==Statistics==
+
+===Appearances and goals===
+{{Efs start|Serie A|Supercoppa Italiana|Coppa Italia|Champions League}}
+|-
+! colspan=14 style=background:#DCDCDC; text-align:center| Goalkeepers
+{{Efs player|no=1 |name=[[Wojciech Szczęsny]]|pos=GK|nat=POL                           |30   |0 |1    |0 |0    |0 |7    |0 }}
+{{Efs player|no=31 |name=[[Carlo Pinsoglio]]|pos=GK|nat=ITA                            |0+1  |0 |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=77 |name=[[Gianluigi Buffon]]|pos=GK|nat=ITA                           |8    |0 |0    |0 |5    |0 |1    |0 }}
+|-
+! colspan=14 style=background:#DCDCDC; text-align:center| Defenders
+{{Efs player|no=3 |name=[[Giorgio Chiellini]]|pos=DF|nat=ITA                           |16+1 |0 |1    |0 |2+2  |0 |3    |0 }}
+{{Efs player|no=4 |name=[[Matthijs de Ligt]]|pos=DF|nat=NED                            |25+2 |1 |0    |0 |4    |0 |4+1  |0 }}
+{{Efs player|no=12 |name=[[Alex Sandro]]|pos=DF|nat=BRA                                |20+6 |2 |0    |0 |2+1  |0 |5    |0 }}
+{{Efs player|no=13 |name=[[Danilo (footballer, born July 1991)|Danilo]]|pos=DF|nat=BRA |32+2 |1 |1    |0 |2+2  |0 |6+1  |0 }}
+{{Efs player|no=16 |name=[[Juan Cuadrado]]|pos=DF|nat=COL                              |26+4 |2 |1    |0 |3    |0 |6    |0 }}
+{{Efs player|no=19 |name=[[Leonardo Bonucci]]|pos=DF|nat=ITA                           |23+3 |2 |1    |0 |0+2  |0 |6    |0 }}
+{{Efs player|no=28 |name=[[Merih Demiral]]|pos=DF|nat=TUR                              |10+5 |0 |0    |0 |4    |0 |3+2  |0 }}
+{{Efs player|no=36 |name=[[Alessandro Di Pardo]]|pos=DF|nat=ITA                        |0+4  |0 |0    |0 |0+1  |0 |0    |0 }}
+{{Efs player|no=37 |name=[[Radu Drăgușin]]|pos=DF|nat=ROU                              |0+1  |0 |0    |0 |2    |0 |0+1  |0 }}
+{{Efs player|no=38 |name=[[Gianluca Frabotta]]|pos=DF|nat=ITA                          |8+7  |0 |0    |0 |1    |1 |0+1  |0 }}
+|-
+! colspan=14 style=background:#DCDCDC; text-align:center| Midfielders
+{{Efs player|no=5 |name=[[Arthur Melo|Arthur]]|pos=MF|nat=BRA                          |13+9 |1 |1    |0 |1+1  |0 |4+3  |0 }}
+{{Efs player|no=8 |name=[[Aaron Ramsey]]|pos=MF|nat=WAL                                |13+9 |2 |0    |0 |1    |0 |5+2  |0 }}
+{{Efs player|no=14 |name=[[Weston McKennie]]|pos=MF|nat=USA                            |18+16|5 |1    |0 |2+2  |0 |4+3  |1 }}
+{{Efs player|no=22 |name=[[Federico Chiesa]]|pos=MF|nat=ITA                            |28+2 |8 |1    |0 |1+3  |2 |6+2  |4 }}
+{{Efs player|no=25 |name=[[Adrien Rabiot]]|pos=MF|nat=FRA                              |25+9 |4 |0+1  |0 |4+1  |0 |5+2  |1 }}
+{{Efs player|no=30 |name=[[Rodrigo Bentancur]]|pos=MF|nat=URU                          |27+6 |0 |1    |0 |4    |0 |5+2  |0 }}
+{{Efs player|no=33 |name=[[Federico Bernardeschi]]|pos=MF|nat=ITA                      |8+19 |0 |0+1  |0 |4    |0 |1+6  |0 }}
+{{Efs player|no=41 |name=[[Nicolò Fagioli]]|pos=MF|nat=ITA                             |0+1  |0 |0    |0 |1    |0 |0    |0 }}
+{{Efs player|no=44 |name=[[Dejan Kulusevski]]|pos=MF|nat=SWE                           |19+16|4 |1    |0 |5    |3 |3+3  |0 }}
+|-
+! colspan=14 style=background:#DCDCDC; text-align:center| Forwards
+{{Efs player|no=7 |name=[[Cristiano Ronaldo]]|pos=FW|nat=POR                           |31+2 |29|1    |1 |3+1  |2 |6    |4 }}
+{{Efs player|no=9 |name=[[Álvaro Morata]]|pos=FW|nat=ESP                               |23+9 |11|0+1  |1 |2+1  |2 |6+2  |6 }}
+{{Efs player|no=10 |name=[[Paulo Dybala]]|pos=FW|nat=ARG                               |14+6 |4 |0    |0 |0+1  |0 |2+3  |1 }}
+{{Efs player|no=34 |name=[[Marco Da Graca]]|pos=FW|nat=ITA                             |0    |0 |0    |0 |0+1  |0 |0    |0 }}
+{{Efs player|no=40 |name=[[Giacomo Vrioni]]|pos=FW|nat=ALB                             |0+1  |0 |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=50 |name=[[Hamza Rafia]]|pos=FW|nat=TUN                                |0    |0 |0    |0 |0+1  |1 |0    |0 }}
+{{Efs player|no=53 |name=[[Félix Correia]]|pos=FW|nat=POR                              |0+1  |0 |0    |0 |0    |0 |0    |0 }}
+|-
+! colspan="18" style="background:#dcdcdc; text-align:center"| Players transferred/loaned out during the season
+{{Efs player|no=2 |name=[[Mattia De Sciglio]]|pos=DF|nat=ITA                           |0+1  |0 |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=6 |name=[[Sami Khedira]]|pos=MF|nat=GER                                |0    |0 |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=11 |name=[[Douglas Costa]]|pos=FW|nat=BRA                              |0+2  |0 |0    |0 |0    |0 |0    |0 }}
+{{Efs player|no=39 |name=[[Manolo Portanova]]|pos=MF|nat=ITA                           |1+1  |0 |0    |0 |1    |0 |0    |0 }}
+{{Efs player|no=52 |name=[[Wesley David de Oliveira Andrade|Wesley]]|pos=DF|nat=BRA      |0    |0 |0    |0 |1    |0 |0    |0 }}
+
+{{Fb cs footer|s=[[#Competitions|Competitions]]|date=September 2020}}
+
+===Goalscorers===
+{| class="wikitable sortable" style="text-align:center"
+|-
+!width=15|{{Tooltip|Rank|Rank}}
+!width=15|{{Tooltip|No.|Squad Number}}
+!width=15|{{Tooltip|Pos.|Position}}
+!width=145|Name
+!width=80|[[2020–21 Serie A|Serie A]]
+!width=80|[[2020 Supercoppa Italiana|Supercoppa]]
+!width=80|[[2020–21 Coppa Italia|Coppa Italia]]
+!width=80|[[2020–21 UEFA Champions League|Champions League]]
+!width=80|Total
+|-
+|'''1'''
+|7
+|[[Forward (association football)|FW]]
+|align=left|{{flagicon|POR}} [[Cristiano Ronaldo]]
+|29
+|1
+|2
+|4
+|'''36'''
+|-
+|'''2'''
+|9
+|[[Forward (association football)|FW]]
+|align=left|{{flagicon|ESP}} [[Álvaro Morata]]
+|11
+|1
+|2
+|6
+|'''20'''
+|-
+|'''3'''
+|22
+|[[Midfielder (association football)|MF]]
+|align=left|{{flagicon|ITA}} [[Federico Chiesa]]
+|8
+|0
+|2
+|4
+|'''14'''
+|-
+|'''4'''
+|44
+|[[Midfielder (association football)|MF]]
+|align=left|{{nobreak|{{flagicon|SWE}} [[Dejan Kulusevski]]}}
+|4
+|0
+|3
+|0
+|'''7'''
+|-
+|'''5'''
+|14
+|[[Midfielder|MF]]
+|align=left|{{nobreak|{{flagicon|USA}} [[Weston McKennie]]}}
+|5
+|0
+|0
+|1
+|'''6'''
+|-
+|rowspan="2"|'''6'''
+|10
+|[[Forward (association football)|FW]]
+|align=left|{{flagicon|ARG}} [[Paulo Dybala]]
+|4
+|0
+|0
+|1
+|rowspan="2"|'''5'''
+|-
+|25
+|[[Midfielder (association football)|MF]]
+|align=left|{{flagicon|FRA}} [[Adrien Rabiot]]
+|4
+|0
+|0
+|1
+|-
+|rowspan=4|'''8'''
+|8
+|[[Midfielder|MF]]
+|align=left|{{flagicon|WAL}} [[Aaron Ramsey]]
+|2
+|0
+|0
+|0
+|rowspan=4|'''2'''
+|-
+|12
+|[[Defender (association football)|DF]]
+|align=left|{{nobreak|{{flagicon|BRA}} [[Alex Sandro]]}}
+|2
+|0
+|0
+|0
+|-
+|16
+|[[Defender (association football)|DF]]
+|align=left|{{nobreak|{{flagicon|COL}} [[Juan Cuadrado]]}}
+|2
+|0
+|0
+|0
+|-
+|19
+|[[Defender (association football)|DF]]
+|align=left|{{nobreak|{{flagicon|ITA}} [[Leonardo Bonucci]]}}
+|2
+|0
+|0
+|0
+|-
+|rowspan=5|'''12'''
+|4
+|[[Defender (association football)|DF]]
+|align=left|{{flagicon|NED}} [[Matthijs de Ligt]]
+|1
+|0
+|0
+|0
+|rowspan=5|'''1'''
+|-
+|5
+|[[Midfielder|MF]]
+|align=left|{{flagicon|BRA}} [[Arthur Melo|Arthur]]
+|1
+|0
+|0
+|0
+|-
+|13
+|[[Defender (association football)|DF]]
+|align=left|{{flagicon|BRA}} [[Danilo (footballer, born July 1991)|Danilo]]
+|1
+|0
+|0
+|0
+|-
+|38
+|[[Defender (association football)|DF]]
+|align=left|{{nobreak|{{flagicon|ITA}} [[Gianluca Frabotta]]}}
+|0
+|0
+|1
+|0
+|-
+|50
+|[[Forward (association football)|FW]]
+|align=left|{{flagicon|TUN}} [[Hamza Rafia]]
+|0
+|0
+|1
+|0
+|-
+|colspan=4|'''Own goals'''
+|1
+|0
+|0
+|1
+|'''2'''
+|-
+!colspan=4|Totals
+!77
+!2
+!11
+!18
+!108
+|}
+
+==Notes==
+{{reflist|group=note}}
+
+==See also==
+* [[2020–21 Juventus F.C. Under-23 season]]
+* [[2020–21 Juventus F.C. (women) season]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|https://www.juventus.com/en/}}
+
+{{Juventus F.C. seasons}}
+{{2020–21 in Italian football}}
+
+{{DEFAULTSORT:2020-21 Juventus F.C. Season}}
+
+[[Category:Juventus FC seasons]]
+[[Category:Italian football clubs 2020–21 season|Juventus]]
+[[Category:2020–21 UEFA Champions League participants seasons|Juventus]]

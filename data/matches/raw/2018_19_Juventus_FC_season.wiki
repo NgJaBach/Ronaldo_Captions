@@ -1,0 +1,3020 @@
+{{Short description|Italian football club season}}
+{{Use dmy dates|date=April 2024}}
+{{Infobox football club season
+| club               = [[Juventus FC|Juventus]]
+| season             = [[2018–19 in Italian football|2018–19]]
+| manager            = [[Massimiliano Allegri]]
+| mgrtitle           = Manager
+| chairman           = [[Andrea Agnelli]]
+| stadium            = [[Juventus Stadium]]
+| league             = [[Serie A]]
+| league result      = [[2018–19 Serie A|'''1st''']]
+| cup1               = [[Coppa Italia]]
+| cup1 result        = [[2018–19 Coppa Italia|Quarter-finals]]
+| cup2               = [[Supercoppa Italiana]]
+| cup2 result        = [[2018 Supercoppa Italiana|'''Winners''']]
+| cup3               = [[UEFA Champions League]]
+| cup3 result        = [[2018–19 UEFA Champions League|Quarter-finals]]
+| league topscorer   = <br />[[Cristiano Ronaldo]] (21)
+| season topscorer   = <br />Cristiano Ronaldo (28)
+| highest attendance = 41,495 vs [[Inter Milan|Internazionale]]<br />(7 December 2018, Serie A)<ref>{{cite web |title=Serie A, Juventus-Inter 1-0: il tabellino della partita |url=http://www.gazzetta.it/Calcio/Serie-A/Inter/07-12-2018/serie-a-juventus-inter-1-0-tabellino-partita-3101065898237.shtml |publisher=gazzetta.it |date=7 December 2018|access-date=7 December 2018|language=it}}</ref>
+| lowest attendance  = 30,239 vs [[A.C. ChievoVerona|Chievo]]<br />(21 January 2019, Serie A)
+| average attendance = 39,244<ref>{{Cite web | url=https://www.stadiapostcards.com/A18-19.htm | title=Statistiche Spettatori Serie a 2017-2018 Attendance Statistics of Serie A 2017-2018}}</ref>
+| pattern_la1        = 
+| pattern_b1         = _juventus1819H
+| pattern_ra1        = 
+| pattern_sh1        = _arg18a
+| pattern_so1        = _3_stripes_black
+| leftarm1           = FFFFFF
+| body1              = FFFFFF
+| rightarm1          = FFFFFF
+| shorts1            = FFFFFF
+| socks1             = FFFFFF
+| pattern_la2        = _juventus1819a
+| pattern_b2         = _juventus1819a
+| pattern_ra2        = _juventus1819a
+| pattern_sh2        = _juventus1819a
+| pattern_so2        = _juventus1819a
+| leftarm2           = DADAC9
+| body2              = DADAC9
+| rightarm2          = DADAC9
+| shorts2            = BBBA9D
+| socks2             = DADAC9
+| pattern_la3        = _juventus1819t
+| pattern_b3         = _juventus1819t
+| pattern_ra3        = _juventus1819t
+| pattern_sh3        = _juventus1819t
+| pattern_so3        = _juve1819t
+| leftarm3           = 28262D
+| body3              = 28262D
+| rightarm3          = 28262D
+| shorts3            = 28262D
+| socks3             = 28262D
+| prevseason         = [[2017–18 Juventus FC season|2017–18]]
+| nextseason         = [[2019–20 Juventus FC season|2019–20]]
+}}
+
+The '''2018–19 season''' was '''[[Juventus FC|Juventus Football Club]]''''s 121st in existence and 12th consecutive season in the top-flight of [[Football in Italy|Italian football]].
+
+On 10 July 2018, [[Cristiano Ronaldo]] became the [[List of most expensive association football transfers|highest ever transfer for an Italian club]] with [[Transfer of Cristiano Ronaldo from Real Madrid C.F. to Juventus F.C.|his €100 million transfer]] from [[Real Madrid C.F.|Real Madrid]].<ref name="auto">{{cite press release |title=Cristiano Ronaldo signs for Juventus!|url=http://www.juventus.com/en/news/news/2018/cristiano-ronaldo-signs-for-juventus.php |publisher=Juventus FC |date=10 July 2018}}</ref>
+
+The season was the first since [[2000–01 Juventus FC season|2000–01]] without [[Gianluigi Buffon]], who joined [[Paris Saint-Germain F.C.|Paris Saint-Germain]] (although he returned for the [[2019–20 Juventus FC season|following season]] for a second and final spell).
+
+==Players==
+
+===Squad information===
+<small>Players and squad numbers last updated on 2 February 2019. Appearances include league matches only.<ref>{{Cite web | url=http://www.juventus.com/en/teams/first-team/all/index.php | title=Home}}</ref></small><br /><small>Note: Flags indicate national team as has been defined under [[FIFA eligibility rules]]. Players may hold more than one non-FIFA nationality.</small>
+{| class="wikitable" style="text-align:left; font-size:90%; width:101%;"
+|-
+! style="background:#000; color:white; text-align:center;"| No.
+! style="background:#000; color:white; text-align:center;"| Name
+! style="background:#000; color:white; text-align:center;"| Nat
+! style="background:#000; color:white; text-align:center;"| Position(s)
+! style="background:#000; color:white; text-align:center;"| Date of birth (age)
+! style="background:#000; color:white; text-align:center;"| Signed in
+! style="background:#000; color:white; text-align:center;"| Contract ends
+! style="background:#000; color:white; text-align:center;"| Signed from
+! style="background:#000; color:white; text-align:center;"| Transfer Fee
+! style="background:#000; color:white; text-align:center;"| Apps.
+! style="background:#000; color:white; text-align:center;"| Goals
+|-
+! colspan=11 style="background:#dcdcdc; text-align:center;"| Goalkeepers
+|-
+| 1
+| [[Wojciech Szczęsny]]
+| {{flagicon|POL}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|2019|6|30|df=yes|1990|4|18}}
+| 2017
+| 2021
+| {{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+| €12M<ref>{{cite web|url=http://www.football-italia.net/106018/official-juve-sign-szczesny|title=OFFICIAL: Juve sign Szczesny|website=Football Italia}}</ref>
+|33
+|0
+|-
+| 21
+| [[Carlo Pinsoglio]]
+| {{flagicon|ITA}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|2019|6|30|df=yes|1990|3|16}}
+| 2014
+| 2020<ref>{{cite web|url=http://www.juventus.com/en/news/news/2018/carlo-pinsoglio-stays-black-and-white.php|title=Pinsoglio stays black and white|publisher=Juventus FC|date=27 September 2018}}</ref>
+| {{flagicon|ITA}} [[Juventus F.C. Youth Sector|Youth Sector]]
+| N/A
+|1
+|0
+|-
+| 22
+| [[Mattia Perin]]
+| {{flagicon|ITA}}
+| [[Goalkeeper (association football)|GK]]
+| {{Birth date and age2|2019|6|30|df=yes|1992|11|10}}
+| 2018
+| 2022
+| {{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+|€15M<ref>{{cite web|url=https://www.football-italia.net/122664/official-perin-joins-juventus|title=Official: Perin joins Juventus|website=Football Italia}}</ref>
+|6
+|0
+|-
+! colspan=11 style="background:#dcdcdc; text-align:center;"| Defenders
+|-
+| 2
+| [[Mattia De Sciglio]]
+| {{flagicon|ITA}}
+| [[Right back (association football)|RB]] / [[Right wing-back|RWB]] / [[Left back (association football)|LB]] / [[Left wing-back|LWB]]
+| {{Birth date and age2|2019|6|30|df=yes|1992|10|20}}
+| 2017
+| 2022
+| {{flagicon|ITA}} [[A.C. Milan|AC Milan]]
+| €12M<ref>{{cite web|url=http://www.juventus.com/it/news/news/2017/mattia---de-sciglio---bianconero-.php|title=Mattia De Sciglio è bianconero!|language=it|work=juventus.com|date=20 July 2017|access-date=20 July 2017}}</ref>
+|23
+|1
+|-
+| 3
+| [[Giorgio Chiellini]] ([[Captain (association football)|C]])
+| {{flagicon|ITA}}
+| [[Centre back|CB]]
+| {{Birth date and age2|2019|6|30|df=yes|1984|8|14}}
+| 2005
+| 2020<ref name="Football Italia">{{cite web|url=https://www.football-italia.net/123746/official-juve-renew-chiellini-barzagli|title=OFFICIAL: Juve renew Chiellini & Barzagli|publisher=Football Italia|date=29 June 2018}}</ref>
+| {{flagicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+| €7.4M<ref>{{cite web|url=http://www.juventus.com/media/native/investor-relations-docs/english/price-sensitive-press-releases/2004-2005/comunicato_31082004_cannavaro_chiellini_eng.pdf|title=Juventus Football Club: Operations concerning players' registration rights|publisher=Juventus FC|access-date=26 April 2016}}{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref><ref>{{cite web|url=http://www.repubblica.it/2005/f/sezioni/sport/calcio/calciomerc/calciomerc/calciomerc.html|title=Comproprietà, Chiellini alla Juve per Miccoli si andrà alle buste|publisher=repubblica.it|access-date=26 April 2016}}</ref>
+|374
+|26
+|-
+| 4
+| [[Martín Cáceres]]
+| {{flagicon|URU}}
+| [[Centre back|CB]] / [[Right back (association football)|RB]] / [[Left back (association football)|LB]]
+| {{Birth date and age2|2019|6|30|df=yes|1987|4|7}}
+| 2019
+| 2019
+| {{flagicon|ITA}} [[S.S. Lazio|Lazio]]
+| €0.6M<ref name="welcome-back-martin-caceres">{{cite web|url=https://www.juventus.com/en/news/news/2019/welcome-back-martin-caceres.php|title=Welcome back, Martin Caceres!|publisher=Juventus FC|access-date=2 February 2019}}</ref>
+|78
+|4
+|-
+| 12
+| [[Alex Sandro]]
+| {{flagicon|BRA}}
+| [[Left back (association football)|LB]] / [[Left wing-back|LWB]]
+|{{Birth date and age2|2019|6|30|df=yes|1991|1|26}}
+| 2015
+| 2023<ref name="Alex Sandro stays Bianconero until 2023!">{{cite web|url=http://www.juventus.com/en/news/news/2018/alex-sandro-stays-bianconero-until-2023.php|title=Alex Sandro stays Bianconero until 2023!|publisher=Juventus FC|date=20 December 2018}}</ref>
+| {{flagicon|POR}} [[FC Porto|Porto]]
+| €26M<ref>{{cite web|url=http://www.juventus.com/media/native/investor-relations-docs/english/price-sensitive-press-releases/2015-2016/comunicato_20082015_alexsandro_eng.pdf|title=Agreement with Porto for the Acquisition of the player Alex Sandro|publisher=Juventus FC|access-date=26 April 2016}}{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref>
+|94
+|9
+|-
+| 15
+| [[Andrea Barzagli]]
+| {{flagicon|ITA}}
+| [[Centre back|CB]]
+| {{Birth date and age2|2019|6|30|df=yes|1981|5|8}}
+| 2011
+| 2019<ref name="Football Italia"/>
+| {{flagicon|GER}} [[VfL Wolfsburg|Wolfsburg]]
+| €0.3M<ref>{{cite web|url=http://www.juventus.com/wps/portal/juve/en/news-gallery/2011/1/NEWS_newsseriea_80A82CE1A643418FA21371A630AB8915.asp/!ut/p/b1/zZNbs2NAFIV_y_wARyOaPDq5aHGLELQX1cQtQhMS4ddPZub5zHmc2ftpV61a9a1dtdiIDdmoJc-qIGNFW3L7dUcwdgBQ15-cAoClC0Dbb11HPNicrq_YgA0RnqUt1ab9bhOXZH-VAsGgL3Cf0v0OaTMZutI1qIzrveLmnFzb6SBO_M7v4xkszfNoaGiJfVRz0zC6heblhfmpRJPHbypDZAQumdRQuXBG4e8qQyoP-HVbLp6-mflp2WSEWjvZNobX0MiMAUGCpKNbCs86WzMYJlvFFBI3Qa-uiaLkHOqVSehNw-K-D-4p1YPrhdKMjAAu57QRLB8BZYETaeUf7_D4HR58MQr4_jfRb8lfHPBbIH3tIbAeG4JV7F6nTlhTcNyis1WN7tHYlLpnri1Oi815fbG8erFd64zcMq0jmNDTq0-aGUfqrcGQo6SDSd-UVRRktOnImcBXh4Oe3A7lUKsE34LHvf18FlApFFu75u43YBr4T8E2_D8DO7BRlTQfU9p8gA8oizLHCZwoyxACKLB-iyWrGt4t0YJcrMQxGe_9RcWhy_GaXYwvCTlXgnkANrh8nLp1xphy4UypvV1PK9XkGIY_SJ9pgZWiVC-0g-m0yw5rVXLU0eRzZZhPhy0cFBtaBxIYVigVXj-hsBSZPrYkuy_5wq9U5vxwUlPtQpRnLccQXxUdee9W-qjPq8A-RQt9-C5q3_18qPh2k-W2rp5B-DSd0M_G4b6H6pC6HoLWhUdbem-jSSZwrvNrQisecdUq9895XKmBnMiOc3Q9ZmEtRJuM7ZqnAXPrz66UHz8B-YD3OQ!!/dl4/d5/L2dBISEvZ0FBIS9nQSEh/?pragma=no-cache|title=Andrea Barzagli is now Bianconero|publisher=Juventus FC|access-date=26 April 2016}}</ref>
+|203
+|2
+|-
+| 19
+| [[Leonardo Bonucci]]
+| {{flagicon|ITA}}
+| [[Centre back|CB]]
+| {{Birth date and age2|2019|6|30|df=yes|1987|5|1}}
+| 2018<ref name="Welcome back, Leo!">{{cite news|title=Welcome back, Leo!|url=http://www.juventus.com/en/news/news/2018/welcome-back-leonardo-bonucci.php|publisher=Juventus FC|date=2 August 2018}}</ref>
+| 2023
+| {{flagicon|ITA}} [[A.C. Milan|AC Milan]]
+| €35M<ref name="Welcome back, Leo!"/>
+|244
+|14
+|-
+| 20
+| [[João Cancelo]]
+| {{flagicon|POR}}
+| [[Right back (association football)|RB]] / [[Right wing-back|RWB]]
+| {{Birth date and age2|2019|6|30|df=yes|1994|5|27}}
+| 2018
+| 2023
+| {{flagicon|ESP}} [[Valencia CF|Valencia]]
+| €40.4M<ref name="João Cancelo signs for Juventus">{{cite web|url=http://www.juventus.com/en/news/news/2018/joao-cancelo-joins-juventus.php|title=João Cancelo signs for Juventus!|publisher=Juventus FC|date=27 June 2018}}</ref>
+|14
+|1
+|-
+| 24
+| [[Daniele Rugani]]
+| {{flagicon|ITA}}
+| [[Centre back|CB]]
+| {{Birth date and age2|2019|6|30|df=yes|1994|7|29}}
+| 2015
+| 2023<ref>{{cite news|url=https://www.juventus.com/en/news/news/2019/daniele-rugani-contract-renewal.php|title=Daniele Rugani is Bianconero until 2023!|date=28 March 2019|access-date=28 March 2019|publisher=Juventus F.C.}}</ref>
+| {{flagicon|ITA}} [[Empoli F.C.|Empoli]]
+| €3.5M<ref>{{cite web|url=http://www.juventus.com/en/news/news/2014/juventus-complete-full-rugani-purchase.php|title=Juventus complete full Rugani purchase|publisher=Juventus FC|access-date=26 April 2016}}</ref>
+|61
+|6
+|-
+| 37
+| [[Leonardo Spinazzola]]
+| {{flagicon|ITA}}
+| [[Left back (association football)|LB]] / [[Left wing-back|LWB]] / [[Right back (association football)|RB]] / [[Right wing-back|RWB]]
+| {{Birth date and age2|2019|6|30|df=yes|1993|3|25}}
+| 2012
+| 2022
+| {{flagicon|ITA}} [[Robur Siena]]
+| €0.4M<ref>{{cite web|url=https://tuttoggi.info/il-golden-boy-spinazzola-almeno-per-met-un-giocatore-bianconero/143347/|title=Il Golden Boy Spinazzola è, almeno per metà, un giocatore bianconero – Tuttoggi|date=20 June 2012}}</ref>
+|2
+|0
+|-
+| 43
+| [[Paolo Gozzi]]
+| {{flagicon|ITA}}
+| [[Centre back|CB]]
+|{{Birth date and age2|2019|6|30|df=yes|2001|4|25}}
+| 2019
+| 2020
+| {{flagicon|ITA}} [[Juventus F.C. Youth Sector|Youth Sector]]
+| N/A
+| -
+| -
+|-
+! colspan=11 style="background:#dcdcdc; text-align:center;"| Midfielders
+|-
+| 5
+| [[Miralem Pjanić]]
+| {{flagicon|BIH}}
+| [[Defensive midfielder|DM]] / [[Central midfielder|CM]]
+| {{Birth date and age2|2019|6|30|df=yes|1990|4|2}}
+| 2016
+| 2023<ref>{{cite news|url=https://www.football-italia.net/126551/official-pjanic-renews-juve|title=Official: Pjanic renews with Juve|publisher=Football Italia|date=21 August 2018}}</ref>
+| {{flagicon|ITA}} [[A.S. Roma|Roma]]
+| €32M<ref>{{cite web|url=http://www.juventus.com/en/news/news/2016/pjanic-signs-for-juventus-.php|title=Pjanic signs for Juventus|publisher=Juventus FC|date=13 June 2016|access-date=13 June 2016}}</ref>
+|79
+|11
+|-
+| 6
+| [[Sami Khedira]]
+| {{flagicon|GER}}
+| [[Defensive midfielder|DM]] / [[Central midfielder|CM]]
+| {{Birth date and age2|2019|6|30|df=yes|1987|4|4}}
+| 2015
+| 2021<ref>{{cite web|url=http://www.juventus.com/en/news/videos/2018/sami-khedira-extends-juventus-contract-until-2021.php|title=Sami extends until 2021!|publisher=Juventus FC|access-date=12 September 2018}}</ref>
+| {{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+| Free<ref>{{cite web|url=http://www.juventus.com/juve/en/news/khedira+signs+for+juventus|title=Khedira signs for Juventus|publisher=Juventus FC|access-date=26 April 2016}}</ref>
+|84
+|20
+|-
+| 14
+| [[Blaise Matuidi]]
+| {{flagicon|FRA}}
+| [[Central midfielder|CM]] / [[Defensive midfielder|DM]] / [[Left midfielder|LM]]
+| {{Birth date and age2|2019|6|30|df=yes|1987|4|9}}
+| 2017
+| 2020
+| {{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+| €20M<ref>{{cite news|title=Matuidi joins Juventus|url=http://www.juventus.com/en/news/news/2017/matuidi-signs-for-juventus.php|publisher=Juventus FC|date=18 August 2017}}</ref>
+|52
+|5
+|-
+| 23
+| [[Emre Can]]
+| {{flagicon|GER}}
+| [[Defensive midfielder|DM]] / [[Central midfielder|CM]]
+| {{Birth date and age2|2019|6|30|df=yes|1994|1|12}}
+| 2018
+| 2022
+| {{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+|Free{{ref|a|a}}<ref name="Emre Can signs for Juventus">{{cite web|url=http://www.juventus.com/en/news/news/2018/emre-can-signs-for-juventus.php|title=Emre Can signs for Juventus!|publisher=Juventus FC|date=21 June 2018}}</ref>
+|16
+|1
+|-
+| 30
+| [[Rodrigo Bentancur]]
+| {{flagicon|URU}}
+| [[Defensive midfielder|DM]] / [[Central midfielder|CM]]
+| {{Birth date and age2|2019|6|30|df=yes|1997|6|25}}
+| 2017
+| 2022
+| {{flagicon|ARG}} [[Boca Juniors]]
+| €9.5M<ref>{{cite web|url=http://www.juventus.com/media/native/investor-relations-docs/english/price-sensitive-press-releases/2015-2016/comunicato_21042017_bentancur_eng.pdf|title=Rodrigo Bentacur Joins Juventus|publisher=Juventus FC|access-date=21 April 2017}}{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref>
+|38
+|2
+|-
+| 34
+| [[Manolo Portanova]]
+| {{flagicon|ITA}}
+| [[Central midfielder|CM]]
+| {{Birth date and age2|2019|6|30|df=yes|2000|6|2}}
+| 2019
+| 2020
+| {{flagicon|ITA}} [[Juventus F.C. Youth Sector|Youth Sector]]
+| N/A
+| -
+| -
+|-
+| 35
+| [[Matheus Pereira da Silva]]
+| {{flagicon|BRA}}
+| [[Left winger (association football)|RW]] / [[Attacking midfielder|AM]]
+| {{Birth date and age2|2019|6|30|df=yes|1998|2|25}}
+| 2017
+| 2022
+| {{flagicon|ITA}} [[Empoli F.C.|Empoli]]
+| €2M <ref>{{cite web |url=https://www.tuttomercatoweb.com/serie-a/juventus-matheus-pereira-preso-per-25-milioni-di-euro-809217 |title=Juventus, Matheus Pereira preso per 2.5 milioni di euro |work=Tutto Mercato |date=23 March 2016 |access-date=22 July 2019 |language=it}}</ref>
+| -
+| -
+|-
+| 39
+| [[Grigoris Kastanos]]
+| {{flagicon|CYP}}
+| [[Right winger (association football)|RW]] / [[Central midfielder|CM]] / [[Attacking midfielder|AM]]
+| {{Birth date and age2|2019|6|30|df=yes|1998|1|30}}
+| 2016
+| 2022
+| {{flagicon|ITA}} [[Juventus F.C. Youth Sector|Youth Sector]]
+| N/A
+| -
+| -
+|-
+| 41
+| [[Hans Nicolussi Caviglia]]
+| {{flagicon|ITA}}
+| [[Left winger (association football)|LW]] / [[Attacking midfielder|AM]]
+| {{Birth date and age2|2019|6|30|df=yes|2000|6|18}}
+| 2019
+| -
+| {{flagicon|ITA}} [[Juventus F.C. Youth Sector|Youth Sector]]
+| N/A
+| -
+| -
+|-
+! colspan=11 style="background:#dcdcdc; text-align:center;"| Forwards
+|-
+| 7
+| [[Cristiano Ronaldo]]
+| {{flagicon|POR}}
+| [[Left winger (association football)|LW]] / [[Striker (association football)|ST]]
+| {{Birth date and age2|2019|6|30|df=yes|1985|2|5}}
+| 2018
+| 2022
+| {{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+| €100M{{ref|b|b}}<ref name="auto"/>
+|22
+|17
+|-
+| 10
+| [[Paulo Dybala]]
+| {{flagicon|ARG}}
+| [[Right winger (association football)|RW]] / [[Attacking midfielder|AM]] / [[Striker (association football)|SS]]
+| {{Birth date and age2|2019|6|30|df=yes|1993|11|15}}
+| 2015
+| 2022<ref>{{cite web|url=http://www.football-italia.net/101060/official-dybala-renews-juventus|title=Official: Dybala renews with Juventus|publisher=Football Italia|date=13 April 2017|access-date=13 April 2017}}</ref>
+| {{flagicon|ITA}} [[U.S. Città di Palermo|Palermo]]
+| €32M<ref>{{cite web|url=http://www.juventus.com/wps/wcm/connect/2415f0d0-9cb1-4394-bb43-0b49efd52466/comunicato+04062015+dybala+ita.pdf?MOD=AJPERES&CACHEID=2415f0d0-9cb1-4394-bb43-0b49efd52466|title=Accordo con il Palermo per l'aquisizione del calciatore Paulo Dybala|publisher=Juventus FC|access-date=26 April 2016|archive-url=https://web.archive.org/web/20150630181915/http://www.juventus.com/wps/wcm/connect/2415f0d0-9cb1-4394-bb43-0b49efd52466/comunicato+04062015+dybala+ita.pdf?MOD=AJPERES&CACHEID=2415f0d0-9cb1-4394-bb43-0b49efd52466|archive-date=2015-06-30|url-status=dead}}</ref>
+|117
+|54
+|-
+| 11
+| [[Douglas Costa]]
+| {{flagicon|BRA}}
+| [[Left winger (association football)|LW]] / [[Right winger (association football)|RW]]
+| {{Birth date and age2|2019|6|30|df=yes|1990|9|14}}
+| 2017
+| 2022
+| {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| €40M<ref name="Juve make Douglas Costa deal permanent">{{cite web|url=http://www.juventus.com/en/news/news/2018/juventus-make-douglas-costa-deal-permanent.php|title=Juve make Douglas Costa deal permanent |publisher=Juventus FC|access-date=7 June 2018}}</ref>
+|48
+|5
+|-
+| 16
+| [[Juan Cuadrado]]
+| {{flagicon|COL}}
+| [[Right winger (association football)|RW]] / [[Right wing-back|RWB]]
+| {{Birth date and age2|2019|6|30|df=yes|1988|5|26}}
+| 2016
+| 2020
+| {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| €25M<ref>{{Cite news |title=Cuadrado, ransom! |url=http://www.juventus.com/it/news/news/2017/la-juve-riscatta-cuadrado.php |publisher=Juventus Official Site |date=22 May 2017 |access-date=22 May 2017}}</ref>
+|90
+|11
+|-
+| 17
+| [[Mario Mandžukić]]
+| {{flagicon|CRO}}
+| [[Striker (association football)|ST]] / [[Left winger (association football)|LW]]
+| {{Birth date and age2|2019|6|30|df=yes|1986|5|21}}
+| 2015
+| 2020<ref>{{cite web|url=http://www.juventus.com/en/news/news/2017/mario-mandzukic-renews-juventus-contract-2020.php|title=Mario Mandzukic renews contract until 2020|publisher=Juventus FC|date=25 May 2017|access-date=25 May 2017}}</ref>
+| {{flagicon|ESP}} [[Atlético Madrid]]
+| €19M<ref>{{cite web|url=http://www.juventus.com/wps/wcm/connect/d5483d7b-b923-4bdb-a43f-46589d957f65/comunicato+22062015+mandzukic+eng.pdf?MOD=AJPERES&CACHEID=d5483d7b-b923-4bdb-a43f-46589d957f65|title=Agreement with Atletico Madrid for the Acquisition of the player Mario Mandzukic|publisher=Juventus FC|access-date=26 April 2016|archive-url=https://web.archive.org/web/20150622204536/http://www.juventus.com/wps/wcm/connect/d5483d7b-b923-4bdb-a43f-46589d957f65/comunicato+22062015+mandzukic+eng.pdf?MOD=AJPERES&CACHEID=d5483d7b-b923-4bdb-a43f-46589d957f65|archive-date=2015-06-22|url-status=dead}}</ref>
+|110
+|30
+|-
+| 18
+| [[Moise Kean]]
+| {{flagicon|ITA}}
+| [[Striker (association football)|ST]]
+| {{Birth date and age2|2019|6|30|df=yes|2000|02|28}}
+| 2016
+| 2020
+| {{flagicon|ITA}} [[Juventus F.C. Youth Sector|Youth Sector]]
+| N/A
+|5
+|1
+|-
+| 33
+| [[Federico Bernardeschi]]
+| {{flagicon|ITA}}
+| [[Right winger (association football)|RW]] / [[Left winger (association football)|LW]] / [[Attacking midfielder|AM]]
+| {{Birth date and age2|2019|6|30|df=yes|1994|2|16}}
+| 2017
+| 2022
+| {{flagicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+| €40M<ref>{{cite web|url=http://www.juventus.com/en/news/news/2017/bernardeschi-is-bianconero.php|title=Bernardeschi is a Bianconero!|work=Juventus F.C.|date=24 July 2017 |access-date=22 July 2019}}</ref>
+|36
+|6
+|-
+| 40
+| [[Stephy Mavididi]]
+| {{flagicon|ENG}}
+| [[Striker (association football)|ST]]
+| {{Birth date and age2|2019|6|30|df=yes|1998|05|31}}
+| 2019
+| 2022
+| {{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+| €2M <ref>{{cite web|url=https://www.arsenal.com/news/stephy-mavididi-signs-juventus |title=Stephy Mavididi signs for Juventus |work=Arsenal F.C. |date=17 August 2018 |access-date=22 July 2019}}</ref>
+| -
+| -
+|-
+|}
+:a.{{note|a}} Additional costs of €16 million to be paid over the next two financial years.
+:b.{{note|b}} Additional costs of €12 million to be paid.
+
+==Transfers==
+
+===Summer 2018===
+
+====In====
+{| class="wikitable sortable"
+|-
+! style="width:80px;"| Date
+! style="width:20px;"| {{tooltip|Pos.|Position}}
+! style="width:190px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:180px;"| Moving from
+! style="width:120px;" class="unsortable"| Fee
+! style="width:250px;" class="unsortable"| Notes
+! style="width:20px;"| Source
+|-
+| rowspan="6" | {{dts|format=dmy|2018|7|1}}
+| align="center" | {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Mattia Caldara]]
+| align="center" | {{Age|1994|5|5|2018|7|1}}
+| rowspan="2" | {{flagicon|ITA}} [[Atalanta B.C.|Atalanta]]
+| rowspan="3" align="center" |N/A
+| rowspan="3" align="center" | End of loan
+| <ref>{{cite web | title=Caldara signs for Juventus!|publisher=Juventus FC | url=http://www.juventus.com/en/news/news/2017/caldara-signs-for-juventus-.php }}</ref><ref name="juventus.com">{{cite web | title=Bianconeri back in town!|publisher=Juventus FC | url=http://www.juventus.com/en/news/news/2018/bianconeri-return-pre-season-training-08072018.php }}</ref>
+|-
+| align="center" | {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Leonardo Spinazzola]]
+| align="center" |{{Age|1993|3|25|2018|7|1}}
+|<ref name="juventus.com"/>
+|-
+| align="center" | {{sortname||FW|Forward (association football)|c}}
+| {{flagicon|ITA}} [[Moise Kean]]
+| align="center" | {{Age|2000|2|28|2018|7|1}}
+| {{flagicon|ITA}} [[Hellas Verona F.C.|Hellas Verona]]
+|<ref name="juventus.com"/>
+|-
+| align=center| {{sortname||GK|Goalkeeper (association football)|c}}
+|{{flagicon|ITA}} [[Mattia Perin]]
+| align="center" |{{Age|1992|11|10|2018|6|8}}
+|{{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+| align=center| €12M + €3M variables
+| align=center| €12M paid in three instalments
+|<ref>{{cite web | title=Mattia Perin signs for Juventus!|publisher=Juventus FC | url=http://www.juventus.com/en/news/news/2018/mattia-perin-signs-for-juventus-transfer.php }}</ref>
+|-
+| align=center| {{sortname||MF|Midfielder|c}}
+| {{flagicon|GER}} [[Emre Can]]
+| align=center| {{Age|1994|1|12|2018|7|1}}
+| {{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
+| align=center| Free
+| align=center| Additional costs of €16M paid in two instalments
+| <ref name="Emre Can signs for Juventus" />
+|-
+| align="center" | {{sortname||DF|Defender (association football)}}
+| {{flagicon|POR}} [[João Cancelo]]
+| align=center| {{Age|1994|5|27|2018|7|1}}
+| {{flagicon|ESP}} [[Valencia CF|Valencia]]
+| align=center| €40.4M
+| align=center| Paid in three instalments
+| <ref name="João Cancelo signs for Juventus" />
+|-
+| rowspan="1" | {{dts|format=dmy|2018|7|10}}
+| align="center" | {{sortname||FW|Forward (association football)}}
+| {{flagicon|POR}} [[Cristiano Ronaldo]]
+| align=center| {{Age|1985|2|5|2018|7|10}}
+| {{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]]
+| align=center| €100M
+| align=center| Paid in two instalments, plus additional costs of €12M.
+| <ref name="auto" />
+|-
+| rowspan="1" | {{dts|format=dmy|2018|8|2}}
+| align="center" | {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Leonardo Bonucci]]
+| align=center| {{Age|1987|5|1|2018|8|2}}
+| {{flagicon|ITA}} [[A.C. Milan|AC Milan]]
+| align=center| €35M
+| align=center| Paid in two instalments
+| <ref name="Welcome back, Leo!"/>
+|}
+
+====Out====
+{| class="wikitable sortable"
+|-
+! style="width:80px;"| Date
+! style="width:20px;"| {{tooltip|Pos.|Position}}
+! style="width:190px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:180px;"| Moving to
+! style="width:120px;" class="unsortable"| Fee
+! style="width:250px;" class="unsortable"| Notes
+! style="width:20px;"| Source
+|-
+| rowspan="3" | {{dts|format=dmy|2018|7|1}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|GER}} [[Benedikt Höwedes]]
+| align=center| {{Age|1988|2|29|2018|7|1}}
+| {{flagicon|GER}} [[FC Schalke 04|Schalke 04]]
+| rowspan="4" align="center" | Free
+| align=center| End of loan
+| <ref>{{cite web | title=Schalke: Dubbi sul futuro dello 'scaricato' Höwedes |website=Calciomercato |language=it | url=https://www.calciomercato.com/news/schalke-dubbi-sul-futuro-dello-scaricato-hoewedes-67841 }}</ref>
+|-
+| align=center| {{sortname||DF|Defender (association football)|c}}
+| {{flagicon|SUI}} [[Stephan Lichtsteiner]]
+| align=center| {{Age|1984|1|16|2018|7|1}}
+| {{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+| rowspan="3" align="center" | Contract expiration
+| <ref>{{cite web | title=Stephan Lichtsteiner to join the club | url=https://www.arsenal.com/news/stephan-lichtsteiner-join-club |publisher=Arsenal F.C.}}</ref>
+|-
+| align=center| {{sortname||MF|Midfielder|c}}
+| {{flagicon|GHA}} [[Kwadwo Asamoah]]
+| align=center| {{Age|1988|12|9|2018|7|1}}
+| {{flagicon|ITA}} [[Inter Milan|Internazionale]]
+| <ref>{{Cite web|url=https://www.inter.it/en/news/63227/kwadwo-asamoah-signs-for-the-nerazzurri|archiveurl=https://web.archive.org/web/20190331142711/https://www.inter.it/en/news/63227/kwadwo-asamoah-signs-for-the-nerazzurri|url-status=dead|title=Kwadwo Asamoah signs for the Nerazzurri!|archivedate=31 March 2019|website=FC Internazionale - Inter Milan|accessdate=28 May 2026}}</ref>
+|-
+| {{dts|format=dmy|2018|7|6}}
+| align=center| {{sortname||GK|Goalkeeper (association football)|c}}
+| {{flagicon|ITA}} [[Gianluigi Buffon]]
+| align=center| {{Age|1978|1|28|2018|7|6}}
+| {{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+| <ref>{{cite web |date=6 July 2018 |title=Gianluigi Buffon signs with Paris Saint-Germain |url=https://en.psg.fr/news/first-team/gianluigi-buffon-signs-with-paris-saint-germain |archive-url=https://web.archive.org/web/20180706193638/https://en.psg.fr/news/first-team/gianluigi-buffon-signs-with-paris-saint-germain |archive-date=6 July 2018 |publisher=Paris Saint Germain F.C.}}</ref>
+|-
+| rowspan="2" | {{dts|format=dmy|2018|8|2}}
+| align="center" | {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Mattia Caldara]]
+| align="center" | {{Age|1994|5|5|2018|8|2}}
+| rowspan="2" | {{flagicon|ITA}} [[A.C. Milan|AC Milan]]
+| align=center| €35M
+| align=center| Paid in two instalments
+| <ref name="ReferenceA">[http://www.juventus.com/media/native/investor-relations-docs/comunicato_02082018_accordi_con_milan_eng.pdf]{{Dead link|date=April 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+| align="center" | {{sortname||FW|Forward (association football)}}
+| {{flagicon|ARG}} [[Gonzalo Higuaín]]
+| align="center" | {{Age|1987|12|10|2018|8|2}}
+| align=center| €18M
+| align=center| On loan at Chelsea until end of season with an option to buy for €36M
+| <ref name="ReferenceA"/>
+|-
+| {{dts|format=dmy|2018|8|11}}
+| align=center| {{sortname||MF|Midfielder|c}}
+| {{flagicon|ITA}} [[Stefano Sturaro]]
+| align=center| {{Age|1993|3|9|2018|8|11}}
+| {{flagicon|POR}} [[Sporting CP]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref>{{cite web | title=Comunicados &#124; Sporting Clube de Portugal | url=https://www.sporting.pt/pt/noticias/clube/comunicados/2018-08-11/comunicado-do-sporting-clube-de-portugal-futebol-sad }}</ref>
+|-
+| {{dts|format=dmy|2018|8|16}}
+| align=center| {{sortname||MF|Midfielder|c}}
+| {{flagicon|ITA}} [[Claudio Marchisio]]
+| align=center| {{Age|1986|1|19|2018|8|16}}
+| {{flagicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+| align="center" | Free
+| align=center| Released
+| <ref>{{cite web | title=Thank you for everything, Claudio!|publisher=Juventus FC | url=http://www.juventus.com/en/news/news/2018/claudio-marchisio-departs-juventus.php }}</ref>
+|}
+
+====Other acquisitions====
+{| class="wikitable sortable"
+|-
+! style="width:80px;"| Date
+! style="width:20px;"| {{tooltip|Pos.|Position}}
+! style="width:190px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:180px;"| Moving from
+! style="width:120px;" class="unsortable"| Fee
+! style="width:250px;" class="unsortable"| Notes
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2018|6|07}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|BRA}} [[Douglas Costa]]
+| align=center| {{Age|1990|9|14|2018|6|07}}
+| {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]]
+| align=center| €40M+€1M variables
+| align=center| Bought out loan from <br />Bayern Munich <br /> €40M paid in two instalments
+| <ref name="Juve make Douglas Costa deal permanent" />
+|-
+| {{dts|format=dmy|2018|7|1}}
+| align=center| {{sortname||FW|Forward (association football)|c}}
+| {{flagicon|ITA}} [[Andrea Favilli (footballer)|Andrea Favilli]]
+| align=center| {{Age|1997|5|17|2018|7|1}}
+| {{flagicon|ITA}} [[Ascoli Picchio F.C. 1898|Ascoli]]
+| align=center| €7.5M+1.25M variables
+| align=center| €7.5M paid in two instalments
+| <ref>{{cite web | title=Ritorna Andrea Favilli!|publisher=Juventus FC | url=http://www.juventus.com/it/news/news/2018/acquisito-il-cartellino-di-andrea-favilli.php }}</ref>
+|-
+| {{dts|format=dmy|2018|7|1}}
+| align=center| {{sortname||GK|Goalkeeper (association football)|c}}
+|{{flagicon|ITA}} [[Timothy Nocchi]]
+| align="center" |{{Age|1990|7|7|2018|7|1}}
+|{{flagicon|ITA}} [[A.C. Perugia Calcio|Perugia]]
+| align=center| N/A
+| align=center| End of loan to play for [[Juventus Under 23]]
+|<ref name="ReferenceB">{{cite web | title=2018/19 Summer transfer market summary|publisher=Juventus FC | url=https://www.juventus.com/en/news/news/2018/2018-19-summer-transfer-market-summary.php }}</ref>
+|-
+| {{dts|format=dmy|2018|7|1}}
+| align=center| {{sortname||GK|Goalkeeper (association football)|c}}
+|{{flagicon|BRA}} [[Matheus Pereira da Silva]]
+| align="center" |{{Age|1998|2|25|2018|7|1}}
+|{{flagicon|BRA}} [[Paraná Clube|Paraná]]
+| align=center| N/A
+| align=center| End of loan to play for [[Juventus Under 23]]
+|<ref>{{cite web | title=Juventus Summer Tour 2018 squad list|publisher=Juventus FC | url=https://www.juventus.com/en/news/news/2018/juventus-summer-tour-2018-powered-by-jeep-squad-list.php }}</ref>
+|-
+| {{dts|format=dmy|2018|7|2}}
+| align="center" | {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Giangiacomo Magnani]]
+| align="center" | {{Age|1995|10|4|2018|7|2}}
+| {{flagicon|ITA}} [[A.C. Perugia Calcio|Perugia]]
+| align=center| €5M
+| align=center| Paid in three instalments
+| <ref>[http://www.juventus.com/media/native/investor-relations-docs/english/price-sensitive-press-releases/2017-18/comunicato_02072018_magnani_eng.pdf]{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref>
+|-
+| {{dts|format=dmy|2018|8|10}}
+| align="center" | {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Simone Emmanuello]]
+| align="center" | {{Age|1994|4|25|2018|8|10}}
+| {{flagicon|ITA}} [[Atalanta B.C.|Atalanta]]
+| align=center| €0.85M
+| align=center| To play for [[Juventus Under 23]]
+| <ref name="ReferenceC">{{cite web | title=2018/19 Summer transfer market summary|publisher=Juventus FC | url=http://www.juventus.com/en/news/news/2018/2018-19-summer-transfer-market-summary.php }}</ref>
+|-
+| {{dts|format=dmy|2018|8|14}}
+| align="center" | {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Raffaele Alcibiade]]
+| align="center" | {{Age|1990|5|23|2018|8|14}}
+| {{flagicon|ITA}} [[F.C. Pro Vercelli 1892|Pro Vercelli]]
+| align=center| Undisclosed
+| align=center| To play for [[Juventus Under 23]]
+| <ref name="ReferenceC"/>
+|-
+| {{dts|format=dmy|2018|8|17}}
+| align="center" | {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Gabriele Morelli]]
+| align="center" | {{Age|1996|12|12|2018|8|17}}
+| {{flagicon|ITA}} [[A.S. Livorno|Livorno]]
+| align=center| N/A
+| align=center| On loan to play for [[Juventus Under 23]]
+| <ref name="ReferenceB"/>
+|-
+| {{dts|format=dmy|2018|8|17}}
+| align=center| {{sortname||FW|Forward (association football)|c}}
+| {{flagicon|ENG}} [[Stephy Mavididi]]
+| align=center| {{Age|1998|5|31|2018|8|17}}
+| {{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+| align=center| €1.5M
+| align=center| To play for [[Juventus Under 23]]
+| <ref name="ReferenceC"/>
+|-
+| {{dts|format=dmy|2018|10|8}}
+| align="center" | {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Lorenzo Del Prete]]
+| align="center" | {{Age|1986|1|12|2018|10|8}}
+| Unattached
+| align=center| Free
+| align=center| To play for [[Juventus Under 23]]
+| <ref>{{Cite web|url=https://www.juventus.com/en/teams/juventus-u23/index2.php|archiveurl=https://web.archive.org/web/20181002182447/http://www.juventus.com/en/teams/juventus-u23/index2.php|url-status=dead|title=Juventus U23 - Juventus.com|archivedate=2 October 2018|accessdate=28 May 2026}}</ref><ref>{{cite web | title=UFFICIALE: Juve U23, preso lo svincolato Lorenzo del Prete | url=https://www.tuttomercatoweb.com/serie-c/ufficiale-juve-u23-preso-lo-svincolato-lorenzo-del-prete-1166342 }}</ref>
+|}
+
+====Other disposals====
+{| class="wikitable collapsible collapsed sortable"
+|-
+! style="width:80px;"| Date
+! style="width:20px;"| {{tooltip|Pos.|Position}}
+! style="width:190px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:180px;"| Moving to
+! style="width:120px;" class="unsortable"| Fee
+! style="width:250px;" class="unsortable"| Notes
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2018|6|30}}
+| align=center| {{sortname||GK|Goalkeeper (association football)|c}}
+| {{flagicon|ITA}} [[Nicola Leali]]
+| align=center| {{Age|1993|2|17|2018|6|30}}
+| {{flagicon|ITA}} [[A.C. Perugia Calcio|Perugia]]
+| align=center| €2.5M
+| align=center| Opted for option to sign permanently
+| <ref>{{cite web | title=UFFICIALE: Addio alla Juve, Leali al Perugia fino al 2021 &#124; Il BiancoNero | url=https://www.ilbianconero.com/a/ufficiale-addio-alla-juve-leali-al-perugia-fino-al-2021-88770 }}</ref><ref>{{Cite web|url=https://www.acperugiacalcio.com/nicola-leali-presentato-al-museo/|title=Nicola Leali presentato al Museo |publisher=AC Perugia Calcio|url-status=dead|archive-url=https://web.archive.org/web/20241207112805/https://www.acperugiacalcio.com/nicola-leali-presentato-al-museo/|archive-date=7 December 2024|date=29 January 2018|accessdate=28 May 2026}}</ref>
+|-
+| {{dts|format=dmy|2018|6|30}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|SUI}} [[Joel Untersee]]
+| align=center| {{Age|1994|2|11|2018|6|30}}
+| {{flagicon|ITA}} [[Empoli F.C.|Empoli]]
+| align=center| €0.5M
+| align=center| Opted for option to sign permanently
+| <ref>{{cite web | title=Mercato Azzurro &#124; per Untersee e Lollo scatta l'obbligo di riscatto | date=22 May 2018 | url=http://www.pianetaempoli.it/mercato-azzurro-per-untersee-e-lollo-scatta-lobbligo-di-riscatto/ }}</ref>
+|-
+| {{dts|format=dmy|2018|7|1}}
+| align=center| {{sortname||GK|Goalkeeper (association football)|c}}
+| {{flagicon|ITA}} [[Alberto Gallinetta]]
+| align=center| {{Age|1992|4|16|2018|7|1}}
+| -
+| align=center| Free
+| align=center| Contract expiration
+| <ref>{{cite web | title=Pagina 5 &#124; Juventus, tornano alla base i prestiti: Quanto valgono | date=24 May 2018 | url=http://m.tuttosport.com/news/calcio/serie-a/juventus/2018/05/24-43333795/juventus_tornano_alla_base_i_prestiti_ecco_quanto_valgono/5/ }}</ref>
+|-
+| {{dts|format=dmy|2018|7|5}}
+| align=center| {{sortname||FW|Forward (association football)|c}}
+| {{flagicon|GUI}} [[Alhassane Soumah]]
+| align=center| {{Age|1996|3|2|2018|7|5}}
+| {{flagicon|AUT}} [[WSG Wattens]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref>{{Cite web|url=http://mobileapps.tt.com/sport/14558877-91/wsg-wattens-verpflichtet-soumah-von-juventus-turin.csp|title=WSG Wattens verpflichtet Soumah von Juventus Turin &#124; Tiroler Tageszeitung Online - Nachrichten von jetzt!|first=Tiroler Tageszeitung|last=Online|accessdate=28 May 2026|archive-date=8 July 2018|archive-url=https://web.archive.org/web/20180708221314/http://mobileapps.tt.com/sport/14558877-91/wsg-wattens-verpflichtet-soumah-von-juventus-turin.csp|url-status=dead}}</ref><ref name="ReferenceC"/>
+|-
+| {{dts|format=dmy|2018|7|11}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ESP}} [[Pol García]]
+| align=center| {{Age|1995|2|18|2018|7|11}}
+| {{flagicon|BEL}} [[Sint-Truidense V.V.|VV Sint-Truiden]]
+| align=center| Free
+| align=center|
+| <ref>{{cite web | title=#WelcomePol | url=https://www.stvv.com/nl/nieuws/a-kern/welcomepol | access-date=12 July 2018 | archive-date=12 July 2018 | archive-url=https://web.archive.org/web/20180712221636/https://www.stvv.com/nl/nieuws/a-kern/welcomepol | url-status=dead }}</ref>
+|-
+| {{dts|format=dmy|2018|7|12}}
+| align=center| {{sortname||FW|Forward (association football)|c}}
+| {{flagicon|ITA}} [[Alberto Cerri]]
+| align=center| {{Age|1996|4|16|2018|7|12}}
+| {{flagicon|ITA}} [[Cagliari Calcio|Cagliari]]
+| align=center| €1M
+| align=center| On loan until 2019 with obligation to buy for €9M
+| <ref>{{cite web | title=Bentornato in rossoblù, Alberto! | url=https://www.cagliaricalcio.com/news/ultimissime/17576/bentornato-in-rossoblu-alberto-cerri | access-date=12 July 2018 | archive-date=2 December 2019 | archive-url=https://web.archive.org/web/20191202222212/https://www.cagliaricalcio.com/news/ultimissime/17576/bentornato-in-rossoblu-alberto-cerri | url-status=dead }}</ref>
+|-
+| {{dts|format=dmy|2018|7|13}}
+| align=center| {{sortname||MF|Midfielder|c}}
+| {{flagicon|COL}} [[Andrés Tello]]
+| align=center| {{Age|1996|9|6|2018|7|13}}
+| {{flagicon|ITA}} [[Benevento Calcio|Benevento]]
+| align=center| €2.5M
+| align=center| Option for Buy-back clause
+| <ref>{{cite web | title=Tello E' del Benevento: Formalizzato l'Accordo Con la Juventus | date=13 July 2018 | url=https://www.beneventocalcio.club/news/notizie/1295/tello-e-del-benevento-formalizzato-l-accordo-con-la-juventus.shtml }}</ref>
+|-
+| {{dts|format=dmy|2018|7|14}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Stefano Pellizzari]]
+| align=center| {{Age|1997|1|03|2018|7|14}}
+| {{flagicon|ITA}} [[Ravenna F.C.|Ravenna]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref name="ravennafc.it">{{cite web | title=Due giovani "zebre" pronte a ruggire | work=Ravenna FC 1913 | url=http://www.ravennafc.it/news/due-giovani-zebre-pronte-a-ruggire/ }}</ref>
+|-
+| {{dts|format=dmy|2018|7|14}}
+| align=center| {{sortname||MF|Midfielder|c}}
+| {{flagicon|ITA}} [[Giorgio Siani]]
+| align=center| {{Age|1997|1|09|2018|7|14}}
+| {{flagicon|ITA}} [[Ravenna F.C.|Ravenna]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref name="ravennafc.it"/>
+|-
+| {{dts|format=dmy|2018|7|17}}
+| align=center| {{sortname||GK|Goalkeeper (association football)|c}}
+| {{flagicon|ITA}} [[Emil Audero]]
+| align=center| {{Age|1997|1|18|2018|7|17}}
+| {{flagicon|ITA}} [[U.C. Sampdoria|Sampdoria]]
+| align=center| €1M
+| align=center| On loan until 2019 with option<br /> to buy for €14M and Buy-back clause for Juventus
+| <ref>[http://www.juventus.com/media/native/investor-relations-docs/english/price-sensitive-press-releases/2017-18/comunicato_17072018_audero_eng.pdf]{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref><ref>{{cite web | title=Audero is a Blucerchiati: Goalkeeper signs on loan deal | date=17 July 2018 | url=http://www.sampdoria.it/en/audero-is-a-blucerchiati-goalkeeper-signs-on-loan-deal/ }}</ref>
+|-
+| {{dts|format=dmy|2018|7|20}}
+| align=center| {{sortname||FW|Forward (association football)|c}}
+| {{flagicon|ITA}} [[Davide Cais]]
+| align=center| {{Age|1994|2|17|2018|7|20}}
+| {{flagicon|ITA}} [[Albissola 2010|Albissola]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref>{{cite web | title=Albissola 2010: Storia e Orgoglio del Calcio Albissolese | date=20 December 2024 | url=http://www.albissola2010.it/davide-cais-ha-firmato-per-lalbissola/ }}</ref>
+|-
+| {{dts|format=dmy|2018|7|25}}
+| align=center| {{sortname||GK|Goalkeeper (association football)|c}}
+| {{flagicon|ITA}} [[Alberto Brignoli]]
+| align=center| {{Age|1991|8|19|2018|7|25}}
+| {{flagicon|ITA}} [[U.S. Città di Palermo|Palermo]]
+| align=center| €1M
+| align=center|
+| <ref>{{cite web | title=Alberto Brignoli È Rosanero | work=U.S. Citta' di Palermo | url=https://palermocalcio.it/it/1819/news/alberto-brignoli-rosanero-35764 | archive-url=https://web.archive.org/web/20180725214559/https://palermocalcio.it/it/1819/news/alberto-brignoli-rosanero-35764 | archive-date=25 July 2018 }}</ref>
+|-
+| {{dts|format=dmy|2018|7|26}}
+| align=center| {{sortname||MF|Midfielder|c}}
+| {{flagicon|ITA}} [[Rolando Mandragora]]
+| align=center| {{Age|1997|6|29|2018|7|26}}
+| {{flagicon|ITA}} [[Udinese Calcio|Udinese]]
+| align=center| €20M
+| align=center| Paid in four instalments and €26M<br />Buy-back clause for<br />Juventus until 2019–20 season
+| <ref>{{cite web | title=Rolando Mandragora joins Udinese|publisher=Juventus FC | url=http://www.juventus.com/en/news/news/2018/rolando-mandragora-joins-udinese.php }}</ref>
+|-
+| {{dts|format=dmy|2018|7|27}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Giangiacomo Magnani]]
+| align=center| {{Age|1995|10|4|2018|7|27}}
+| {{flagicon|ITA}} [[U.S. Sassuolo|Sassuolo]]
+| align=center| €5M
+| align=center| Paid in three instalments and €12M<br />Buy-back clause for<br />Juventus until 2019–20 season
+| <ref>[http://www.juventus.com/media/native/investor-relations-docs/comunicato_27072018_magnani_eng.pdf]{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref>
+|-
+| {{dts|format=dmy|2018|7|28}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Dario Del Fabro]]
+| align=center| {{Age|1995|3|24|2018|7|28}}
+| {{flagicon|ITA}} [[U.S. Cremonese|Cremonese]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref>{{Cite news |date=July 31, 2018 |title=Del Fabro è un giocatore della Cremonese - US Cremonese dal 1903 |url=http://www.uscremonese.it/del-fabro-e-un-giocatore-della-cremonese/ |url-status=dead |archive-url=https://web.archive.org/web/20180802011140/http://www.uscremonese.it/del-fabro-e-un-giocatore-della-cremonese/ |archive-date=2018-08-02 |work=US Cremonese dal 1903 |language=it-IT}}</ref>
+|-
+| {{dts|format=dmy|2018|7|30}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Luca Barlocco]]
+| align=center| {{Age|1995|2|20|2018|7|30}}
+| {{flagicon|ITA}} [[Piacenza Calcio 1919|Piacenza]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref>{{cite web | title=Luca Barlocco è un giocatore del Piacenza | date=31 July 2018 | url=http://www.piacenzacalcio.it/barlocco-piacenza/ }}</ref>
+|-
+| {{dts|format=dmy|2018|8|5}}
+| align=center| {{sortname||MF|Midfielder|c}}
+| {{flagicon|ITA}} [[Luca Marrone]]
+| align=center| {{Age|1990|3|28|2018|8|5}}
+| {{flagicon|ITA}} [[Hellas Verona F.C.|Verona]]
+| align=center| N/A
+| align=center| On loan until June 2019 with obligation to buy
+| <ref>{{cite web |date=4 August 2019 |title=Ufficiale: Marrone è un nuovo calciatore dell'Hellas Verona |url=https://www.hellasverona.it/2018/08/04/ufficiale_marrone_e_un_nuovo_calciatore_dell_hellas_verona |archive-url=https://web.archive.org/web/20180804170134/https://www.hellasverona.it/2018/08/04/ufficiale_marrone_e_un_nuovo_calciatore_dell_hellas_verona |archive-date=2018-08-04 |publisher=Hellas Verona |language=it}}</ref>
+|-
+| {{dts|format=dmy|2018|8|7}}
+| align=center| {{sortname||FW|Forward (association football)}}
+| {{flagicon|CRO}} [[Marko Pjaca]]
+| align=center| {{Age|1995|5|6|2018|8|7}}
+| {{flagicon|ITA}} [[ACF Fiorentina|Fiorentina]]
+| align=center| €2M
+| align=center| On loan until 2019 with an option <br />to buy for €20M and Buy-back <br />clause for Juventus
+| <ref>{{cite web | title=Marko Pjaca joins Fiorentina|publisher=Juventus FC | url=http://www.juventus.com/en/news/news/2018/marko-pjaca-joins-fiorentina-from-juventus.php }}</ref><ref>{{cite web | title=ViolaChannel - Fiorentina complete Pjaca signing | url=http://en.violachannel.tv/video-detail/items/fiorentina-complete-pjaca-signing.html | access-date=8 August 2018 | archive-date=8 August 2018 | archive-url=https://web.archive.org/web/20180808043319/http://en.violachannel.tv/video-detail/items/fiorentina-complete-pjaca-signing.html | url-status=dead }}</ref>
+|-
+| {{dts|format=dmy|2018|8|10}}
+| align=center| {{sortname||FW|Forward (association football)|c}}
+| {{flagicon|ITA}} [[Andrea Favilli (footballer)|Andrea Favilli]]
+| align=center| {{Age|1997|5|17|2018|8|10}}
+| {{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+| align=center| €5M
+| align=center| On loan until June 2019 with option to buy of €7M with buy back clause
+| <ref>{{cite web | title=Juventus salutes Andrea Favilli|publisher=Juventus FC | url=http://www.juventus.com/en/news/news/2018/juventus-andrea-favilli-transfer-genoa.php }}</ref>
+|-
+| {{dts|format=dmy|2018|8|10}}
+| align=center| {{sortname||FW|Forward (association football)|c}}
+| {{flagicon|ITA}} [[Eric Lanini]]
+| align=center| {{Age|1994|2|25|2018|8|10}}
+| {{flagicon|ITA}} [[Imolese Calcio 1919|Imolese]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref name="ReferenceC"/>
+|-
+| {{dts|format=dmy|2018|8|11}}
+| align=center| {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Nazzareno Belfasti]]
+| align=center| {{Age|1995|2|20|2018|8|11}}
+| {{flagicon|ITA}} [[A.C. Reggiana 1919|Reggio Audace]]
+| align=center| Free
+| align=center| Contract expiration
+| <ref>{{cite web | title=Reggiana, dopo l'apocalisse è tempo di calciomercato | date=3 August 2018 | url=https://www.reggiosera.it/2018/08/reggiana-lapocalisse-tempo-calciomercato/244633/ }}</ref>
+|-
+| {{dts|format=dmy|2018|8|12}}
+| align=center| {{sortname||FW|Forward (association football)|c}}
+| {{flagicon|ITA}} [[Stefano Beltrame]]
+| align=center| {{Age|1993|2|8|2018|8|12}}
+| {{flagicon|NED}} [[FC Den Bosch|Den Bosch]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref>{{cite web|title=Stefano Beltrame keert terug bij FC den Bosch &#124; FC den Bosch |work=FC Den Bosch |date=15 August 2018 |url=https://www.fcdenbosch.nl/stefano-beltrame-keert-terug-bij-fc-den-bosch/|archive-url=https://web.archive.org/web/20180817055839/https://www.fcdenbosch.nl/stefano-beltrame-keert-terug-bij-fc-den-bosch/ |archive-date=2018-08-17 }}</ref>
+|-
+| {{dts|format=dmy|2018|8|13}}
+| align=center| {{sortname||MF|Midfielder|c}}
+| {{flagicon|FRA}} [[Roger Tamba M'Pinda]]
+| align=center| {{Age|1998|9|18|2018|8|13}}
+| {{flagicon|CRO}} [[NK Osijek]]
+| align=center| N/A
+| align=center| On loan until June 2019 with option to buy
+| <ref name="ReferenceC"/>
+|-
+| {{dts|format=dmy|2018|8|13}}
+| align=center| {{sortname||MF|Midfielder|c}}
+| {{flagicon|GUI}} [[Oumar Toure (footballer)|Oumar Toure]]
+| align=center| {{Age|1998|9|18|2018|8|13}}
+| {{flagicon|ALB}} [[FK Kukësi]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref name="ReferenceC"/>
+|-
+| {{dts|format=dmy|2018|8|14}}
+| align=center| {{sortname||GK|Goalkeeper (association football)|c}}
+| {{flagicon|ROM}} [[Laurentiu Branescu]]
+| align=center| {{Age|1994|3|30|2018|8|14}}
+| {{flagicon|SLO}} [[HNK Gorica]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref>{{Cite web|title='Vratar Branescu u Gorici' |publisher=HNK Gorica |url=http://www.hnk-gorica.hr/hnk2013/sadrzaj-arhiva/vijesti/blicinfo/6847-vratar-branescu-u-gorici |archive-url=https://web.archive.org/web/20180820005811/http://www.hnk-gorica.hr/hnk2013/sadrzaj-arhiva/vijesti/blicinfo/6847-vratar-branescu-u-gorici |archive-date=2018-08-20 }}</ref>
+|-
+| {{dts|format=dmy|2018|8|17}}
+| align=center| {{sortname||MF|Midfielder|c}}
+| {{flagicon|ITA}} [[Luca Clemenza]]
+| align=center| {{Age|1997|7|9|2018|8|17}}
+| {{flagicon|ITA}} [[Calcio Padova|Padova]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref>{{cite web | title=Prime foto di Clemenza e Vogliacco in biancoscudato | date=18 August 2018 | url=http://www.padovacalcio.it/prime-foto-clemenza-vogliacco/ }}</ref>
+|-
+| {{dts|format=dmy|2018|8|17}}
+| align=center| {{sortname||MF|Midfielder|c}}
+| {{flagicon|ITA}} [[Ferdinando Del Sole]]
+| align=center| {{Age|1998|1|17|2018|8|17}}
+| {{flagicon|ITA}} [[Delfino Pescara 1936|Pescara]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref>{{cite web | title=Scambio di prestiti con la Juventus: Bunino - del Sole è fatta | work=PESCARA Calcio 1936 | date=20 August 2018 | url=https://www.pescaracalcio.com/scambio-di-prestiti-con-la-juventus-bunino-del-sole-e-fatta/ }}</ref>
+|-
+| {{dts|format=dmy|2018|8|24}}
+| align=center| {{sortname||MF|Midfielder|c}}
+| {{flagicon|ITA}} [[Nicola Mosti]]
+| align=center| {{Age|1998|2|7|2018|8|24}}
+| {{flagicon|ITA}} [[Imolese Calcio 1919|Imolese]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref name="ReferenceC"/>
+|-
+| {{dts|format=dmy|2018|8|31}}
+| align=center| {{sortname||MF|Midfielder|c}}
+| {{flagicon|CZE}} [[Roman Macek]]
+| align=center| {{Age|1997|4|18|2018|8|31}}
+| {{flagicon|SUI}} [[FC Lugano|Lugano]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref>{{cite web | last1=Pedroni | first1=Luca | title=Roman Macek vestirà bianconero, in arrivo anche Cavagnera | work=Sito ufficiale | date=31 August 2018 | url=https://www.fclugano.com/roman-macek-vestira-bianconero-in-arrivo-anche-cavagnera/ | access-date=2 September 2018 | archive-date=4 November 2019 | archive-url=https://web.archive.org/web/20191104025526/https://www.fclugano.com/roman-macek-vestira-bianconero-in-arrivo-anche-cavagnera/ | url-status=dead }}</ref>
+|-
+| {{dts|format=dmy|2018|9|14}}
+| align=center| {{sortname||FW|Forward (association football)|c}}
+| {{flagicon|ITA}} [[King Udoh]]
+| align=center| {{Age|1997|9|5|2018|9|14}}
+| {{flagicon|ITA}} [[Football Club Esperia Viareggio|Viareggio]]
+| align=center| Free
+| align=center| Released
+| <ref>{{cite web | title=Due nuovi innesti per rinforzare il Viareggio Presi Omar Gaye e Udoh | work=Il Tirreno | url=http://iltirreno.gelocal.it/versilia/sport/2018/09/20/news/due-nuovi-innesti-per-rinforzare-il-viareggio-presi-omar-gaye-e-udoh-1.17269410?refresh_ce }}</ref>
+|}
+
+<small>Total expenditure: €242,750,000</small>
+
+<small>Total revenue: €93,500,000</small>
+
+Net income: {{decrease}}€149,250,000
+
+===Winter 2018–19===
+====In====
+{| class="wikitable sortable"
+|-
+! style="width:80px;"| Date
+! style="width:20px;"| {{tooltip|Pos.|Position}}
+! style="width:190px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:180px;"| Moving from
+! style="width:120px;" class="unsortable"| Fee
+! style="width:250px;" class="unsortable"| Notes
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2019|1|29}}
+| align="center" | {{sortname||DF|Defender (association football)}}
+| {{flagicon|URU}} [[Martín Cáceres]]
+| align="center" | {{Age|1987|4|7|2019|1|29}}
+|align=left| {{flagicon|ITA}} [[S.S. Lazio|Lazio]]
+| align=center| €0.6M
+| align=center| On loan until June 2019
+| <ref name="welcome-back-martin-caceres" />
+|}
+
+====Out====
+{| class="wikitable sortable"
+|-
+! style="width:80px;"| Date
+! style="width:20px;"| {{tooltip|Pos.|Position}}
+! style="width:190px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:180px;"| Moving to
+! style="width:120px;" class="unsortable"| Fee
+! style="width:250px;" class="unsortable"| Notes
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2019|1|28}}
+| align="center" | {{sortname||DF|Defender (association football)}}
+| {{flagicon|MAR}} [[Medhi Benatia]]
+| align="center" | {{Age|1987|4|17|2019|1|28}}
+|align=left| {{flagicon|QAT}} [[Al-Duhail SC|Al-Duhail]]
+| align=center| €8M
+| align=center| €2M variables
+| <ref>{{Cite web|url=https://www.juventus.com/en/news/news/2019/thanks-for-everything-medhi-benatia.php |title=Thanks for everything, Medhi! |date=28 January 2019 |publisher=Juventus FC}}</ref>
+|}
+
+====Other acquisitions====
+{| class="wikitable sortable"
+|-
+! style="width:80px;"| Date
+! style="width:20px;"| {{tooltip|Pos.|Position}}
+! style="width:190px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:180px;"| Moving to
+! style="width:120px;" class="unsortable"| Fee
+! style="width:250px;" class="unsortable"| Notes
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2019|1|31}}
+| align="center" | {{sortname||FW|Forward (association football)}}
+| {{flagicon|COD}} [[Benjamin Mokulu]]
+| align="center" | {{Age|1989|10|11|2019|1|31}}
+|align=left| {{flagicon|ITA}} [[Carpi F.C. 1909|Carpi]]
+| align=center| N/A
+| align=center| On loan until end of season with obligation to buy at the end of the season to play for [[Juventus Under 23]]
+| <ref name="Mercato invernale, il riepilogo">{{cite web|url=https://www.juventus.com/it/news/news/2019/mercato-invernale--il-riepilogo.php|title=Mercato invernale, il riepilogo|publisher=Juventus FC}}</ref>
+|-
+| {{dts|format=dmy|2019|1|30}}
+| align="center" | {{sortname||MF|Midfielder}}
+| {{flagicon|BEL}} [[Daouda Peeters]]
+| align="center" | {{Age|1999|1|26|2019|1|30}}
+|align=left| {{flagicon|ITA}} [[U.C. Sampdoria|Sampdoria]]
+| align=center| €4M
+| align=center| On loan to Sampdoria until June 2019
+| <ref name="Mercato invernale, il riepilogo"/>
+|-
+| {{dts|format=dmy|2019|1|31}}
+| align="center" | {{sortname||FW|Forward (association football)}}
+| {{flagicon|ITA}} [[Erik Gerbi]]
+| align="center" | {{Age|2000|6|11|2019|1|31}}
+| {{flagicon|ITA}} [[F.C. Pro Vercelli 1892|Pro Vercelli]]
+| align=center| €1.45M
+| align=center| On loan to Pro Vercelli until June 2019
+| <ref name="web.archive.org">{{cite web |date=31 January 2019 |title=DOPPIA OPERAZIONE CON LA JUVENTUS: ACQUISTATO EMMANUELLO, CEDUTO GERBI |url=http://www.fcprovercelli.it/doppia-operazione-con-la-juventus-acquistato-emmanuello-ceduto-gerbi |archive-url=https://web.archive.org/web/20190202153628/http://www.fcprovercelli.it/doppia-operazione-con-la-juventus-acquistato-emmanuello-ceduto-gerbi |archive-date=2 February 2019 |publisher=F.C. Pro Vercelli |language=it}}</ref>
+|}
+
+====Other disposals====
+{| class="wikitable collapsible collapsed sortable"
+|-
+! style="width:80px;"| Date
+! style="width:20px;"| {{tooltip|Pos.|Position}}
+! style="width:190px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:180px;"| Moving to
+! style="width:120px;" class="unsortable"| Fee
+! style="width:250px;" class="unsortable"| Notes
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2019|1|23}}
+| align="center" | {{sortname||FW|Forward (association football)}}
+| {{flagicon|ARG}} [[Gonzalo Higuaín]]
+| align="center" | {{Age|1987|12|10|2019|1|23}}
+|align=left| {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+| align=center| N/A<ref name="Chelsea">{{Cite web|url=https://www.juventus.com/media/native/investor-relations-docs/italiano/comunicati/2018/comunicato_23012019_higuain_ita.pdf|title=Gonzalo Higuain|date=23 January 2019}}{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref>
+| align=center| On loan until end of season with an option to buy for €36M or renewal of season loan for €18M
+| <ref>{{cite web|url=https://www.chelseafc.com/en/news/2019/1/23/gonzalo-higuain-completes-loan-transfer-to-chelsea?cardIndex=0-0|title=Gonzalo Higuaín completes loan transfer to Chelsea|publisher=[[Chelsea F.C.]] official website|date=23 January 2019|access-date=23 January 2019}}</ref>
+|-
+| {{dts|format=dmy|2019|1|26}}
+| align="center" | {{sortname||MF|Midfielder}}
+| {{flagicon|CZE}} [[Roman Macek]]
+| align="center" | {{Age|1997|4|18|2019|1|26}}
+|align=left| {{flagicon|SUI}} [[FC Lugano|Lugano]]
+| align=center| €1M
+| align=center| Redeem after loan
+| <ref>{{cite web |last1=Pedroni |first1=Luca |url=https://www.fclugano.com/complessa-operazione-di-mercato-con-la-juventus/ |title=Complessa Operazione Di Mercato Con La Junventus |date=27 January 2019 |website=[[FC Lugano]] |language=it |access-date=28 January 2019 |archive-date=23 January 2021 |archive-url=https://web.archive.org/web/20210123015145/https://www.fclugano.com/complessa-operazione-di-mercato-con-la-juventus/ |url-status=dead }}</ref>
+|-
+| {{dts|format=dmy|2019|1|31}}
+| align="center" | {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Simone Emmanuello]]
+| align="center" | {{Age|1994|4|25|2019|1|31}}
+| {{flagicon|ITA}} [[F.C. Pro Vercelli 1892|Pro Vercelli]]
+| align=center| €0.95M
+| align=center| 
+| <ref name="web.archive.org"/>
+|-
+| {{dts|format=dmy|2019|1|31}}
+| align=center| {{sortname||FW|Forward (association football)|c}}
+| {{flagicon|ITA}} [[Andrea Favilli (footballer)|Andrea Favilli]]
+| align=center| {{Age|1997|5|17|2019|1|31}}
+| {{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+| align=center| N/A
+| align=center| Renowal of loan until June 2020 with obligation to buy for €7M at end of the season
+| <ref name="Mercato invernale, il riepilogo"/>
+|-
+| {{dts|format=dmy|2019|1|31}}
+| align=center| {{sortname||MF|Midfielder|c}}
+| {{flagicon|GUI}} [[Oumar Toure (footballer)|Oumar Toure]]
+| align=center| {{Age|1998|9|18|2019|1|31}}
+| {{flagicon|GRE}} [[Sparta F.C.|Sparti]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref name="Mercato invernale, il riepilogo"/>
+|-
+| {{dts|format=dmy|2019|2|6}}
+| align="center" | {{sortname||MF|Midfielder}}
+| {{flagicon|ITA}} [[Stefano Sturaro]]
+| align="center" | {{Age|1993|3|9|2019|2|6}}
+|align=left| {{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+| align=center| €18M
+| align=center| On 24 January 2019, a loan deal was initially done for €1.5M until end of season with an option to buy for €8.5M + €8M variables, however, later made a permanent deal for €16.5M on 6 February 2019.
+| <ref>{{cite web|url=https://www.juventus.com/en/news/news/2019/stefano-sturaro-moves-to-genoa-on-loan.php|title=Stefano Sturaro moves to Genoa on loan|publisher=Juventus FC|date=24 January 2019}}</ref><ref>{{cite web|url=https://www.juventus.com/media/native/investor-relations-docs/english/price-sensitive-press-releases/2017-18/comunicato_06022019_sturaro_eng.pdf|title=DEFINITIVE DISPOSAL OF THE PLAYER STEFANO STURARO|publisher=Juventus FC|date=6 February 2019}}{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref><ref>https://genoacfc.it/stefano-sturaro-ritorno-compiuto/ {{Dead link|date=February 2022}}</ref><ref>{{cite web|url=https://m.tuttomercatoweb.com/serie-a/ufficiale-genoa-sturaro-gia-riscattato-alla-juventus-16-5-mln-di-euro-1211160|access-date=6 February 2019|title=UFFICIALE: Genoa, Sturaro già riscattato. Alla Juventus 16.5 mln di euro|language=it}}</ref>
+|-
+| {{dts|format=dmy|2019|2|12}}
+| align=center| {{sortname||GK|Goalkeeper (association football)|c}}
+| {{flagicon|ROM}} [[Laurentiu Branescu]]
+| align=center| {{Age|1994|3|30|2019|2|12}}
+| {{flagicon|LIT}} [[Zalgiris Vilnius]]
+| align=center| N/A
+| align=center| On loan until June 2019
+| <ref>{{cite web | title="Žalgirio" vartus saugos "Juventus" priklausantis L. Branescu | url=http://www.fkzalgiris.lt/naujienos/n7562.html | archive-url=https://web.archive.org/web/20190708170335/http://www.fkzalgiris.lt/naujienos/n7562.html | archive-date=8 July 2019 }}</ref>
+|-
+| {{dts|format=dmy|2019|2|19}}
+| align=center| {{sortname||FW|Forward (association football)|c}}
+| {{flagicon|ITA}} [[Alberto Cerri]]
+| align=center| {{Age|1996|4|16|2019|2|19}}
+| {{flagicon|ITA}} [[Cagliari Calcio|Cagliari]]
+| align=center| €9M
+| align=center| Opted to sign permanently
+| <ref>{{cite web | title=Cerri joins Cagliari on a permanent deal|publisher=Juventus FC | url=https://www.juventus.com/en/news/news/2019/cerri-to-cagliari-on-a-permanent-deal.php }}</ref>
+|-
+| {{dts|format=dmy|2019|2|26}}
+| align=center| {{sortname||GK|Goalkeeper (association football)|c}}
+| {{flagicon|ITA}} [[Emil Audero]]
+| align=center| {{Age|1997|1|18|2019|2|26}}
+| {{flagicon|ITA}} [[U.C. Sampdoria|Sampdoria]]
+| align=center| €20M
+| align=center| On 29 January 2019, a renewal of loan was initially done with obligation to buy for €20M at end of the season and optional future buy-back clause for Juventus, however, later made a permanent deal for €20M on 26 February 2019 opted to sign permanently with optional future buy-back clause for Juventus
+| <ref>{{cite web | title=Audero joins Sampdoria on a permanent basis|publisher=Juventus FC | url=https://www.juventus.com/en/news/news/2019/audero-joins-sampdoria-on-a-permanent-basis-.php }}</ref><ref>{{Cite web|url=https://www.juventus.com/en/news/news/2019/agreement-with-sampdoria-for-audero-.php|title = Agreement with Sampdoria for Audero|publisher=Juventus FC}}</ref><ref>http://www.sampdoria.it/audero-e-tutto-della-sampdoria-temporaneo-con-obbligo-di-riscatto-.php{{dead link|date=May 2026}}</ref>
+|}
+
+<small>Total expenditure: €6,050,000</small>
+
+<small>Total revenue: €56,950,000</small>
+
+Net income: {{increase}}€50,900,000
+
+===End of the season===
+====Other acquisitions====
+{| class="wikitable sortable"
+|-
+! style="width:80px;"| Date
+! style="width:20px;"| {{tooltip|Pos.|Position}}
+! style="width:190px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:180px;"| Moving to
+! style="width:120px;" class="unsortable"| Fee
+! style="width:250px;" class="unsortable"| Notes
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2019|6|30}}
+| align="center" | {{sortname||DF|Defender (association football)}}
+| {{flagicon|ITA}} [[Edoardo Masciangelo]]
+| align="center" | {{Age|1996|7|8|2019|6|30}}
+|align=left| {{flagicon|SUI}} [[FC Lugano|Lugano]]
+| align=center| €1M
+| align=center| Redeem after loan to play for [[Juventus Under 23]]
+| <ref name="Mercato invernale, il riepilogo"/>
+|-
+| {{dts|format=dmy|2019|6|30}}
+| align="center" | {{sortname||FW|Forward (association football)}}
+| {{flagicon|COD}} [[Benjamin Mokulu]]
+| align="center" | {{Age|1989|10|11|2019|6|30}}
+|align=left| {{flagicon|ITA}} [[Carpi F.C. 1909|Carpi]]
+| align=center| €0.45M
+| align=center| Redeem after loan to play for [[Juventus Under 23]]
+| <ref name="Mercato invernale, il riepilogo"/>
+|-
+| {{dts|format=dmy|2019|6|30}}
+| align="center" | {{sortname||FW|Forward (association football)}}
+| {{flagicon|ITA}} [[Luca Zanimacchia]]
+| align="center" | {{Age|1998|7|19|2019|6|30}}
+|align=left| {{flagicon|ITA}} [[Genoa C.F.C.|Genoa]]
+| align=center| €4M
+| align=center| Redeem after loan to play for [[Juventus Under 23]]
+| <ref name="Mercato invernale, il riepilogo"/>
+|-
+| {{dts|format=dmy|2019|6|30}}
+| align="center" | {{sortname||FW|Forward (association football)}}
+| {{flagicon|ITA}} [[Marco Olivieri]]
+| align="center" | {{Age|1999|6|30|2019|6|30}}
+|align=left| {{flagicon|ITA}} [[Empoli F.C.|Empoli]]
+| align=center| €1M + €0.2M
+| align=center| €0.2M for season loan and €1M for option to buy. Redeem after loan to play for [[Juventus Under 23]]
+| <ref name="juventus_2018-19">{{Cite web|url=https://www.juventus.com/en/news/articles/2018-19-summer-transfer-market-summary|title=2018/19 Summer transfer market summary - Juventus|website=Juventus.com|accessdate=28 May 2026}}</ref>
+|-
+| {{dts|format=dmy|2019|6|30}}
+| align="center" | {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|GER}} [[Idrissa Touré]]
+| align="center" | {{Age|1998|4|29|2019|6|30}}
+|align=left| {{flagicon|GER}} [[Werder Bremen]]
+| align=center| €1.3M
+| align=center| Redeem after loan to play for [[Juventus Under 23]]
+| <ref name="juventus_2018-19"/>
+|}
+
+====Other disposals====
+{| class="wikitable sortable"
+|-
+! style="width:80px;"| Date
+! style="width:20px;"| {{tooltip|Pos.|Position}}
+! style="width:190px;"| Player
+! style="width:20px;"| {{tooltip|Age|Age on the day of the transfer}}
+! style="width:180px;"| Moving to
+! style="width:120px;" class="unsortable"| Fee
+! style="width:250px;" class="unsortable"| Notes
+! style="width:20px;"| Source
+|-
+| {{dts|format=dmy|2019|6|3}}
+| align="center" | {{sortname||MF|Midfielder (association football)}}
+| {{flagicon|ITA}} [[Luca Marrone]]
+| align="center" | {{Age|1990|3|28|2019|6|3}}
+|align=left| {{flagicon|ITA}} [[Hellas Verona F.C.|Hellas Verona]]
+| align=center| €0.45M
+| align=center| Opted to sign permanently
+| <ref>{{cite web|url=http://www.hellas1903.it/calciomercato/mercato-scatta-lobbligo-di-riscatto-per-marrone/|title=Mercato, scatta l'obbligo di riscatto per Marrone |date=3 June 2019 }}</ref>
+|-
+| {{dts|format=dmy|2019|6|20}}
+| align="center" | {{sortname||FW|Forward (association football)}}
+| {{flagicon|ITA}} [[Riccardo Orsolini]]
+| align="center" | {{Age|1997|1|24|2019|6|20}}
+|align=left| {{flagicon|ITA}} [[Bologna F.C. 1909|Bologna]]
+| align=center| €15M
+| align=center| Opted to sign permanently and €22.5M Buy-back clause for Juventus
+| <ref>{{cite web|url=https://www.bolognafc.it/en/bologna-take-up-option-to-sign-orsolini-permanently/|title=Bologna take up option to sign Orsolini permanently|date=2019-06-20}}</ref>
+|}
+
+<small>Total expenditure: €216.000,000</small>'' (considered disposals only from July 2019)''
+
+<small>Total revenue: €163.450,000</small>'' (considered disposals only from July 2019)''
+
+Net income: {{decrease}}€52,550,000 <small>'' (considered disposals only from July 2019)''</small>
+
+==Pre-season and friendlies==
+{{football box collapsible
+|round      = [[Exhibition game|Friendly]]
+|date       = 14 July 2018
+|time       = [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = Juventus 
+|score      = 4–0
+|report     = http://www.juventus.com/it/news/galleries/2018/amichevole-contro-il-chisola.php
+|team2      =  Chisola Calcio A.S.D.
+|goals1     = [[Emre Can|Can]] {{goal|}} <br /> [[Grigoris Kastanos|Kastanos]] {{goal|}} <br /> [[Alex Sandro]] {{goal|}} <br /> [[Luca Clemenza|Clemenza]] {{goal|}}
+|goals2     = 
+|stadium    = Juventus Training Center
+|location   = Continassa, [[Turin]]
+|result     = W
+}}
+{{Football box collapsible
+|round      = [[2018 International Champions Cup#Juventus v Bayern Munich|ICC 1]]
+|date       = 25 July 2018
+|time       = 19:05 [[Eastern Daylight Time|EDT]] ([[UTC−04:00|UTC−4]])
+|team1      = Juventus 
+|score      = 2–0
+|report     = http://www.espn.com/soccer/match?gameId=514962
+|team2      =  [[FC Bayern Munich|Bayern Munich]]
+|goals1     = [[Giorgio Chiellini|Chiellini]] {{yel|16}}<br /> [[Andrea Favilli (footballer)|Favilli]] {{goal|32||40}}
+|goals2     = 
+|stadium    = [[Lincoln Financial Field]]
+|location   = [[Philadelphia]], [[United States]]
+|attendance = 32,105
+|referee    = [[Chris Penso]] ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2018 International Champions Cup|ICC 2]]
+|date       = 28 July 2018
+|time       = 19:05 [[Eastern Daylight Time|EDT]] ([[UTC−04:00|UTC−4]])
+|team1      = [[S.L. Benfica|Benfica]] 
+|score      = 1–1
+|penalties1 = [[Keaton Parks|Parks]] {{pengoal}}<br />[[Jonas Gonçalves Oliveira|Jonas]] {{penmiss}}<br />[[Andreas Samaris|Samaris]] {{pengoal}}<br />[[João Félix|Félix]] {{penmiss}}
+|penaltyscore = 2–4
+|penalties2 = {{pengoal}} [[Nicolò Fagioli|Fagioli]]<br />{{pengoal}} [[Emre Can|Can]]<br />{{pengoal}} [[Stefano Beltrame|Beltrame]]<br />{{pengoal}} [[Alex Sandro]]
+|report     = http://www.espn.com/soccer/match?gameId=514954
+|team2      =  Juventus
+|goals1     = [[Álex Grimaldo|Grimaldo]] {{goal|65}}<br />[[Keaton Parks|Parks]] {{yel|82}}
+|goals2     = [[Luca Clemenza|Clemenza]] {{goal|84}}
+|stadium    = [[Red Bull Arena (New Jersey)|Red Bull Arena]]
+|location   = [[Harrison, New Jersey]], United States
+|attendance = 24,194
+|referee    = José Carlos Rivero ([[United States Soccer Federation|United States]])
+|result     = D
+}}
+{{football box collapsible
+|round      = [[2018 MLS All-Star Game|MLS All-Star Game]]
+|date       = 1 August 2018
+|time       = 19:30 [[Eastern Daylight Time|EDT]] ([[UTC−04:00|UTC−4]])
+|team1      = MLS All-Stars
+|score      = 1–1
+|report     = https://matchcenter.mlssoccer.com/matchcenter/2018-08-01-mls-all-star-team-vs-juventus
+|team2      =  Juventus
+|goals1     = [[Josef Martínez|Martínez]] {{goal|26}}
+|goals2     = [[Andrea Favilli (footballer)|Favilli]] {{goal|21}}<br />[[Alex Sandro]] {{yel|44}}<br />[[Leandro Fernandes|Fernandes]] {{yel|88}}
+|stadium    = [[Mercedes-Benz Stadium]]
+|location   = [[Atlanta]], United States
+|attendance = 72,317
+|referee    = Robert Sibiga ([[United States Soccer Federation|United States]])
+|result     = D
+|penalties1 = 
+* [[Graham Zusi|Zusi]] {{pengoal}}
+* [[Yoshimar Yotún|Yotún]] {{pengoal}}
+* [[Diego Valeri|Valeri]] {{pengoal}}
+* [[Bradley Wright-Phillips|Wright-Phillips]] {{penmiss}}
+|penaltyscore = 3–5
+|penalties2 = 
+* {{pengoal}} [[Nicolò Fagioli|Fagioli]]
+* {{pengoal}} [[Stefano Beltrame|Beltrame]]
+* {{pengoal}} [[Grigoris Kastanos|Kastanos]]
+* {{pengoal}} [[Leandro Fernandes|Fernandes]]
+* {{pengoal}} [[Mattia De Sciglio|De Sciglio]]
+}}
+{{football box collapsible
+|round      = [[2018 International Champions Cup|ICC 3]]
+|date       = 4 August 2018
+|time       = 18:05 [[Eastern Daylight Time|EDT]] ([[UTC−04:00|UTC−4]])
+|team1      = [[Real Madrid CF|Real Madrid]] 
+|score      = 3–1
+|report     = http://www.espn.com/soccer/match?gameId=514944
+|team2      = Juventus
+|goals1     = [[Gareth Bale|Bale]] {{goal|39}}<br />[[Marco Asensio|Asensio]] {{goal|47||56}}<br />[[Sergio Reguilón|Reguilón]] {{yel|81}}
+|goals2     = [[Medhi Benatia|Benatia]] {{yel|6}}<br />[[Daniel Carvajal|Carvajal]] {{goal|12|o.g.}}<br />[[Alex Sandro]] {{yel|33}}
+|stadium    = [[FedExField]]
+|location   = [[Landover, Maryland]], United States
+|attendance = 71,597
+|referee    = Robert Sibiga ([[United States Soccer Federation|United States]])
+|result     = L
+}}
+{{football box collapsible
+|round      = [[Villar Perosa (association football match)|Villar Perosa]]
+|date       = 12 August 2018
+|time       = 17:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1      = Juventus
+|score      = 5–0{{ref label|VP|A|^}}
+|report     = http://www.juventus.com/it/news/news/2018/villar-perosa--una-festa-in-bianconero.php
+|team2      =  [[Juventus F.C. Under-23|Juventus B]]
+|goals1     = [[Cristiano Ronaldo|Ronaldo]] {{goal|8}}<br />[[Riccardo Capellini|Capellini]] {{goal|18|o.g.}}<br />[[Paulo Dybala|Dybala]] {{goal|31||40}}<br />[[Claudio Marchisio|Marchisio]] {{goal|53}}
+|goals2     = 
+|location   = [[Villar Perosa]]
+|attendance = 4,800
+|referee    = Gianluca Manganiello ([[Italian Football Federation|Italy]])
+|result     = W
+}}
+
+==Competitions==
+===Overall===
+{{Fb overview2
+|c=4
+|c1=[[2018–19 Serie A|Serie A]]           |fm1=18 August 2018 |lm1=26 May 2019 |sr1=Matchday 1 |fp1=Winners |w1=28|d1=6 |l1=4 |f1=70|a1=30
+|c2=[[2018–19 Coppa Italia|Coppa Italia]] |fm2=12 January 2019 |lm2=30 January 2019 |sr2=Round of 16 |fp2=Quarter-finals |w2=1 |d2=0 |l2=1 |f2=2 |a2=3
+|c3=[[2018 Supercoppa Italiana|Supercoppa Italiana]] |fm3=16 January 2019 |lm3=16 January 2019 |sr3=Final |fp3=Winners |w3=1 |d3=0 |l3=0 |f3=1 |a3=0
+|c4=[[2018–19 UEFA Champions League|Champions League]] |fm4=19 September 2018 |lm4=16 April 2019 |sr4=Group stage |fp4=Quarter-finals |w4=5 |d4=1 |l4=4 |f4=14|a4=9
+|u=26 May 2019
+|s=
+}}
+
+===Supercoppa Italiana===
+{{main|2018 Supercoppa Italiana}}
+{{football box collapsible
+|date       = 16 January 2019
+|time       = 20:30 [[Arabia Standard Time|AST]]
+|team1      = Juventus
+|score      = 1–0
+|report     = http://www.legaseriea.it/en/supercoppa-tim/match-report/2018-19/FINAL/UNI/1/JUVMIL
+|team2      = [[A.C. Milan|AC Milan]]
+|goals1     = [[Alex Sandro]] {{yel|26}}<br />[[Miralem Pjanić|Pjanić]] {{yel|44}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|61}}<br />[[Paulo Dybala|Dybala]] {{yel|90+4}}
+|goals2     = [[Hakan Çalhanoğlu|Çalhanoğlu]] {{yel|21}}<br />[[Samu Castillejo|Castillejo]] {{yel|45+2}}<br />[[Franck Kessié|Kessié]] {{sentoff|0|74}}<br />[[Alessio Romagnoli|Romagnoli]] {{yel|74}}<br />[[Davide Calabria|Calabria]] {{yel|82}}<br />[[Ricardo Rodríguez (footballer)|Rodríguez]] {{yel|87}}
+|stadium    = [[King Abdullah Sports City]]
+|location = [[Jeddah]], [[Saudi Arabia]]
+|attendance = 61,235
+|referee    = [[Luca Banti]]
+|result     = W
+}}
+
+===Serie A===
+{{main|2018–19 Serie A}}
+
+====League table====
+{{2018–19 Serie A table|showteam=JUV}}
+
+====Results summary====
+{{Fb_rs |hw=15 |hd=4 |hl=0 |hgf=39 |hga=13 |aw=13 |ad=2 |al=4 |agf=31 |aga=17}}
+{{Fb_rs_footer |u=26 May 2019 |s=[[#Matches|Competitive matches]]|date=May 2018}}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b|header=Round
+
+|label1= Ground
+| res1=A/H/A/H/A/H/H/A/H/A/H/A/H/A/H/A/H/A/H/H/A/H/A/H/A/A/H/A/H/A/H/A/H/A/H/A/H/A
+|label2= Result
+| res2=W/W/W/W/W/W/W/W/D/W/W/W/W/W/W/W/W/D/W/W/W/D/W/W/W/W/W/L/W/W/W/L/W/D/D/L/D/L
+|label3= Position
+| res3=3/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1/1
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+| color1=gold |color_2-4=green1| color_5=blue1| color_6=blue2| color_18–20=red1
+
+|updated=26 May 2019
+|source=[[#Matches|Competitive matches]]
+|date=May 2018
+}}
+
+====Matches====
+{{football box collapsible
+|round      = 1
+|date       = 18 August 2018
+|time       = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = [[A.C. ChievoVerona|Chievo]]
+|score      = 2–3
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/1/CHIJUV
+|team2      = Juventus
+|goals1     = [[Mariusz Stępiński|Stępiński]] {{goal|38}}<br />[[Emanuele Giaccherini|Giaccherini]] {{goal|56|pen.}}<br />[[Ivan Radovanović|Radovanović]] {{yel|60}}<br />[[Nenad Tomović|Tomović]] {{yel|90+5}}
+|goals2     = [[Sami Khedira|Khedira]] {{goal|3}}<br />[[Mattia Bani|Bani]] {{goal|75|o.g.}}<br />[[Federico Bernardeschi|Bernardeschi]] {{goal|90+3}}
+|stadium    = [[Stadio Marc'Antonio Bentegodi]]
+|location   = [[Verona]]
+|attendance = 28,375
+|referee    = Fabrizio Pasqua
+|result     = W
+}}
+{{football box collapsible
+|round      = 2
+|date       = 25 August 2018
+|time       = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = Juventus
+|score      = 2–0
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/2/JUVLAZ
+|team2      = [[S.S. Lazio|Lazio]]
+|goals1     = [[Miralem Pjanić|Pjanić]] {{goal|30}}<br />[[Alex Sandro]] {{yel|45+1}}<br />[[Mario Mandžukić|Mandžukić]] {{goal|75}}<br />[[Douglas Costa]] {{yel|81}}<br />[[Emre Can|Can]] {{yel|87}}
+|goals2     = [[Marco Parolo|Parolo]] {{yel|52}}<br />[[Sergej Milinković-Savić|Milinković-Savić]] {{yel|66}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 40,173
+|referee    = [[Massimiliano Irrati]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 3
+|date       = 1 September 2018
+|time       = 20:30 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = [[Parma Calcio 1913|Parma]]
+|score      = 1–2
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/3/PARJUV
+|team2      = Juventus
+|goals1     = [[Gervinho]] {{goal|33}}<br />[[Luca Rigoni|Rigoni]] {{yel|45+2}}
+|goals2     = [[Mario Mandžukić|Mandžukić]] {{goal|2}}<br />[[Miralem Pjanić|Pjanić]] {{yel|13}}<br />[[Federico Bernardeschi|Bernardeschi]] {{yel|40}}<br />[[Blaise Matuidi|Matuidi]] {{goal|58}}<br />[[Juan Cuadrado|Cuadrado]] {{yel|90}}
+|stadium    = [[Stadio Ennio Tardini]]
+|location   = [[Parma]]
+|attendance = 20,814
+|referee    = Daniele Doveri
+|result     = W
+}}
+{{football box collapsible
+|round      = 4
+|date       = 16 September 2018
+|time       = 15:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = Juventus
+|score      = 2–1
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/4/JUVSAS
+|team2      = [[U.S. Sassuolo Calcio|Sassuolo]]
+|goals1     = [[João Cancelo|Cancelo]] {{yel|32}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|50||65}}<br />[[Alex Sandro]] {{yel|60}}<br />[[Douglas Costa]] {{sent off|1|90+1|90+4}}
+|goals2     = [[Filip Đuričić|Đuričić]] {{yel|23}}<br />[[Domenico Berardi|Berardi]] {{yel|26}}<br />[[Mehdi Bourabia|Bourabia]] {{yel|40}}<br />[[Khouma Babacar|Babacar]] {{goal|90+1}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 40,563
+|referee    = Daniele Chiffi
+|result     = W
+}}
+{{football box collapsible
+|round      = 5
+|date       = 23 September 2018
+|time       = 20:30 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = [[Frosinone Calcio|Frosinone]]
+|score      = 0–2
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/5/FROJUV
+|team2      = Juventus
+|goals1     = [[Stipe Perica|Perica]] {{yel|29}}<br />[[Cristian Molinaro|Molinaro]] {{yel|62}}<br />[[Marco Sportiello|Sportiello]] {{yel|80}}
+|goals2     = [[Rodrigo Bentancur|Bentancur]] {{yel|28}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|81}}<br />[[Federico Bernardeschi|Bernardeschi]] {{goal|90+4}}
+|stadium    = [[Stadio Benito Stirpe]]
+|location   = [[Frosinone]]
+|attendance = 16,310
+|referee    = Piero Giacomelli
+|result     = W
+}}
+{{football box collapsible
+|round      = 6
+|date       = 26 September 2018
+|time       = 20:30 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = Juventus
+|score      = 2–0
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/6/JUVBOL
+|team2      = [[Bologna F.C. 1909|Bologna]]
+|goals1     = [[Paulo Dybala|Dybala]] {{goal|12}}<br />[[Blaise Matuidi|Matuidi]] {{goal|16}}<br />[[Miralem Pjanić|Pjanić]] {{yel|33}}<br />[[Juan Cuadrado|Cuadrado]] {{yel|74}}
+|goals2     = [[Nehuén Paz|Paz]] {{yel|37}}<br />[[Danilo Larangeira|Danilo]] {{yel|67}}<br />[[Arturo Calabresi|Calabresi]] {{yel|71}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 38,472
+|referee    = Maurizio Mariani
+|result     = W
+}}
+{{football box collapsible
+|round      = [[Juventus F.C.–S.S.C. Napoli rivalry|7]]
+|date       = 29 September 2018
+|time       = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = Juventus
+|score      = 3–1
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/7/JUVNAP
+|team2      = [[S.S.C. Napoli|Napoli]]
+|goals1     = [[Mario Mandžukić|Mandžukić]] {{goal|26||49}}<br />[[Leonardo Bonucci|Bonucci]] {{yel|60}}, {{goal|76}}<br />[[João Cancelo|Cancelo]] {{yel|69}}<br />[[Alex Sandro]] {{yel|85}}
+|goals2     = [[Dries Mertens|Mertens]] {{goal|10}}<br />[[Mário Rui]] {{sent off|2|24|58}}<br />[[Kalidou Koulibaly|Koulibaly]] {{yel|40}}<br />[[Elseid Hysaj|Hysaj]] {{yel|55}}<br />[[Lorenzo Insigne|Insigne]] {{yel|60}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 39,252
+|referee    = [[Luca Banti]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 8
+|date       = 6 October 2018
+|time       = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = [[Udinese Calcio|Udinese]]
+|score      = 0–2
+|report     = http://www.legaseriea.it/it/serie-a/match-report/2018-19/UNICO/UNI/8/UDIJUV
+|team2      = Juventus
+|goals1     = [[Rodrigo De Paul|De Paul]] {{yel|50}}<br />[[Samir Santos|Santos]] {{yel|80}}<br />[[Kevin Lasagna|Lasagna]] {{yel|82}}
+|goals2     = [[Rodrigo Bentancur|Bentancur]] {{goal|33}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|37}}<br />[[Mario Mandžukić|Mandžukić]] {{yel|90+4}}
+|stadium    = [[Stadio Friuli|Dacia Arena]]
+|location   = [[Udine]]
+|attendance = 25,021
+|referee    = Rosario Abisso
+|result     = W
+}}
+{{football box collapsible
+|round      = 9
+|date       = 20 October 2018
+|time       = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = Juventus
+|score      = 1–1
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/9/JUVGEN
+|team2      = [[Genoa C.F.C.|Genoa]]
+|goals1     = [[Cristiano Ronaldo|Ronaldo]] {{goal|18}}<br />[[Medhi Benatia|Benatia]] {{yel|30}}
+|goals2     = [[Cristian Romero (footballer, born 1998)|Romero]] {{yel|9}}<br />[[Daniel Bessa|Bessa]] {{goal|67}}<br />[[Domenico Criscito|Criscito]] {{yel|71}}<br />[[Goran Pandev|Pandev]] {{yel|90}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 37,735
+|referee    = Federico La Penna
+|result     = D
+}}
+{{football box collapsible
+|round      = 10
+|date       = 27 October 2018
+|time       = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = [[Empoli F.C.|Empoli]]
+|score      = 1–2
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/10/EMPJUV
+|team2      = Juventus
+|goals1     = [[Francesco Caputo|Caputo]] {{goal|28}}<br />[[Hamed Junior Traorè|Traorè]] {{yel|58}}<br />[[Salih Uçan|Uçan]] {{yel|90+1}}
+|goals2     = [[Federico Bernardeschi|Bernardeschi]] {{yel|43}}<br />[[Rodrigo Bentancur|Bentancur]] {{yel|45+3}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|54|pen.|70}}<br />[[Paulo Dybala|Dybala]] {{yel|78}}
+|stadium    = [[Stadio Carlo Castellani]]
+|location   = [[Empoli]]
+|attendance = 15,889
+|referee    = Gianpaolo Calvarese
+|result     = W
+}}
+{{football box collapsible
+|round      = 11
+|date       = 3 November 2018
+|time       = 20:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = Juventus
+|score      = 3–1
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/11/JUVCAG
+|team2      = [[Cagliari Calcio|Cagliari]]
+|goals1     = [[Paulo Dybala|Dybala]] {{gol|1}}<br />[[Filip Bradarić|Bradarić]] {{gol|38|o.g.}}<br />[[Blaise Matuidi|Matuidi]] {{yel|75}}<br />[[Juan Cuadrado|Cuadrado]] {{gol|87}}
+|goals2     = [[Filip Bradarić|Bradarić]] {{yel|32}}<br />[[João Pedro (footballer, born 1992)|João Pedro]] {{gol|36}}<br />[[Leonardo Pavoletti|Pavoletti]] {{yel|49}}<br />[[Fabio Pisacane|Pisacane]] {{yel|63}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 40,644
+|referee    = Maurizio Mariani
+|result     = W
+}}
+{{football box collapsible
+|round      = [[Juventus F.C.–A.C. Milan rivalry|12]]
+|id=|date       = 11 November 2018
+|time       = 20:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = [[A.C. Milan|AC Milan]]
+|score      = 0–2
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/12/MILJUV
+|team2      = Juventus
+|goals1     = [[Tiémoué Bakayoko|Bakayoko]] {{yel|61}}<br />[[Gonzalo Higuaín|Higuaín]] {{penmiss}} {{small|32'}}, {{yel|83}}, {{sent off|0|83}}<br />[[Fabio Borini|Borini]] {{yel|87}}
+|goals2     = [[Mario Mandžukić|Mandžukić]] {{goal|8}}<br />[[Medhi Benatia|Benatia]] {{yel|34}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|81}}
+|stadium    = [[San Siro]]
+|location   = [[Milan]]
+|attendance = 74,729
+|referee    = [[Paolo Mazzoleni]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 13
+|date       = 24 November 2018
+|time       = 18:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = Juventus
+|score      = 2–0
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/13/JUVSPA
+|team2      = [[S.P.A.L.|SPAL]]
+|goals1     = [[Cristiano Ronaldo|Ronaldo]] {{goal|29}}<br />[[Mario Mandžukić|Mandžukić]] {{goal|60}}<br />[[Rodrigo Bentancur|Bentancur]] {{yel|64}}
+|goals2     = [[Thiago Cionek|Cionek]] {{yel|39}}<br />[[Mohamed Fares|Fares]] {{yel|49}}<br />[[Pasquale Schiattarella|Schiattarella]] {{yel|74}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 41,052
+|referee    = Federico La Penna
+|result     = W
+}}
+{{football box collapsible
+|round      = [[ACF Fiorentina–Juventus F.C. rivalry|14]]
+|date       = 1 December 2018
+|time       = 18:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = [[ACF Fiorentina|Fiorentina]]
+|score      = 0–3
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/14/FIOJUV
+|team2      = Juventus
+|goals1     = [[Edimilson Fernandes|Fernandes]] {{yel|44}}<br />[[Vitor Hugo (footballer, born 1991)|Hugo]] {{yel|51}}<br />[[Nikola Milenković|Milenković]] {{yel|64}}<br />[[Germán Pezzella|Pezzella]] {{yel|71}}<br />[[Cyril Théréau|Théréau]] {{yel|88}}<br />[[Jordan Veretout|Veretout]] {{yel|90+1}}
+|goals2     = [[Mario Mandžukić|Mandžukić]] {{yel|11}}<br />[[Rodrigo Bentancur|Bentancur]] {{goal|31}}, {{yel|50}}<br />[[Giorgio Chiellini|Chiellini]] {{goal|69}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|79|pen.}}, {{yel|80}}
+|stadium    = [[Stadio Artemio Franchi]]
+|location   = [[Florence]]
+|attendance = 40,872
+|referee    = [[Daniele Orsato]]
+|result     = W
+}}
+{{football box collapsible
+|round      = [[Derby d'Italia|15]]
+|date       = 7 December 2018
+|time       = 20:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = Juventus
+|score      = 1–0
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/15/JUVINT
+|team2      = [[Inter Milan|Internazionale]]
+|goals1     = [[Miralem Pjanić|Pjanić]] {{yel|6}}<br />[[Rodrigo Bentancur|Bentancur]] {{yel|54}}<br />[[Mario Mandžukić|Mandžukić]] {{goal|66}}
+|goals2     = [[Ivan Perišić|Perišić]] {{yel|55}}<br />[[Marcelo Brozović|Brozović]] {{yel|57}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 41,495
+|referee    = [[Massimiliano Irrati]]
+|result     = W
+}}
+{{football box collapsible
+|round      = [[Derby della Mole|16]]
+|date       = 15 December 2018
+|time       = 20:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = [[Torino F.C.|Torino]]
+|score      = 0–1
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/16/TORJUV
+|team2      = Juventus
+|goals1     = [[Simone Zaza|Zaza]] {{yel|27}}<br />[[Cristian Ansaldi|Ansaldi]] {{yel|72}}
+|goals2     = [[Miralem Pjanić|Pjanić]] {{yel|48}}<br />[[Emre Can|Can]] {{yel|51}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|70|pen.}}, {{yel|70}}<br />[[Mattia Perin|Perin]] {{yel|90+2}}
+|stadium    = [[Stadio Olimpico Grande Torino]]
+|location   = [[Turin]]
+|attendance = 26,550
+|referee    = [[Marco Guida]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 17
+|date       = 22 December 2018
+|time       = 20:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = Juventus
+|score      = 1–0
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/17/JUVROM
+|team2      = [[A.S. Roma|Roma]]
+|goals1     = [[Mario Mandžukić|Mandžukić]] {{goal|35}}
+|goals2     = [[Steven Nzonzi|Nzonzi]] {{yel|40}}<br />[[Patrik Schick|Schick]] {{yel|81}}<br />[[Nicolò Zaniolo|Zaniolo]] {{yel|90+6}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 40,069
+|referee    = [[Davide Massa]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 18
+|date       = 26 December 2018
+|time       = 15:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = [[Atalanta B.C.|Atalanta]]
+|score      = 2–2
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/18/ATAJUV
+|team2      = Juventus
+|goals1     = [[Duván Zapata|Zapata]] {{goal|24||56}}, {{yel|29}}<br />[[Gianluca Mancini|Mancini]] {{yel|32}}<br />[[Hans Hateboer|Hateboer]] {{yel|60}}<br />[[Remo Freuler|Freuler]] {{yel|90}}
+|goals2     = [[Berat Djimsiti|Djimsiti]] {{gol|2|o.g.}}<br />[[Rodrigo Bentancur|Bentancur]] {{sent off|2|18|53}}<br />[[Giorgio Chiellini|Chiellini]] {{yel|38}}<br />[[Mario Mandžukić|Mandžukić]] {{yel|62}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|78}}
+|stadium    = [[Stadio Atleti Azzurri d'Italia]]
+|location   = [[Bergamo]]
+|attendance = 19,787
+|referee    = [[Luca Banti]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 19
+|date       = 29 December 2018
+|time       = 12:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = Juventus
+|score      = 2–1
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/19/JUVSAM
+|team2      = [[U.C. Sampdoria|Sampdoria]]
+|goals1     = [[Cristiano Ronaldo|Ronaldo]] {{goal|2||65|pen.}}<br />[[Blaise Matuidi|Matuidi]] {{yel|36}}<br />[[Daniele Rugani|Rugani]] {{yel|71}}
+|goals2     = [[Fabio Quagliarella|Quagliarella]] {{goal|33|pen.}}<br />[[Alex Ferrari (footballer)|Ferrari]] {{yel|37}}<br />[[Riccardo Saponara|Saponara]] {{yel|90+3}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 40,641
+|referee    = [[Paolo Valeri]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 20
+|id=|date       = 21 January 2019
+|time       = 19:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = Juventus
+|score      = 3–0
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/20/JUVCHI
+|team2      = [[A.C. ChievoVerona|Chievo]]
+|goals1     = [[Douglas Costa]] {{goal|13}}<br />[[Emre Can|Can]] {{goal|45}}<br />[[Cristiano Ronaldo|Ronaldo]] {{penmiss}} {{small|52'}}<br />[[Mattia De Sciglio|De Sciglio]] {{yel|80}}<br />[[Daniele Rugani|Rugani]] {{goal|84}}
+|goals2     = [[Mattia Bani|Bani]] {{yel|51}}<br />[[Sofian Kiyine|Kiyine]] {{yel|83}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 30,239
+|referee    = Marco Piccinini
+|result     = W
+}}
+{{football box collapsible
+|round      = 21
+|date       = 27 January 2019
+|time       = 20:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = [[S.S. Lazio|Lazio]]
+|score      = 1–2
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/21/LAZJUV
+|team2      = Juventus
+|goals1     = [[Lucas Leiva|Lucas]] {{yel|50}}<br />[[Emre Can|Can]] {{goal|59|o.g.}}<br />[[Sergej Milinković-Savić|Milinković-Savić]] {{yel|80}}
+|goals2     = [[Emre Can|Can]] {{yel|24}}<br />[[Blaise Matuidi|Matuidi]] {{yel|49}}<br />[[Mattia De Sciglio|De Sciglio]] {{yel|70}}<br />[[Daniele Rugani|Rugani]] {{yel|73}}<br />[[João Cancelo|Cancelo]] {{goal|74}}<br />[[Giorgio Chiellini|Chiellini]] {{yel|80}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|88|pen.}}
+|stadium    = [[Stadio Olimpico]]
+|location   = [[Rome]]
+|attendance = 60,687
+|referee    = [[Marco Guida]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 22
+|date       = 2 February 2019
+|time       = 20:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = Juventus
+|score      = 3–3
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/22/JUVPAR
+|team2      = [[Parma Calcio 1913|Parma]]
+|goals1     = [[Cristiano Ronaldo|Ronaldo]] {{goal|36||66}}<br />[[Daniele Rugani|Rugani]] {{goal|62}}<br />[[Emre Can|Can]] {{yel|90+1}}
+|goals2     = [[Antonino Barillà|Barillà]] {{yel|26}}, {{goal|64}}<br />[[Matteo Scozzarella|Scozzarella]] {{yel|28}}<br />[[Gervinho]] {{goal|74||90+3}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 39,548
+|referee    = Piero Giacomelli
+|result     = D
+}}
+{{football box collapsible
+|round      = 23
+|date       = 10 February 2019
+|time       = 18:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = [[U.S. Sassuolo Calcio|Sassuolo]]
+|score      = 0–3
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/23/SASJUV
+|team2      = Juventus
+|goals1     = [[Giangiacomo Magnani|Magnani]] {{yel|30}}<br />[[Mehdi Bourabia|Bourabia]] {{yel|38}}<br />[[Pol Lirola|Lirola]] {{yel|90+4}}
+|goals2     = [[Miralem Pjanić|Pjanić]] {{yel|6}}<br />[[Sami Khedira|Khedira]] {{goal|23}}<br />[[Alex Sandro]] {{yel|27}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|70}}<br />[[Emre Can|Can]] {{goal|86}}
+|stadium    = [[Mapei Stadium – Città del Tricolore]]
+|location   = [[Reggio Emilia]]
+|attendance = 21,584
+|referee    = [[Paolo Mazzoleni]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 24
+|date       = 15 February 2019
+|time       = 20:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = Juventus
+|score      = 3–0
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/24/JUVFRO
+|team2      = [[Frosinone Calcio|Frosinone]]
+|goals1     = [[Paulo Dybala|Dybala]] {{goal|6}}<br />[[Leonardo Bonucci|Bonucci]] {{goal|17}}<br />[[Emre Can|Can]] {{yel|27}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|63}}<br />[[João Cancelo|Cancelo]] {{yel|89}}
+|goals2     = [[Bartosz Salamon|Salamon]] {{yel|37}}<br />[[Marco Capuano|Capuano]] {{yel|62}}<br />[[Francesco Cassata|Cassata]] {{yel|81}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 37,294
+|referee    = Antonio Giua
+|result     = W
+}}
+{{football box collapsible
+|round      = 25
+|date       = 24 February 2019
+|time       = 15:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = [[Bologna F.C. 1909|Bologna]]
+|score      = 0–1
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/25/BOLJUV
+|team2      = Juventus
+|goals1     = [[Erick Pulgar|Pulgar]] {{yel|6}}<br />[[Nicola Sansone|Sansone]] {{yel|74}}
+|goals2     = [[Rodrigo Bentancur|Bentancur]] {{yel|16}}<br />[[Paulo Dybala|Dybala]] {{goal|67}}<br />[[João Cancelo|Cancelo]] {{yel|90+2}}
+|stadium    = [[Stadio Renato Dall'Ara]]
+|location   = [[Bologna]]
+|attendance = 28,934
+|referee    = Gianpaolo Calvarese
+|result     = W
+}}
+{{football box collapsible
+|round      = [[Juventus F.C.–S.S.C. Napoli rivalry|26]]
+|date       = 3 March 2019
+|time       = 20:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = [[S.S.C. Napoli|Napoli]]
+|score      = 1–2
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/26/NAPJUV
+|team2      = Juventus
+|goals1     = [[Alex Meret|Meret]] {{sent off|0|25}}<br />[[José Callejón|Callejón]] {{goal|61}}<br />[[Nikola Maksimović|Maksimović]] {{yel|77}}<br />[[Lorenzo Insigne|Insigne]] {{penmiss}} {{small|86'}}<br />[[Kalidou Koulibaly|Koulibaly]] {{yel|86}}<br />[[Allan (footballer, born 1991)|Allan]] {{yel|89}}
+|goals2     = [[Miralem Pjanić|Pjanić]] {{goal|28}}, {{sent off|2|34|47}}<br />[[Emre Can|Can]] {{goal|39}}<br />[[João Cancelo|Cancelo]] {{yel|54}}<br />[[Alex Sandro]] {{yel|83}}<br />[[Rodrigo Bentancur|Bentancur]] {{yel|89}}<br />[[Paulo Dybala|Dybala]] {{yel|90+2}}
+|stadium    = [[Stadio San Paolo]]
+|location   = [[Naples]]
+|attendance = 42,667
+|referee    = [[Gianluca Rocchi]]
+|result     = W
+}}
+{{football box collapsible
+|round      = 27
+|date       = 8 March 2019
+|time       = 20:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = Juventus
+|score      = 4–1
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/27/JUVUDI
+|team2      = [[Udinese Calcio|Udinese]]
+|goals1     = [[Moise Kean|Kean]] {{goal|11||39}}<br />[[Emre Can|Can]] {{goal|67|pen.}}<br />[[Blaise Matuidi|Matuidi]] {{goal|71}}
+|goals2     = [[Jens Stryger Larsen|Stryger Larsen]] {{yel|27}}<br />[[Ignacio Pussetto|Pussetto]] {{yel|50}}<br />[[Nicholas Opoku|Opoku]] {{yel|53}}<br />[[Kevin Lasagna|Lasagna]] {{goal|85}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 39,987
+|referee    = Daniele Chiffi
+|result     = W
+}}
+{{football box collapsible
+|round      = 28
+|date       = 17 March 2019
+|time       = 12:30 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = [[Genoa C.F.C.|Genoa]]
+|score      = 2–0
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/28/GENJUV
+|team2      = Juventus
+|goals1     = [[Cristian Romero (footballer, born 1998)|Romero]] {{yel|3}}<br />[[Stefano Sturaro|Sturaro]] {{goal|72}}<br />[[Goran Pandev|Pandev]] {{goal|81}}, {{yel|82}}
+|goals2     = [[Alex Sandro]] {{yel|6}}<br />[[Martín Cáceres|Cáceres]] {{yel|23}}<br />[[Emre Can|Can]] {{yel|85}}
+|stadium    = [[Stadio Luigi Ferraris]]
+|location   = [[Genoa]]
+|attendance = 30,695
+|referee    = [[Marco Di Bello]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 29
+|date       = 30 March 2019
+|time       = 18:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = Juventus
+|score      = 1–0
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/29/JUVEMP
+|team2      = [[Empoli F.C.|Empoli]]
+|goals1     = [[Moise Kean|Kean]] {{goal|72}}
+|goals2     = 
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 39,290
+|referee    = Federico La Penna
+|result     = W
+}}
+{{football box collapsible
+|round      = 30
+|date       = 2 April 2019
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = [[Cagliari Calcio|Cagliari]]
+|score      = 0–2
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/30/CAGJUV
+|team2      = Juventus
+|goals1     = [[João Pedro (footballer, born 1992)|João Pedro]] {{yel|34}}<br />[[Charalambos Lykogiannis|Lykogiannis]] {{yel|39}}<br />[[Darijo Srna|Srna]] {{yel|82}}
+|goals2     = [[Moise Kean|Kean]] {{yel|20}}, {{goal|85}}<br />[[Leonardo Bonucci|Bonucci]] {{goal|22}}<br />[[Federico Bernardeschi|Bernardeschi]] {{yel|90+3}}
+|stadium    = [[Sardegna Arena]]
+|location   = [[Cagliari]]
+|attendance = 15,985
+|referee    = Piero Giacomelli
+|result     = W
+}}
+{{football box collapsible
+|round      = [[Juventus F.C.–A.C. Milan rivalry|31]]
+|date       = 6 April 2019
+|time       = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = Juventus
+|score      = 2–1
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/31/JUVMIL
+|team2      = [[A.C. Milan|AC Milan]]
+|goals1     = [[Federico Bernardeschi|Bernardeschi]] {{yel|41}}<br />[[Paulo Dybala|Dybala]] {{goal|60|pen.}}<br />[[Moise Kean|Kean]] {{goal|84}}<br />[[Mario Mandžukić|Mandžukić]] {{yel|86}}
+|goals2     = [[Krzysztof Piątek|Piątek]] {{goal|39}}<br />[[Mateo Musacchio|Musacchio]] {{yel|59}}<br />[[Hakan Çalhanoğlu|Çalhanoğlu]] {{yel|77}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 40,057
+|referee    = Michael Fabbri
+|result     = W
+}}
+{{football box collapsible
+|round      = 32
+|date       = 13 April 2019
+|time       = 15:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = [[S.P.A.L.|SPAL]]
+|score      = 2–1
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/32/SPAJUV
+|team2      = Juventus
+|goals1     = [[Manuel Lazzari|Lazzari]] {{yel|28}}<br />[[Kevin Bonifazi|Bonifazi]] {{goal|49}}<br />[[Sergio Floccari|Floccari]] {{goal|74}}, {{yel|75}}<br />[[Mohamed Fares|Fares]] {{yel|83}}<br />[[Simone Missiroli|Missiroli]] {{yel|87}}<br />[[Francesco Vicari|Vicari]] {{yel|90+3}}
+|goals2     = [[Moise Kean|Kean]] {{goal|30}}<br />[[Juan Cuadrado|Cuadrado]] {{yel|38}}<br />[[João Cancelo|Cancelo]] {{yel|45+1}}
+|stadium    = [[Stadio Paolo Mazza]]
+|location   = [[Ferrara]]
+|attendance = 16,000
+|referee    = Daniele Doveri
+|result     = L
+}}
+{{football box collapsible
+|round      = [[ACF Fiorentina–Juventus F.C. rivalry|33]]
+|date       = 20 April 2019
+|time       = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = Juventus
+|score      = 2–1
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/33/JUVFIO
+|team2      = [[ACF Fiorentina|Fiorentina]]
+|goals1     = [[Alex Sandro]] {{goal|37}}<br />[[Germán Pezzella|Pezzella]] {{goal|53|o.g.}}
+|goals2     = [[Nikola Milenković|Milenković]] {{goal|6}}<br />[[Gerson (footballer, born 1997)|Gerson]] {{yel|80}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 40,339
+|referee    = Fabrizio Pasqua
+|result     = W
+}}
+{{football box collapsible
+|round      = [[Derby d'Italia|34]]
+|date       = 27 April 2019
+|time       = 20:30 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = [[Inter Milan|Internazionale]]
+|score      = 1–1
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/34/INTJUV
+|team2      = Juventus
+|goals1     = [[Radja Nainggolan|Nainggolan]] {{goal|7}}<br />[[Ivan Perišić|Perišić]] {{yel|44}}
+|goals2     = [[Juan Cuadrado|Cuadrado]] {{yel|40}}<br />[[Giorgio Chiellini|Chiellini]] {{yel|45+1}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|62}}<br />[[Moise Kean|Kean]] {{yel|90+2}}
+|stadium    = [[San Siro]]
+|location   = [[Milan]]
+|attendance = 73,855
+|referee    = [[Luca Banti]]
+|result     = D
+}}
+{{football box collapsible
+|round      = [[Derby della Mole|35]]
+|date       = 3 May 2019
+|time       = 20:30 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = Juventus
+|score      = 1–1
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/35/JUVTOR
+|team2      = [[Torino F.C.|Torino]]
+|goals1     = [[Blaise Matuidi|Matuidi]] {{yel|34}}<br />[[Leonardo Bonucci|Bonucci]] {{yel|71}}<br />[[Federico Bernardeschi|Bernardeschi]] {{yel|82}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|84}}
+|goals2     = [[Saša Lukić|Lukić]] {{goal|18}}, {{yel|68}}<br />[[Tomás Rincón|Rincón]] {{yel|49}}<br />[[Gleison Bremer|Bremer]] {{yel|90+3}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 38,530
+|referee    = [[Daniele Orsato]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 36
+|date       = 12 May 2019
+|time       = 20:30 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = [[A.S. Roma|Roma]]
+|score      = 2–0
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/36/ROMJUV
+|team2      = Juventus
+|goals1     = [[Edin Džeko|Džeko]] {{yel|51}}, {{goal|90+2}}<br />[[Nicolò Zaniolo|Zaniolo]] {{yel|75}}<br />[[Alessandro Florenzi|Florenzi]] {{goal|79}}<br />[[Aleksandar Kolarov|Kolarov]] {{yel|90+1}}
+|goals2     = [[Emre Can|Can]] {{yel|74}}
+|stadium    = [[Stadio Olimpico]]
+|location   = [[Rome]]
+|attendance = 50,825
+|referee    = [[Davide Massa]]
+|result     = L
+}}
+{{football box collapsible
+|round      = 37
+|date       = 19 May 2019
+|time       = 20:30 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = Juventus
+|score      = 1–1
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/37/JUVATA
+|team2      = [[Atalanta B.C.|Atalanta]]
+|goals1     = [[Alex Sandro]] {{yel|14}}<br />[[Cristiano Ronaldo|Ronaldo]] {{yel|45+3}}<br />[[Blaise Matuidi|Matuidi]] {{yel|70}}<br />[[Mario Mandžukić|Mandžukić]] {{goal|80}}<br />[[Federico Bernardeschi|Bernardeschi]] {{sent off|0|90+2}}
+|goals2     = [[Hans Hateboer|Hateboer]] {{yel|28}}<br />[[Josip Iličić|Iličić]] {{goal|33}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]]
+|attendance = 39,531
+|referee    = [[Gianluca Rocchi]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 38
+|date       = 26 May 2019
+|time       = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = [[U.C. Sampdoria|Sampdoria]]
+|score      = 2–0
+|report     = http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/38/SAMJUV
+|team2      = Juventus
+|goals1     = [[Grégoire Defrel|Defrel]] {{goal|84}}<br />[[Gianluca Caprari|Caprari]] {{goal|90+1}}
+|goals2     = [[Daniele Rugani|Rugani]] {{yel|52}}<br />[[Manolo Portanova|Portanova]] {{yel|90+3}}
+|stadium    = [[Stadio Luigi Ferraris]]
+|location   = [[Genoa]]
+|attendance = 22,856
+|referee    = Luigi Nasca
+|result     = L
+}}
+
+===Coppa Italia===
+{{main|2018–19 Coppa Italia}}
+{{football box collapsible
+|round      = [[2018–19 Coppa Italia#Round of 16|Round of 16]]
+|date       = 12 January 2019
+|time       = 20:45 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = [[Bologna F.C. 1909|Bologna]]
+|score      = 0–2
+|report     = http://www.legaseriea.it/en/coppa-italia/match-report/2018-19/OTTAV/UNI/1/BOLJUV
+|team2      = Juventus
+|goals1     = [[Roberto Soriano|Soriano]] {{yel|82}}
+|goals2     = [[Federico Bernardeschi|Bernardeschi]] {{goal|9}}, {{yel|30}}<br />[[Mattia De Sciglio|De Sciglio]] {{yel|44}}<br />[[Moise Kean|Kean]] {{goal|49}}<br />[[Emre Can|Can]] {{yel|69}}
+|stadium    = [[Stadio Renato Dall'Ara]]
+|location   = [[Bologna]]
+|attendance = 15,469
+|referee    = Federico La Penna
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2018–19 Coppa Italia#Quarter-finals|Quarter-finals]]
+|date       = 30 January 2019
+|time       = 20:45 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = [[Atalanta B.C.|Atalanta]]
+|score      = 3–0
+|report     = http://www.legaseriea.it/en/coppa-italia/match-report/2018-19/QUART/UNI/1/ATAJUV
+|team2      = Juventus
+|goals1     = [[Timothy Castagne|Castagne]] {{goal|37}}<br />[[Duván Zapata|Zapata]] {{goal|39||86}}<br />[[Berat Djimsiti|Djimsiti]] {{yel|43}}<br />[[Remo Freuler|Freuler]] {{yel|45+1}}<br />[[Hans Hateboer|Hateboer]] {{yel|54}}
+|goals2     = [[Miralem Pjanić|Pjanić]] {{yel|79}}<br />[[Blaise Matuidi|Matuidi]] {{yel|88}}
+|stadium    = [[Stadio Atleti Azzurri d'Italia]]
+|location   = [[Bergamo]]
+|attendance = 18,438
+|referee    = Fabrizio Pasqua
+|result     = L
+}}
+
+===UEFA Champions League===
+{{main|2018–19 UEFA Champions League}}
+
+====Group stage====
+{{main|2018–19 UEFA Champions League group stage#Group H}}
+{{:2018–19 UEFA Champions League group stage|transcludesection=Group H|show_matches=yes|showteam=JUV}}
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League group stage#Valencia v Juventus|1]]
+|id=|date       = 19 September 2018
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = [[Valencia CF|Valencia]] {{flagicon|ESP}}
+|score      = 0–2
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025068/index.html
+|team2      = {{flagicon|ITA}} Juventus
+|goals1     = [[Dani Parejo|Parejo]] {{yel|43}}, {{penmiss}}{{small|90+6'}}<br />[[Jeison Murillo|Murillo]] {{yel|50}}<br />[[Rúben Vezo|Vezo]] {{yel|54}}
+|goals2     = [[Cristiano Ronaldo|Ronaldo]] {{sent off|0|29}}<br />[[Miralem Pjanić|Pjanić]] {{goal|45|pen.|51|pen.}}<br />[[Alex Sandro]] {{yel|59}}<br />[[Wojciech Szczęsny|Szczęsny]] {{yel|81}}<br />[[Daniele Rugani|Rugani]] {{yel|90+6}}
+|stadium    = [[Mestalla Stadium|Mestalla]]
+|location   = [[Valencia]], [[Spain]]
+|attendance = 46,067
+|referee    = [[Felix Brych]] ([[German Football Association|Germany]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League group stage#Juventus v Young Boys|2]]
+|date       = 2 October 2018
+|time       = 18:55 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = Juventus {{flagicon|ITA}}
+|score      = 3–0
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025075/index.html
+|team2      = {{flagicon|SUI}} [[BSC Young Boys|Young Boys]]
+|goals1     = [[Paulo Dybala|Dybala]] {{goal|5||33||69}}
+|goals2     = [[Leonardo Bertone|Bertone]] {{yel|24}}<br />[[Sékou Sanogo (footballer)|Sanogo]] {{yel|41}}<br />[[Mohamed Ali Camara|Camara]] {{sent off|2|75|78}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]], [[Italy]]
+|attendance = 40,961
+|referee    = [[Sergei Karasev]] ([[Russian Football Union|Russia]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League group stage#Manchester United v Juventus|3]]
+|date       = 23 October 2018
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = [[Manchester United F.C.|Manchester United]] {{flagicon|ENG}}
+|score      = 0–1
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025091/index.html
+|team2      = {{flagicon|ITA}} Juventus
+|goals1     = [[Ashley Young|Young]] {{yel|77}}
+|goals2     = [[Paulo Dybala|Dybala]] {{goal|17}}<br />[[Blaise Matuidi|Matuidi]] {{yel|59}}<br />[[Giorgio Chiellini|Chiellini]] {{yel|83}}
+|stadium    = [[Old Trafford]]
+|location   = [[Greater Manchester]], [[England]]
+|attendance = 73,946
+|referee    = [[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League group stage#Juventus v Manchester United|4]]
+|date       = 7 November 2018
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = Juventus {{flagicon|ITA}}
+|score      = 1–2
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025115/index.html
+|team2      = {{flagicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     = [[Alex Sandro]] {{yel|55}}<br />[[Cristiano Ronaldo|Ronaldo]] {{gol|65}}<br />[[Paulo Dybala|Dybala]] {{yel|75}}
+|goals2     = [[Nemanja Matić|Matić]] {{yel|12}}<br />[[Ander Herrera|Herrera]] {{yel|75}}<br />[[Juan Mata|Mata]] {{gol|86}}<br />[[Leonardo Bonucci|Bonucci]] {{gol|90|o.g.}}<br />[[Anthony Martial|Martial]] {{yel|90+5}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]], [[Italy]]
+|attendance = 41,470
+|referee    = [[Ovidiu Hațegan]] ([[Romanian Football Federation|Romania]])
+|result     = L
+}}
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League group stage#Juventus v Valencia|5]]
+|date       = 27 November 2018
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = Juventus {{flagicon|ITA}}
+|score      = 1–0
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025124/index.html
+|team2      = {{flagicon|ESP}} [[Valencia CF|Valencia]]
+|goals1     = [[Rodrigo Bentancur|Bentancur]] {{yel|13}}<br />[[Mario Mandžukić|Mandžukić]] {{gol|59}}<br />[[Juan Cuadrado|Cuadrado]] {{yel|60}}<br />[[Blaise Matuidi|Matuidi]] {{yel|83}}
+|goals2     = [[José Luis Gayà|Gayà]] {{yel|31}}<br />[[Geoffrey Kondogbia|Kondogbia]] {{yel|43}}<br />[[Mouctar Diakhaby|Diakhaby]] {{yel|62}}<br />[[Gonçalo Guedes|Guedes]] {{yel|69}}<br />[[Michy Batshuayi|Batshuayi]] {{yel|74}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]], [[Italy]]
+|attendance = 39,070
+|referee    = [[Willie Collum]] ([[Scottish Football Association|Scotland]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League group stage#Young Boys v Juventus|6]]
+|date       = 12 December 2018
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = [[BSC Young Boys|Young Boys]] {{flagicon|SUI}}
+|score      = 2–1
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000980/match=2025147/index.html
+|team2      = {{flagicon|ITA}} Juventus
+|goals1     = [[Guillaume Hoarau|Hoarau]] {{goal|30|pen.|68}}<br />[[Mohamed Ali Camara|Camara]] {{yel|62}}<br />[[Ulisses Garcia|Garcia]] {{yel|72}}<br />[[Marco Wölfli|Wölfli]] {{yel|83}}
+|goals2     = [[Federico Bernardeschi|Bernardeschi]] {{yel|64}}<br />[[Paulo Dybala|Dybala]] {{goal|80}}
+|stadium    = [[Stade de Suisse]]
+|location   = [[Bern]], [[Switzerland]]
+|attendance = 30,114
+|referee    = [[Tobias Stieler]] ([[German Football Association|Germany]])
+|result     = L
+}}
+
+====Knockout phase====
+{{main|2018–19 UEFA Champions League knockout phase}}
+
+=====Round of 16=====
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League knockout phase#Atlético Madrid v Juventus|First leg]]
+|date       = 20 February 2019
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = [[Atlético Madrid]] {{flagicon|ESP}}
+|score      = 2–0
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000981/match=2026846/index.html
+|team2      = {{flagicon|ITA}} Juventus
+|goals1     = [[Diego Costa|Costa]] {{yel|8}}<br />[[Thomas Partey|Partey]] {{yel|45+3}}<br />[[José María Giménez|Giménez]] {{goal|78}}<br />[[Diego Godín|Godín]] {{goal|83}}<br />[[Antoine Griezmann|Griezmann]] {{yel|89}}
+|goals2     = [[Alex Sandro]] {{yel|55}}
+|stadium    = [[Metropolitano Stadium|Wanda Metropolitano]]
+|location   = [[Madrid]], [[Spain]]
+|attendance = 67,193
+|referee    = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|result     = L
+}}
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League knockout phase#Juventus v Atlético Madrid|Second leg]]
+|date       = 12 March 2019
+|time       = 21:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|team1      = Juventus {{flagicon|ITA}}
+|score      = 3–0
+|aggregatescore = 3–2
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000981/match=2026856/index.html
+|team2      = {{flagicon|ESP}} [[Atlético Madrid]]
+|goals1     = [[Cristiano Ronaldo|Ronaldo]] {{goal|27||48||86|pen.}}<br />[[Federico Bernardeschi|Bernardeschi]] {{yel|64}}
+|goals2     = [[Juanfran (footballer, born 1985)|Juanfran]] {{yel|73}}<br />[[José María Giménez|Giménez]] {{yel|86}}<br />[[Vitolo (footballer, born 1989)|Vitolo]] {{yel|90+3}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]], [[Italy]]
+|attendance = 40,884
+|referee    = [[Björn Kuipers]] ([[Royal Dutch Football Association|Netherlands]])
+|result     = W
+}}
+
+=====Quarter-finals=====
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League knockout phase#Ajax v Juventus|First leg]]
+|date       = 10 April 2019
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = [[AFC Ajax|Ajax]] {{flagicon|NED}}
+|score      = 1–1
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000982/match=2027149/index.html
+|team2      = {{flagicon|ITA}} Juventus
+|goals1     = [[Nicolás Tagliafico|Tagliafico]] {{yel|41}}<br />[[David Neres|Neres]] {{goal|46}}<br />[[Frenkie de Jong|De Jong]] {{yel|55}}<br />[[Lasse Schöne|Schöne]] {{yel|71}}<br />[[Jurgen Ekkelenkamp|Ekkelenkamp]] {{yel|90+4}}
+|goals2     = [[Cristiano Ronaldo|Ronaldo]] {{goal|45}}<br />[[Miralem Pjanić|Pjanić]] {{yel|83}}
+|stadium    = [[Johan Cruyff Arena]]
+|location   = [[Amsterdam]], [[Netherlands]]
+|attendance = 50,390
+|referee    = [[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+|result     = D
+}}
+{{football box collapsible
+|round      = [[2018–19 UEFA Champions League knockout phase#Juventus v Ajax|Second leg]]
+|date       = 16 April 2019
+|time       = 21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|team1      = Juventus {{flagicon|ITA}}
+|score      = 1–2
+|aggregatescore = 2–3
+|report     = https://www.uefa.com/uefachampionsleague/season=2019/matches/round=2000982/match=2027155/index.html
+|team2      = {{flagicon|NED}} [[AFC Ajax|Ajax]]
+|goals1     = [[Cristiano Ronaldo|Ronaldo]] {{goal|28}}, {{yel|90+3}}<br />[[Emre Can|Can]] {{yel|69}}
+|goals2     = [[Donny van de Beek|Van de Beek]] {{goal|34}}<br />[[Matthijs de Ligt|De Ligt]] {{goal|67}}
+|stadium    = [[Juventus Stadium|Allianz Stadium]]
+|location   = [[Turin]], [[Italy]]
+|attendance = 41,445
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|result     = L
+}}
+
+==Statistics==
+
+===Appearances and goals===
+{{Efs start|Serie A|Supercoppa Italiana|Coppa Italia|Champions League}}
+|-
+! colspan=14 style=background:#DCDCDC; text-align:center| Goalkeepers
+{{Efs player|no=1 |name=[[Wojciech Szczęsny]]|pos=GK|nat=POL                        |28|0|1|0|2|0|10|0}}
+{{Efs player|no=21 |name=[[Carlo Pinsoglio]]|pos=GK|nat=ITA                         |1|0|0|0|0|0|0|0}}
+{{Efs player|no=22 |name=[[Mattia Perin]]|pos=GK|nat=ITA                            |9|0|0|0|0|0|0|0}}
+|-
+! colspan=14 style=background:#DCDCDC; text-align:center| Defenders
+{{Efs player|no=2 |name=[[Mattia De Sciglio]]|pos=DF|nat=ITA                        |19+3|0|0|0|2|0|4|0}}
+{{Efs player|no=3 |name=[[Giorgio Chiellini]]|pos=DF|nat=ITA                        |22+3|1|1|0|2|0|6|0}}
+{{Efs player|no=4 |name=[[Martin Cáceres]]|pos=DF|nat=URU                           |7+2|0|0|0|0|0|0|0}}
+{{Efs player|no=12 |name=[[Alex Sandro]]|pos=DF|nat=BRA                             |27+2|1|1|0|1+1|0|8+1|0}}
+{{Efs player|no=15 |name=[[Andrea Barzagli]]|pos=DF|nat=ITA                         |3+3|0|0|0|0|0|1+2|0}}
+{{Efs player|no=19 |name=[[Leonardo Bonucci]]|pos=DF|nat=ITA                        |26+2|3|1|0|1|0|10|0}}
+{{Efs player|no=20 |name=[[João Cancelo]]|pos=DF|nat=POR                            |21+2|1|1|0|1+1|0|5+2|0}}
+{{Efs player|no=24 |name=[[Daniele Rugani]]|pos=DF|nat=ITA                          |15|2|0|0|1|0|3+1|0}}
+{{Efs player|no=37 |name=[[Leonardo Spinazzola]]|pos=DF|nat=ITA                     |6+4|0|0|0|1|0|1|0}}
+{{Efs player|no=43 |name=[[Paolo Gozzi]]|pos=DF|nat=ITA                             |1|0|0|0|0|0|0|0}}
+|-
+! colspan=14 style=background:#DCDCDC; text-align:center| Midfielders
+{{Efs player|no=5 |name=[[Miralem Pjanić]]|pos=MF|nat=BIH                           |26+4|2|1|0|1+1|0|10|2}}
+{{Efs player|no=6 |name=[[Sami Khedira]]|pos=MF|nat=GER                             |8+2|2|0+1|0|2|0|2+2|0}}
+{{Efs player|no=14 |name=[[Blaise Matuidi]]|pos=MF|nat=FRA                          |28+2|3|1|0|1|0|8+1|0}}
+{{Efs player|no=23 |name=[[Emre Can]]|pos=MF|nat=GER                                |19+9|4|0+1|0|1|0|2+4|0}}
+{{Efs player|no=30 |name=[[Rodrigo Bentancur]]|pos=MF|nat=URU                       |21+9|2|1|0|1|0|6+1|0}}
+{{Efs player|no=34 |name=[[Manolo Portanova]]|pos=MF|nat=ITA                        |0+1|0|0|0|0|0|0|0}}
+{{Efs player|no=35 |name=[[Matheus Pereira da Silva|Matheus Pereira]]|pos=MF|nat=BRA|1+2|0|0|0|0|0|0|0}}
+{{Efs player|no=39 |name=[[Grigoris Kastanos]]|pos=MF|nat=CYP                       |1|0|0|0|0|0|0|0}}
+{{Efs player|no=41 |name=[[Hans Nicolussi]]|pos=MF|nat=ITA                          |0+3|0|0|0|0|0|0|0}}
+|-
+! colspan=14 style=background:#DCDCDC; text-align:center| Forwards
+{{Efs player|no=7 |name=[[Cristiano Ronaldo]]|pos=FW|nat=POR                        |29+1|21|1|1|1+1|0|9|6}}
+{{Efs player|no=10 |name=[[Paulo Dybala]]|pos=FW|nat=ARG                            |23+6|5|1|0|1+1|0|6+3|5}}
+{{Efs player|no=11 |name=[[Douglas Costa]]|pos=FW|nat=BRA                           |7+10|1|1|0|1+1|0|1+4|0}}
+{{Efs player|no=16 |name=[[Juan Cuadrado]]|pos=FW|nat=COL                           |13+4|1|0|0|0|0|4+1|0}}
+{{Efs player|no=17 |name=[[Mario Mandžukić]]|pos=FW|nat=CRO                         |23+1|9|0|0|0|0|7+1|1}}
+{{Efs player|no=18 |name=[[Moise Kean]]|pos=FW|nat=ITA                              |5+7|6|0|0|1|1|0+3|0}}
+{{Efs player|no=33 |name=[[Federico Bernardeschi]]|pos=FW|nat=ITA                   |14+13|2|0+1|0|2|1|6+2|0}}
+{{Efs player|no=40 |name=[[Stephy Mavididi]]|pos=FW|nat=ENG                         |0+1|0|0|0|0|0|0|0}}
+|-
+! colspan=14 style=background:#DCDCDC; text-align:center| Players transferred out during the season
+{{Efs player|no=4 |name=[[Medhi Benatia]]|pos=DF|nat=MAR                            |5|0|0|0|1|0|1|0}}
+{{Fb cs footer|u=26 May 2019 |s=[[#Competitions|Competitions]]|date=June 2018}}
+
+===Goalscorers===
+{| class="wikitable" style="text-align:center"
+|-
+!width=15|{{Tooltip|Rank|Rank}}
+!width=15|{{Tooltip|No.|Squad Number}}
+!width=15|{{Tooltip|Pos|Position}}
+!width=15|{{Tooltip|Nat|Nationality}}
+!width=145|Name
+!width=80|[[2018–19 Serie A|Serie A]]
+!width=80|[[2018 Supercoppa Italiana|Supercoppa]]
+!width=80|[[2018–19 Coppa Italia|Coppa Italia]]
+!width=80|[[2018–19 UEFA Champions League|UEFA CL]]
+!width=80|Total
+|-
+|'''1'''
+|7
+|[[Forward (association football)|FW]]
+|{{flagicon|POR}}
+|align=left|[[Cristiano Ronaldo]]
+|21
+|1
+|0
+|6
+|'''28'''
+|-
+|rowspan=2|'''2'''
+|10
+|[[Forward (association football)|FW]]
+|{{flagicon|ARG}}
+|align=left|[[Paulo Dybala]]
+|5
+|0
+|0
+|5
+|'''10'''
+|-
+|17
+|[[Forward (association football)|FW]]
+|{{flagicon|CRO}}
+|align=left|[[Mario Mandžukić]]
+|9
+|0
+|0
+|1
+|'''10'''
+|-
+|'''4'''
+|18
+|[[Forward (association football)|FW]]
+|{{flagicon|ITA}}
+|align=left|[[Moise Kean]]
+|6
+|0
+|1
+|0
+|'''7'''
+|-
+|rowspan=2|'''5'''
+|5
+|[[Midfielder|MF]]
+|{{flagicon|BIH}}
+|align=left|[[Miralem Pjanić]]
+|2
+|0
+|0
+|2
+|'''4'''
+|-
+|23
+|[[Midfielder|MF]]
+|{{flagicon|GER}}
+|align=left|[[Emre Can]]
+|4
+|0
+|0
+|0
+|'''4'''
+|-
+|rowspan=3|'''7'''
+|14
+|[[Midfielder|MF]]
+|{{flagicon|FRA}}
+|align=left|[[Blaise Matuidi]]
+|3
+|0
+|0
+|0
+|'''3'''
+|-
+|19
+|[[Defender (association football)|DF]]
+|{{flagicon|ITA}}
+|align=left|[[Leonardo Bonucci]]
+|3
+|0
+|0
+|0
+|'''3'''
+|-
+|33
+|[[Forward (association football)|FW]]
+|{{flagicon|ITA}}
+|align=left|[[Federico Bernardeschi]]
+|2
+|0
+|1
+|0
+|'''3'''
+|-
+|rowspan=3|'''10'''
+|6
+|[[Midfielder|MF]]
+|{{flagicon|GER}}
+|align=left|[[Sami Khedira]]
+|2
+|0
+|0
+|0
+|'''2'''
+|-
+|24
+|[[Defender (association football)|DF]]
+|{{flagicon|ITA}}
+|align=left|[[Daniele Rugani]]
+|2
+|0
+|0
+|0
+|'''2'''
+|-
+|30
+|[[Midfielder|MF]]
+|{{flagicon|URU}}
+|align=left|[[Rodrigo Bentancur]]
+|2
+|0
+|0
+|0
+|'''2'''
+|-
+|rowspan=5|'''13'''
+|3
+|[[Defender (association football)|DF]]
+|{{flagicon|ITA}}
+|align=left|[[Giorgio Chiellini]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|11
+|[[Forward (association football)|FW]]
+|{{flagicon|BRA}}
+|align=left|[[Douglas Costa]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|12
+|[[Defender (association football)|DF]]
+|{{flagicon|BRA}}
+|align=left|[[Alex Sandro]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|16
+|[[Forward (association football)|FW]]
+|{{flagicon|COL}}
+|align=left|[[Juan Cuadrado]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|20
+|[[Defender (association football)|DF]]
+|{{flagicon|POR}}
+|align=left|[[João Cancelo]]
+|1
+|0
+|0
+|0
+|'''1'''
+|-
+|colspan=5|'''Own goal'''
+|4
+|0
+|0
+|0
+|'''4'''
+|-
+|colspan=5|'''Totals'''
+|'''70'''
+|'''1'''
+|'''2'''
+|'''14'''
+|'''87'''
+|}
+
+<small>
+Last updated: 26 May 2019
+</small>
+
+===Disciplinary record===
+{| class="wikitable" style="text-align:center;"
+|-
+| rowspan="2" !width=15|'''{{Abbr|No.|Squad Number}}'''
+| rowspan="2" !width=15|'''{{Abbr|Pos|Position}}'''
+| rowspan="2" !width=15|'''{{Tooltip| Nat | Nationality}}'''
+| rowspan="2" !width=120|'''Name'''
+| colspan="3"|'''[[2018–19 Serie A|Serie A]]'''
+| colspan="3"|'''[[2018 Supercoppa Italiana|Supercoppa]]'''
+| colspan="3"|'''[[2018–19 Coppa Italia|Coppa Italia]]'''
+| colspan="3"|'''[[2018–19 UEFA Champions League|UEFA CL]]'''
+| colspan="3"|'''Total'''
+|-
+!width=34; background:#fe9;"|{{yel}}
+!width=34; background:#fe9;"|{{sent off|2}}
+!width=34; background:#ff8888;"|{{sent off}}
+!width=34; background:#fe9;"|{{yel}}
+!width=34; background:#fe9;"|{{sent off|2}}
+!width=34; background:#ff8888;"|{{sent off}}
+!width=34; background:#fe9;"|{{yel}}
+!width=34; background:#fe9;"|{{sent off|2}}
+!width=34; background:#ff8888;"|{{sent off}}
+!width=34; background:#fe9;"|{{yel}}
+!width=34; background:#fe9;"|{{sent off|2}}
+!width=34; background:#ff8888;"|{{sent off}}
+!width=34; background:#fe9;"|{{yel}}
+!width=34; background:#fe9;"|{{sent off|2}}
+!width=34; background:#ff8888;"|{{sent off}}
+|-
+|1
+|[[Goalkeeper (association football)|GK]]
+|{{flagicon|POL}}
+|align=left|[[Wojciech Szczęsny]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|'''1'''
+|'''0'''
+|'''0'''
+|-
+|22
+|[[Goalkeeper (association football)|GK]]
+|{{flagicon|ITA}}
+|align=left|[[Mattia Perin]]
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''1'''
+|'''0'''
+|'''0'''
+|-
+|2
+|[[Defender (association football)|DF]]
+|{{flagicon|ITA}}
+|align=left|[[Mattia De Sciglio]]
+|2
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|'''3'''
+|'''0'''
+|'''0'''
+|-
+|3
+|[[Defender (association football)|DF]]
+|{{flagicon|ITA}}
+|align=left|[[Giorgio Chiellini]]
+|2
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|'''3'''
+|'''0'''
+|'''0'''
+|-
+|4
+|[[Defender (association football)|DF]]
+|{{flagicon|URU}}
+|align=left|[[Martin Cáceres]]
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''1'''
+|'''0'''
+|'''0'''
+|-
+|12
+|[[Defender (association football)|DF]]
+|{{flagicon|BRA}}
+|align=left|[[Alex Sandro]]
+|6
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|3
+|0
+|0
+|'''10'''
+|'''0'''
+|'''0'''
+|-
+|19
+|[[Defender (association football)|DF]]
+|{{flagicon|ITA}}
+|align=left|[[Leonardo Bonucci]]
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''1'''
+|'''0'''
+|'''0'''
+|-
+|20
+|[[Defender (association football)|DF]]
+|{{flagicon|POR}}
+|align=left|[[João Cancelo]]
+|5
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''5'''
+|'''0'''
+|'''0'''
+|-
+|24
+|[[Defender (association football)|DF]]
+|{{flagicon|ITA}}
+|align=left|[[Daniele Rugani]]
+|2
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|'''3'''
+|'''0'''
+|'''0'''
+|-
+|5
+|[[Midfielder|MF]]
+|{{flagicon|BIH}}
+|align=left|[[Miralem Pjanić]]
+|5
+|1
+|0
+|1
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|'''7'''
+|'''1'''
+|'''0'''
+|-
+|14
+|[[Midfielder|MF]]
+|{{flagicon|FRA}}
+|align=left|[[Blaise Matuidi]]
+|3
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|2
+|0
+|0
+|'''6'''
+|'''0'''
+|'''0'''
+|-
+|16
+|[[Midfielder|MF]]
+|{{flagicon|COL}}
+|align=left|[[Juan Cuadrado]]
+|2
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|'''3'''
+|'''0'''
+|'''0'''
+|-
+|23
+|[[Midfielder|MF]]
+|{{flagicon|GER}}
+|align=left|[[Emre Can]]
+|6
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|'''7'''
+|'''0'''
+|'''0'''
+|-
+|30
+|[[Midfielder|MF]]
+|{{flagicon|URU}}
+|align=left|[[Rodrigo Bentancur]]
+|7
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|'''8'''
+|'''1'''
+|'''0'''
+|-
+|7
+|[[Forward (association football)|FW]]
+|{{flagicon|POR}}
+|align=left|[[Cristiano Ronaldo]]
+|2
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|'''2'''
+|'''0'''
+|'''1'''
+|-
+|10
+|[[Forward (association football)|FW]]
+|{{flagicon|ARG}}
+|align=left|[[Paulo Dybala]]
+|2
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|'''4'''
+|'''0'''
+|'''0'''
+|-
+|11
+|[[Forward (association football)|FW]]
+|{{flagicon|BRA}}
+|align=left|[[Douglas Costa]]
+|2
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''2'''
+|'''0'''
+|'''1'''
+|-
+|17
+|[[Forward (association football)|FW]]
+|{{flagicon|CRO}}
+|align=left|[[Mario Mandžukić]]
+|3
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''3'''
+|'''0'''
+|'''0'''
+|-
+|18
+|[[Forward (association football)|FW]]
+|{{flagicon|ITA}}
+|align=left|[[Moise Kean]]
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''1'''
+|'''0'''
+|'''0'''
+|-
+|33
+|[[Forward (association football)|FW]]
+|{{flagicon|ITA}}
+|align=left|[[Federico Bernardeschi]]
+|3
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|2
+|0
+|0
+|'''6'''
+|'''0'''
+|'''0'''
+|-
+|-
+! colspan=19 style=background:#DCDCDC; text-align:center| Players transferred out during the season
+|-
+|4
+|[[Defender (association football)|DF]]
+|{{flagicon|MAR}}
+|align=left|[[Medhi Benatia]]
+|2
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|'''2'''
+|'''0'''
+|'''0'''
+|-
+| colspan="4" |'''Total'''
+|'''58'''
+|'''2'''
+|'''1'''
+|'''3'''
+|'''0'''
+|'''0'''
+|'''5'''
+|'''0'''
+|'''0'''
+|'''13'''
+|'''0'''
+|'''1'''
+|'''79'''
+|'''2'''
+|'''2'''
+|}
+
+<small>
+Last updated: 2 April 2019
+</small>
+
+==Notes==
+{{refbegin}}
+A.&nbsp;{{note label|VP|A|^}} The match was called off at the 72nd minute due to the annual tradition of [[pitch invasion]].
+{{refend}}
+
+==References==
+{{reflist}}
+
+{{Juventus F.C. seasons}}
+{{2018–19 in Italian football}}
+
+{{DEFAULTSORT:2018-19 Juventus F.C. season}}
+
+[[Category:Juventus FC seasons]]
+[[Category:Italian football clubs 2018–19 season|Juventus]]
+[[Category:2018–19 UEFA Champions League participants seasons|Juventus]]
+[[Category:Italian football championship–winning seasons|2018-19]]

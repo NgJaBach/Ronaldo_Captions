@@ -1,0 +1,1745 @@
+{{Use dmy dates|date=July 2021}}
+{{Infobox football club season
+| club               = [[Al Nassr FC|Al-Nassr]]
+| season             = 2022–23
+| stadium            = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+| chairman           = {{Unbulleted list|[[Musalli Al-Muammar]]}}
+| chrtitle           = President
+| manager            = {{Unbulleted list|[[Rudi Garcia]]<br>''(until 13 April)''|[[Dinko Jeličić]]<br>''(interim, from 13 April)''}}
+| mgrtitle           = Head coach
+| league             = [[Saudi Pro League|Pro League]]
+| league result      = [[2022–23 Saudi Pro League|2nd]]
+| cup1               = [[King's Cup (Saudi Arabia)|King's Cup]]
+| cup1 result        = [[2022–23 King Cup|Semi-finals]]<br>(knocked out by [[Al Wehda FC|Al-Wehda]])
+| cup2               = [[Saudi Super Cup|Super Cup]]
+| cup2 result        = [[2022 Saudi Super Cup|Semi-finals]]<br>(knocked out by [[Al-Ittihad Club (Jeddah)|Al-Ittihad]])
+| cup3               = 
+| cup3 result        = 
+| league topscorer   = <br>[[Talisca]] (20) 
+| season topscorer   = <br>Talisca (21)
+| highest attendance = 23,248 <br> (vs. [[Al Hilal SFC|Al-Hilal]], 26 December 2022)
+| lowest attendance  = 11,721 <br> (vs. [[Al-Tai FC|Al-Tai]], 6 January 2023)
+| average attendance = 17,638
+| prevseason         = [[2021–22 Al-Nassr FC season|2021–22]]
+| nextseason         = [[2023–24 Al-Nassr FC season|2023–24]]
+| pattern_la1        = _alnassr2223h
+| pattern_b1         = _alnassr2223h
+| pattern_ra1        = _alnassr2223h
+| pattern_sh1        = _alnassr2223h
+| pattern_so1        = 
+| leftarm1           = 
+| body1              = 
+| rightarm1          = 
+| shorts1            = 
+| socks1             = 0000A0
+| pattern_la2        = _alnassr2223A
+| pattern_b2         = _alnassr2223A
+| pattern_ra2        = _alnassr2223A
+| pattern_sh2        = _alnassr2223A
+| pattern_so2        =
+| leftarm2           = 26466F
+| body2              = 23405E
+| rightarm2          = 26466F
+| shorts2            = 23405E
+| socks2             = 004080
+| pattern_la3        = _alnassr2223t
+| pattern_b3         = _alnassr2223t
+| pattern_ra3        = _alnassr2223t
+| pattern_sh3        = _alnassr2223t
+| pattern_so3        = 
+| body3              = FFFFFF
+| leftarm3           = FFFFFF
+| rightarm3          = FFFFFF
+| shorts3            = FFFFFF
+| socks3             = CCBBFF
+}}
+The '''2022–23 season''' was [[Al Nassr FC|Al-Nassr]]'s 47th consecutive season in the top flight of [[Football in Saudi Arabia|Saudi football]] and 67th year in existence as a [[Football club (association football)|football club]].<ref>{{cite web |title=عن النادي |url=https://alnassr.sa/ar/about}}</ref> The club participated in the [[Saudi Professional League|Pro League]], the [[Kings Cup (Saudi Arabia)|King's Cup]], and the [[Saudi Super Cup|Super Cup]].
+
+The season covers the period from 1 July 2022 to 30 June 2023.
+
+This season, the club brought in [[Cristiano Ronaldo]], considered one of the greatest footballers of all time. He signed a contract for two-and-a-half years until 2025, with a total salary of €200 million per year, thought to be the highest salary ever paid to a professional footballer.<ref>{{cite news |title=Cristiano Ronaldo: Former Manchester United forward signs for Saudi Arabian club Al-Nassr |url=https://www.skysports.com/football/news/11095/12777056/cristiano-ronaldo-former-manchester-united-forward-signs-for-saudi-arabian-club-al-nassr%7D |access-date=30 December 2022 |publisher=Sky Sports}}</ref> He made an immediate impact on the global following of the club, with their [[Instagram]] account growing from 860,000 followers before his move to over 10 million followers less than a week later.<ref>{{cite web|url=https://talksport.com/football/1293963/al-nassr-instagram-followers-cristiano-ronaldo-premier-league/|title=Al-Nassr now boast more Instagram followers than every Premier League club outside ‘Big Six’ after Cristiano Ronaldo’s move sparked incredible increase|website=TalkSport|date=5 January 2023|access-date=6 January 2023}}</ref>
+
+==Players==
+===Squad information===
+{{updated|3 February 2023}}<ref>{{cite web |title=النصر - Al Nassr |url=http://www.kooora.com/?team=146&mode=p}}</ref><ref>{{cite web |title=الفريق الأول|url=https://alnassr.sa/ar/team}}</ref>
+{{Fs start}}
+{{Fs player|no=1 |nat=KSA|name=[[Amin Bukhari]]|pos=GK}}
+{{Fs player|no=2 |nat=KSA|name=[[Sultan Al-Ghannam]]|pos=DF}}
+{{Fs player|no=3 |nat=KSA|name=[[Abdullah Madu]]|pos=DF}}
+{{Fs player|no=4 |nat=KSA|name=[[Mohammed Al-Fatil]]|pos=DF}}
+{{Fs player|no=5 |nat=KSA|name=[[Abdulelah Al-Amri]]|pos=DF}}
+{{Fs player|no=7 |nat=POR|name=[[Cristiano Ronaldo]]|pos=FW|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=8 |nat=KSA|name=[[Abdulmajeed Al-Sulayhem]]|pos=MF}}
+{{Fs player|no=10|nat=ARG|name=[[Pity Martínez]]|pos=MF}}
+{{Fs player|no=12|nat=KSA|name=[[Nawaf Boushal]]|pos=DF}}
+{{Fs player|no=13|nat=CIV|name=[[Ghislain Konan]]|pos=DF}}
+{{Fs player|no=14|nat=KSA|name=[[Sami Al-Najei]]|pos=MF}}
+{{Fs player|no=16|nat=KSA|name=[[Mohammed Maran]]|pos=FW}}
+{{Fs player|no=17|nat=KSA|name=[[Abdullah Al-Khaibari]]|pos=MF}}
+{{Fs player|no=18|nat=BRA|name=[[Luiz Gustavo]]|pos=MF}}
+{{Fs player|no=19|nat=KSA|name=[[Ali Al-Hassan]]|pos=MF}}
+{{Fs mid}}
+{{Fs player|no=20|nat=KSA|name=[[Hamad Al Mansour]]|pos=DF}}
+{{Fs player|no=21|nat=ESP|name=[[Álvaro González (footballer, born 1990)|Álvaro González]]|pos=DF}}
+{{Fs player|no=22|nat=ARG|name=[[Agustín Rossi (footballer)|Agustín Rossi]]|pos=GK|other=on loan from [[Boca Juniors]]}}
+{{Fs player|no=23|nat=KSA|name=[[Ayman Yahya]]|pos=MF}}
+{{Fs player|no=27|nat=KSA|name=[[Majed Qasheesh]]|pos=DF}}
+{{Fs player|no=29|nat=KSA|name=[[Abdulrahman Ghareeb]]|pos=MF}}
+{{Fs player|no=30|nat=KSA|name=[[Meshari Al-Nemer]]|pos=FW}}
+{{Fs player|no=33|nat=KSA|name=[[Waleed Abdullah]]|pos=GK}}
+{{Fs player|no=44|nat=KSA|name=[[Nawaf Al-Aqidi]]|pos=GK}}
+{{Fs player|no=46|nat=KSA|name=[[Abdulaziz Al-Elewai]]|pos=MF}}
+{{Fs player|no=55|nat=KSA|name=Abdulaziz Al-Faraj|pos=DF}}
+{{Fs player|no=59|nat=KSA|name=[[Yousef Haqawi]]|pos=DF}}
+{{Fs player|no=77|nat=UZB|name=[[Jaloliddin Masharipov]]|pos=MF}}
+{{Fs player|no=78|nat=KSA|name=[[Ali Lajami]]|pos=DF}}
+{{Fs player|no=94|nat=BRA|name=[[Talisca]]|pos=MF}}
+{{Fs end}}
+
+===Unregistered players===
+{{Fs start}}
+{{Fs player|no=25|nat=COL|name=[[David Ospina]]|pos=GK}}
+{{Fs player|no=|nat=KSA|name=[[Mohammed Qassem (footballer, born 1995)|Mohammed Qassem]]|pos=DF}}
+{{Fs player|no=|nat=KSA|name=Mohammed Sahlouli|pos=MF}}
+{{Fs mid}}
+{{Fs player|no=|nat=KSA|name=[[Khalid Haqawi]]|pos=MF}}
+{{Fs player|no=|nat=KSA|name=[[Fahad Al-Zubaidi]]|pos=FW}}
+{{Fs player|no=|nat=KSA|name=[[Muhannad Barah]]|pos=FW}}
+{{Fs end}}
+
+===Out on loan===
+{{Fs start}}
+{{Fs player|no=11|nat=KSA|name=[[Khalid Al-Ghannam]]|pos=MF|other=at [[Al Fateh SC|Al-Fateh]] until 30 June 2023}}
+{{Fs player|no=24|nat=KSA|name=[[Mansour Al-Shammari]]|pos=DF|other=at [[Al Ahli Saudi FC|Al-Ahli]] until 30 June 2023}}
+{{Fs player|no=28|nat=KOR|name=[[Kim Jin-su]]|pos=DF|other=at [[Jeonbuk Hyundai Motors]] until 30 June 2023}}
+{{Fs player|no=52|nat=KSA|name=[[Khalil Al-Absi]]|pos=MF|other=at [[Al-Tai FC|Al-Tai]] until 30 June 2023}}
+{{Fs player|no=53|nat=KSA|name=[[Sultan Al-Anazi]]|pos=MF|other=at [[Al-Qaisumah FC|Al-Qaisumah]] until 30 June 2023}}
+{{Fs player|no=54|nat=KSA|name=[[Basil Al-Sayyali]]|pos=MF|other=at [[Al-Hazem F.C.|Al-Hazem]] until 30 June 2023}}
+{{Fs player|no=57|nat=KSA|name=[[Raed Azybi]]|pos=GK|other=at [[Al-Faisaly FC|Al-Faisaly]] until 30 June 2023}}
+{{Fs mid}}
+{{Fs player|no=58|nat=KSA|name=[[Aser Hawsawi]]|pos=DF|other=at [[Al-Okhdood Club|Al-Okhdood]] until 30 June 2023}}
+{{Fs player|no=86|nat=KSA|name=[[Nawaf Al-Mutairi (footballer)|Nawaf Al-Mutairi]]|pos=DF|other=at [[Al-Orobah FC|Al-Orobah]] until 30 June 2023}}
+{{Fs player|no=|nat=KSA|name=[[Abdulrahman Al-Shammari (footballer, born 2000)|Abdulrahman Al-Shammari]]|pos=GK|other=at [[Najran SC|Najran]] until 30 June 2023}}
+{{Fs player|no=|nat=KSA|name=[[Mukhtar Ali]]|pos=MF|other=at [[Al-Tai FC|Al-Tai]] until 30 June 2023}}
+{{Fs player|no=|nat=KSA|name=[[Nawaf Al-Osaimi]]|pos=MF|other=at [[Al-Arabi (Saudi Arabia)|Al-Arabi]] until 30 June 2023}}
+{{Fs player|no=|nat=KSA|name=[[Abdulfattah Adam]]|pos=FW|other=at [[Abha Club|Abha]] until 30 June 2023}}
+{{Fs end}}
+
+==Transfers and loans==
+<!-- SORTED BY DATE, POSITION, SQUAD NUMBER, NAME -->
+
+===Transfers in===
+{| class="wikitable sortable"
+|-
+! style="background:yellow; color:blue;" |'''Entry date''' 
+! style="background:yellow; color:blue;" |'''Position''' 
+! style="background:yellow; color:blue;" |'''No.''' 
+! style="background:yellow; color:blue;" |'''Player''' 
+! style="background:yellow; color:blue;" |'''From club''' 
+! style="background:yellow; color:blue;" |'''Fee''' 
+! style="background:yellow; color:blue;" |'''Ref.'''
+|-
+| 30 June 2022
+| style="text-align:center;"| GK
+| style="text-align:center;"| 41
+| style="text-align:left;"| {{flagicon|KSA}} Waleed Al-Enezi
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Fateh SC|Al-Fateh]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| GK
+| style="text-align:center;"| 44
+| style="text-align:left;"| {{flagicon|KSA}} [[Nawaf Al-Aqidi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Tai FC|Al-Tai]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| GK
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdulrahman Al-Shammari (footballer, born 2000)|Abdulrahman Al-Shammari]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Najran SC|Najran]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 27
+| style="text-align:left;"| {{flagicon|KSA}} [[Osama Al-Khalaf]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Hazem F.C.|Al-Hazem]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 34
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdulmajeed Abbas]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Shoulla FC|Al-Shoulla]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 35
+| style="text-align:left;"| {{flagicon|KSA}} [[Khalid Al-Shuwayyi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Jabalain FC|Al-Jabalain]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 50
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdulaziz Al-Elewai]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Batin FC|Al-Batin]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 55
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdullah Al-Shanqiti]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Raed FC|Al-Raed]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 86
+| style="text-align:left;"| {{flagicon|KSA}} [[Nawaf Al-Mutairi (footballer)|Nawaf Al-Mutairi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Najran SC|Najran]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Osama Al-Bawardi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Sahel SC (Saudi Arabia)|Al-Sahel]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Mohammed Daghriri]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Okhdood Club|Al-Okhdood]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| MF
+| style="text-align:center;"| 21
+| style="text-align:left;"| {{flagicon|KSA}} [[Mukhtar Ali]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Tai FC|Al-Tai]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| MF
+| style="text-align:center;"| 23
+| style="text-align:left;"| {{flagicon|KSA}} [[Ayman Yahya]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Ahli Saudi FC|Al-Ahli]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| MF
+| style="text-align:center;"| 46
+| style="text-align:left;"| {{flagicon|KSA}} [[Khalid Al-Ghwinem]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Shoulla FC|Al-Shoulla]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| MF
+| style="text-align:center;"| 98
+| style="text-align:left;"| {{flagicon|KSA}} Abdulrahman Al-Shanar
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Jeel Club|Al-Jeel]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| FW
+| style="text-align:center;"| 16
+| style="text-align:left;"| {{flagicon|KSA}} [[Mohammed Maran]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Tai FC|Al-Tai]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 30 June 2022
+| style="text-align:center;"| FW
+| style="text-align:center;"| 52
+| style="text-align:left;"| {{flagicon|KSA}} Khalil Al-Absi
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Kholood Club|Al-Kholood]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 7 July 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 13
+| style="text-align:left;"| {{flagicon|CIV}} [[Ghislain Konan]]
+| style="text-align:left;"| {{flagicon|FRA}} [[Stade de Reims|Reims]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=الإيفوراي كونان لاعباً للنصر حتى 2025 |url=https://www.alarabiya.net/sport/saudi-sport/2022/07/07/%D8%A7%D9%84%D8%A7%D9%8A%D9%81%D9%88%D8%B1%D8%A7%D9%8A-%D9%83%D9%88%D9%86%D8%A7%D9%86-%D9%84%D8%A7%D8%B9%D8%A8%D8%A7%D9%8B-%D9%84%D9%84%D9%86%D8%B5%D8%B1-%D8%AD%D8%AA%D9%89-2025}}</ref>
+|-
+| 11 July 2022
+| style="text-align:center;"| GK
+| style="text-align:center;"| 25
+| style="text-align:left;"| {{flagicon|COL}} [[David Ospina]]
+| style="text-align:left;"| {{flagicon|ITA}} [[S.S.C. Napoli|Napoli]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=النصر السعودي يضم الكولومبي أوسبينا |url=https://www.alarabiya.net/sport/saudi-sport/2022/07/12/%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%8A%D8%B6%D9%85-%D8%A7%D9%84%D9%83%D9%88%D9%84%D9%88%D9%85%D8%A8%D9%8A-%D8%A3%D9%88%D8%B3%D8%A8%D9%8A%D9%86%D8%A7-}}</ref>
+|-
+| 24 July 2022
+| style="text-align:center;"| MF
+| style="text-align:center;"| 18
+| style="text-align:left;"| {{flagicon|BRA}} [[Luiz Gustavo]]
+| style="text-align:left;"| {{flagicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=النصر يعيد ذكريات «جوستافو وجارسيا» |url=https://arriyadiyah.com/775471}}</ref>
+|-
+| 20 August 2022
+| style="text-align:center;"| MF
+| style="text-align:center;"| 29
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdulrahman Ghareeb]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Ahli Saudi FC|Al-Ahli]]
+| {{ntsh|6.65}}$6,650,000
+| <ref>{{cite web |title=النصر يضم غريب من أهلي جدة لأربعة مواسم |url=https://www.alarabiya.net/sport/2022/08/20/%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%8A%D8%B6%D9%85-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%BA%D8%B1%D9%8A%D8%A8-%D9%85%D9%86-%D8%A3%D9%87%D9%84%D9%8A-%D8%AC%D8%AF%D8%A9-}}</ref>
+|-
+| 29 August 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 21
+| style="text-align:left;"| {{flagicon|ESP}} [[Álvaro González (footballer, born 1990)|Álvaro González]]
+| style="text-align:left;"| {{flagicon|FRA}} [[Olympique de Marseille|Marseille]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=النصر يتعاقد مع المدافع الإسباني ألفارو غونزاليس |url=https://www.alarabiya.net/sport/saudi-sport/2022/08/29/%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%8A%D8%AA%D8%B9%D8%A7%D9%82%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D9%81%D8%B9-%D8%A7%D9%84%D8%A7%D8%B3%D8%A8%D8%A7%D9%86%D9%8A-%D8%A3%D9%84%D9%81%D8%A7%D8%B1%D9%88-%D8%BA%D9%88%D9%86%D8%B2%D8%A7%D9%84%D9%8A%D8%B3}}</ref>
+|-
+| 1 January 2023{{efn|The transfer was announced on 30 December 2022, and would become official on 1 January 2023 once the transfer window opened.}}
+| style="text-align:center;"| FW
+| style="text-align:center;"| 7
+| style="text-align:left;"| {{flagicon|POR}} [[Cristiano Ronaldo]]
+| style="text-align:left;"| [[Free agent|Unattached]]{{efn|Most recently played for [[Manchester United F.C.|Manchester United]]}}
+| {{ntsh|0.0}}Free
+| <ref>{{cite tweet |user=AlNassrFC_EN |number=1608935670520909825 |title=History in the making. This is a signing that will not only inspire our club to achieve even greater success but inspire our league, our nation and future generations, boys and girls to be the best version of themselves. Welcome @Cristiano to your new home @AlNassrFC}}</ref>
+|-
+| 20 January 2023
+| style="text-align:center;"| DF
+| style="text-align:center;"| 12
+| style="text-align:left;"| {{flagicon|KSA}} [[Nawaf Boushal]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Fateh SC|Al-Fateh]]
+| {{ntsh|4.26}}$4,260,000
+| <ref>{{cite web |title=النصر يدعم صفوفه بنجم الفتح نواف بوشل |url=https://www.dawriplus.com/news/66292-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%8A%D8%AF%D8%B9%D9%85-%D8%B5%D9%81%D9%88%D9%81%D9%87-%D8%A8%D9%86%D8%AC%D9%85-%D8%A7%D9%84%D9%81%D8%AA%D8%AD-%D9%86%D9%88%D8%A7%D9%81-%D8%A8%D9%88%D8%B4%D9%84.html}}</ref>
+|-
+|}
+
+===Loans in===
+
+{| class="wikitable sortable"
+|-
+! style="background:yellow; color:blue;" |'''Start date'''
+! style="background:yellow; color:blue;" |'''End date'''
+! style="background:yellow; color:blue;" |'''Position'''
+! style="background:yellow; color:blue;" |'''No.'''
+! style="background:yellow; color:blue;" |'''Player'''
+! style="background:yellow; color:blue;" |'''From club'''
+! style="background:yellow; color:blue;" |'''Fee'''
+! style="background:yellow; color:blue;" |'''Ref.'''
+|-
+| 24 January 2023
+| End of season
+| style="text-align:center;"| GK
+| style="text-align:center;"| 22
+| style="text-align:left;"| {{flagicon|ARG}} [[Agustín Rossi (footballer)|Agustín Rossi]]
+| style="text-align:left;"| {{flagicon|ARG}} [[Boca Juniors]]
+| $1,300,000
+| <ref>{{cite web |title=النصر يعوض أوسبينا بالأرجنتيني روسي |url=https://www.alarabiya.net/sport/saudi-sport/2023/01/24/%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%8A%D8%B9%D9%88%D8%B6-%D8%A3%D9%88%D8%B3%D8%A8%D9%8A%D9%86%D8%A7-%D8%A8%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A}}</ref>
+|-
+|}
+
+===Transfers out===
+
+{| class="wikitable sortable"
+|-
+! style="background:yellow; color:blue;" |'''Exit date'''
+! style="background:yellow; color:blue;" |'''Position''' 
+! style="background:yellow; color:blue;" |'''No.''' 
+! style="background:yellow; color:blue;" |'''Player''' 
+! style="background:yellow; color:blue;" |'''To club'''
+! style="background:yellow; color:blue;" |'''Fee''' 
+! style="background:yellow; color:blue;" |'''Ref.'''
+|-
+| 30 June 2022
+| style="text-align:center;"| MF
+| style="text-align:center;"| 87
+| style="text-align:left;"| {{flagicon|BRA}} [[Anselmo (footballer, born 1989)|Anselmo]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al Wehda FC|Al-Wehda]]
+| {{ntsh|0.0}}End of loan
+| 
+|-
+| 1 July 2022
+| style="text-align:center;"| FW
+| style="text-align:center;"| 22
+| style="text-align:left;"| {{flagicon|URU}} [[Jonathan Rodríguez (footballer, born 1993)|Jonathan Rodríguez]]
+| style="text-align:left;"| {{flagicon|MEX}} [[Club América|América]]
+| {{ntsh|5.566}}$5,566,000
+| <ref>{{cite web |title=Club America sign Uruguay striker Jonathan 'Cabecita' Rodriguez from Al-Nassr |url=https://www.espn.com/soccer/mexican-liga-bbva-mx/story/4689218/club-america-sign-uruguay-striker-jonathan-cabecita-rodriguez-from-al-nassr}}</ref>
+|-
+| 7 July 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 35
+| style="text-align:left;"| {{flagicon|KSA}} [[Khalid Al-Shuwayyi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Riyadh SC|Al-Riyadh]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=خالد الشويع يمثل #مدرسة_الوسطى |url=https://twitter.com/AlRiyadh_fc/status/1545070285841473537}}</ref>
+|-
+| 16 July 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Osama Al-Bawardi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Ohod Club|Ohod]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=ضمت إدارة النادي الظهير الأيمن الكابتن #أسامة_البواردي لصفوف #الجبل|url=https://twitter.com/OHOD1936/status/1548063656914472962}}</ref>
+|-
+| 16 July 2022
+| style="text-align:center;"| MF
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Faraj Al-Ghashayan]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Qadsiah FC|Al-Qadsiah]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=القادسية يعزز صفوفه بالغشيان وفلاته |url=https://www.sportksa.net/main/archives/454259}}</ref>
+|-
+| 20 July 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 27
+| style="text-align:left;"| {{flagicon|KSA}} [[Osama Al-Khalaf]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Fayha FC|Al-Fayha]]
+| {{ntsh|0.266}}$266,000
+| <ref>{{cite web |title=الفيحاء يضم أسامة الخلف |url=https://lym.news/a/6409865}}</ref>
+|-
+| 20 July 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 30
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdulkareem Al-Muziel]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Batin FC|Al-Batin]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=الباطن يتعاقد مع المزيعل |url=https://sa.hihi2.com/2022/07/20/p178149.html}}</ref>
+|-
+| 20 July 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 31
+| style="text-align:left;"| {{flagicon|KSA}} [[Dhari Al-Anazi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Damac FC|Damac]]
+| {{ntsh|0.0}}Undisclosed
+| <ref>{{cite web |title=النصر يوافق على بيع عقد اللاعب ضاري العنزي لضمك |url=https://sabq.org/sports/ca3m1verou}}</ref>
+|-
+| 21 July 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Mohammed Daghriri]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Najran SC|Najran]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=أنهت إدارة نادي #نجران اجراءات التعاقد مع اللاعب محمد دغريري |url=https://twitter.com/MC_NajranFC/status/1550106748853403648}}</ref>
+|-
+| 22 July 2022
+| style="text-align:center;"| MF
+| style="text-align:center;"| 46
+| style="text-align:left;"| {{flagicon|KSA}} [[Khalid Al-Ghwinem]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Ohod Club|Ohod]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=#خالد_الغوينم "أحدي" |url=https://twitter.com/OHOD1936/status/1550593005085769730}}</ref>
+|-
+| 27 July 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 55
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdullah Al-Shanqiti]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Khaleej FC|Al-Khaleej]]
+| {{ntsh|0.0}}Undisclosed
+| <ref>{{cite web |title=الخليج يضم الشنقيطي |url=https://lym.news/a/6411366}}</ref>
+|-
+| 4 August 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 55
+| style="text-align:left;"| {{flagicon|ARG}} [[Ramiro Funes Mori]]
+| style="text-align:left;"| {{flagicon|MEX}} [[Cruz Azul]]
+| {{ntsh|1.535}}$1,535,000
+| <ref>{{cite web |title=Al Nassr anunció venta de Ramiro Funes Mori a Cruz Azul |url=https://espndeportes.espn.com/futbol/mexico/nota/_/id/10713911/cruz-azul-hace-oficial-fichaje-ramiro-funes-mori}}</ref>
+|-
+| 12 August 2022
+| style="text-align:center;"| GK
+| style="text-align:center;"| 41
+| style="text-align:left;"| {{flagicon|KSA}} Waleed Al-Enezi
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Fateh SC|Al-Fateh]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=الفتح يضم حارس النصر بشكل نهائي |url=https://arriyadiyah.com/777712}}</ref>
+|-
+| 1 September 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| 34
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdulmajeed Abbas]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Shaeib FC|Al-Shaeib]]
+| {{ntsh|0.0}}Free
+| 
+|-
+| 1 September 2022
+| style="text-align:center;"| MF
+| style="text-align:center;"| 98
+| style="text-align:left;"| {{flagicon|KSA}} Abdulrahman Al-Shanar
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Shaeib FC|Al-Shaeib]]
+| {{ntsh|0.0}}Free
+| 
+|-
+| 1 September 2022
+| style="text-align:center;"| MF
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|YEM}} [[Ali Yahya Salem|Ali Yahya]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Shaeib FC|Al-Shaeib]]
+| {{ntsh|0.0}}Free
+| 
+|-
+| 9 September 2022
+| style="text-align:center;"| MF
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Fawaz Al-Mutairi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Diriyah Club|Al-Diriyah]]
+| {{ntsh|0.0}}Free
+| 
+|-
+| 12 September 2022
+| style="text-align:center;"| FW
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Eissa Al-Rashed]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Rayyan Club (Saudi Arabia)|Al-Rayyan]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=تعاقدت إدارة نادي الريان مع اللاعب / عيسى الراشد |url=https://twitter.com/alrayan_club/status/1569385371544305665}}</ref>
+|-
+| 19 September 2022
+| style="text-align:center;"| DF
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Musab Al-Sanei]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Bukiryah FC|Al-Bukiryah]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=تعاقدت إدارة نادي #البكيرية مع اللاعب مصعب الصانع |url=https://twitter.com/ALBUKIRYAH_FC/status/1571622652992786433}}</ref>
+|-
+| 21 September 2022
+| style="text-align:center;"| MF
+| style="text-align:center;"| 28
+| style="text-align:left;"| {{flagicon|KSA}} [[Ibrahim Al-Mahdawi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Qilwah Club|Qilwah]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=مجلس إدارة #نادي_قلوة ينهي اجراءات التعاقد مع اللاعب إبراهيم المهداوي |url=https://twitter.com/qilwahclub/status/1572671045168947200}}</ref>
+|-
+| 17 January 2023
+| style="text-align:center;"| DF
+| style="text-align:center;"| 50
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdulaziz Al-Alawi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Adalah FC|Al-Adalah]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite web |title=رسميًا.. العدالة يضم لاعب النصر عبدالعزيز العلاوي |url=https://akhbaar24.argaam.com/article/detail/633511}}</ref>
+|-
+| 21 January 2023
+| style="text-align:center;"| FW
+| style="text-align:center;"| 9
+| style="text-align:left;"| {{flagicon|CMR}} [[Vincent Aboubakar]]
+| style="text-align:left;"| {{flagicon|TUR}} [[Beşiktaş J.K.|Beşiktaş]]
+| {{ntsh|0.0}}Free
+| <ref>{{cite news |last1=Tetik |first1=Idil Erin |title=Transfer: Beşiktaş'a yeniden imza atan Vincent Aboubakar'ın maliyeti ne kadar? | url=https://www.goal.com/tr/haber/transfer-besiktas-a-yeniden-imza-atan-vincent-aboubakar-in-maliyeti-ne-kadar/blt52badc7d25bae44d |work=Goal.com |language=tr |date=21 January 2023}}</ref>
+|-
+| 27 April 2023
+| style="text-align:center;"| MF
+| style="text-align:center;"| 45
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdulfattah Asiri]]
+| style="text-align:left;"| {{flagicon|FIN}} [[IFK Mariehamn]]
+| {{ntsh|0.0}}Free
+| <ref name="ifkfotboll">{{cite web | url=https://www.ifkfotboll.ax/offensiv-saudisk-landslagsspelare-forstarker-gronvitt|publisher=ifkfotboll.ax|title=Offensiv Saudisk landlagsspelare förstärker Grönvitt |access-date=27 April 2023}}</ref>
+|-
+|}
+
+===Loans out===
+
+{| class="wikitable sortable"
+|-
+! style="background:yellow; color:blue;" |'''Start date'''
+! style="background:yellow; color:blue;" |'''End date'''
+! style="background:yellow; color:blue;" |'''Position'''
+! style="background:yellow; color:blue;" |'''No.'''
+! style="background:yellow; color:blue;" |'''Player'''
+! style="background:yellow; color:blue;" |'''To club'''
+! style="background:yellow; color:blue;" |'''Fee'''
+! style="background:yellow; color:blue;" |'''Ref.'''
+|-
+| 18 July 2022
+| 31 August 2022
+| style="text-align:center;"| GK
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdulrahman Al-Shammari (footballer, born 2000)|Abdulrahman Al-Shammari]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Qadsiah FC|Al-Qadsiah]]
+| None
+| <ref>{{cite web |title=القادسية يتعاقد مع الشمري والحربي |url=https://www.kooora.com/?n=1156752}}</ref>
+|-
+| 27 July 2022
+| End of season
+| style="text-align:center;"| FW
+| style="text-align:center;"| 52
+| style="text-align:left;"| {{flagicon|KSA}} Khalil Al-Absi
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Tai FC|Al-Tai]]
+| None
+| <ref>{{cite web |title=النصر يوافق على إعارة خليل العبسي للطائي |url=https://sabq.org/sports/xidlfl18ir}}</ref>
+|-
+| 18 August 2022
+| End of season
+| style="text-align:center;"| FW
+| style="text-align:center;"| 29
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdulfattah Adam]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Abha Club|Abha]]
+| $266,000
+| <ref>{{cite web |title=أبها يستعير آدم من النصر |url=https://arriyadiyah.com/778333}}</ref>
+|-
+| 27 August 2022
+| End of season
+| style="text-align:center;"| MF
+| style="text-align:center;"| 54
+| style="text-align:left;"| {{flagicon|KSA}} [[Basil Al-Sayyali]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Hazem F.C.|Al-Hazem]]
+| None
+| <ref>{{cite web |title=الحزم.. صفقتان جديدتان |url=https://arriyadiyah.com/779400}}</ref>
+|-
+| 29 August 2022
+| End of season
+| style="text-align:center;"| DF
+| style="text-align:center;"| 86
+| style="text-align:left;"| {{flagicon|KSA}} [[Nawaf Al-Mutairi (footballer)|Nawaf Al-Mutairi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Orobah FC|Al-Orobah]]
+| None
+| <ref>{{cite web |title=وقعت إدارة نادي العروبة عقداً احترافياً بنظام الإعارة مع المدافع نواف المطيري|url=https://twitter.com/ALOROBAH_FC/status/1564015964164849664}}</ref>
+|-
+| 29 August 2022
+| End of season
+| style="text-align:center;"| MF
+| style="text-align:center;"| 21
+| style="text-align:left;"| {{flagicon|KSA}} [[Mukhtar Ali]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Tai FC|Al-Tai]]
+| None
+| <ref>{{cite web |title=الطائي يستعير لاعب النصر |url=https://www.kooora.com/?n=1168130}}</ref>
+|-
+| 31 August 2022
+| End of season
+| style="text-align:center;"| GK
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Abdulrahman Al-Shammari (footballer, born 2000)|Abdulrahman Al-Shammari]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Najran SC|Najran]]
+| None
+| <ref>{{cite web |title=#عبدالرحمن_الشمري_نجراني |url=https://twitter.com/MC_NajranFC/status/1564919658721017856}}</ref>
+|-
+| 6 September 2022
+| End of season
+| style="text-align:center;"| GK
+| style="text-align:center;"| 57
+| style="text-align:left;"| {{flagicon|KSA}} [[Raed Azybi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Faisaly FC|Al-Faisaly]]
+| None
+| <ref>{{cite web |title=الفيصلي يوقع مع ” رائد أزيبي ” بنظام الإعارة حتى نهاية الموسم |url=https://www.kabrday.com/263262.html}}</ref>
+|-
+| 8 September 2022
+| End of season
+| style="text-align:center;"| MF
+| style="text-align:center;"| –
+| style="text-align:left;"| {{flagicon|KSA}} [[Nawaf Al-Osaimi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Arabi (Saudi Arabia)|Al-Arabi]]
+| None
+| <ref>{{cite web |title=أنهى مجلس إدارة نادي العربي بقيادة الأستاذ أمين الملاح أجراءات التعاقد مع لاعب الوسط نواف العصيمي |url=https://twitter.com/Al_ArabiSC/status/1567968869502918658}}</ref>
+|-
+| 9 September 2022
+| End of season
+| style="text-align:center;"| MF
+| style="text-align:center;"| 53
+| style="text-align:left;"| {{flagicon|KSA}} [[Sultan Al-Anazi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Qaisumah FC|Al-Qaisumah]]
+| None
+| <ref>{{cite web |title=أنهت إدارة #نادي_القيصومة إجراءات التعاقد مع اللاعب سلطان العنزي |url=https://twitter.com/qaisumahfc_1970/status/1568274089348825088}}</ref>
+|-
+| 2 January 2023
+| End of season
+| style="text-align:center;"| DF
+| style="text-align:center;"| 24
+| style="text-align:left;"| {{flagicon|KSA}} [[Mansour Al-Shammari]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Ahli Saudi FC|Al-Ahli]]
+| None
+| <ref>{{cite web |title=النصر يعير الشمري للأهلي |url=https://www.alriyadh.com/1990186}}</ref>
+|-
+| 25 January 2023
+| End of season
+| style="text-align:center;"| DF
+| style="text-align:center;"| 58
+| style="text-align:left;"| {{flagicon|KSA}} [[Aser Hawsawi]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Okhdood Club|Al-Okhdood]]
+| None
+| <ref>{{cite web |title=آسر هوساوي ينضم لكتيبة الأخدود بنظام الإعارة |url=https://twitter.com/ALAKHDOUD/status/1618324602601766916}}</ref>
+|-
+| 28 January 2023
+| End of season
+| style="text-align:center;"| MF
+| style="text-align:center;"| 11
+| style="text-align:left;"| {{flagicon|KSA}} [[Khalid Al-Ghannam]]
+| style="text-align:left;"| {{flagicon|KSA}} [[Al-Fateh SC|Al-Fateh]]
+| None
+| <ref>{{cite web |title=الفتح يستعير الغنام من النصر |url=https://arriyadiyah.com/795008}}</ref>
+|-
+|}
+
+==Pre-season and friendlies==
+{{football box collapsible
+| round        = [[Exhibition game|Friendly]]
+| date         = 29 July 2022
+| time         = 19:00 [[Central European Summer Time|CEST]]
+| team1        = Al-Nassr {{flagicon|KSA}}
+| score        = 2–2
+| report       = https://www.alarabiya.net/sport/2022/07/29/%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%8A%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D9%85%D8%B9-%D9%84%D8%A7%D8%B3-%D8%A8%D8%A7%D9%84%D9%85%D8%A7%D8%B3-%D8%A7%D9%84%D8%A7%D8%B3%D8%A8%D8%A7%D9%86%D9%8A-%D9%88%D8%AF%D9%8A%D8%A7
+| team2        = {{flagicon|ESP}} [[UD Las Palmas|Las Palmas]]
+| goals1       = [[Hamad Al Mansour|Al Mansour]] {{goal|75}}<br />[[Vincent Aboubakar|Aboubakar]] {{goal|90}}
+| goals2       = [[Mohammed Al-Fatil|Al-Fatil]] {{goal|57|o.g.}}<br />[[Saliou Mandiang|Mandiang]] {{goal|83}}
+| stadium      = La Quinta Football Center
+| location     = [[Marbella]], [[Spain]]
+| attendance   = 
+| referee      = 
+| result       = D
+}}
+{{football box collapsible
+| round        = [[Exhibition game|Friendly]]
+| date         = 1 August 2022
+| time         = 19:00 [[Central European Summer Time|CEST]]
+| team1        = Al-Nassr {{flagicon|KSA}}
+| score        = 2–1
+| report       = https://www.al-jazirah.com/2022/20220802/sp11.htm
+| team2        = {{flagicon|ESP}} [[Real Zaragoza]]
+| goals1       = [[Sami Al-Najei|Al-Najei]] {{goal|38||60}}
+| goals2       = [[Valentín Vada|Vada]] {{goal|86}}
+| stadium      = Marbella Football Center
+| location     = [[Marbella]], [[Spain]]
+| attendance   = 
+| referee      = 
+| result       = W
+}}
+{{football box collapsible
+| round        = [[Exhibition game|Friendly]]
+| date         = 5 August 2022
+| time         = 19:00 [[Central European Summer Time|CEST]]
+| team1        = Al-Nassr {{flagicon|KSA}}
+| score        = 2–0
+| report       = https://arriyadiyah.com/776922
+| team2        = {{flagicon|ESP}} [[Málaga CF|Málaga]]
+| goals1       = [[Sami Al-Najei|Al-Najei]] {{goal|62}}<br />[[Vincent Aboubakar|Aboubakar]] {{goal|69}}
+| goals2       = 
+| stadium      = Marbella Football Center
+| location     = [[Marbella]], [[Spain]]
+| attendance   = 
+| referee      = 
+| result       = W
+}}
+{{football box collapsible
+| round        = [[Exhibition game|Friendly]]
+| date         = 8 August 2022
+| time         = 19:00 [[Central European Summer Time|CEST]]
+| team1        = Al-Nassr {{flagicon|KSA}}
+| score        = 2–1
+| report       = https://arriyadiyah.com/777255
+| team2        = {{flagicon|ESP}} [[Juventud de Torremolinos CF|Juventud Torremolinos]]
+| goals1       = [[Vincent Aboubakar|Aboubakar]] {{goal|42}}<br />[[Talisca]] {{goal|44}}
+| goals2       = 
+| stadium      = Marbella Football Center
+| location     = [[Marbella]], [[Spain]]
+| attendance   = 
+| referee      = 
+| result       = W
+}}
+{{football box collapsible
+| round        = [[Exhibition game|Friendly]]
+| date         = 11 August 2022
+| time         = 18:30 [[Central European Summer Time|CEST]]
+| team1        = Al-Nassr {{flagicon|KSA}}
+| score        = 1–0
+| report       = https://arriyadiyah.com/777747
+| team2        = {{flagicon|ESP}} [[Cádiz CF Mirandilla|Cádiz B]]
+| goals1       = [[Khalid Al-Ghannam|K. Al-Ghannam]] {{goal|48}}
+| goals2       = 
+| stadium      = Marbella Football Center
+| location     = [[Marbella]], [[Spain]]
+| attendance   = 
+| referee      = 
+| result       = W
+}}
+{{football box collapsible
+| round        = [[Exhibition game|Friendly]]
+| date         = 16 August 2022
+| time         = 20:15 [[UTC+03:00|AST]]
+| team1        = Al-Nassr {{flagicon|KSA}}
+| score        = 3–3
+| report       = https://www.dawriplus.com/news/63334-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%8A%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%88%D8%AF%D9%8A%D8%A7%D9%8B.html
+| team2        = {{flagicon|KSA}} [[Al-Arabi (Saudi Arabia)|Al-Arabi]]
+| goals1       = [[Sami Al-Najei|Al-Najei]] {{goal|12||26}}<br />[[Vincent Aboubakar|Aboubakar]] {{goal|51|pen.}}
+| goals2       = [[Sandro Manoel|Manoel]] {{goal}}<br />[[Ablaye Mbengue|Mbengue]] {{goal}}<br />[[Hassan Sharahili|Sharahili]] {{goal}}
+| stadium      = [[Mrsool Park]]
+| location     = [[Riyadh]], [[Saudi Arabia]]
+| attendance   = 
+| referee      = 
+| result       = D
+}}
+{{football box collapsible
+| round        = [[Exhibition game|Friendly]]
+| date         = 21 August 2022
+| time         = 20:15 [[UTC+03:00|AST]]
+| team1        = Al-Nassr {{flagicon|KSA}}
+| score        = 1–2
+| report       = https://www.sportksa.net/main/archives/455728
+| team2        = {{flagicon|KSA}} [[Al-Raed FC|Al-Raed]]
+| goals1       = [[Talisca]] {{goal|71}}
+| goals2       = [[Damjan Đoković|Đoković]] {{goal|36}}<br />[[Júlio Tavares|Tavares]] {{goal|42}}
+| stadium      = [[Mrsool Park]]
+| location     = [[Riyadh]], [[Saudi Arabia]]
+| attendance   = 
+| referee      = 
+| result       = L
+}}
+{{Football box collapsible
+|round = Riyadh Season Cup
+|date = 19 January 2023
+|time = 20:00 [[Saudi Arabia Standard Time|SAST]] ([[UTC+03:00|UTC+3]])
+|team1 = [[Al Hilal SFC|Al-Hilal]]/[[Al Nassr FC|Al-Nassr]] stars {{fbaicon|KSA}}
+|score = 4–5
+|report = https://arriyadiyah.com/794171
+|team2 = {{fbaicon|FRA}} [[Paris Saint-Germain]]
+|goals1 =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|34|pen.|45+6}}
+*[[Jang Hyun-soo|Jang]] {{goal|56}}
+*[[Ali Al-Bulaihi|Al-Bulaihi]] {{yel|59}}
+*[[Talisca]] {{goal|90+4}}
+|goals2 =
+*[[Lionel Messi|Messi]] {{goal|3}}
+*[[Keylor Navas|Navas]] {{yel|33}}
+*[[Juan Bernat|Bernat]] {{sentoff|0|39}}
+*[[Marquinhos]] {{goal|43}}
+*[[Neymar]] {{penmiss}} {{small|45+3'}}
+*[[Sergio Ramos|Ramos]] {{goal|53}}
+*[[Kylian Mbappé|Mbappé]] {{goal|60|pen.}}
+*[[Hugo Ekitike|Ekitike]] {{goal|78}}
+|stadium = [[King Fahd International Stadium]]
+|location = [[Riyadh]], [[Saudi Arabia]]
+|attendance = 68,000
+|referee = [[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+|result = L
+}}
+
+== Competitions ==
+
+=== Overview ===
+<!--Please don't remove this section because it is full overview of club season.-->
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan=2|Competition
+!colspan=8|Record
+|-
+!{{Tooltip|G|Games played}}
+!{{Tooltip|W|Games won}}
+!{{Tooltip|D|Games drawn}}
+!{{Tooltip|L|Games lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|GD|Goal difference}}
+!{{Tooltip|Win %|Winning percentage}}
+|-
+| [[2022–23 Saudi Professional League|Pro League]]
+{{WDL|30|20|7|3|for=63|against=18|diff=yes}}
+|-
+| [[2022–23 King Cup|King's Cup]]
+{{WDL|3|2|0|1|for=5|against=2|diff=yes}}
+|-
+| [[2022 Saudi Super Cup|Super Cup]]
+{{WDL|1|0|0|1|for=1|against=3|diff=yes}}
+|-
+! Total
+{{WDLtot|34|22|7|5|for=69|against=23|diff=yes}}
+{{fb overall competition footer|u=31 May 2023}}
+
+===Pro League===
+{{main|2022–23 Saudi Professional League}}
+
+====League table====
+{{2022–23 Saudi Professional League table|showteam=NSR}}
+
+====Results summary====
+{{Fb_rs|hw=12|hd=3 |hl=0 |hgf=35|hga=10 |aw=8 |ad=4 |al=3 |agf=28|aga=8 }}
+{{Fb rs footer |u=31 May 2023|date=July 2022|s=[https://www.spl.com.sa/en/single_club?team=c9swyor08g9pedxpe3n321svu spl.com.sa]}}
+
+====Results by round====
+{{#invoke:sports rbr table|table|legendpos=b|header=Round
+
+|label1= Ground
+| res1=H/A/H/A/H/A/H/H/A/H/A/H/A/H/A/A/H/A/H/A/H/A/A/A/H/H/A/H/A/H
+|label2= Result
+| res2=W/L/W/W/D/W/W/W/W/D/W/W/D/W/D/W/W/W/W/L/W/W/D/W/L/D/W/W/D/W
+|label3= Position
+| res3=7/9/6/4/5/4/2/2/1/1/1/1/1/1/1/1/1/1/1/2/2/2/2/2/2/2/2/2/2/2
+<!-- -->
+|text_H=Home|text_A=Away
+|color_W=green2|text_W=Win
+|color_D=yellow2|text_D=Draw
+|color_L=red2|text_L=Loss
+|color_1=1st|color_2=2nd|color_3=3rd|color_15-=red1
+
+|updated={{Start date|2023|05|31|df=y}}
+|source=[https://www.spl.com.sa/en/single_club?team=c9swyor08g9pedxpe3n321svu spl.com.sa]
+|date=August 2022
+}}
+
+====Matches====
+All times are local, [[Arabia Standard Time|AST]] ([[UTC+03:00|UTC+3]]).
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#CCCCCC|Postponed|border=1px solid #AAAAAA}}
+
+{{football box collapsible
+|round      = 1
+|date       = 27 August 2022
+|time       = 21:00
+|team1      = Al-Nassr
+|score      = 1–0
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=acg8gtuu1pbkitnvic2yodq8k
+|team2      = [[Al Wehda FC|Al-Wehda]]
+|goals1     = [[Vincent Aboubakar|Aboubakar]] {{goal|3}}<br />[[Ali Al-Hassan|Al-Hassan]] {{yel|42}}
+|goals2     = [[Óscar Duarte (footballer, born 1989)|Duarte]] {{yel|45+1}}
+|stadium    = [[Mrsool Park]]
+|location   = [[Riyadh]]
+|attendance = 19,312
+|referee    = Mohammed Al-Hoaish
+|result     = W
+}}
+{{football box collapsible
+|round      = 2
+|date       = 3 September 2022
+|time       = 19:00
+|team1      = [[Al-Taawoun FC|Al-Taawoun]]
+|score      = 1–0
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=adcprqybys5e82haga35pbgno
+|team2      = Al-Nassr
+|goals1     = [[Abdulmalik Al-Oyayari|Al-Oyayari]] {{yel|66}}<br />[[Saad Balobaid|Balobaid]] {{yel|85}}<br />[[Léandre Tawamba|Tawamba]] {{yel|90+9}}<br />[[Sumayhan Al-Nabit|Al-Nabit]] {{goal|90+12}}
+|goals2     = [[Abdulelah Al-Amri|Al-Amri]] {{yel|27}}<br />f {{yel|38}}<br />[[Luiz Gustavo|Gustavo]] {{yel|68}}<br />[[Ali Al-Hassan|Al-Hassan]] {{yel|83}}
+|stadium    = [[King Abdullah Sport City Stadium]]
+|location   = [[Buraidah]]
+|attendance = 14,838
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|result     = L
+}}
+{{football box collapsible
+|round      = 3
+|date       = 10 September 2022
+|time       = 21:00
+|team1      = Al-Nassr
+|score      = 2–1
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=aego6zt0r7c55z79uujdxjo5w
+|team2      = [[Damac FC|Damac]]
+|goals1     = [[Sami Al-Najei|Al-Najei]] {{goal|37}}, {{yel|45+3}}<br />[[Talisca]] {{goal|60}}
+|goals2     = [[Farouk Chafaï|Chafaï]] {{yel|77}}<br />[[Bruno Duarte|Duarte]] {{goal|82}}
+|stadium    = [[Mrsool Park]]
+|location   = [[Riyadh]]
+|attendance = 14,972
+|referee    = Khaled Al-Teris
+|result     = W
+}}
+{{football box collapsible
+|round      = 4
+|date       = 15 September 2022
+|time       = 18:40
+|team1      = [[Al-Batin FC|Al-Batin]]
+|score      = 0–4
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=aet9ytitjvgl1kvvg5ffzgt1w
+|team2      = Al-Nassr
+|goals1     = [[Othman Awad|Awad]] {{yel|28}}<br />[[Abdulrahman Saad (footballer)|Saad]] {{yel|32}}<br />[[Mohammad Naji|Naji]] {{yel|44}}
+|goals2     = [[Luiz Gustavo|Gustavo]] {{goal|17}}, {{yel|53}}<br />[[Talisca]] {{goal|29}}<br />[[Sami Al-Najei|Al-Najei]] {{goal|40}}<br />[[Abdulrahman Ghareeb|Ghareeb]] {{goal|51}}<br />[[Abdulmajeed Al-Sulaiheem|Al-Sulaiheem]] {{yel|59}}<br />[[Ghislain Konan|Konan]] {{yel|90}}
+|stadium    = [[Al-Batin Club Stadium]]
+|location   = [[Hafar al-Batin]]
+|attendance = 4,096
+|referee    = [[Roberto Tobar]] ([[Football Federation of Chile|Chile]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 5
+|date       = 2 October 2022
+|time       = 21:00
+|team1      = Al-Nassr
+|score      = 0–0
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=ageho8bsuyznhm2jr9qkuikgk
+|team2      = [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|goals1     = [[Talisca]] {{yel|22}}<br />[[Álvaro González (footballer, born 1990)|González]] {{yel|30}}<br />[[Abdulmajeed Al-Sulaiheem|Al-Sulaiheem]] {{sentoff|0|59}}
+|goals2     = [[Awad Al-Nashri|Al-Nashri]] {{yel|37}}<br />[[Abdulrahman Al-Aboud|Al-Aboud]] {{yel|37}}<br />[[Tarek Hamed|Hamed]] {{sentoff|0|43}}<br />[[Ahmed Bamsaud|Bamsaud]] {{yel|53}}<br />[[Ahmed Hegazi|Hegazi]] {{yel|56}}
+|stadium    = [[Mrsool Park]]
+|location   = [[Riyadh]]
+|attendance = 23,025
+|referee    = [[Andrés Cunha]] ([[Uruguayan Football Association|Uruguay]])
+|result     = D
+}}
+{{football box collapsible
+|round      = 6
+|date       = 7 October 2022
+|time       = 18:30
+|team1      = [[Abha Club|Abha]]
+|score      = 0–3
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=ah7invz5xlobc1tb0r3sx07bo
+|team2      = Al-Nassr
+|goals1     = [[Zakaria Sami|Sami]] {{yel|21}}<br />[[Abdulfattah Adam|Adam]] {{yel|87}}
+|goals2     = [[Luiz Gustavo|Gustavo]] {{goal|5}}, {{yel|42}}<br />[[Sultan Al-Ghannam |S. Al-Ghannam]] {{goal|49}}<br />[[Ayman Yahya|Yahya]] {{goal|90}}
+|stadium    = [[Prince Sultan bin Abdul Aziz Stadium]]
+|location   = [[Abha]]
+|attendance = 13,250
+|referee    = [[Fábio Veríssimo]] ([[Portuguese Football Federation|Portugal]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 7
+|date       = 11 October 2022
+|time       = 20:30
+|team1      = Al-Nassr
+|score      = 4–1
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=aie8e9np4tck9lixr9z3iv190
+|team2      = [[Al-Adalah FC|Al-Adalah]]
+|goals1     = [[Ayman Yahya|Yahya]] {{goal|22||26}}<br />[[Vincent Aboubakar|Aboubakar]] {{goal|28}}, {{yel|30}}<br />[[Talisca]] {{goal|78}}<br />[[Abdullah Al-Khaibari|Al-Khaibari]] {{yel|90+2}}
+|goals2     = [[Christofer Gonzáles|Gonzáles]] {{goal|87|pen.}}<br />[[Hussain Al-Nattar|Al-Nattar]] {{yel|90+3}}
+|stadium    = [[Mrsool Park]]
+|location   = [[Riyadh]]
+|attendance = 11,894
+|referee    = Khaled Al-Teris
+|result     = W
+}}
+{{football box collapsible
+|round      = 8
+|date       = 16 October 2022
+|time       = 17:45
+|team1      = Al-Nassr
+|score      = 4–0
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=aj2ekrmt15zark8y9wqgavrbo
+|team2      = [[Al-Fayha FC|Al-Fayha]]
+|goals1     = [[Luiz Gustavo|Gustavo]] {{goal|75||87}}<br />[[Talisca]] {{goal|81||84}}
+|goals2     = [[Bander Nasser|Nasser]] {{yel|34}}<br />[[Ricardo Ryller|Ryller]] {{yel|41}}<br />[[Mohammed Abousaban|Abousaban]] {{yel|71}}
+|stadium    = [[Mrsool Park]]
+|location   = [[Riyadh]]
+|attendance = 12,763
+|referee    = Mohammed Al-Esmaiel
+|result     = W
+}}
+{{football box collapsible
+|round      = 9
+|date       = 16 December 2022
+|time       = 18:00
+|team1      = [[Al-Raed FC|Al-Raed]]
+|score      = 1–4
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=ak2srels8k51301sjlpczeexg
+|team2      = Al-Nassr
+|goals1     = [[Alexandru Mitriță|Mitriță]] {{goal|28}}<br />[[Abdulaziz Al-Jebreen|Al-Jebreen]] {{yel|31}}<br />[[Abdullah Al-Fahad|Al-Fahad]] {{yel|63}}<br />[[Karim El Berkaoui|El Berkaoui]] {{yel|70}}
+|goals2     = [[Vincent Aboubakar|Aboubakar]] {{goal|45+5}}<br />[[Talisca]] {{goal|61||73|pen.|89}}
+|stadium    = [[King Abdullah Sport City Stadium]]
+|location   = [[Buraidah]]
+|attendance = 11,134
+|referee    = Sami Al-Jires
+|result     = W
+}}
+{{football box collapsible
+|round      = 10
+|date       = 26 December 2022
+|time       = 20:30
+|team1      = Al-Nassr
+|score      = 2–2
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=alha42tihhj4vdus7g2fm7b4k
+|team2      = [[Al Hilal SFC|Al-Hilal]]
+|goals1     = [[Ayman Yahya|Yahya]] {{yel|2}}<br />[[Abdullah Al-Khaibari|Al-Khaibari]] {{yel|31}}<br />[[Talisca]] {{goal|56}}<br />[[Abdulrahman Ghareeb|Ghareeb]] {{goal|88}}
+|goals2     = [[Odion Ighalo|Ighalo]] {{goal|10}}<br />[[Gustavo Cuéllar|Cuéllar]] {{yel|39}}<br />[[Salem Al-Dawsari|S. Al-Dawsari]] {{goal|65|pen.}}<br />[[Jang Hyun-soo|Hyun-soo]] {{yel|90+5}}
+|stadium    = [[Mrsool Park]]
+|location   = [[Riyadh]]
+|attendance = 23,248
+|referee    = [[César Arturo Ramos|César Ramos]] ([[Mexican Football Federation|Mexico]])
+|result     = D
+}}
+{{football box collapsible
+|round      = 11
+|date       = 31 December 2022
+|time       = 20:30
+|team1      = [[Khaleej FC|Al-Khaleej]]
+|score      = 0–1
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=alq8tbukcq82ws6k44p15oh78
+|team2      = Al-Nassr
+|goals1     = [[Khaled Al-Samiri|Al-Samiri]] {{yel|51}}<br />[[Lucas Souza (footballer, born 1990)|Souza]] {{yel|79}}<br />Al Dubais {{yel|90+7}}
+|goals2     = [[Vincent Aboubakar|Aboubakar]] {{goal|5}}<br />[[Talisca]] {{yel|54}}<br />[[Abdulelah Al-Amri|Al-Amri]] {{yel|90}}
+|stadium    = [[Prince Mohamed bin Fahd Stadium]]
+|location   = [[Dammam]]
+|attendance = 13,810
+|referee    = Sami Al-Jires
+|result     = W
+}}
+{{football box collapsible
+|round      = 12
+|date       = 6 January 2023{{efn|This match originally set at 5 January 2023, but this round was postponed due to a heavy storm.}}
+|time       = 18:00
+|team1      = Al-Nassr
+|score      = 2–0
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=anjwl9ix0gs66xxhkiet1bi8k
+|team2      = [[Al-Tai FC|Al-Tai]]
+|goals1     = [[Talisca]] {{goal|42||47}}
+|goals2     = [[Nawaf Al-Qumairi|Al-Qumairi]] {{yel|22}}<br />[[Abdulkarim Al-Sultan|Al-Sultan]] {{yel|38}}<br />[[Dener (footballer, born 1992)|Dener]] {{yel|49}}
+|stadium    = [[Mrsool Park]]
+|location   = [[Riyadh]]
+|attendance = 11,721
+|referee    = Abdullah Al-Harbi
+|result     = W
+}}
+{{football box collapsible
+|round      = 13
+|date       = 14 January 2023
+|time       = 20:30
+|team1      = [[Al-Shabab FC (Riyadh)|Al-Shabab]]
+|score      = 0–0
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=aof8vv34uci18bv2p07jov02c
+|team2      = Al-Nassr
+|goals1     = [[Cristian Guanca|Guanca]] {{yel|69}}<br />[[Éver Banega|Banega]] {{yel|77}}
+|goals2     = [[Luiz Gustavo|Gustavo]] {{yel|67}}<br />[[Álvaro González (footballer, born 1990)|González]] {{yel|75}}
+|stadium    = [[Prince Faisal bin Fahd Stadium]]
+|location   = [[Riyadh]]
+|attendance = 4,493
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|result     = D
+}}
+{{football box collapsible
+|round      = 14
+|date       = 22 January 2023
+|time       = 20:30
+|team1      = Al-Nassr
+|score      = 1–0
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=apo76x8an5p0iezg1rdeh4zkk
+|team2      = [[Ettifaq FC|Al-Ettifaq]]
+|goals1     = [[Talisca]] {{goal|31}}
+|goals2     = [[Saeed Al Mowalad|Al-Mowalad]] {{yel|22}}<br />[[Saad Al-Mousa|Al-Mousa]] {{yel|86}}
+|stadium    = [[Mrsool Park]]
+|location   = [[Riyadh]]
+|attendance = 22,862
+|referee    = Khaled Al-Teris
+|result     = W
+}}
+{{football box collapsible
+|round      = 15
+|date       = 3 February 2023
+|time       = 18:00
+|team1      = [[Al-Fateh SC|Al-Fateh]]
+|score      = 2–2
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=aq5ozflsp4gxgp9ur6gay93x0
+|team2      = Al-Nassr
+|goals1     = [[Cristian Tello|Tello]] {{goal|12}}<br />[[Sofiane Bendebka|Bendebka]] {{goal|58}}, {{yel|63}}<br />Al-Daheem {{yel|90}}
+|goals2     = [[Talisca]] {{goal|42}}, {{sentoff|0|90+5}}<br />[[Ali Lajami|Lajami]] {{yel|78}}<br />[[Cristiano Ronaldo|Ronaldo]] {{yel|90}}, {{goal|90+3|pen.}}
+|stadium    = [[Prince Abdullah bin Jalawi Stadium]]
+|location   = [[Hofuf|Al-Hasa]]
+|attendance = 17,631
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|result     = D
+}}
+{{football box collapsible
+|round      = 16
+|date       = 9 February 2023
+|time       = 20:30
+|team1      = [[Al Wehda FC|Al-Wehda]]
+|score      = 0–4
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=abedwzp9lijyoxhfkvd9jiyhg
+|team2      = Al-Nassr
+|goals1     = [[Karim Yoda|Yoda]] {{yel|77}}
+|goals2     = [[Cristiano Ronaldo|Ronaldo]] {{goal|21||40||53|pen.|61}}
+|stadium    = [[King Abdul Aziz Stadium]]
+|location   = [[Mecca]]
+|attendance = 27,102
+|referee    = Sultan Al-Harbi
+|result     = W
+}}
+{{football box collapsible
+|round      = 17
+|date       = 17 February 2023
+|time       = 18:00
+|team1      = Al-Nassr
+|score      = 2–1
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=aci0mbfg7cd71dj8hci7pg2l0
+|team2      = [[Al-Taawoun FC|Al-Taawoun]]
+|goals1     = [[Abdulrahman Ghareeb|Ghareeb]] {{goal|17}}<br />[[Abdullah Madu|Madu]] {{goal|78}}<br />[[Pity Martínez|Martínez]] {{yel|90+2}}<br />[[Abdulelah Al-Amri|Al-Amri]] {{yel|90+9}}
+|goals2     = [[Álvaro Medrán|Medrán]] {{goal|47}}
+|stadium    = [[Mrsool Park]]
+|location   = [[Riyadh]]
+|attendance = 22,347
+|referee    = Faisal Al-Blwi
+|result     = W
+}}
+{{football box collapsible
+|round      = 18
+|date       = 25 February 2023
+|time       = 18:30
+|team1      = [[Damac FC|Damac]]
+|score      = 0–3
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=adrn79lsqlmwot24mfzymzf9w
+|team2      = Al-Nassr
+|goals1     = [[Farouk Chafaï|Chafaï]] {{yel|17}}
+|goals2     = [[Cristiano Ronaldo|Ronaldo]] {{goal|18|pen.|23||44}}<br />[[Abdullah Madu|Madu]] {{yel|30}}<br />[[Ali Al-Hassan|Al-Hassan]] {{yel|72}}<br />[[Abdulelah Al-Amri|Al-Amri]] {{yel|90+3}}
+|stadium    = [[Prince Sultan bin Abdul Aziz Stadium]]
+|location   = [[Abha]]
+|attendance = 13,434
+|referee    = Khaled Al-Teris
+|result     = W
+}}
+{{football box collapsible
+|round      = 19
+|date       = 3 March 2023
+|time       = 20:30
+|team1      = Al-Nassr
+|score      = 3–1
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=aebulcr6wdwjzvbf823cr0l5g
+|team2      = [[Al-Batin FC|Al-Batin]]
+|goals1     = [[Mohammed Maran|Maran]] {{yel|90}}, {{goal|90+14}}<br />[[Abdulrahman Ghareeb|Ghareeb]] {{goal|90+3}}<br />[[Nawaf Al-Aqidi|Al-Aqidi]] {{yel|90+8}}<br />[[Mohammed Al-Fatil|Al-Fatil]] {{goal|90+12}}
+|goals2     = [[Renzo López|López]] {{goal|17}}, {{yel|63}}<br />[[Martín Campaña|Campaña]] {{yel|42}}<br />[[Rakan Al-Shamlan|Al-Shamlan]] {{yel|45+1}}<br />[[Salifu Mudasiru|Mudasiru]] {{yel|86}}
+|stadium    = [[Mrsool Park]]
+|location   = [[Riyadh]]
+|attendance = 22,782
+|referee    = Sami Al-Jires
+|result     = W
+}}
+{{football box collapsible
+|round      = 20
+|date       = 9 March 2023
+|time       = 20:30
+|team1      = [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|score      = 1–0
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=afgu8utmbulytufrerullzswk
+|team2      = Al-Nassr
+|goals1     = [[Ahmed Bamsaud|Bamsaud]] {{yel|68}}<br />[[Romarinho (footballer, born December 1990)|Romarinho]] {{goal|80}}
+|goals2     = [[Ghislain Konan|Konan]] {{yel|84}}
+|stadium    = [[King Abdullah Sports City]]
+|location   = [[Jeddah]]
+|attendance = 57,244
+|referee    = [[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|result     = L
+}}
+{{football box collapsible
+|round      = 21
+|date       = 18 March 2023
+|time       = 20:30
+|team1      = Al-Nassr
+|score      = 2–1
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=ag8c9b6oeripu6tw8pds3faj8
+|team2      = [[Abha Club|Abha]]
+|goals1     = [[Abdullah Al-Khaibari|Al-Khaibari]] {{yel|33}}<br />[[Abdulmajeed Al-Sulaiheem|Al-Sulaiheem]] {{yel|38}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|78}}<br />[[Talisca]] {{goal|86|pen.}}<br />[[Sultan Al-Ghannam |S. Al-Ghannam]] {{yel|87}}<br />[[Ghislain Konan|Konan]] {{yel|90+7}}
+|goals2     = [[Abdulfattah Adam|Adam]] {{goal|26}}, {{yel|85}}<br />[[Felipe Caicedo|Caicedo]] {{yel|32}}<br />[[Zakaria Sami|Sami]] {{sentoff|2|77|80}}<br />[[Amine Atouchi|Atouchi]] {{yel|79}}<br />[[Saad Bguir|Bguir]] {{yel|90+6}}
+|stadium    = [[Mrsool Park]]
+|location   = [[Riyadh]]
+|attendance = 19,564
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 22
+|date       = 4 April 2023
+|time       = 22:00
+|team1      = [[Al-Adalah FC|Al-Adalah]]
+|score      = 0–5
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=agub94gwf74l6x51cidoja0wk
+|team2      = Al-Nassr
+|goals1     = [[Khaled Al-Hamdhi|Al-Hamdhi]] {{yel|34}}
+|goals2     = [[Cristiano Ronaldo|Ronaldo]] {{goal|40|pen.|66}}<br />[[Talisca]] {{goal|55||78}}<br />[[Sultan Al-Ghannam |S. Al-Ghannam]] {{yel|61}}<br />[[Ayman Yahya|Yahya]] {{goal|90+8}}
+|stadium    = [[Prince Abdullah bin Jalawi Stadium]]
+|location   = [[Hofuf|Al-Hasa]]
+|attendance = 18,025
+|referee    = Abdullah Al-Harbi
+|result     = W
+}}
+{{football box collapsible
+|round      = 23
+|date       = 9 April 2023
+|time       = 22:00
+|team1      = [[Al-Fayha FC|Al-Fayha]]
+|score      = 0–0
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=ai9y6xkmj1g0q36k2tc4f3wgk
+|team2      = Al-Nassr
+|goals1     = [[Víctor Ruiz (footballer, born 1993)|Ruiz]] {{yel|71}}<br />[[Vladimir Stojković|Stojković]] {{yel|82}}
+|goals2     = [[Talisca]] {{yel|20}}
+|stadium    = [[Al Majma'ah Sports City]]
+|location   = [[Al Majma'ah]]
+|attendance = 6,087
+|referee    = [[Tamás Bognár]] ([[Hungarian Football Federation|Hungary]])
+|result     = D
+}}
+{{football box collapsible
+|round      = 25
+|date       = 18 April 2023
+|time       = 22:00
+|team1      = [[Al Hilal SFC|Al-Hilal]]
+|score      = 2–0
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=ak37lru79baf4ky48fhdc8jro
+|team2      = Al-Nassr
+|goals1     = [[Odion Ighalo|Ighalo]] {{goal|42|pen.|62|pen.}}<br />[[Jang Hyun-soo]] {{yel|46}}<br />[[Gustavo Cuéllar|Cuéllar]] {{yel|64}}<br />[[Mohammed Jahfali|Jahfali]] {{yel|90+14}}
+|goals2     = [[Ayman Yahya|Yahya]] {{yel|45+2}}<br />[[Cristiano Ronaldo|Ronaldo]] {{yel|57}}<br />[[Talisca]] {{yel|70}}<br />[[Álvaro González (footballer, born 1990)|González]] {{yel|90+13}}
+|stadium    = [[King Fahd International Stadium]]
+|location   = [[Riyadh]]
+|attendance = 24,674
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result     = L
+}}
+{{football box collapsible
+|round      = 24
+|date       = 28 April 2023
+|time       = 21:30
+|team1      = Al-Nassr
+|score      = 4–0
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=aitkeh1oje0re258v0rd6xous
+|team2      = [[Al-Raed FC|Al-Raed]]
+|goals1     = [[Cristiano Ronaldo|Ronaldo]] {{goal|4}}<br />[[Abdullah Al-Khaibari|Al-Khaibari]] {{yel|24}}<br />[[Abdulrahman Ghareeb|Ghareeb]] {{goal|55}}<br />[[Jaloliddin Masharipov|Masharipov]] {{yel|83}}<br />[[Mohammed Maran|Maran]] {{goal|90}}<br />[[Abdulmajeed Al-Sulaiheem|Al-Sulaiheem]] {{goal|90+4}}
+|goals2     = [[Karim El Berkaoui|El Berkaoui]] {{yel|40}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 12,087
+|referee    = Mohammed Al-Hoaish
+|result     = W
+}}
+{{football box collapsible
+|round      = 26
+|date       = 8 May 2023
+|time       = 19:00
+|team1      = Al-Nassr
+|score      = 1–1 
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=akxzl4bbwv9xcs3jd1yxbocus
+|team2      = [[Khaleej FC|Al-Khaleej]]
+|goals1     = [[Álvaro González (footballer, born 1990)|González]] {{goal|17}}<br />[[Ali Al-Hassan|Al-Hassan]] {{yel|39}}<br />[[Nawaf Boushal|Boushal]] {{yel|90+1}}
+|goals2     = [[Fábio Martins|Martins]] {{goal|4}}<br />[[Lucas Souza (footballer, born 1990)|Souza]] {{yel|30}}<br />[[Omar Al-Owdah|Al-Owdah]] {{yel|52}}<br />[[Marwan Al-Haidari|Al-Haidari]] {{yel|87}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 16,742
+|referee    = [[Majed Al-Shamrani]]
+|result     = D
+}}
+{{football box collapsible
+|round      = 27
+|date       = 16 May 2023
+|time       = 21:30
+|team1      = [[Al-Tai FC|Al-Tai]]
+|score      = 0–2
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=alvfp7dl56t2dwwhdlq51l5w4
+|team2      = Al-Nassr
+|goals1     = [[Collins Fai|Fai]] {{yel|76}}
+|goals2     = [[Abdullah Al-Khaibari|Al-Khaibari]] {{yel|18}}<br />[[Cristiano Ronaldo|Ronaldo]] {{yel|48}}, {{goal|52|pen.}}<br />[[Talisca]] {{goal|80}}
+|stadium    = [[Prince Abdul Aziz bin Musa'ed Stadium]]
+|location   = [[Ḥaʼil|Ha'il]]
+|attendance = 9,632
+|referee    = Abdullah Al-Kharboush
+|result     = W
+}}
+{{football box collapsible
+|round      = 28
+|date       = 23 May 2023
+|time       = 21:30
+|team1      = Al-Nassr
+|score      = 3–2
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=amv4uv062ih2c0tnyj40xfh90
+|team2      = [[Al-Shabab FC (Riyadh)|Al-Shabab]]
+|goals1     = [[Luiz Gustavo|Gustavo]] {{yel|30}}<br />[[Álvaro González (footballer, born 1990)|González]] {{yel|31}}<br />[[Talisca]] {{goal|44}}<br />[[Ali Lajami|Lajami]] {{yel|45+2}}<br />[[Abdulrahman Ghareeb|Ghareeb]] {{goal|51}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|59}}<br />[[Sami Al-Najei|Al-Najei]] {{yel|73}}
+|goals2     = [[Cristian Guanca|Guanca]] {{goal|25|pen.|40}}<br />[[Santi Mina|Mina]] {{yel|45+2}}<br />[[Carlos (footballer, born 1995)|Carlos]] {{yel|58}}<br />[[Éver Banega|Banega]] {{yel|72}}<br />[[Grzegorz Krychowiak|Krychowiak]] {{yel|90+1}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 19,045
+|referee    = [[Daniele Orsato]] ([[Italian Football Federation|Italy]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 29
+|date       = 27 May 2023
+|time       = 21:00
+|team1      = [[Ettifaq FC|Al-Ettifaq]]
+|score      = 1–1
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=an4r0qvivqq0w8vylb2w0u238
+|team2      = Al-Nassr
+|goals1     = [[Abdullah Al-Khateeb|Al-Khateeb]] {{yel|24}}<br />[[Youssouf Niakaté|Niakaté]] {{goal|43}}<br />[[Berat Özdemir|Özdemir]] {{yel|86}}<br />[[Robin Quaison|Quaison]] {{yel|90+2}}
+|goals2     = [[Abdullah Al-Khaibari|Al-Khaibari]] {{yel|22}}<br />[[Sultan Al-Ghannam |S. Al-Ghannam]] {{yel|44}}<br />[[Nawaf Boushal|Boushal]] {{yel|53}}<br />[[Luiz Gustavo|Gustavo]] {{goal|56}}<br />[[Ayman Yahya|Yahya]] {{yel|90+7}}
+|stadium    = [[Prince Mohamed bin Fahd Stadium]]
+|location   = [[Dammam]]
+|attendance = 17,183
+|referee    = Abdullah Al-Harbi
+|result     = D
+}}
+{{football box collapsible
+|round      = 30
+|date       = 31 May 2023
+|time       = 21:00
+|team1      = Al-Nassr
+|score      = 3–0
+|report     = https://spl.sa/en/matchcenter?competition=ea0h6cf3bhl698hkxhpulh2zz&season=dox62oj6vw1w67n476jb9fzf8&match=aonctdg2slhe5odekjdothp1w
+|team2      = [[Al-Fateh SC|Al-Fateh]]
+|goals1     = [[Talisca]] {{goal|4||66}}<br />[[Mohammed Maran|Maran]] {{goal|72}}<br />[[Abdullah Madu|Madu]] {{yel|74}}
+|goals2     = [[Ziyad Al-Jari|Al-Jari]] {{yel|49}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 12,203
+|referee    = [[Artur Soares Dias]] ([[Portuguese Football Federation|Portugal]])
+|result     = W
+}}
+
+===King Cup===
+{{main|2022–23 King Cup}}
+All times are local, [[Arabia Standard Time|AST]] ([[UTC+03:00|UTC+3]]).
+
+{{football box collapsible
+|round      = [[2022–23 King Cup#Round of 16|Round of 16]]
+|date       = 21 December 2022
+|time       = 21:00
+|team1      = Al-Nassr
+|score      = 2–0
+|report     = https://www.goalzz.com/main.aspx?m=2879199&stats=true
+|team2      = [[Al-Adalah FC|Al-Adalah]]
+|goals1     = [[Álvaro González (footballer, born 1990)|Álvaro]] {{yel|40}}<br />[[Ayman Yahya|Yahya]] {{goal|41}}<br />[[Sami Al-Najei|Al-Najei]] {{goal|85}}<br />[[Anderson Talisca|Talisca]] {{yel|90+8}}
+|goals2     = [[Mohammed Abo Abd|Abo Abd]] {{yel|90+8}}
+|stadium    = [[Prince Abdulrahman bin Saud Stadium]]
+|location   = [[Riyadh]]
+|attendance = 
+|referee    = Mohammed Al-Esmaiel
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2022–23 King Cup#Quarter-finals|Quarter-finals]]
+|date       = 14 March 2023
+|time       = 17:30
+|team1      = Al-Nassr
+|score      = 3–1
+|report     = https://www.soccerway.com/match/abha-lnEqnhJf/al-nassr-h4I89ZuE/?mid=rNjkkfAc
+|team2      = [[Abha Club|Abha]]
+|goals1     = [[Sami Al-Najei|Al-Najei]] {{goal|1}}<br />[[Abdullah Al-Khaibari|Al-Khaibari]] {{goal|21}}<br />[[Abdulmajeed Al-Sulayhem|Al-Sulayhem]] {{yel|28}}<br />[[Cristiano Ronaldo|Ronaldo]] {{yel|45+3}}<br />[[Mohammed Maran|Maran]] {{goal|49}}
+|goals2     = [[Dries Saddiki|Saddiki]] {{yel|25}}<br />[[Abdulfattah Adam|Adam]] {{goal|69}}<br />[[Fahad Al-Jumayah|Al-Jumayah]] {{yel|72}}
+|stadium    = [[Mrsool Park]]
+|location   = [[Riyadh]]
+|attendance = 17,327
+|referee    = [[Andris Treimanis]] ([[Latvian Football Federation|Latvia]])
+|result     = W
+}}
+{{football box collapsible
+|round      = [[2022–23 King Cup#Semi-finals|Semi-finals]]
+|date       = 24 April 2023
+|time       = 21:00
+|team1      = Al-Nassr
+|score      = 0–1
+|report     = https://www.soccerway.com/match/al-nassr-h4I89ZuE/al-wehda-fqHipWm7/?mid=SYUrWAsK
+|team2      = [[Al Wehda FC|Al-Wehda]]
+|goals1     = 
+|goals2     = [[Jean-David Beauguel|Beauguel]] {{goal|23}}<br />[[Abdullah Al-Hafith|Al-Hafith]] {{sentoff|2|24|53}}<br />[[Waleed Bakshween|Bakshween]] {{yel|60}}<br />[[Hamad Al-Jayzani|Al-Jayzani]] {{yel|88}}<br />[[Munir Mohamedi|Munir]] {{yel|90+4}}
+|stadium    = [[KSU Stadium (Riyadh)|Al-Awwal Park]]
+|location   = [[Riyadh]]
+|attendance = 17,482
+|referee    = [[Radu Petrescu (referee, born 1982)|Radu Petrescu]] ([[Romanian Football Federation|Romania]])
+|result     = L
+}}
+
+===Super Cup===
+{{main|2022 Saudi Super Cup}}
+All times are local, [[Arabia Standard Time|AST]] ([[UTC+03:00|UTC+3]]).
+
+{{Football box collapsible
+|round      = [[2022 Saudi Super Cup#Semi-finals|Semi-finals]]
+|date       = 26 January 2023
+|time       = 21:00
+|team1      = [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|score      = 3–1
+|report     = https://www.soccerway.com/match/al-ittihad-QmsyAjWh/al-nassr-h4I89ZuE/?mid=bTeH7WmJ
+|team2      = Al-Nassr
+|goals1     = [[Romarinho (footballer, born December 1990)|Romarinho]] {{goal|15}}<br />[[Abderrazak Hamdallah|Hamdallah]] {{goal|43}}, {{yel|83}}<br />[[Zakaria Hawsawi|Z. Hawsawi]] {{yel|76}}<br />[[Abdulaziz Al-Bishi|Al-Bishi]] {{yel|90+1}}<br />[[Hamdan Al-Shamrani|Al-Shamrani]] {{yel|90+2}}<br />[[Muhannad Al-Shanqeeti|Al-Shanqeeti]] {{goal|90+3}}
+|goals2     = [[Sami Al-Najei|Al-Najei]] {{yel|27}}<br />[[Luiz Gustavo|Gustavo]] {{yel|45+1}}<br />[[Talisca]] {{goal|67}}
+|stadium    = [[King Fahd International Stadium]]
+|location   = [[Riyadh]]
+|attendance = 49,477
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result     = L
+}}
+
+==Statistics==
+===Appearances===
+
+:''Last updated on 31 May 2023.''
+
+{{Efs start|Pro League|King Cup|Super Cup}}
+|-
+! colspan=16 style=background:#dcdcdc; text-align:center|''Goalkeepers''
+{{Efs player|no=1 |name=[[Amin Bukhari]]|pos=GK|nat=KSA                       |0+1|0|0|0|0|0}}
+{{Efs player|no=22|name=[[Agustín Rossi (footballer)|Agustín Rossi]]|pos=GK|nat=ARG|6+1|0|0|0|1|0}}
+{{Efs player|no=33|name=[[Waleed Abdullah]]|pos=GK|nat=KSA                    |0|0|0|0|0|0}}
+{{Efs player|no=44|name=[[Nawaf Al-Aqidi]]|pos=GK|nat=KSA                     |11|0|2|0|0|0}}
+{{Efs player|no=62|name=[[Abdulaziz Al-Awairdhy]]|pos=GK|nat=KSA              |0|0|0|0|0|0}}
+|-
+! colspan=16 style=background:#dcdcdc; text-align:center|''Defenders''
+{{Efs player|no=2 |name=[[Sultan Al-Ghannam]]|pos=DF|nat=KSA                  |26+1|1|3|0|1|0}}
+{{Efs player|no=3 |name=[[Abdullah Madu]]|pos=DF|nat=KSA                      |11+4|1|0|0|1|0}}
+{{Efs player|no=4 |name=[[Mohammed Al-Fatil]]|pos=DF|nat=KSA                  |0+7|1|0|0|0|0}}
+{{Efs player|no=5 |name=[[Abdulelah Al-Amri]]|pos=DF|nat=KSA                  |24+3|0|2|0|1|0}}
+{{Efs player|no=12|name=[[Nawaf Boushal]]|pos=DF|nat=KSA                      |1+9|0|0+1|0|0+1|0}}
+{{Efs player|no=13|name=[[Ghislain Konan]]|pos=DF|nat=CIV                     |27|0|3|0|0+1|0}}
+{{Efs player|no=20|name=[[Hamad Al Mansour]]|pos=DF|nat=KSA                   |0|0|0|0|0|0}}
+{{Efs player|no=21|name=[[Álvaro González (footballer, born 1990)|Álvaro González]]|pos=DF|nat=ESP|22|1|3|0|0|0}}
+{{Efs player|no=27|name=[[Majed Qasheesh]]|pos=DF|nat=KSA                     |0+7|0|0+2|0|0|0}}
+{{Efs player|no=59|name=[[Yousef Haqawi]]|pos=DF|nat=KSA                      |0|0|0|0|0|0}}
+{{Efs player|no=78|name=[[Ali Lajami]]|pos=DF|nat=KSA                         |11+11|0|1+2|0|1|0}}
+|-
+! colspan=16 style=background:#dcdcdc; text-align:center|''Midfielders''
+{{Efs player|no=8 |name=[[Abdulmajeed Al-Sulayhem]]|pos=MF|nat=KSA            |10+13|1|2+1|0|0+1|0}}
+{{Efs player|no=10|name=[[Pity Martínez]]|pos=MF|nat=ARG                      |4+3|0|1|0|1|0}}
+{{Efs player|no=14|name=[[Sami Al-Najei]]|pos=MF|nat=KSA                      |17+7|2|2|2|1|0}}
+{{Efs player|no=17|name=[[Abdullah Al-Khaibari]]|pos=MF|nat=KSA               |20+8|0|2+1|1|1|0}}
+{{Efs player|no=18|name=[[Luiz Gustavo]]|pos=MF|nat=BRA                       |29|5|2|0|1|0}}
+{{Efs player|no=19|name=[[Ali Al-Hassan]]|pos=MF|nat=KSA                      |8+13|0|1+2|0|0|0}}
+{{Efs player|no=23|name=[[Ayman Yahya]]|pos=MF|nat=KSA                        |10+11|4|1|1|0|0}}
+{{Efs player|no=29|name=[[Abdulrahman Ghareeb]]|pos=MF|nat=KSA                |22+5|6|2|0|0+1|0}}
+{{Efs player|no=31|name=Mohammed Sahlouli|pos=MF|nat=KSA                  |0|0|0|0|0|0}}
+{{Efs player|no=46|name=[[Abdulaziz Al-Elewai]]|pos=MF|nat=KSA                |1|0|0|0|0|0}}
+{{Efs player|no=77|name=[[Jaloliddin Masharipov]]|pos=MF|nat=UZB              |5+9|0|0+1|0|0+1|0}}
+{{Efs player|no=94|name=[[Talisca]]|pos=MF|nat=BRA                            |22+1|20|2+1|0|1|1}}
+|-
+! colspan=16 style=background:#dcdcdc; text-align:center|''Forwards''
+{{Efs player|no=7 |name=[[Cristiano Ronaldo]]|pos=FW|nat=POR                  |16|14|2|0|1|0}}
+{{Efs player|no=16|name=[[Mohammed Maran]]|pos=FW|nat=KSA                     |1+15|3|1+1|1|0|0}}
+{{Efs player|no=30|name=[[Meshari Al-Nemer]]|pos=FW|nat=KSA                   |0+1|0|0|0|0|0}}
+{{Efs player|no=60|name=[[Faisal Majrashi]]|pos=FW|nat=KSA                    |0|0|0|0|0|0}}
+|-
+! colspan=14 style=background:#dcdcdc; text-align:center| Players sent out on loan this season
+{{Efs player|no=11|name=[[Khalid Al-Ghannam]]|pos=MF|nat=KSA                  |2+5|0|0+1|0|0|0}}
+{{Efs player|no=24|name=[[Mansour Al-Shammari]]|pos=DF|nat=KSA                |0+1|0|0|0|0|0}}
+|-
+! colspan=18 style=background:#dcdcdc; text-align:center| Player who made an appearance this season but have left the club
+{{Efs player|no=9 |name=[[Vincent Aboubakar]]|pos=FW|nat=CMR                  |11|4|0+1|0|0|0}}
+{{Efs player|no=25|name=[[David Ospina]]|pos=GK|nat=COL                       |13|0|1|0|0|0}}
+{{Efs player|no=45|name=[[Abdulfattah Asiri]]|pos=MF|nat=KSA                  |0+1|0|0|0|0|0}}
+|}
+
+===Goalscorers===
+{| class="wikitable" style="text-align:center"
+|-
+!width=15|{{Tooltip|Rank|Rank}}
+!width=15|{{Tooltip|No.|Squad Number}}
+!width=15|{{Tooltip|Pos|Position}}
+!width=15|{{Tooltip|Nat|Nationality}}
+!width=165|Name
+!width=100|Pro League
+!width=100|King Cup
+!width=100|Super Cup
+!width=100|Total
+|-
+|'''1'''
+|94
+|[[Midfielder|MF]]
+|{{flagicon|BRA}}
+|align=left|[[Talisca]]
+|20
+|0
+|1
+|'''21'''
+|-
+|'''2'''
+|7
+|[[Forward (association football)|FW]]
+|{{flagicon|POR}}
+|align=left|[[Cristiano Ronaldo]]
+|14
+|0
+|0
+|'''14'''
+|-
+|'''3'''
+|29
+|[[Midfielder|MF]]
+|{{flagicon|KSA}}
+|align=left|[[Abdulrahman Ghareeb]]
+|6
+|0
+|0
+|'''6'''
+|-
+|rowspan=2|'''4'''
+|18
+|[[Midfielder|MF]]
+|{{flagicon|BRA}}
+|align=left|[[Luiz Gustavo]]
+|5
+|0
+|0
+|'''5'''
+|-
+|23
+|[[Midfielder|MF]]
+|{{flagicon|KSA}}
+|align=left|[[Ayman Yahya]]
+|4
+|1
+|0
+|'''5'''
+|-
+|rowspan=3|'''6'''
+|9
+|[[Forward (association football)|FW]]
+|{{flagicon|CMR}}
+|align=left|[[Vincent Aboubakar]]
+|4
+|0
+|0
+|'''4'''
+|-
+|14
+|[[Midfielder|MF]]
+|{{flagicon|KSA}}
+|align=left|[[Sami Al-Najei]]
+|2
+|2
+|0
+|'''4'''
+|-
+|16
+|[[Forward (association football)|FW]]
+|{{flagicon|KSA}}
+|align=left|[[Mohammed Maran]]
+|3
+|1
+|0
+|'''4'''
+|-
+|rowspan=6|'''9'''
+|2
+|[[Defender (association football)|DF]]
+|{{flagicon|KSA}}
+|align=left|[[Sultan Al-Ghannam]]
+|1
+|0
+|0
+|'''1'''
+|-
+|3
+|[[Defender (association football)|DF]]
+|{{flagicon|KSA}}
+|align=left|[[Abdullah Madu]]
+|1
+|0
+|0
+|'''1'''
+|-
+|4
+|[[Defender (association football)|DF]]
+|{{flagicon|KSA}}
+|align=left|[[Mohammed Al-Fatil]]
+|1
+|0
+|0
+|'''1'''
+|-
+|8
+|[[Midfielder|MF]]
+|{{flagicon|KSA}}
+|align=left|[[Abdulmajeed Al-Sulayhem]]
+|1
+|0
+|0
+|'''1'''
+|-
+|17
+|[[Midfielder|MF]]
+|{{flagicon|KSA}}
+|align=left|[[Abdullah Al-Khaibari]]
+|0
+|1
+|0
+|'''1'''
+|-
+|21
+|[[Defender (association football)|DF]]
+|{{flagicon|SPA}}
+|align=left|[[Álvaro González (footballer, born 1990)|Álvaro González]]
+|1
+|0
+|0
+|'''1'''
+|-
+|colspan=5|'''Own goal'''
+|0
+|0
+|0
+|'''0'''
+|-
+|colspan=5|'''Total'''
+|'''63'''
+|'''5'''
+|'''1'''
+|'''69'''
+|}
+''Last Updated: 31 May 2023''
+
+===Clean sheets===
+{| class="wikitable" style="text-align:center"
+|-
+!width=15|{{Tooltip|Rank|Rank}}
+!width=15|{{Tooltip|No.|Squad Number}}
+!width=15|{{Tooltip|Pos|Position}}
+!width=15|{{Tooltip|Nat|Nationality}}
+!width=155|Name
+!width=100|Pro League
+!width=100|King Cup
+!width=100|Super Cup
+!width=100|Total
+|-
+|'''1'''
+|25
+|[[Goalkeeper (association football)|GK]]
+|{{flagicon|COL}}
+|align=left|[[David Ospina]]
+|8
+|1
+|0
+|'''9'''
+|-
+|'''2'''
+|44
+|[[Goalkeeper (association football)|GK]]
+|{{flagicon|KSA}}
+|align=left|[[Nawaf Al-Aqidi]]
+|6
+|0
+|0
+|'''6'''
+|-
+|'''3'''
+|22
+|[[Goalkeeper (association football)|GK]]
+|{{flagicon|ARG}}
+|align=left|[[Agustín Rossi (footballer)|Agustín Rossi]]
+|3
+|0
+|0
+|'''3'''
+|-
+|'''4'''
+|1
+|[[Goalkeeper (association football)|GK]]
+|{{flagicon|KSA}}
+|align=left|[[Amin Bukhari]]
+|1
+|0
+|0
+|'''1'''
+|-
+|colspan=5|'''Total'''
+|'''16'''
+|'''1'''
+|'''0'''
+|'''17'''
+|}
+''Last Updated: 31 May 2023''
+
+==References==
+{{Reflist|30em}}
+
+==Notes==
+{{notelist}}
+
+{{Al-Nassr FC seasons}}
+{{2022–23 in Saudi Arabian football}}
+
+{{DEFAULTSORT:2022-23 Al-Nassr FC season}}
+[[Category:Al-Nassr FC seasons]]
+[[Category:Saudi Arabian football clubs 2022–23 season|Nassr]]

@@ -1,0 +1,4061 @@
+{{Short description|none}}
+{{Use dmy dates|date=June 2016}}
+{{Portugal national football team results}}
+This page is a '''list of all the matches that [[Portugal national football team]] has played between 2000 and 2019'''.
+
+==2000s==
+===2000===
+{{Football box collapsible
+|date=23 February 2000
+|time=
+|team1={{fb-rt|Belgium}}
+|score=1–1
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Branko Strupar|Strupar]] {{goal|56}}
+|goals2=[[Ricardo Sá Pinto|Sá Pinto]] {{goal|81}}
+|stadium=[[Stade du Pays de Charleroi]], [[Charleroi]], Belgium
+|attendance=24,000
+|referee=[[Knud Erik Fisker]] ([[Danish Football Association|Denmark]])
+|result=D
+}}
+{{Football box collapsible
+|date=29 March 2000
+|time=
+|team1={{fb-rt|Portugal}}
+|score=2–1
+|report=
+|round=Friendly
+|team2={{fb|Denmark}}
+|goals1=[[Rui Costa]] {{goal|41|pen.}}<br>[[Luís Figo|Figo]] {{goal|51}}
+|goals2=[[Jon Dahl Tomasson|Tomasson]] {{goal|4}}
+|stadium=Estádio Municipal, [[Leiria]], Portugal
+|attendance=11,000
+|referee=John McDermott ([[Irish Football Association|Northern&nbsp;Ireland]])
+|result=W
+}}
+{{Football box collapsible
+|date=26 April 2000
+|time=
+|team1={{fb-rt|ITA}}
+|score=2–0
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Mark Iuliano|Iuliano]] {{goal|74}}<br>[[Francesco Totti|Totti]] {{goal|87}}
+|stadium=[[Stadio Oreste Granillo]], [[Reggio Calabria]], Italy
+|attendance=23,199
+|referee=Emmanuel Zammit ([[Malta Football Association|Malta]])
+|result=L
+}}
+{{Football box collapsible
+|date=2 June 2000
+|time=
+|team1={{fb-rt|Portugal}}
+|score=3–0
+|report=
+|round=Friendly
+|team2={{fb|Wales}}
+|goals1=[[Luís Figo|Figo]] {{goal|21}}<br>[[Ricardo Sá Pinto|Sá Pinto]] {{goal|44}}<br>[[Nuno Capucho|Capucho]] {{goal|66}}
+|stadium=[[Estádio Municipal de Chaves|Estádio Municipal]], [[Chaves Municipality, Portugal|Chaves]], Portugal
+|attendance=11,000
+|referee=[[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])
+|result=W
+}}
+{{Football box collapsible
+|date=12 June 2000
+|time=18:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=3–2
+|report=
+|round=[[UEFA Euro 2000 Group A|2000 EURO]] GS
+|team2={{fb|England}}
+|goals1=[[Luís Figo|Figo]] {{goal|22}}<br>[[João Vieira Pinto|Pinto]] {{goal|37}}<br>[[Nuno Gomes]] {{goal|59}}
+|goals2=[[Paul Scholes|Scholes]] {{goal|3}}<br>[[Steve McManaman|McManaman]] {{goal|18}}
+|stadium=[[Philips Stadion]], [[Eindhoven]], Netherlands
+|attendance=30,000
+|referee=[[Anders Frisk]] ([[Swedish Football Association|Sweden]])
+|result=W
+}}
+{{Football box collapsible
+|date=17 June 2000
+|time=18:45 [[Western European Time|WET]]
+|team1={{fb-rt|Romania}}
+|score=0–1
+|report=
+|round=[[UEFA Euro 2000 Group A|2000 EURO]] GS
+|team2={{fb|Portugal}}
+|goals2=[[Costinha]] {{goal|90+4}}
+|stadium=[[GelreDome]], [[Arnhem]], Netherlands
+|attendance=18,000
+|referee=[[Gilles Veissière]] ([[French Football Federation|France]])
+|result=W
+}}
+{{Football box collapsible
+|date=20 June 2000
+|time=18:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=3–0
+|report=
+|round=[[UEFA Euro 2000 Group A|2000 EURO]] GS
+|team2={{fb|Germany}}
+|goals1=[[Sérgio Conceição|Conceição]] {{goal|35||54||71}}
+|stadium=[[De Kuip]], [[Rotterdam]], Netherlands
+|attendance=44,000
+|referee=[[Dick Jol]] ([[Royal Dutch Football Association|Netherlands]])
+|result=W
+}}
+{{Football box collapsible
+|date=24 June 2000
+|time=16:00 [[Western European Time|WET]]
+|team1={{fb-rt|Turkey}}
+|score=0–2
+|report=
+|round=[[UEFA Euro 2000 knockout stage#Turkey vs Portugal|2000 EURO]] 1/4
+|team2={{fb|Portugal}}
+|goals2=[[Nuno Gomes]] {{goal|44||56}}
+|stadium=[[Amsterdam Arena]], [[Amsterdam]], Netherlands
+|attendance=42,000
+|referee=[[Dick Jol]] ([[Royal Dutch Football Association|Netherlands]])
+|result=W
+}}
+{{Football box collapsible
+|date=28 June 2000
+|time=18:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=1–2
+|aet=yes
+|report=
+|round=[[UEFA Euro 2000 knockout stage#Portugal vs France|2000 EURO]] 1/2
+|team2={{fb|FRA|1974}}
+|goals1=[[Nuno Gomes]] {{goal|19}}
+|goals2=[[Thierry Henry|Henry]] {{goal|51}}<br>[[Zinedine Zidane|Zidane]] {{golden goal|117|pen.}}
+|stadium=[[King Baudouin Stadium]], [[Brussels]], Belgium
+|attendance=50,000
+|referee=[[Günter Benkö]] ([[Austrian Football Association|Austria]])
+|result=L
+}}
+{{Football box collapsible
+|date=16 August 2000
+|time=
+|team1={{fb-rt|Portugal}}
+|score=5–1
+|report=
+|round=Friendly
+|team2={{fb|Lithuania|1988}}
+|goals1=[[João Vieira Pinto|Pinto]] {{goal|31}}<br>[[Luís Figo|Figo]] {{goal|38}}<br>[[Rui Costa]] {{goal|47|pen.}}<br>[[Beto (footballer, born May 1976)|Beto]] {{goal|80}}<br>[[Pauleta]] {{goal|86}}
+|goals2=[[Artūras Fomenka]] {{goal|44}}
+|stadium=[[Estádio do Fontelo]], [[Viseu]], Portugal
+|attendance=11,000
+|referee=Graziano Cesare ([[Italian Football Federation|Italy]])
+|result=W
+}}
+{{Football box collapsible
+|date=3 September 2000
+|time=
+|team1={{fb-rt|Estonia}}
+|score=1–3
+|report=
+|round=[[2002 FIFA World Cup qualification – UEFA Group 2|2002 W.C.]] Q
+|team2={{fb|Portugal}}
+|goals1=[[Andres Oper|Oper]] {{goal|84}}
+|goals2=[[Rui Costa]] {{goal|14}}<br>[[Luís Figo|Figo]] {{goal|49}}<br>[[Ricardo Sá Pinto|Sá Pinto]] {{goal|57}}
+|stadium=[[Kadrioru Stadium]], [[Tallinn]], Estonia
+|attendance=4,700
+|referee=Charles Agius ([[Malta Football Association|Malta]])
+|result=W
+}}
+{{Football box collapsible
+|date=7 October 2000
+|time=
+|team1={{fb-rt|Portugal}}
+|score=1–1
+|report=
+|round=[[2002 FIFA World Cup qualification – UEFA Group 2|2002 W.C.]] Q
+|team2={{fb|Republic of Ireland}}
+|goals1=[[Sérgio Conceição|Conceição]] {{goal|57}}
+|goals2=[[Matt Holland|Holland]] {{goal|73}}
+|stadium=[[Estádio da Luz (1954)|Estádio da Luz]], [[Lisbon]], Portugal
+|attendance=43,500
+|referee=Atanas Ouzounov ([[Bulgarian Football Union|Bulgaria]])
+|result=D
+}}
+{{Football box collapsible
+|date=11 October 2000
+|time=
+|team1={{fb-rt|Netherlands}}
+|score=0–2
+|report=
+|round=[[2002 FIFA World Cup qualification – UEFA Group 2|2002 W.C.]] Q
+|team2={{fb|Portugal}}
+|goals2=[[Sérgio Conceição|Conceição]] {{goal|11}}<br>[[Pauleta]] {{goal|44}}
+|stadium=[[De Kuip]], [[Rotterdam]], Netherlands
+|attendance=44,620
+|referee=[[Graham Poll]] ([[The Football Association|England]])
+|result=W
+}}
+{{Football box collapsible
+|date=15 November 2000
+|time=
+|team1={{fb-rt|Portugal}}
+|score=2–1
+|report=
+|round=Friendly
+|team2={{fb|Israel}}
+|goals1=[[Luís Figo|Figo]] {{goal|49}}<br>[[Jorge Costa (footballer)|J. Costa]] {{goal|61}}
+|goals2=[[Yossi Benayoun|Benayoun]] {{goal|85}}
+|stadium=[[Estádio Primeiro de Maio]], [[Braga]], Portugal
+|attendance=20,000
+|referee=Georgios Kasnaferis ([[Hellenic Football Federation|Greece]])
+|result=W
+}}
+
+===2001===
+{{Football box collapsible
+|date=28 February 2001
+|time=
+|team1={{fb-rt|Portugal}}
+|score=3–0
+|report=
+|round=[[2002 FIFA World Cup qualification – UEFA Group 2|2002 W.C.]] Q
+|team2={{fb|Andorra}}
+|goals1=[[Luís Figo|Figo]] {{goal|1||49}}<br>[[Pauleta]] {{goal|36}}
+|stadium=[[Estádio dos Barreiros]], [[Funchal]], Portugal
+|attendance=9,000
+|referee=[[Paul Allaerts]] ([[Royal Belgian Football Association|Belgium]])
+|result=W
+}}
+{{Football box collapsible
+|date=28 March 2001
+|time=
+|team1={{fb-rt|Portugal}}
+|score=2–2
+|report=
+|round=[[2002 FIFA World Cup qualification – UEFA Group 2|2002 W.C.]] Q
+|team2={{fb|Netherlands}}
+|goals1=[[Pauleta]] {{goal|83}}<br>[[Luís Figo|Figo]] {{goal|90+3|pen.}}
+|goals2=[[Jimmy Floyd Hasselbaink|Hasselbaink]] {{goal|18|pen.}}<br>[[Patrick Kluivert|Kluivert]] {{goal|48}}
+|stadium=[[Estádio das Antas]], [[Porto]], Portugal
+|attendance=42,164
+|referee=[[Urs Meier]] ([[Swiss Football Association|Switzerland]])
+|result=D
+}}
+{{Football box collapsible
+|date=25 April 2001
+|time=
+|team1={{fb-rt|FRA|1974}}
+|score=4–0
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Sylvain Wiltord|Wiltord]] {{goal|16}}<br>[[Mikaël Silvestre|Silvestre]] {{goal|32}}<br>[[Thierry Henry|Henry]] {{goal|33}}<br>[[Youri Djorkaeff|Djorkaeff]] {{goal|79}}
+|stadium=[[Stade de France]], [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France
+|attendance=78,832
+|referee=[[Hellmut Krug]] ([[German Football Association|Germany]])
+|result=L
+}}
+{{Football box collapsible
+|date=2 June 2001
+|time=
+|team1={{fb-rt|Republic of Ireland}}
+|score=1–1
+|report=
+|round=[[2002 FIFA World Cup qualification – UEFA Group 2|2002 W.C.]] Q
+|team2={{fb|Portugal}}
+|goals1=[[Roy Keane]] {{goal|68}}
+|goals2=[[Luís Figo|Figo]] {{goal|79}}
+|stadium=[[Lansdowne Road]], [[Dublin]], Republic of Ireland
+|attendance=35,000
+|referee=[[Knud Erik Fisker]] ([[Danish Football Association|Denmark]])
+|result=D
+}}
+{{Football box collapsible
+|date=6 June 2001
+|time=
+|team1={{fb-rt|Portugal}}
+|score=6–0
+|report=
+|round=[[2002 FIFA World Cup qualification – UEFA Group 2|2002 W.C.]] Q
+|team2={{fb|Cyprus|1960}}
+|goals1=[[Pauleta]] {{goal|36||71}}<br>[[Pedro Barbosa|Barbosa]] {{goal|55||59}}<br>[[João Vieira Pinto|Pinto]] {{goal|76||81}}
+|stadium=[[Estádio José Alvalade (1956)]], [[Lisbon]], Portugal
+|attendance=35,000
+|referee=[[Stefano Farina]] ([[Italian Football Federation|Italy]])
+|result=W
+}}
+{{Football box collapsible
+|date=15 August 2001
+|time=
+|team1={{fb-rt|Portugal}}
+|score=3–0
+|report=
+|round=Friendly
+|team2={{fb|Moldova|1990}}
+|goals1=[[Luís Figo|Figo]] {{goal|43||58|pen.|89|pen.}}
+|stadium=[[Estádio de São Luís]], [[Faro, Portugal|Faro]], Portugal
+|attendance=12,000
+|referee=Georgios Borovilos ([[Hellenic Football Federation|Greece]])
+|result=W
+}}
+{{Football box collapsible
+|date=1 September 2001
+|time=
+|team1={{fb-rt|Andorra}}
+|score=1–7
+|report=
+|round=[[2002 FIFA World Cup qualification – UEFA Group 2|2002 W.C.]] Q
+|team2={{fb|Portugal}}
+|goals1=[[Roberto Jonas|Jonas]] {{goal|42}}
+|goals2=[[Nuno Gomes]] {{goal|36||40||45||90}}<br>[[Pauleta]] {{goal|39}}<br>[[Rui Jorge]] {{goal|45}}<br>[[Sérgio Conceição|Conceição]] {{goal|58}}
+|stadium=[[Camp d'Esports]], [[Lleida]], Spain
+|attendance=4,876
+|referee=[[Terje Hauge]] ([[Football Association of Norway|Norway]])
+|result=W
+}}
+{{Football box collapsible
+|date=5 September 2001
+|time=
+|team1={{fb-rt|Cyprus|1960}}
+|score=1–3
+|report=
+|round=[[2002 FIFA World Cup qualification – UEFA Group 2|2002 W.C.]] Q
+|team2={{fb|Portugal}}
+|goals1=[[Michalis Konstantinou|Konstantinou]] {{goal|25}}
+|goals2=[[Nuno Gomes]] {{goal|48}}<br>[[Pauleta]] {{goal|64}}<br>[[Sérgio Conceição|Conceição]] {{goal|71}}
+|stadium=[[Antonis Papadopoulos Stadium]], [[Larnaca]], Cyprus|1960
+|attendance=2,878
+|referee=[[Karl-Erik Nilsson (referee)|Karl-Erik Nilsson]] ([[Swedish Football Association|Sweden]])
+|result=W
+}}
+{{Football box collapsible
+|date=6 October 2001
+|time=
+|team1={{fb-rt|Portugal}}
+|score=5–0
+|report=
+|round=[[2002 FIFA World Cup qualification – UEFA Group 2|2002 W.C.]] Q
+|team2={{fb|Estonia}}
+|goals1=[[João Vieira Pinto|Pinto]] {{goal|30}}<br>[[Nuno Gomes]] {{goal|50||60}}<br>[[Pauleta]] {{goal|59}}<br>[[Luís Figo|Figo]] {{goal|80}}
+|stadium=[[Estádio da Luz (1954)|Estádio da Luz]], [[Lisbon]], Portugal
+|attendance=77,000
+|referee=Hartmut Strampe ([[German Football Association|Germany]])
+|result=W
+}}
+{{Football box collapsible
+|date=14 November 2001
+|time=
+|team1={{fb-rt|Portugal}}
+|score=5–1
+|report=
+|round=Friendly
+|team2={{fb|Angola}}
+|goals1=[[Luís Figo|Figo]] {{goal|26|pen.}}<br>[[Nuno Gomes]] {{goal|36||63}}<br>[[Jorge Andrade|Andrade]] {{goal|39}}<br>[[Luís Boa Morte|Boa Morte]] {{goal|49}}
+|goals2=[[António Mendonça|Mendonça]] {{goal|1}}
+|stadium=[[Estádio José Alvalade (1956)]], [[Lisbon]], Portugal
+|attendance=5,000
+|referee=Pascal Garibian ([[French Football Federation|France]])
+|result=W
+}}
+
+===2002===
+{{Football box collapsible
+|date=13 February 2002
+|time=
+|team1={{fb-rt|Spain}}
+|score=1–1
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Fernando Morientes|Morientes]] {{goal|41}}
+|goals2=[[Jorge Costa (footballer)|J. Costa]] {{goal|29}}
+|stadium=[[Estadi Olímpic Lluís Companys]], [[Barcelona]], Spain
+|attendance=48,200
+|referee=[[Alexandru Tudor]] ([[Romanian Football Federation|Romania]])
+|result=D
+}}
+{{Football box collapsible
+|date=27 March 2002
+|time=
+|team1={{fb-rt|Portugal}}
+|score=1–4
+|report=
+|round=Friendly
+|team2={{fb|Finland}}
+|goals1=[[Sérgio Conceição|Conceição]] {{goal|40}}
+|goals2=[[Joonas Kolkka|Kolkka]] {{goal|9}}<br>[[Mikael Forssell|Forssell]] {{goal|27}}<br>[[Jari Litmanen|Litmanen]] {{goal|41||53}}
+|stadium=[[Estádio do Bessa]], [[Porto]], Portugal
+|attendance=8,000
+|referee=[[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])
+|result=L
+}}
+{{Football box collapsible
+|date=17 April 2002
+|time=
+|team1={{fb-rt|Portugal}}
+|score=1–1
+|report=
+|round=Friendly
+|team2={{fb|Brazil}}
+|goals1=[[Sérgio Conceição|Conceiçao]] {{goal|60}}
+|goals2=[[Ronaldinho]] {{goal|73|pen.}}
+|stadium=[[Estádio José Alvalade (1956)]], [[Lisbon]], Portugal
+|attendance=44545
+|referee=Víctor Esquinas Torres ([[Royal Spanish Football Federation|Spain]])
+|result=D
+}}
+{{Football box collapsible
+|date=25 May 2002
+|time=
+|team1={{fb-rt|China}}
+|score=0–2
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals2=[[Nuno Gomes]] {{goal|50}}<br>[[Pauleta]] {{goal|61}}
+|stadium=[[Estádio Campo Desportivo]], [[Macau]], China
+|attendance=18,000
+|referee=Kwon Jong-Cheol ([[Korea Football Association|South&nbsp;Korea]])
+|result=W
+}}
+{{Football box collapsible
+|date=5 June 2002
+|time=09:00 [[Western European Time|WET]]
+|team1={{fb-rt|United States of America}}
+|score=3–2
+|report=
+|round=[[2002 FIFA World Cup Group D|2002 W.C.]] GS
+|team2={{fb|Portugal}}
+|goals1=[[John O'Brien (soccer)|O'Brien]] {{goal|4}}<br>[[Jorge Costa (footballer)|J. Costa]] {{goal|29|o.g.}}<br>[[Brian McBride|McBride]] {{goal|36}}
+|goals2=[[Beto (footballer, born May 1976)|Beto]] {{goal|39}}<br>[[Jeff Agoos|Agoos]] {{goal|71|o.g.}}
+|stadium=[[Suwon World Cup Stadium]], [[Suwon]], South Korea
+|attendance=37,306
+|referee=[[Byron Moreno]] ([[Ecuadorian Football Federation|Ecuador]])
+|result=L
+}}
+{{Football box collapsible
+|date=10 June 2002
+|time=11:30 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=4–0
+|report=
+|round=[[2002 FIFA World Cup Group D|2002 W.C.]] GS
+|team2={{fb|Poland}}
+|goals1=[[Pauleta]] {{goal|14||65||77}}<br>[[Rui Costa]] {{goal|88}}
+|stadium=[[Jeonju World Cup Stadium]], [[Jeonju]], South Korea
+|attendance=31,000
+|referee=[[Hugh Dallas]] ([[Scottish Football Association|Scotland]])
+|result=W
+}}
+{{Football box collapsible
+|date=14 June 2002
+|time=11:30 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=0–1
+|report=
+|round=[[2002 FIFA World Cup Group D|2002 W.C.]] GS
+|team2={{fb|South Korea}}
+|goals2=[[Park Ji-sung]] {{goal|70}}
+|stadium=[[Incheon Munhak Stadium]], [[Incheon]], South Korea
+|attendance=50,239
+|referee=[[Ángel Sánchez (referee)|Ángel Sánchez]] ([[Argentine Football Association|Argentina]])
+|result=L
+}}
+{{Football box collapsible
+|date=7 September 2002
+|time=
+|team1={{fb-rt|England}}
+|score=1–1
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Alan Smith (footballer, born 1980)|Smith]] {{goal|40}}
+|goals2=[[Costinha]] {{goal|79}}
+|stadium=[[Villa Park]], [[Birmingham]], England
+|attendance=40,058
+|referee=[[Tom Henning Øvrebø]] ([[Football Association of Norway|Norway]])
+|result=D
+}}
+{{Football box collapsible
+|date=12 October 2002
+|time=21:15 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=1–1
+|report=
+|round=Friendly
+|team2={{fb|Tunisia}}
+|goals1=[[Pauleta]] {{goal|5}}
+|goals2=[[Ali Zitouni|Zitouni]] {{goal|42}}
+|stadium=[[Estádio do Restelo]], [[Lisbon]], Portugal
+|attendance=
+|referee=[[Paul Allaerts]] ([[Royal Belgian Football Association|Belgium]])
+|result=D
+}}
+{{Football box collapsible
+|date=16 October 2002
+|time=
+|team1={{fb-rt|Sweden}}
+|score=2–3
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Jörgen Pettersson (footballer)|Pettersson]] {{goal|6}}<br>[[Marcus Allbäck|Allbäck]] {{goal|24}}
+|goals2=[[Sérgio Conceição|Conceição]] {{goal|35|pen.}}<br>[[Romeu Almeida|Almeida]] {{goal|54}}<br>[[Rui Costa]] {{goal|89}}
+|stadium=[[Ullevi]], [[Gothenburg]], Sweden
+|attendance=30,047
+|referee=[[Kyros Vassaras]] ([[Hellenic Football Federation|Greece]])
+|result=W
+}}
+{{Football box collapsible
+|date=20 November 2002
+|time=
+|team1={{fb-rt|Portugal}}
+|score=2–0
+|report=
+|round=Friendly
+|team2={{fb|Scotland}}
+|goals1=[[Pauleta]] {{goal|7||18}}
+|stadium= [[Estádio Primeiro de Maio]], [[Braga]], Portugal
+|attendance=8,000
+|referee=Viorel Anghelini ([[Romanian Football Federation|Romania]])
+|result=W
+}}
+
+===2003===
+{{Football box collapsible
+|date=12 February 2003
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|ITA}}
+|score=1–0
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Bernardo Corradi|Corradi]] {{goal|62}}
+|stadium=[[Stadio Luigi Ferraris]], [[Genoa]], Italy
+|attendance=31,265
+|referee=[[Herbert Fandel]] ([[German Football Association|Germany]])
+|result=L
+}}
+{{Football box collapsible
+|date=29 March 2003
+|time=21:15 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=2–1
+|report=
+|round=Friendly
+|team2={{fb|Brazil}}
+|goals1=[[Pauleta]] {{goal|8}}<br>[[Deco]] {{goal|82}}
+|goals2=[[Ronaldinho]] {{goal|65|pen.}}
+|stadium=[[Estádio das Antas]], [[Porto]], Portugal
+|attendance=
+|referee=[[Alon Yefet]] ([[Israel Football Association|Israel]])
+|result=W
+}}
+{{Football box collapsible
+|date=2 April 2003
+|time=
+|team1={{fb-rt|Portugal}}
+|score=1–0
+|report=
+|round=Friendly
+|team2={{fb|Macedonia}}
+|goals1=[[Luís Figo|Figo]] {{goal|24}}
+|stadium=[[Stade Olympique de la Pontaise]], [[Lausanne]], Switzerland
+|attendance=14,258
+|referee=Marcus Nobs ([[Swiss Football Association|Switzerland]])
+|result=W
+}}
+{{Football box collapsible
+|date=30 April 2003
+|time=19:15 [[Western European Time|WET]]
+|team1={{fb-rt|Netherlands}}
+|score=1–1
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Patrick Kluivert|Kluivert]] {{goal|27}}
+|goals2=[[Simão Sabrosa|Simão]] {{goal|78}}
+|stadium=[[Philips Stadion]], [[Eindhoven]], Netherlands
+|attendance=22,000
+|referee=[[Urs Meier]] ([[Swiss Football Association|Switzerland]])
+|result=D
+}}
+{{Football box collapsible
+|date=6 June 2003
+|time=21:00 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=0–0
+|report=
+|round=Friendly
+|team2={{fb|Paraguay|1990}}
+|stadium=[[Estádio Primeiro de Maio]], [[Braga]], Portugal
+|attendance=
+|referee=Giorgos Kasnaferis ([[Hellenic Football Federation|Greece]])
+|result=D
+}}
+{{Football box collapsible
+|date=10 June 2003
+|time=
+|team1={{fb-rt|Portugal}}
+|score=4–0
+|report=
+|round=Friendly
+|team2={{fb|Bolivia}}
+|goals1=[[Jorge Andrade|Andrade]] {{goal|8}}<br>[[Fernando Couto|Couto]] {{goal|14}}<br>[[Hélder Postiga|Postiga]] {{goal|41||48}}
+|stadium=[[Estádio Nacional]], [[Lisbon]], Portugal
+|attendance=
+|referee=Asaf Kenan ([[Israel Football Association|Israel]])
+|result=W
+}}
+{{Football box collapsible
+|date=20 August 2003
+|time=
+|team1={{fb-rt|Portugal}}
+|score=1–0
+|report=
+|round=Friendly
+|team2={{fb|Kazakhstan}}
+|goals1=[[Simão Sabrosa|Simão]] {{goal|65}}
+|stadium=[[Estádio Municipal de Chaves|Estádio Municipal]], [[Chaves Municipality, Portugal|Chaves]], Portugal
+|attendance=8,000
+|referee=Julián Rodríguez Santiago ([[Royal Spanish Football Federation|Spain]])
+|result=W
+}}
+{{Football box collapsible
+|date=6 September 2003
+|time=21:15 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=0–3
+|report=
+|round=Friendly
+|team2={{fb|Spain}}
+|goals2=[[Joseba Etxeberria|Etxeberria]] {{goal|11}}<br>[[Joaquín (footballer, born 1981)|Joaquín]] {{goal|62}}<br>[[Diego Tristán|Tristán]] {{goal|75}}
+|stadium=[[Estádio D. Afonso Henriques]], [[Guimarães]], Portugal
+|attendance=21,176
+|referee=Marian Salomir ([[Romanian Football Federation|Romania]])
+|result=L
+}}
+{{Football box collapsible
+|date=10 September 2003
+|time=
+|team1={{fb-rt|Norway}}
+|score=0–1
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals2=[[Pauleta]] {{goal|9}}
+|stadium=[[Ullevaal Stadion]], [[Oslo]], Norway
+|attendance=11,014
+|referee=[[Steve Bennett (referee)|Steve Bennett]] ([[The Football Association|England]])
+|result=W
+}}
+{{Football box collapsible
+|date=11 October 2003
+|time=21:15 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=5–3
+|report=
+|round=Friendly
+|team2={{fb|Albania}}
+|goals1=[[Luís Figo|Figo]] {{goal|8}}<br>[[Simão Sabrosa|Simão]] {{goal|51}}<br>[[Rui Costa]] {{goal|57}}<br>[[Pauleta]] {{goal|59}}<br>[[Miguel Monteiro|Miguel]] {{goal|65}}
+|goals2=[[Adrian Aliaj|Aliaj]] {{goal|14||61}}<br>[[Igli Tare|Tare]] {{goal|44}}
+|stadium=[[Estádio do Restelo]], [[Lisbon]], Portugal
+|attendance=5,000
+|referee=Pascal Garibian ([[French Football Federation|France]])
+|result=W
+}}
+{{Football box collapsible
+|date=15 November 2003
+|time=21:15 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=1–1
+|report=
+|round=Friendly
+|team2={{fb|Greece}}
+|goals1=[[Pauleta]] {{goal|60}}
+|goals2=[[Vasilios Lakis|Lakis]] {{goal|47}}
+|stadium=[[Estádio Municipal de Aveiro|Estádio Municipal]], [[Aveiro, Portugal|Aveiro]], Portugal
+|attendance=32,000
+|referee=Victor Jose Esquinas Torres ([[Royal Spanish Football Federation|Spain]])
+|result=D
+}}
+{{Football box collapsible
+|date=19 November 2003
+|time=21:15 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=8–0
+|report=
+|round=Friendly
+|team2={{fb|Kuwait}}
+|goals1=[[Pauleta]] {{goal|11||21||45+||53}}<br>[[Luís Figo|Figo]] {{goal|34}}<br>[[Nuno Gomes]] {{goal|69||76||88}}
+|stadium=[[Estádio Dr. Magalhães Pessoa]], [[Leiria]], Portugal
+|attendance=22,000
+|referee=[[Martin Ingvarsson]] ([[Swedish Football Association|Sweden]])
+|result=W
+}}
+
+===2004===
+{{Football box collapsible
+|date=18 February 2004
+|time=
+|team1={{fb-rt|Portugal}}
+|score=1–1
+|report=
+|round=Friendly
+|team2={{fb|England}}
+|goals1=[[Pauleta]] {{goal|70}}
+|goals2=[[Ledley King|King]] {{goal|47}}
+|stadium=[[Estádio Algarve]], [[Faro, Portugal|Faro]]/[[Loulé]], Portugal
+|attendance=27,000
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|result=D
+}}
+{{Football box collapsible
+|date=31 March 2004
+|time=20:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=1–2
+|report=
+|round=Friendly
+|team2={{fb|Italy|2003}}
+|goals1=[[Nuno Valente|Valente]] {{goal|5}}
+|goals2=[[Christian Vieri|Vieri]] {{goal|40}}<br>[[Fabrizio Miccoli|Miccoli]] {{goal|75}}
+|stadium=[[Estádio Municipal de Braga|Estádio Municipal]], [[Braga]], Portugal
+|attendance=25,000
+|referee=Ali Aydin ([[Turkish Football Federation|Turkey]])
+|result=L
+}}
+{{Football box collapsible
+|date=28 April 2004
+|time=21:15 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=2–2
+|report=
+|round=Friendly
+|team2={{fb|Sweden}}
+|goals1=[[Pauleta]] {{goal|32}}<br>[[Nuno Gomes]] {{goal|90+}}
+|goals2=[[Kim Källström|Källström]] {{goal|17}}<br>[[Rui Jorge]] {{goal|85|o.g.}}
+|stadium=[[Estádio Cidade de Coimbra|Estádio Cidade]], [[Coimbra]], Portugal
+|attendance=14,000
+|referee=Darko Čeferin ([[Football Association of Slovenia|Slovenia]])
+|result=D
+}}
+{{Football box collapsible
+|date=29 May 2004
+|time=19:15 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=3–0
+|report=
+|round=Friendly
+|team2={{fb|Luxembourg}}
+|goals1=[[Luís Figo|Figo]] {{goal|13}}<br>[[Nuno Gomes]] {{goal|28}}<br>[[Rui Costa]] {{goal|36}}
+|stadium=[[Estádio Municipal de Águeda|Estádio Municipal]], [[Águeda Municipality|Águeda]], Portugal
+|attendance=9,000
+|referee=[[Rob Styles]] ([[The Football Association|England]])
+|result=W
+}}
+{{Football box collapsible
+|date=5 June 2004
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=4–1
+|report=
+|round=Friendly
+|team2={{fb|Lithuania|1988}}
+|goals1=[[Fernando Couto|Couto]] {{goal|3}}<br>[[Pauleta]] {{goal|13}}<br>[[Nuno Gomes]] {{goal|81}}<br>[[Hélder Postiga|Postiga]] {{goal|90+}}
+|goals2=[[Donatas Vencevičius|Vencevičius]] {{goal|74|pen.}}
+|stadium=[[Estádio do Bonfim]], [[Setúbal]], Portugal
+|attendance=25,000
+|referee=Luc Wilmes ([[Luxembourg Football Federation|Luxembourg]])
+|result=W
+}}
+{{Football box collapsible
+|date=12 June 2004
+|time=17:00 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=1–2
+|report=[https://web.archive.org/web/20040815062822/http://www.euro2004.com/tournament/matches/Round=1581/Match=1059164/index.html Report]
+|round=[[UEFA Euro 2004 Group A|2004 EURO]] GS
+|team2={{fb|Greece}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|90+3}}
+|goals2=[[Giorgos Karagounis|Karagounis]] {{goal|7}}<br>[[Angelos Basinas|Basinas]] {{goal|51|pen.}}
+|stadium=[[Estádio do Dragão]], [[Porto]], Portugal
+|attendance=48,761
+|referee=[[Pierluigi Collina]] ([[Italian Football Federation|Italy]])
+|result=L
+}}
+{{Football box collapsible
+|date=16 June 2004
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Russia}}
+|score=0–2
+|report=[https://web.archive.org/web/20040815065624/http://www.euro2004.com/tournament/matches/Round=1581/Match=1059173/index.html Report]
+|round=[[UEFA Euro 2004 Group A|2004 EURO]] GS
+|team2={{fb|Portugal}}
+|goals2=[[Maniche]] {{goal|7}}<br>[[Rui Costa]] {{goal|89}}
+|stadium=[[Estádio da Luz]], [[Lisbon]], Portugal
+|attendance=59,273
+|referee=[[Terje Hauge]] ([[Football Association of Norway|Norway]])
+|result=W
+}}
+{{Football box collapsible
+|date=20 June 2004
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Spain}}
+|score=0–1
+|report=[https://web.archive.org/web/20040817074142/http://www.euro2004.com/tournament/matches/Round=1581/Match=1059180/index.html Report]
+|round=[[UEFA Euro 2004 Group A|2004 EURO]] GS
+|team2={{fb|Portugal}}
+|goals2=[[Nuno Gomes]] {{goal|57}}
+|stadium=[[Estádio José Alvalade]], [[Lisbon]], Portugal
+|attendance=47,491
+|referee=[[Anders Frisk]] ([[Swedish Football Association|Sweden]])
+|result=W
+}}
+{{Football box collapsible
+|date=24 June 2004
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=2–2
+|report=[https://web.archive.org/web/20041001031417/http://www.euro2004.com/Tournament/Matches/Round=1582/Match=1059188/index.html Report]
+|round=[[UEFA Euro 2004 knockout stage|2004 EURO]] 1/4
+|team2={{fb|England}}
+|goals1=[[Hélder Postiga|Postiga]] {{goal|83}}<br>[[Rui Costa]] {{goal|109}}
+|goals2=[[Michael Owen|Owen]] {{goal|3}}<br>[[Frank Lampard|Lampard]] {{goal|114}}
+|stadium=[[Estádio da Luz]], [[Lisbon]], Portugal
+|attendance=65,000
+|referee=[[Urs Meier]] ([[Swiss Football Association|Switzerland]])
+|result=D
+|penalties1=[[Deco]] {{pengoal}}<br>[[Simão Sabrosa|Simão]] {{pengoal}}<br>[[Rui Costa]] {{penmiss}}<br>[[Cristiano Ronaldo|Ronaldo]] {{pengoal}}<br>[[Maniche]] {{pengoal}}<br>[[Hélder Postiga|Postiga]] {{pengoal}}<br>[[Ricardo (footballer, born 1976)|Ricardo]] {{pengoal}}
+|penaltyscore=6–5
+|penalties2={{penmiss}} [[David Beckham|Beckham]]<br>{{pengoal}} [[Michael Owen|Owen]]<br>{{pengoal}} [[Frank Lampard|Lampard]]<br>{{pengoal}} [[John Terry|Terry]]<br>{{pengoal}} [[Owen Hargreaves|Hargreaves]]<br>{{pengoal}} [[Ashley Cole|A. Cole]]<br>{{penmiss}} [[Darius Vassell|Vassell]]
+}}
+{{Football box collapsible
+|date=30 June 2004
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=2–1
+|report=[https://web.archive.org/web/20040815035700/http://www.euro2004.com/Tournament/Matches/Round=1583/Match=1059192/index.html Report]
+|round=[[UEFA Euro 2004 knockout stage|2004 EURO]] 1/2
+|team2={{fb|Netherlands}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|26}}<br>[[Maniche]] {{goal|58}}
+|goals2=[[Jorge Andrade|Andrade]] {{goal|63|o.g.}}
+|stadium=[[Estádio José Alvalade]], [[Lisbon]], Portugal
+|attendance=46,679
+|referee=[[Anders Frisk]] ([[Swedish Football Association|Sweden]])
+|result=W
+}}
+{{Football box collapsible
+|date=4 July 2004
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=[[UEFA Euro 2004 Final|0–1]]
+|report=[https://web.archive.org/web/20040905235903/http://www.euro2004.com/tournament/matches/round=1623/match=1059194/index.html Report]
+|round=[[UEFA Euro 2004 knockout stage|2004 EURO]] F
+|team2={{fb|Greece}}
+|goals2=[[Angelos Charisteas|Charisteas]] {{goal|57}}
+|stadium=[[Estádio da Luz]], [[Lisbon]], Portugal
+|attendance=62,865
+|referee=[[Markus Merk]] ([[German Football Association|Germany]])
+|result=L
+|location=|goals1=}}
+
+{{Football box collapsible
+|date=4 September 2004
+|time=18:15 [[Western European Time|WET]]
+|team1={{fb-rt|Latvia}}
+|score=0–2
+|report=
+|round=[[2006 FIFA World Cup qualification – UEFA Group 3|2006 W.C.]] Q
+|team2={{fb|Portugal}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|58}}<br>[[Pauleta]] {{goal|59}}
+|stadium=[[Skonto Stadium]], [[Riga]], Latvia
+|attendance=9,500
+|referee=[[Graham Poll]] ([[The Football Association|England]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=8 September 2004
+|time=21:15 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=4–0
+|report=
+|round=[[2006 FIFA World Cup qualification – UEFA Group 3|2006 W.C.]] Q
+|team2={{fb|Estonia}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|75}}<br>[[Hélder Postiga|Postiga]] {{goal|84||90+}}<br>[[Pauleta]] {{goal|87}}
+|stadium=[[Estádio Dr. Magalhães Pessoa]], [[Leiria]], Portugal
+|attendance=27,214
+|referee=Bülent Demirlek ([[Turkish Football Federation|Turkey]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=9 October 2004
+|time=18:15 [[Western European Time|WET]]
+|team1={{fb-rt|Liechtenstein}}
+|score=2–2
+|report=
+|round=[[2006 FIFA World Cup qualification – UEFA Group 3|2006 W.C.]] Q
+|team2={{fb|Portugal}}
+|goals1=[[Franz Burgmeier|Burgmeier]] {{goal|48}}<br>[[Thomas Beck (footballer)|Beck]] {{goal|76}}
+|goals2=[[Pauleta]] {{goal|23}}<br>[[Daniel Hasler|Hasler]] {{goal|39|o.g.}}
+|stadium=[[Rheinpark Stadion]], [[Vaduz]], Liechtenstein
+|attendance=3,548
+|referee=Novo Panić ([[Football Association of Bosnia and Herzegovina|Bosnia&nbsp;and&nbsp;Herzegovina]])
+|result=D
+}}
+
+{{Football box collapsible
+|date=13 October 2004
+|time=21:15 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=7–1
+|report=
+|round=[[2006 FIFA World Cup qualification – UEFA Group 3|2006 W.C.]] Q
+|team2={{fb|Russia}}
+|goals1=[[Pauleta]] {{goal|26}}<br>[[Cristiano Ronaldo|Ronaldo]] {{goal|39||69}}<br>[[Deco]] {{goal|45}}<br>[[Simão Sabrosa|Simão]] {{goal|82}}<br>[[Petit (Portuguese footballer)|Petit]] {{goal|89||90+}}
+|goals2=[[Andrey Arshavin|Arshavin]] {{goal|79}}
+|stadium=[[Estádio José Alvalade]], [[Lisbon]], Portugal
+|attendance=27,258
+|referee=[[Kyros Vassaras]] ([[Hellenic Football Federation|Greece]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=17 November 2004
+|time=19:00 [[Western European Time|WET]]
+|team1={{fb-rt|Luxembourg}}
+|score=0–5
+|report=
+|round=[[2006 FIFA World Cup qualification – UEFA Group 3|2006 W.C.]] Q
+|team2={{fb|Portugal}}
+|goals2=[[Alija Bešić|Bešić]] {{goal|10|o.g.}}<br>[[Cristiano Ronaldo|Ronaldo]] {{goal|27}}<br>[[Maniche]] {{goal|52}}<br>[[Pauleta]] {{goal|67||83}}
+|stadium=[[Stade Josy Barthel]], [[Luxembourg (city)|Luxembourg]], Luxembourg
+|attendance=8,045
+|referee=Vitaliy Godulyan ([[Football Federation of Ukraine|Ukraine]])
+|result=W
+}}
+
+===2005===
+
+{{Football box collapsible
+|date=9 February 2005
+|time=19:30 [[Western European Time|WET]]
+|team1={{fb-rt|Republic of Ireland}}
+|score=1–0
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Andy O'Brien (footballer)|O'Brien]] {{goal|20}}
+|stadium=[[Lansdowne Road]], [[Dublin]], Republic of Ireland
+|attendance=44,100
+|referee=[[Matt Messias]] ([[The Football Association|England]])
+|result=L
+}}
+
+{{Football box collapsible
+|date=26 March 2005
+|time=20:30 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=4–1
+|report=
+|round=Friendly
+|team2={{fb|Canada}}
+|goals1=[[Manuel Fernandes (footballer, born 1986)|Fernandes]] {{goal|7}}<br>[[Pauleta]] {{goal|11}}<br>[[Hélder Postiga|Postiga]] {{goal|81}}<br>[[Nuno Gomes]] {{goal|90}}
+|goals2=[[Kevin McKenna (soccer)|McKenna]] {{goal|84}}
+|stadium=[[Estádio Cidade de Barcelos]], [[Barcelos, Portugal|Barcelos]], Portugal
+|attendance=12,000
+|referee=Igor Ishchenko ([[Football Federation of Ukraine|Ukraine]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=30 March 2005
+|time=18:00 [[Western European Time|WET]]
+|team1={{fb-rt|Slovakia}}
+|score=1–1
+|report=
+|round=[[2006 FIFA World Cup qualification – UEFA Group 3|2006 W.C.]] Q
+|team2={{fb|Portugal}}
+|goals1=[[Miroslav Karhan|Karhan]] {{goal|6|pen.}}
+|goals2=[[Hélder Postiga|Postiga]] {{goal|61}}
+|stadium=[[Tehelné pole]], [[Bratislava]], Slovakia
+|attendance=21,000
+|referee=[[Alain Sars]] ([[French Football Federation|France]])
+|result=D
+}}
+
+{{Football box collapsible
+|date=4 June 2005
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=2–0
+|report=
+|round=[[2006 FIFA World Cup qualification – UEFA Group 3|2006 W.C.]] Q
+|team2={{fb|Slovakia}}
+|goals1=[[Fernando Meira|Meira]] {{goal|22}}<br>[[Cristiano Ronaldo|Ronaldo]] {{goal|42}}
+|stadium=[[Estádio da Luz]], [[Lisbon]], Portugal
+|attendance=64,000
+|referee=[[Pierluigi Collina]] ([[Italian Football Federation|Italy]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=8 June 2005
+|time=18:15 [[Western European Time|WET]]
+|team1={{fb-rt|Estonia}}
+|score=0–1
+|report=
+|round=[[2006 FIFA World Cup qualification – UEFA Group 3|2006 W.C.]] Q
+|team2={{fb|Portugal}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|33}}
+|stadium=[[A. Le Coq Arena]], [[Tallinn]], Estonia
+|attendance=10,280
+|referee=[[Mike Riley (referee)|Mike Riley]] ([[The Football Association|England]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=17 August 2005
+|time=21:15 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=2–0
+|report=
+|round=Friendly
+|team2={{fb|Egypt}}
+|goals1=[[Fernando Meira|Meira]] {{goal|50}}<br>[[Hélder Postiga|Postiga]] {{goal|70}}
+|stadium=[[Estádio de São Miguel (Ponta Delgada)|Estádio de São Miguel]], [[Ponta Delgada]], Portugal
+|attendance=20,000
+|referee=Jacek Granat ([[Polish Football Association|Poland]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=3 September 2005
+|time=21:15 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=6–0
+|report=
+|round=[[2006 FIFA World Cup qualification – UEFA Group 3|2006 W.C.]] Q
+|team2={{fb|Luxembourg}}
+|goals1=[[Jorge Andrade|Andrade]] {{goal|24}}<br>[[Ricardo Carvalho|Carvalho]] {{goal|30}}<br>[[Pauleta]] {{goal|37||55}}<br>[[Simão Sabrosa|Simão]] {{goal|79||84}}
+|stadium=[[Estádio Algarve]], [[Faro, Portugal|Faro]]/[[Loulé]], Portugal
+|attendance=25,300
+|referee=Dick van Egmond ([[Royal Dutch Football Association|Netherlands]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=7 September 2005
+|time=16:00 [[Western European Time|WET]]
+|team1={{fb-rt|Russia}}
+|score=0–0
+|report=
+|round=[[2006 FIFA World Cup qualification – UEFA Group 3|2006 W.C.]] Q
+|team2={{fb|Portugal}}
+|stadium=[[Lokomotiv Stadium (Moscow)|Lokomotiv Stadium]], [[Moscow]], Russia
+|attendance=28,800
+|referee=[[Markus Merk]] ([[German Football Association|Germany]])
+|result=D
+}}
+
+{{Football box collapsible
+|date=8 October 2005
+|time=21:15 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=2–1
+|report=
+|round=[[2006 FIFA World Cup qualification – UEFA Group 3|2006 W.C.]] Q
+|team2={{fb|Liechtenstein}}
+|goals1=[[Pauleta]] {{goal|48}}<br>[[Nuno Gomes]] {{goal|85}}
+|goals2=[[Benjamin Fischer (footballer)|Fischer]] {{goal|32}}
+|stadium=[[Estádio Municipal de Aveiro|Estádio Municipal]], [[Aveiro, Portugal|Aveiro]], Portugal
+|attendance=29,000
+|referee=[[Grzegorz Gilewski]] ([[Polish Football Association|Poland]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=12 October 2005
+|time=19:30 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=3–0
+|report=
+|round=[[2006 FIFA World Cup qualification – UEFA Group 3|2006 W.C.]] Q
+|team2={{fb|Latvia}}
+|goals1=[[Pauleta]] {{goal|18||20}}<br>[[Hugo Viana|Viana]] {{goal|85}}
+|stadium=[[Estádio do Dragão]], [[Porto]], Portugal
+|attendance=35,000
+|referee=[[Peter Fröjdfeldt]] ([[Swedish Football Association|Sweden]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=12 November 2005
+|time=21:15 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=2–0
+|report=
+|round=Friendly
+|team2={{fb|Croatia}}
+|goals1=[[Petit (Portuguese footballer)|Petit]] {{goal|32}}<br>[[Pauleta]] {{goal|65}}
+|stadium=[[Estádio Cidade de Coimbra|Estádio Cidade]], [[Coimbra]], Portugal
+|attendance=16,370
+|referee=[[Kim Milton Nielsen|Kim Nielsen]] ([[Danish Football Association|Denmark]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=15 November 2005
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Northern Ireland}}
+|score=1–1
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Warren Feeney|Feeney]] {{goal|53}}
+|goals2=[[Stephen Craigan|Craigan]] {{goal|40|o.g.}}
+|stadium=[[Windsor Park]], [[Belfast]], Northern Ireland
+|attendance=20,000
+|referee=[[Howard Webb]] ([[The Football Association|England]])
+|result=D
+}}
+
+===2006===
+{{Football box collapsible
+|date=1 March 2006
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Saudi Arabia}}
+|score=0–3
+|report=
+|round=Friendly
+|team2={{fb|POR}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|29||84}}<br>[[Maniche]] {{goal|44}}
+|stadium=[[Esprit Arena]], [[Düsseldorf]], Germany
+|attendance=
+|referee=[[Wolfgang Stark]] ([[German Football Association|Germany]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=27 May 2006
+|time=18:00 [[Western European Time|WET]]
+|team1={{fb-rt|POR}}
+|score=4–1
+|report=
+|round=Friendly
+|team2={{fb|Cape Verde}}
+|goals1=[[Pauleta]] {{goal|1||37||84}}<br>[[Petit (Portuguese footballer)|Petit]] {{goal|59}}
+|goals2=[[Fernando Meira|Meira]] {{goal|21|o.g.}}
+|stadium=Complexo Desportivo de Évora, [[Évora]], Portugal
+|attendance=
+|referee=Dick van Egmond ([[Royal Dutch Football Association|Netherlands]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=3 June 2006
+|time=
+|team1={{fb-rt|Luxembourg}}
+|score=0–3
+|report=
+|round=Friendly
+|team2={{fb|POR}}
+|goals2=[[Simão Sabrosa|Simão]] {{goal|46||73}}<br>[[Luís Figo|Figo]] {{goal|84}}
+|stadium=[[Stade Saint-Symphorien]], [[Metz]], France
+|attendance=19,159
+|referee=[[Laurent Duhamel]] ([[French Football Federation|France]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=11 June 2006
+|time=20:00 [[Western European Time|WET]]
+|team1={{fb-rt|Angola}}
+|score=0–1
+|report=
+|round=[[2006 FIFA World Cup Group D|2006 W.C.]] GS
+|team2={{fb|POR}}
+|goals2=[[Pauleta]] {{goal|4}}
+|stadium=[[RheinEnergieStadion|FIFA World Cup Stadium Cologne]], [[Cologne]], Germany
+|attendance=45,000
+|referee=[[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguay]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=17 June 2006
+|time=14:00 [[Western European Time|WET]]
+|team1={{fb-rt|POR}}
+|score=2–0
+|report=
+|round=[[2006 FIFA World Cup Group D|2006 W.C.]] GS
+|team2={{fb|Iran}}
+|goals1=[[Deco]] {{goal|63}}<br>[[Cristiano Ronaldo|Ronaldo]] {{goal|80|pen.}}
+|stadium=[[Commerzbank-Arena|FIFA World Cup Stadium, Frankfurt]], [[Frankfurt]], Germany
+|attendance=48,000
+|referee=[[Éric Poulat]] ([[French Football Federation|France]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=21 June 2006
+|time=15:00 [[Western European Time|WET]]
+|team1={{fb-rt|POR}}
+|score=2–1
+|report=
+|round=[[2006 FIFA World Cup Group D|2006 W.C.]] GS
+|team2={{fb|Mexico}}
+|goals1=[[Maniche]] {{goal|6}}<br>[[Simão Sabrosa|Simão]] {{goal|24|pen.}}
+|goals2=[[Francisco Fonseca|Fonseca]] {{goal|29}}
+|stadium=[[Veltins-Arena|FIFA World Cup Stadium, Gelsenkirchen]], [[Gelsenkirchen]], Germany
+|attendance=52,000
+|referee=[[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=25 June 2006
+|time=20:00 [[Western European Time|WET]]
+|team1={{fb-rt|POR}}
+|score=[[Battle of Nuremberg (2006 FIFA World Cup)|1–0]]
+|report=
+|round=[[2006 FIFA World Cup#Round of 16|2006 W.C.]] 1/8
+|team2={{fb|Netherlands}}
+|goals1 = [[Maniche]] {{goal|23}}<br>[[Costinha]] [[File:Yellowred card.svg|10px]] <small>45+1'</small><br>[[Deco]] [[File:Yellowred card.svg|10px]] <small>78'</small>
+|goals2 = <br>[[Khalid Boulahrouz|Boulahrouz]] [[File:Yellowred card.svg|10px]] <small>63'</small><br>[[Giovanni van Bronckhorst|van Bronckhorst]] [[File:Yellowred card.svg|10px]] <small>90+5'</small>
+|stadium=[[Max-Morlock-Stadion|Frankenstadion]], [[Nuremberg]], Germany
+|attendance=41,000
+|referee=[[Valentin Ivanov (footballer, born 1961)|Valentin Ivanov]] ([[Russian Football Union|Russia]])
+|result=W
+|location=
+}}
+
+{{Football box collapsible
+|date=1 July 2006
+|time=16:00 [[Western European Time|WET]]
+|team1={{fb-rt|England}}
+|score=0–0
+|report=
+|round=[[2006 FIFA World Cup#Quarter-finals|2006 W.C.]] 1/4
+|team2={{fb|POR}}
+|goals1=[[Wayne Rooney|Rooney]] {{sentoff|0|62}}
+|stadium=[[Veltins-Arena|FIFA World Cup Stadium, Gelsenkirchen]], [[Gelsenkirchen]], Germany
+|attendance=52,000
+|referee=[[Horacio Elizondo]] ([[Argentine Football Association|Argentina]])
+|result=D
+|penalties1=[[Frank Lampard|Lampard]] {{penmiss}}<br>[[Owen Hargreaves|Hargreaves]] {{pengoal}}<br>[[Steven Gerrard|Gerrard]] {{penmiss}}<br>[[Jamie Carragher|Carragher]] {{penmiss}}
+|penaltyscore=1–3
+|penalties2={{pengoal}} [[Simão Sabrosa|Simão]]<br>{{penmiss}} [[Hugo Viana|Viana]]<br>{{penmiss}} [[Petit (Portuguese footballer)|Petit]]<br>{{pengoal}} [[Hélder Postiga|Postiga]]<br>{{pengoal}} [[Cristiano Ronaldo|Ronaldo]]
+}}
+
+{{Football box collapsible
+|date=5 July 2006
+|time=20:00 [[Western European Time|WET]]
+|team1={{fb-rt|POR}}
+|score=0–1
+|report=
+|round=[[2006 FIFA World Cup#Semi-finals|2006 W.C.]] 1/2
+|team2={{fb|FRA|1974}}
+|goals2=[[Zinedine Zidane|Zidane]] {{goal|33|pen.}}
+|stadium=[[Allianz Arena|FIFA World Cup Stadium Munich]], [[Munich]], Germany
+|attendance=66,000
+|referee=[[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguay]])
+|result=L
+}}
+
+{{Football box collapsible
+|date=8 July 2006
+|time=20:00 [[Western European Time|WET]]
+|team1={{fb-rt|Germany}}
+|score=3–1
+|report=
+|round=[[2006 FIFA World Cup#Third place play-off|2006 W.C.]] 3-4
+|team2={{fb|POR}}
+|goals1=[[Bastian Schweinsteiger|Schweinsteiger]] {{goal|56||78}}<br>[[Petit (Portuguese footballer)|Petit]] {{goal|61|o.g.}}
+|goals2=[[Nuno Gomes]] {{goal|88}}
+|stadium=[[MHPArena|Gottlieb-Daimler-Stadion]], [[Stuttgart]], Germany
+|attendance=52,000
+|referee=[[Toru Kamikawa]] ([[Japan Football Association|Japan]])
+|result=L
+}}
+
+{{Football box collapsible
+|date=1 September 2006
+|time=19:00 [[Western European Time|WET]]
+|team1={{fb-rt|Denmark}}
+|score=4–2
+|report=
+|round=Friendly
+|team2={{fb|POR}}
+|goals1=[[Jon Dahl Tomasson|Tomasson]] {{goal|15}}<br>[[Thomas Kahlenberg|Kahlenberg]] {{goal|21}}<br>[[Martin Jørgensen|Jørgensen]] {{goal|78}}<br>[[Nicklas Bendtner|Bendtner]] {{goal|90}}
+|goals2=[[Ricardo Carvalho|Carvalho]] {{goal|17}}<br>[[Nani (footballer)|Nani]] {{goal|66}}
+|stadium=[[Brøndby Stadium]], [[Copenhagen]], Denmark
+|attendance=13,186
+|referee=[[Alan Kelly (referee)|Alan Kelly]] ([[Football Association of Ireland|Republic&nbsp;of&nbsp;Ireland]])
+|result=L
+}}
+
+{{Football box collapsible
+|date=6 September 2006
+|time=18:00 [[Western European Time|WET]]
+|team1={{fb-rt|Finland}}
+|score=1–1
+|report=
+|round=[[UEFA Euro 2008 qualifying Group A|2008 EURO]] Q
+|team2={{fb|POR}}
+|goals1=[[Jonatan Johansson (footballer)|Johansson]] {{goal|22}}
+|goals2=[[Nuno Gomes]] {{goal|42}}
+|stadium=[[Helsinki Olympic Stadium|Olympic Stadium]], [[Helsinki]], Finland
+|attendance=38,015
+|referee=[[Konrad Plautz]] ([[Austrian Football Association|Austria]])
+|result=D
+}}
+
+{{Football box collapsible
+|date=7 October 2006
+|time=21:00 [[Western European Time|WET]]
+|team1={{fb-rt|POR}}
+|score=3–0
+|report=
+|round=[[UEFA Euro 2008 qualifying Group A|2008 EURO]] Q
+|team2={{fb|Azerbaijan|1991}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|25||63}}<br>[[Ricardo Carvalho|Carvalho]] {{goal|31}}
+|stadium=[[Estádio do Bessa|Estádio do Bessa XXI]], [[Porto]], Portugal
+|attendance=20,000
+|referee=[[Mark Halsey]] ([[The Football Association|England]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=11 October 2006
+|time=19:30 [[Western European Time|WET]]
+|team1={{fb-rt|Poland}}
+|score=2–1
+|report=
+|round=[[UEFA Euro 2008 qualifying Group A|2008 EURO]] Q
+|team2={{fb|POR}}
+|goals1=[[Ebi Smolarek|Smolarek]] {{goal|9||18}}
+|goals2=[[Nuno Gomes]] {{goal|89}}
+|stadium=[[Silesian Stadium]], [[Chorzów]], Poland
+|attendance=40,000
+|referee=[[Wolfgang Stark]] ([[German Football Association|Germany]])
+|result=L
+}}
+
+{{Football box collapsible
+|date=15 November 2006
+|time=21:00 [[Western European Time|WET]]
+|team1={{fb-rt|POR}}
+|score=3–0
+|report=
+|round=[[UEFA Euro 2008 qualifying Group A|2008 EURO]] Q
+|team2={{fb|Kazakhstan}}
+|goals1=[[Simão Sabrosa|Simão]] {{goal|8||86}}<br>[[Cristiano Ronaldo|Ronaldo]] {{goal|30}}
+|stadium=[[Estádio Cidade de Coimbra|Estádio Cidade]], [[Coimbra]], Portugal
+|attendance=27,000
+|referee=René Rogalla ([[Swiss Football Association|Switzerland]])
+|result=W
+}}
+
+===2007===
+
+{{Football box collapsible
+|date=6 February 2007
+|time=20:00 [[Western European Time|WET]]
+|team1={{fb-rt|Brazil}}
+|score=0–2
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals2=[[Simão Sabrosa|Simão]] {{goal|82}}<br>[[Ricardo Carvalho|Carvalho]] {{goal|89}}
+|stadium=[[Emirates Stadium]], [[London]], England
+|attendance=59,793
+|referee=[[Martin Atkinson]] ([[The Football Association|England]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=24 March 2007
+|time=21:00 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=4–0
+|report=
+|round=[[UEFA Euro 2008 qualifying Group A|2008 EURO]] Q
+|team2={{fb|Belgium}}
+|goals1=[[Nuno Gomes]] {{goal|52}}<br>[[Cristiano Ronaldo|Ronaldo]] {{goal|54||74}}<br>[[Ricardo Quaresma|Quaresma]] {{goal|68}}
+|stadium=[[Estádio José Alvalade]], [[Lisbon]], Portugal
+|attendance=47,009
+|referee=[[Kyros Vassaras]] ([[Hellenic Football Federation|Greece]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=28 March 2007
+|time=19:30 [[Western European Time|WET]]
+|team1={{fb-rt|Serbia|2004}}
+|score=1–1
+|report=
+|round=[[UEFA Euro 2008 qualifying Group A|2008 EURO]] Q
+|team2={{fb|Portugal}}
+|goals1=[[Boško Janković|Janković]] {{goal|37}}
+|goals2=[[Tiago Mendes|Tiago]] {{goal|4}}
+|stadium=[[Stadion FK Crvena Zvezda]], [[Belgrade]], Serbia|2004
+|attendance=55,000
+|referee=[[Bertrand Layec]] ([[French Football Federation|France]])
+|result=D
+}}
+
+{{Football box collapsible
+|date=2 June 2007
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Belgium}}
+|score=1–2
+|report=
+|round=[[UEFA Euro 2008 qualifying Group A|2008 EURO]] Q
+|team2={{fb|Portugal}}
+|goals1=[[Marouane Fellaini|Fellaini]] {{goal|55}}
+|goals2=[[Nani (footballer)|Nani]] {{goal|43}}<br>[[Hélder Postiga|Postiga]] {{goal|64}}
+|stadium=[[King Baudouin Stadium]], [[Brussels]], Belgium
+|attendance=45,585
+|referee=[[Martin Hansson]] ([[Swedish Football Association|Sweden]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=5 June 2007
+|time=19:00 [[Western European Time|WET]]
+|team1={{fb-rt|Kuwait}}
+|score=1–1
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Faraj Laheeb|Laheeb]] {{goal|87}}
+|goals2=[[João Tomás|Tomás]] {{goal|72}}
+|stadium=[[Thamir Stadium]], [[Al Salmiya]], Kuwait
+|attendance=
+|referee=Fareed Al-Marzooqi ([[United Arab Emirates Football Association|United&nbsp;Arab&nbsp;Emirates]])
+|result=D
+}}
+
+{{Football box collapsible
+|date=22 August 2007
+|time=17:00 [[Western European Time|WET]]
+|team1={{fb-rt|Armenia}}
+|score=1–1
+|report=
+|round=[[UEFA Euro 2008 qualifying Group A|2008 EURO]] Q
+|team2={{fb|Portugal}}
+|goals1=[[Robert Arzumanyan|Arzumanyan]] {{goal|11}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|37}}
+|stadium=[[Hanrapetakan Stadium]], [[Yerevan]], Armenia
+|attendance=15,550
+|referee=[[Claus Bo Larsen]] ([[Danish Football Association|Denmark]])
+|result=D
+}}
+
+{{Football box collapsible
+|date=8 September 2007
+|time=21:00 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=2–2
+|report=
+|round=[[UEFA Euro 2008 qualifying Group A|2008 EURO]] Q
+|team2={{fb|Poland}}
+|goals1=[[Maniche]] {{goal|49}}<br>[[Cristiano Ronaldo|Ronaldo]] {{goal|73}}
+|goals2=[[Mariusz Lewandowski|Lewandowski]] {{goal|44}}<br>[[Jacek Krzynówek|Krzynówek]] {{goal|87}}
+|stadium=[[Estádio da Luz]], [[Lisbon]], Portugal
+|attendance=55,000
+|referee=[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+|result=D
+}}
+
+{{Football box collapsible
+|date=12 September 2007
+|time=21:00 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=1–1
+|report=
+|round=[[UEFA Euro 2008 qualifying Group A|2008 EURO]] Q
+|team2={{fb|Serbia|2004}}
+|goals1=[[Simão Sabrosa|Simão]] {{goal|11}}
+|goals2=[[Branislav Ivanović|Ivanović]] {{goal|87}}
+|stadium=[[Estádio José Alvalade]], [[Lisbon]], Portugal
+|attendance=47,000
+|referee=[[Markus Merk]] ([[German Football Association|Germany]])
+|result=D
+}}
+
+{{Football box collapsible
+|date=13 October 2007
+|time=17:00 [[Western European Time|WET]]
+|team1={{fb-rt|Azerbaijan|1991}}
+|score=0–2
+|report=
+|round=[[UEFA Euro 2008 qualifying Group A|2008 EURO]] Q
+|team2={{fb|Portugal}}
+|goals2=[[Bruno Alves|Alves]] {{goal|12}}<br>[[Hugo Almeida|Almeida]] {{goal|45}}
+|stadium=[[Tofiq Bahramov Stadium]], [[Baku]], Azerbaijan
+|attendance=30,000
+|referee=[[Ivan Bebek]] ([[Croatian Football Federation|Croatia]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=17 October 2007
+|time=15:00 [[Western European Time|WET]]
+|team1={{fb-rt|Kazakhstan}}
+|score=1–2
+|report=
+|round=[[UEFA Euro 2008 qualifying Group A|2008 EURO]] Q
+|team2={{fb|Portugal}}
+|goals1=[[Dmitriy Byakov|Byakov]] {{goal|90+5}}
+|goals2=[[Ariza Makukula|Makukula]] {{goal|84}}<br>[[Cristiano Ronaldo|Ronaldo]] {{goal|90+1}}
+|stadium=[[Almaty Central Stadium]], [[Almaty]], Kazakhstan
+|attendance=25,000
+|referee=[[Jan Wegereef]] ([[Royal Dutch Football Association|Netherlands]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=17 November 2007
+|time=21:00 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=1–0
+|report=
+|round=[[UEFA Euro 2008 qualifying Group A|2008 EURO]] Q
+|team2={{fb|Armenia}}
+|goals1=[[Hugo Almeida|Almeida]] {{goal|40}}
+|stadium=[[Estádio Dr. Magalhães Pessoa]], [[Leiria]], Portugal
+|attendance=23,000
+|referee=[[Mike Riley (referee)|Mike Riley]] ([[The Football Association|England]])
+|result=W
+}}
+{{Football box collapsible
+|date=21 November 2007
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=0–0
+|report=
+|round=[[UEFA Euro 2008 qualifying Group A|2008 EURO]] Q
+|team2={{fb|Finland}}
+|stadium=[[Estádio do Dragão]], [[Porto]], Portugal
+|attendance=50,000
+|referee=[[Ľuboš Micheľ]] ([[Slovak Football Association|Slovakia]])
+|result=D
+}}
+
+===2008===
+{{Football box collapsible
+|date=6 February 2008
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|ITA}}
+|score=3–1
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Luca Toni|Toni]] {{goal|45+1}}<br>[[Fabio Cannavaro|Cannavaro]] {{goal|50}}<br>[[Fabio Quagliarella|Quagliarella]] {{goal|78}}
+|goals2=[[Ricardo Quaresma|Quaresma]] {{goal|77}}
+|stadium=[[Letzigrund]], [[Zürich]], Switzerland
+|attendance=30,500
+|referee=Sascha Kever ([[Swiss Football Association|Switzerland]])
+|result=L
+}}
+
+{{Football box collapsible
+|date=26 March 2008
+|time=19:30 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=1–2
+|report=
+|round=Friendly
+|team2={{fb|Greece}}
+|goals1=[[Nuno Gomes]] {{goal|75}}
+|goals2=[[Giorgos Karagounis|Karagounis]] {{goal|34||60}}
+|stadium=[[Esprit Arena]], [[Düsseldorf]], Germany
+|attendance=20,000
+|referee=[[Knut Kircher]] ([[German Football Association|Germany]])
+|result=L
+}}
+{{Football box collapsible
+|date=31 May 2008
+|time=18:15 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=2–0
+|report=
+|round=Friendly
+|team2={{fb|Georgia}}
+|goals1=[[João Moutinho|Moutinho]] {{goal|19}}<br>[[Simão Sabrosa|Simão]] {{goal|45|pen.}}
+|stadium=[[Estádio do Fontelo]], [[Viseu]], Portugal
+|attendance=8,500
+|referee=Levir Meir ([[Israel Football Association|Israel]])
+|result=W
+}}
+{{Football box collapsible
+|date=7 June 2008
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=2–0
+|report=
+|round=[[UEFA Euro 2008 Group A|2008 EURO]] GS
+|team2={{fb|Turkey}}
+|goals1=[[Pepe (footballer, born 1983)|Pepe]] {{goal|61}}<br>[[Raul Meireles|Meireles]] {{goal|90+3}}
+|stadium=[[Stade de Genève]], [[Geneva]], Switzerland
+|attendance=29,106
+|referee=[[Herbert Fandel]] ([[German Football Association|Germany]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=11 June 2008
+|time=17:00 [[Western European Time|WET]]
+|team1={{fb-rt|Czech Republic}}
+|score=1–3
+|report=
+|round=[[UEFA Euro 2008 Group A|2008 EURO]] GS
+|team2={{fb|Portugal}}
+|goals1=[[Libor Sionko|Sionko]] {{goal|17}}
+|goals2=[[Deco]] {{goal|8}}<br>[[Cristiano Ronaldo|Ronaldo]] {{goal|63}}<br>[[Ricardo Quaresma|Quaresma]] {{goal|90+1}}
+|stadium=[[Stade de Genève]], [[Geneva]], Switzerland
+|attendance=29,016
+|referee=[[Kyros Vassaras]] ([[Hellenic Football Federation|Greece]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=15 June 2008
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Switzerland}}
+|score=2–0
+|report=
+|round=[[UEFA Euro 2008 Group A|2008 EURO]] GS
+|team2={{fb|Portugal}}
+|goals1=[[Hakan Yakin|Yakin]] {{goal|71||83|pen.}}
+|stadium=[[St. Jakob-Park]], [[Basel]], Switzerland
+|attendance=39,730
+|referee=[[Konrad Plautz]] ([[Austrian Football Association|Austria]])
+|result=L
+}}
+
+{{Football box collapsible
+|date=19 June 2008
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=2–3
+|report=
+|round=[[UEFA Euro 2008 knockout stage|2008 EURO]] 1/4
+|team2={{fb|Germany}}
+|goals1=[[Nuno Gomes]] {{goal|40}}<br>[[Hélder Postiga|Postiga]] {{goal|87}}
+|goals2=[[Bastian Schweinsteiger|Schweinsteiger]] {{goal|22}}<br>[[Miroslav Klose|Klose]] {{goal|26}}<br>[[Michael Ballack|Ballack]] {{goal|61}}
+|stadium=[[St. Jakob-Park]], [[Basel]], Switzerland
+|attendance=39,374
+|referee=[[Peter Fröjdfeldt]] ([[Swedish Football Association|Sweden]])
+|result=L
+}}
+
+{{Football box collapsible
+|date=20 August 2008
+|time=20:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=5–0
+|report=
+|round=Friendly
+|team2={{fb|Faroe Islands}}
+|goals1=[[Carlos Martins (footballer)|Martins]] {{goal|23}}<br>[[Simão Sabrosa|Simão]] {{goal|48}}<br>[[Duda (footballer, born 1980)|Duda]] {{goal|86}}<br>[[Bruno Alves|Alves]] {{goal|89}}<br>[[Nani (footballer)|Nani]] {{goal|90+1}}
+|stadium=[[Estádio Municipal de Aveiro|Estádio Municipal]], [[Aveiro, Portugal|Aveiro]], Portugal
+|attendance=21,000
+|referee=Andriy Shandor ([[Football Federation of Ukraine|Ukraine]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=6 September 2008
+|time=19:00 [[Western European Time|WET]]
+|team1={{fb-rt|Malta}}
+|score=0–4
+|report=
+|round=[[2010 FIFA World Cup qualification – UEFA Group 1|2010 W.C.]] Q
+|team2={{fb|Portugal}}
+|goals2=[[Brian Said|Said]] {{goal|35|o.g.}}<br>[[Hugo Almeida|Almeida]] {{goal|61}}<br>[[Simão Sabrosa|Simão]] {{goal|71}}<br>[[Nani (footballer)|Nani]] {{goal|74}}
+|stadium=[[Ta' Qali National Stadium]], [[Ta' Qali]], Malta
+|attendance=11,000
+|referee=Kevin Blom ([[Royal Dutch Football Association|Netherlands]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=10 September 2008
+|time=20:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=2–3
+|report=
+|round=[[2010 FIFA World Cup qualification – UEFA Group 1|2010 W.C.]] Q
+|team2={{fb|Denmark}}
+|goals1=[[Nani (footballer)|Nani]] {{goal|42}}<br>[[Deco]] {{goal|86|pen.}}
+|goals2=[[Nicklas Bendtner|Bendtner]] {{goal|84}}<br>[[Christian Poulsen|Poulsen]] {{goal|90+1}}<br>[[Daniel Jensen|Jensen]] {{goal|90+3}}
+|stadium=[[Estádio José Alvalade]], [[Lisbon]], Portugal
+|attendance=33,000
+|referee=[[Howard Webb]] ([[The Football Association|England]])
+|result=L
+}}
+
+{{Football box collapsible
+|date=11 October 2008
+|time=19:00 [[Western European Time|WET]]
+|team1={{fb-rt|Sweden}}
+|score=0–0
+|report=
+|round=[[2010 FIFA World Cup qualification – UEFA Group 1|2010 W.C.]] Q
+|team2={{fb|Portugal}}
+|stadium=[[Råsunda Stadium]], [[Solna Municipality|Solna]], Sweden
+|attendance=33,241
+|referee=[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+|result=D
+}}
+
+{{Football box collapsible
+|date=15 October 2008
+|time=20:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=0–0
+|report=
+|round=[[2010 FIFA World Cup qualification – UEFA Group 1|2010 W.C.]] Q
+|team2={{fb|Albania}}
+|stadium=[[Estádio Municipal de Braga|Estádio Municipal]], [[Braga]], Portugal
+|attendance=29,500
+|referee=[[Knut Kircher]] ([[German Football Association|Germany]])
+|result=D
+}}
+
+{{Football box collapsible
+|date=19 November 2008
+|time=00:00 [[Western European Time|WET]]
+|team1={{fb-rt|Brazil}}
+|score=6–2
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Luís Fabiano]] {{goal|9||25||58}}<br>[[Maicon Sisenando|Maicon]] {{goal|56}}<br>[[Elano]] {{goal|65}}<br>[[Adriano (footballer, born February 1982)|Adriano]] {{goal|90}}
+|goals2=[[Danny (footballer)|Danny]] {{goal|4}}<br>[[Simão Sabrosa|Simão]] {{goal|62}}
+|stadium=[[Bezerrão]], [[Gama, Federal District|Gama]], Brazil
+|attendance=
+|referee=[[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguay]])
+|result=L
+}}
+
+===2009===
+{{Football box collapsible
+|date=11 February 2009
+|time=20:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=1–0
+|report=
+|round=Friendly
+|team2={{fb|Finland}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|78|pen.}}
+|stadium=[[Estádio Algarve]], [[Faro, Portugal|Faro]]/[[Loulé]], Portugal
+|attendance=19,834
+|referee=Carlos Bertolini ([[Swiss Football Association|Switzerland]])
+|result=W
+}}
+{{Football box collapsible
+|date=28 March 2009
+|time=20:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=0–0
+|report=
+|round=[[2010 FIFA World Cup qualification – UEFA Group 1|2010 W.C.]] Q
+|team2={{fb|Sweden}}
+|stadium=[[Estádio do Dragão]], [[Porto]], Portugal
+|attendance=40,200
+|referee=[[Frank De Bleeckere]] ([[Royal Belgian Football Association|Belgium]])
+|result=D
+}}
+
+{{Football box collapsible
+|date=31 March 2009
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=2–0
+|report=
+|round=Friendly
+|team2={{fb|South Africa}}
+|goals1=[[Bruno Alves|Alves]] {{goal|4}}<br>[[Edinho (footballer, born July 1982)|Edinho]] {{goal|56}}
+|stadium=[[Stade Olympique de la Pontaise]], [[Lausanne]], Switzerland
+|attendance=14,659
+|referee=[[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=6 June 2009
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Albania}}
+|score=1–2
+|report=
+|round=[[2010 FIFA World Cup qualification – UEFA Group 1|2010 W.C.]] Q
+|team2={{fb|Portugal}}
+|goals1=[[Erjon Bogdani|Bogdani]] {{goal|29}}
+|goals2=[[Hugo Almeida|Almeida]] {{goal|28}}<br>[[Bruno Alves|Alves]] {{goal|90+3}}
+|stadium=[[Qemal Stafa Stadium]], [[Tirana]], Albania
+|attendance=13,320
+|referee=[[Florian Meyer (referee)|Florian Meyer]] ([[German Football Association|Germany]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=10 June 2009
+|time=19:30 [[Western European Time|WET]]
+|team1={{fb-rt|Estonia}}
+|score=0–0
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|stadium=[[A. Le Coq Arena]], [[Tallinn]], Estonia
+|attendance=5,000
+|referee=Michael Svendsen ([[Danish Football Association|Denmark]])
+|result=D
+}}
+
+{{Football box collapsible
+|date=12 August 2009
+|time=19:30 [[Western European Time|WET]]
+|team1={{fb-rt|Liechtenstein}}
+|score=0–3
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals2=[[Hugo Almeida|Almeida]] {{goal|14||25}}<br>[[Raul Meireles|Meireles]] {{goal|22}}
+|stadium=[[Rheinpark Stadion]], [[Vaduz]], Liechtenstein
+|attendance=6,000
+|referee=Carlo Bertolini ([[Swiss Football Association|Switzerland]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=5 September 2009
+|time=19:00 [[Western European Time|WET]]
+|team1={{fb-rt|Denmark}}
+|score=1–1
+|report=
+|round=[[2010 FIFA World Cup qualification – UEFA Group 1|2010 W.C.]] Q
+|team2={{fb|Portugal}}
+|goals1=[[Nicklas Bendtner|Bendtner]] {{goal|41}}
+|goals2=[[Liédson]] {{goal|85}}
+|stadium=[[Parken Stadium]], [[Copenhagen]], Denmark
+|attendance=37,998
+|referee=[[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+|result=D
+}}
+
+{{Football box collapsible
+|date=9 September 2009
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Hungary}}
+|score=0–1
+|report=
+|round=[[2010 FIFA World Cup qualification – UEFA Group 1|2010 W.C.]] Q
+|team2={{fb|Portugal}}
+|goals2=[[Pepe (footballer, born 1983)|Pepe]] {{goal|9}}
+|stadium=[[Puskás Ferenc Stadium]], [[Budapest]], Hungary
+|attendance=42,000
+|referee=[[Stéphane Lannoy]] ([[French Football Federation|France]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=10 October 2009
+|time=20:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=3–0
+|report=
+|round=[[2010 FIFA World Cup qualification – UEFA Group 1|2010 W.C.]] Q
+|team2={{fb|Hungary}}
+|goals1=[[Simão Sabrosa|Simão]] {{goal|18||79}}<br>[[Liédson]] {{goal|74}}
+|stadium=[[Estádio da Luz]], [[Lisbon]], Portugal
+|attendance=50,115
+|referee=[[Alain Hamer]] ([[Luxembourg Football Federation|Luxembourg]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=14 October 2009
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=4–0
+|report=
+|round=[[2010 FIFA World Cup qualification – UEFA Group 1|2010 W.C.]] Q
+|team2={{fb|Malta}}
+|goals1=[[Nani (footballer)|Nani]] {{goal|14}}<br>[[Simão Sabrosa|Simão]] {{goal|45}}<br>[[Miguel Veloso|Veloso]] {{goal|52}}<br>[[Edinho (footballer, born July 1982)|Edinho]] {{goal|89}}
+|stadium=[[Estádio D. Afonso Henriques]], [[Guimarães]], Portugal
+|attendance=29,350
+|referee=[[Alan Kelly (referee)|Alan Kelly]] ([[Football Association of Ireland|Republic&nbsp;of&nbsp;Ireland]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=14 November 2009
+|time=20:30 [[Western European Time|WET]]
+|team1={{fb-rt|Portugal}}
+|score=1–0
+|report=
+|round=[[2010 FIFA World Cup qualification – UEFA second round|2010 W.C. P-O]]
+|team2={{fb|Bosnia and Herzegovina}}
+|goals1=[[Bruno Alves|Alves]] {{goal|31}}
+|stadium=[[Estádio da Luz]], [[Lisbon]], Portugal
+|attendance=60,588
+|referee=[[Martin Atkinson]] ([[The Football Association|England]])
+|result=W
+}}
+
+{{Football box collapsible
+|date=18 November 2009
+|time=19:45 [[Western European Time|WET]]
+|team1={{fb-rt|Bosnia and Herzegovina}}
+|score=0–1
+|aggregatescore=0–2
+|report=
+|round=[[2010 FIFA World Cup qualification – UEFA second round|2010 W.C. P-O]]
+|team2={{fb|Portugal}}
+|goals2=[[Raul Meireles|Meireles]] {{goal|56}}
+|stadium=[[Bilino Polje Stadium|Bilino Polje]], [[Zenica]], Bosnia and Herzegovina
+|attendance=15,000
+|referee=[[Roberto Rosetti]] ([[Italian Football Federation|Italy]])
+|result=W
+}}
+
+==2010s==
+===2010===
+{{Football box collapsible
+|date=3 March 2010
+|time=20:45 [[Western European Time|WET]]([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Portugal}}
+|score=2–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma122550/portugal_china/
+|round=Friendly
+|team2={{fb|China}}
+|goals1=[[Hugo Almeida|Almeida]] {{goal|36}}<br>[[Liédson]] {{goal|90+4}}
+|stadium=[[Estádio Cidade de Coimbra|Estádio Cidade]]
+|location= [[Coimbra]], Portugal
+|attendance=25,000
+|referee=[[Djamel Haimoudi]] ([[Algerian Football Federation|Algeria]])
+|result=W
+}}
+{{Football box collapsible
+|date=24 May 2010
+|time=19:30 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=0–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma129913/portugal_cape-verde-islands/
+|round=Friendly
+|team2={{fb|Cape Verde}}
+|stadium=[[Complexo Desportivo da Covilhã|Complexo Desportivo]]
+|location=[[Covilhã]], Portugal
+|attendance=2,000
+|referee=[[Carlos Clos Gómez]] ([[Royal Spanish Football Federation|Spain]])
+|result=D
+}}
+{{Football box collapsible
+|date=1 June 2010
+|time=19:30 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=3–1
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma126025/portugal_cameroon/
+|round=Friendly
+|team2={{fb|Cameroon}}
+|goals1=[[Raul Meireles|Meireles]] {{goal|32||47}}<br>[[Nani (footballer)|Nani]] {{goal|82}}
+|goals2=[[Pierre Webó|Webó]] {{goal|68}}
+|stadium=[[Complexo Desportivo da Covilhã|Complexo Desportivo]]
+|location= [[Covilhã]], Portugal
+|attendance=3,000
+|referee=[[Michael Weiner (referee)|Michael Weiner]] ([[German Football Association|Germany]])
+|result=W
+}}
+{{Football box collapsible
+|date=8 June 2010
+|time=16:30 [[South Africa Standard Time|SAST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Mozambique}}
+|score=0–3
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma129927/portugal_mozambique/
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals2=[[Danny (footballer)|Danny]] {{goal|52}}<br>[[Hugo Almeida|Almeida]] {{goal|75||83}}
+|stadium=[[Wanderers Stadium]] 
+|location=[[Johannesburg]], South Africa
+|attendance=34,000
+|referee=[[Matthew Dyer]] ([[South African Football Association|South Africa]])
+|result=W
+}}
+{{Football box collapsible
+|date=15 June 2010
+|time=16:00 [[South Africa Standard Time|SAST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Ivory Coast}}
+|score=0–0
+|report=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061489
+|round=[[2010 FIFA World Cup Group G|2010 FWC GS]]
+|team2={{fb|Portugal}}
+|stadium=[[Nelson Mandela Bay Stadium]]
+|location=[[Port Elizabeth]], South Africa
+|attendance=37,034
+|referee=[[Jorge Larrionda]] ([[Uruguayan Football Association|Uruguay]])
+|result=D
+}}
+{{Football box collapsible
+|date=21 June 2010
+|time=13:30 [[South Africa Standard Time|SAST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Portugal}}
+|score=7–0
+|report=https://www.fifa.com/en/match-centre/match/17/249715/249722/300061487
+|round=[[2010 FIFA World Cup Group G|2010 FWC GS]]
+|team2={{fb|North Korea}}
+|goals1=[[Raul Meireles|Meireles]] {{goal|29}}<br>[[Simão Sabrosa|Simão]] {{goal|53}}<br>[[Hugo Almeida|Almeida]] {{goal|56}}<br>[[Tiago Mendes|Tiago]] {{goal|60||89}}<br>[[Liédson]] {{goal|80}}<br>[[Cristiano Ronaldo|Ronaldo]] {{goal|87}}
+|stadium=[[Cape Town Stadium]]
+|location= [[Cape Town]], South Africa
+|attendance=63,644
+|referee=[[Pablo Pozo]] ([[Football Federation of Chile|Chile]])
+|result=W
+}}
+{{Football box collapsible
+|date=25 June 2010
+|time=16:00 [[South Africa Standard Time|SAST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Portugal}}
+|score=0–0
+|report=https://www.fifa.com/en/match-centre/match/17/249715/249722/300111111
+|round=[[2010 FIFA World Cup Group G|2010 FWC GS]]
+|team2={{fb|Brazil}}
+|stadium=[[Moses Mabhida Stadium]]
+|location=[[Durban]], South Africa
+|attendance=62,712
+|referee=[[Benito Archundia]] ([[Mexican Football Federation|Mexico]])
+|result=D
+}}
+{{Football box collapsible
+|date=29 June 2010
+|time=20:30 [[South Africa Standard Time|SAST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Spain}}
+|score=1–0
+|report=https://www.fifa.com/en/match-centre/match/17/249715/249717/300061498
+|round=[[2010 FIFA World Cup knockout stage#Round of 16|2010 FWC R16]] 
+|team2={{fb|Portugal}}
+|goals1=[[David Villa|Villa]] {{goal|63}}
+|stadium=[[Cape Town Stadium]]
+|location=[[Cape Town]], South Africa
+|attendance=62,955
+|referee=[[Héctor Baldassi]] ([[Argentine Football Association|Argentina]])
+|result=L
+}}
+{{Football box collapsible
+|date=3 September 2010
+|time=20:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=4–4
+|report=[https://www.uefa.com/uefaeuro/match/2002299--portugal-vs-cyprus/ Report]
+|round=[[UEFA Euro 2012 qualifying Group H|2012 EURO Q]]
+|team2={{fb|Cyprus}}
+|goals1=[[Hugo Almeida|Almeida]] {{goal|8}}<br>[[Raul Meireles|Meireles]] {{goal|28}}<br>[[Danny (footballer)|Danny]] {{goal|50}}<br>[[Manuel Fernandes (footballer, born 1986)|Fernandes]] {{goal|60}}
+|goals2=[[Efstathios Aloneftis|Aloneftis]] {{goal|3}}<br>[[Michalis Konstantinou|Konstantinou]] {{goal|10}}<br>[[Ioannis Okkas|Okkas]] {{goal|57}}<br>[[Andreas Avraam|Avraam]] {{goal|89}}
+|stadium=[[Estádio D. Afonso Henriques]]
+|location= [[Guimarães]], Portugal
+|attendance=9,100
+|referee=[[Mark Clattenburg]] ([[The Football Association|England]])
+|result=D
+}}
+{{Football box collapsible
+|date=7 September 2010
+|time=20:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Norway}}
+|score=1–0
+|report=[https://www.uefa.com/uefaeuro/match/2002305--norway-vs-portugal/ Report]
+|round=[[UEFA Euro 2012 qualifying Group H|2012 EURO Q]]
+|team2={{fb|Portugal}}
+|goals1=[[Erik Huseklepp|Huseklepp]] {{goal|21}}
+|stadium=[[Ullevaal Stadion]]
+|location=[[Oslo]], Norway
+|attendance=24,535
+|referee=[[Laurent Duhamel]] ([[French Football Federation|France]])
+|result=L
+}}
+{{Football box collapsible
+|date=8 October 2010
+|time=20:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]]) 
+|team1={{fb-rt|Portugal}}
+|score=3–1
+|report=[https://www.uefa.com/uefaeuro/match/2002297--portugal-vs-denmark/ Report]
+|round=[[UEFA Euro 2012 qualifying Group H|2012 EURO Q]]
+|team2={{fb|Denmark}}
+|goals1=[[Nani (footballer)|Nani]] {{goal|29||31}}<br>[[Cristiano Ronaldo|Ronaldo]] {{goal|85}}
+|goals2=[[Ricardo Carvalho|Carvalho]] {{goal|79|o.g.}}
+|stadium=[[Estádio do Dragão]]
+|location= [[Porto]], Portugal
+|attendance=27,117
+|referee=[[Eric Braamhaar]] ([[Royal Dutch Football Association|Netherlands]])
+|result=W
+}}
+{{Football box collapsible
+|date=12 October 2010
+|time=19:45 [[Greenwich Mean Time|GMT]] ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Iceland}}
+|score=1–3
+|report=[https://www.uefa.com/uefaeuro/match/2002313--iceland-vs-portugal/ Report]
+|round=[[UEFA Euro 2012 qualifying Group H|2012 EURO Q]]
+|team2={{fb|Portugal}}
+|goals1=[[Heiðar Helguson|Hulguson]] {{goal|18}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|3}}<br>[[Raul Meireles|Meireles]] {{goal|27}}<br>[[Hélder Postiga|Postiga]] {{goal|72}}
+|stadium=[[Laugardalsvöllur]]
+|location=[[Reykjavík]], Iceland
+|attendance=9,767
+|referee=[[Thomas Einwaller]] ([[Austrian Football Association|Austria]])
+|result=W
+}}
+{{Football box collapsible
+|date=17 November 2010
+|time=21:00 [[Western European Time|WET]] ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Portugal}}
+|score=4–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma253239/portugal_spain/
+|round=Friendly
+|team2={{fb|Spain}}
+|goals1=[[Carlos Martins (footballer)|Martins]] {{goal|45}}<br>[[Hélder Postiga|Postiga]] {{goal|49||68}}<br>[[Hugo Almeida|Almeida]] {{goal|90+3}}
+|stadium=[[Estádio da Luz]]
+|location= [[Lisbon]], Portugal
+|attendance=30,588
+|referee=[[Antony Gautier]] ([[French Football Federation|France]])
+|result=W
+}}
+
+===2011===
+{{Football box collapsible
+|date=9 February 2011
+|time=21:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Argentina}}
+|score=2–1
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma267279/argentina_portugal/
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Ángel Di María|Di María]] {{goal|14}}<br>[[Lionel Messi|Messi]] {{goal|90|pen.}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|21}}
+|stadium=[[Stade de Genève]]
+|location=[[Geneva]], Switzerland
+|attendance=30,000
+|referee=[[Massimo Busacca]] ([[Swiss Football Association|Switzerland]])
+|result=L
+}}
+{{Football box collapsible
+|date=26 March 2011
+|time=20:45 [[Western European Time|WET]] ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Portugal}}
+|score=1–1
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma262754/portugal_chile/
+|round=Friendly
+|team2={{fb|Chile}}
+|goals1=[[Silvestre Varela|Varela]] {{goal|16}}
+|goals2=[[Matías Fernández (footballer, born 1986)|Fernández]] {{goal|42}}
+|stadium=[[Estádio Dr. Magalhães Pessoa]]
+|location=[[Leiria]], Portugal
+|attendance=10,694
+|referee=[[Kevin Blom]] ([[Royal Dutch Football Association|Netherlands]])
+|result=D
+}}
+{{Football box collapsible
+|date=29 March 2011
+|time=20:45 [[Western European Time|WET]] ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Portugal}}
+|score=2–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma262757/portugal_finland/
+|round=Friendly
+|team2={{fb|Finland}}
+|goals1=[[Rúben Micael|Micael]] {{goal|10||71}}
+|stadium=[[Estádio Municipal de Aveiro|Estádio Municipal]]
+|location=[[Aveiro, Portugal|Aveiro]], Portugal
+|attendance=13,737
+|referee=[[Stephane Studer]] ([[Swiss Football Association|Switzerland]])
+|result=W
+}}
+{{Football box collapsible
+|date=4 June 2011
+|time=21:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=1–0
+|report=[https://www.uefa.com/uefaeuro/match/2002298--portugal-vs-norway/ Report]
+|round=[[UEFA Euro 2012 qualifying Group H|2012 EURO Q]]
+|team2={{fb|Norway}}
+|goals1=[[Hélder Postiga|Postiga]] {{goal|53}}
+|stadium=[[Estádio da Luz]]
+|location=[[Lisbon]], Portugal
+|attendance=47,829
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result=W
+}}
+{{Football box collapsible
+|date=10 August 2011
+|time=21:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=5–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma279909/portugal_luxembourg/
+|round=Friendly
+|team2={{fb|Luxembourg}}
+|goals1=[[Hélder Postiga|Postiga]] {{goal|26}}<br>[[Cristiano Ronaldo|Ronaldo]] {{goal|44}}<br>[[Fábio Coentrão|Coentrão]] {{goal|47}}<br>[[Hugo Almeida|Almeida]] {{goal|59||73}}
+|stadium=[[Estádio Algarve]]
+|location=[[Faro, Portugal|Faro]]/[[Loulé]], Portugal
+|attendance=21,283
+|referee=[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|result=W
+}}
+{{Football box collapsible
+|date=2 September 2011
+|time=21:45 [[Eastern European Summer Time|EEST]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|Cyprus}}
+|score=0–4
+|report=[https://www.uefa.com/uefaeuro/match/2002309--cyprus-vs-portugal/ Report]
+|round=[[UEFA Euro 2012 qualifying Group H|2012 EURO Q]]
+|team2={{fb|Portugal}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|35|pen.|82}}<br>[[Hugo Almeida|Almeida]] {{goal|84}}<br>[[Danny (footballer)|Danny]] {{goal|90+2}}
+|stadium=[[GSP Stadium]]
+|location=[[Nicosia]], Cyprus
+|attendance=15,444
+|referee=[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|result=W
+}}
+{{Football box collapsible
+|date=7 October 2011
+|time=21:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=5–3
+|report=[https://www.uefa.com/uefaeuro/match/2002300--portugal-vs-iceland/ Report]
+|round=[[UEFA Euro 2012 qualifying Group H|2012 EURO Q]]
+|team2={{fb|Iceland}}
+|goals1=[[Nani (footballer)|Nani]] {{goal|13||21}}<br>[[Hélder Postiga|Postiga]] {{goal|45}}<br>[[João Moutinho|Moutinho]] {{goal|81}}<br>[[Eliseu]] {{goal|87}}
+|goals2=[[Hallgrímur Jónasson|Jónasson]] {{goal|48||67}}<br>[[Gylfi Sigurðsson|Sigurðsson]] {{goal|90+4|pen.}}
+|stadium=[[Estádio do Dragão]]
+|location= [[Porto]], Portugal
+|attendance=35,715
+|referee=[[Bas Nijhuis]] ([[Royal Dutch Football Association|Netherlands]])
+|result=W
+}}
+{{Football box collapsible
+|date=11 October 2011
+|time=20:15 [[Central European Summer Time|CEST]]  ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Denmark}}
+|score=2–1
+|report=[https://www.uefa.com/uefaeuro/match/2002301--denmark-vs-portugal/ Report]
+|round=[[UEFA Euro 2012 qualifying Group H|2012 EURO Q]]
+|team2={{fb|Portugal}}
+|goals1=[[Michael Krohn-Dehli|Krohn-Dehli]] {{goal|13}}<br>[[Nicklas Bendtner|Bendtner]] {{goal|63}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|90+2}}
+|stadium=[[Parken Stadium]]
+|location= [[Copenhagen]], Denmark
+|attendance=37,012
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|result=L
+}}
+{{Football box collapsible
+|date=11 November 2011
+|time=20:00 [[Central European Time|CET]]  ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Bosnia and Herzegovina}}
+|score=0–0
+|report=[https://www.uefa.com/uefaeuro/match/2008827--bosnia-and-herzegovina-vs-portugal/ Report]
+|round=[[UEFA Euro 2012 qualifying play-offs|2012 EURO Q PO]]
+|team2={{fb|Portugal}}
+|stadium=[[Bilino Polje Stadium|Bilino Polje]]
+|location=[[Zenica]], Bosnia and Herzegovina
+|attendance=12,352
+|referee=[[Howard Webb]] ([[The Football Association|England]])
+|result=D
+}}
+{{Football box collapsible
+|date=15 November 2011
+|time=21:00 [[Western European Time|WET]]  ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Portugal}}
+|score=6–2
+|aggregatescore=6–2
+|report=[https://www.uefa.com/uefaeuro/match/2008831--portugal-vs-bosnia-and-herzegovina/ Report]
+|round=[[UEFA Euro 2012 qualifying play-offs|2012 EURO Q PO]]
+|team2={{fb|Bosnia and Herzegovina}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|8||53}}<br>[[Nani (footballer)|Nani]] {{goal|24}}<br>[[Hélder Postiga|Postiga]] {{goal|72||82}}<br>[[Miguel Veloso|Veloso]] {{goal|80}}
+|goals2=[[Zvjezdan Misimović|Misimović]] {{goal|41|pen.}}<br>[[Emir Spahić|Spahić]] {{goal|65}}
+|stadium=[[Estádio da Luz]]
+|location= [[Lisbon]], Portugal
+|attendance=47,728
+|referee=[[Wolfgang Stark]] ([[German Football Association|Germany]])
+|result=W
+}}
+
+===2012===
+{{Football box collapsible
+|date=29 February 2012
+|time=20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Poland}}
+|score=0–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma617697/poland_portugal/
+|round=Friendly
+|team2={{fb|Portugal}}
+|stadium=[[National Stadium, Warsaw|National Stadium]]
+|location=[[Warsaw]], Poland
+|attendance=53,179
+|referee=[[Alon Yefet]] ([[Israel Football Association|Israel]])
+|result=D
+}}
+{{Football box collapsible
+|date=26 May 2012
+|time=17:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=0–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma638166/portugal_north-macedonia/
+|round=Friendly
+|team2={{fb|Macedonia}}
+|stadium=[[Estádio Dr. Magalhães Pessoa]]
+|location=[[Leiria]], Portugal
+|attendance=19,332
+|referee=[[Alan Kelly (referee)|Alan Kelly]] ([[Football Association of Ireland|Ireland]])
+|result=D
+}}
+{{Football box collapsible
+|date=2 June 2012
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=1–3
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma646161/portugal_turkey/
+|round=Friendly
+|team2={{fb|Turkey}}
+|goals1=[[Nani (footballer)|Nani]] {{goal|57}}
+|goals2=[[Umut Bulut|Bulut]] {{goal|35||52}}<br>[[Pepe (footballer, born 1983)|Pepe]] {{goal|88|o.g.}}
+|stadium=[[Estádio da Luz]]
+|location=[[Lisbon]], Portugal
+|attendance=62,000
+|referee=[[Stephan Studer]] ([[Swiss Football Association|Switzerland]])
+|result=L
+}}
+{{Football box collapsible
+|date=9 June 2012
+|time=21:45 [[Eastern European Summer Time|EEST]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|Germany}}
+|score=1–0
+|report=https://www.uefa.com/uefaeuro/match/2003322/
+|round=[[UEFA Euro 2012 Group B|2012 EURO GS]]
+|team2={{fb|Portugal}}
+|goals1=[[Mario Gómez|Gómez]] {{goal|72}}
+|stadium=[[Arena Lviv]]
+|location=[[Lviv]], Ukraine
+|attendance=32,990
+|referee=[[Stéphane Lannoy]] ([[French Football Federation|France]])
+|result=L
+}}
+{{Football box collapsible
+|date=13 June 2012
+|time=19:00 [[Eastern European Summer Time|EEST]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|Denmark}}
+|score=2–3
+|report=https://www.uefa.com/uefaeuro/match/2003330/
+|round=[[UEFA Euro 2012 Group B|2012 EURO GS]]
+|team2={{fb|Portugal}}
+|goals1= [[Nicklas Bendtner|Bendtner]] {{goal|41||80}}
+|goals2=[[Pepe (footballer, born 1983)|Pepe]] {{goal|24}}<br />[[Hélder Postiga|Postiga]] {{goal|36}}<br />[[Silvestre Varela|Varela]] {{goal|87}}
+|stadium=[[Arena Lviv]]
+|location=[[Lviv]], Ukraine
+|attendance=31,840
+|referee=[[Craig Thomson (referee)|Craig Thomson]] ([[Scottish Football Association|Scotland]])
+|result=W
+}}
+{{Football box collapsible
+|date=17 June 2012
+|time=21:45 [[Eastern European Summer Time|EEST]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|Portugal}}
+|score=2–1
+|report=https://www.uefa.com/uefaeuro/match/2003337/
+|round=[[UEFA Euro 2012 Group B|2012 EURO GS]]
+|team2={{fb|Netherlands}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|28||74}}
+|goals2=[[Rafael van der Vaart|Van der Vaart]] {{goal|11}}
+|stadium=[[Metalist Stadium]]
+|location=[[Kharkiv]], Ukraine
+|attendance=37,445
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|result=W
+}}
+{{Football box collapsible
+|date=21 June 2012
+|time=20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Czech Republic}}
+|score=0–1
+|report=https://www.uefa.com/uefaeuro/match/2003343/
+|round=[[UEFA Euro 2012 knockout stage#Quarter-finals|2012 EURO QF]]
+|team2={{fb|Portugal}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|79}}
+|stadium=[[National Stadium, Warsaw|National Stadium]]
+|location=[[Warsaw]], Poland
+|attendance=55,590
+|referee=[[Howard Webb]] ([[The Football Association|England]])
+|result=W
+}}
+{{Football box collapsible
+|date=27 June 2012
+|time=21:45 [[Eastern European Summer Time|EEST]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|Portugal}}
+|score=0–0
+|aet=yes
+|report=https://www.uefa.com/uefaeuro/match/2003378/
+|round=[[UEFA Euro 2012 knockout stage#Semi-finals|2012 EURO SF]]
+|team2={{fb|Spain}}
+|stadium=[[Donbas Arena]]
+|location=[[Donetsk]], Ukraine
+|attendance=48,000
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result=D
+|penalties1=[[João Moutinho|Moutinho]] {{penmiss}}<br>[[Pepe (footballer, born 1983)|Pepe]] {{pengoal}}<br>[[Nani (footballer)|Nani]] {{pengoal}}<br>[[Bruno Alves|Alves]] {{penmiss}}
+|penaltyscore=2–4
+|penalties2={{penmiss}} [[Xabi Alonso|Alonso]]<br>{{pengoal}} [[Andrés Iniesta|Iniesta]]<br>{{pengoal}} [[Gerard Piqué|Piqué]]<br>{{pengoal}} [[Sergio Ramos|Ramos]]<br>{{pengoal}} [[Cesc Fàbregas|Fàbregas]]
+}}
+{{Football box collapsible
+|date=15 August 2012
+|time=21:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=2–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma1488198/portugal_panama/
+|round=Friendly
+|team2={{fb|Panama}}
+|goals1=[[Nélson Oliveira|Oliveira]] {{goal|30}}<br>[[Cristiano Ronaldo|Ronaldo]] {{goal|51}}
+|stadium=[[Estádio Algarve]]
+|location=[[Faro, Portugal|Faro]], Portugal
+|attendance=24,181
+|referee=[[César Muñiz Fernández]] ([[Royal Spanish Football Federation|Spain]])
+|result=W
+}}
+{{Football box collapsible
+|date=7 September 2012
+|time=20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Luxembourg}}
+|score=1–2
+|report=https://www.fifa.com/en/match-centre/match/17/254645/258394/300182299
+|round=[[2014 FIFA World Cup qualification – UEFA Group F|2014 FWC Q]]
+|team2={{fb|Portugal}}
+|goals1=[[Daniel da Mota|da Mota]] {{goal|14}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|27}}<br />[[Hélder Postiga|Postiga]] {{goal|54}}
+|stadium=[[Stade Josy Barthel]]
+|location=[[Luxembourg City]], Luxembourg
+|attendance=8,125
+|referee=[[Kristo Tohver]] ([[Estonian Football Association|Estonia]])
+|result=W
+}}
+{{Football box collapsible
+|date=11 September 2012
+|time=20:15 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=3–0
+|report=https://www.fifa.com/en/match-centre/match/17/254645/258394/300182279
+|round=[[2014 FIFA World Cup qualification – UEFA Group F|2014 FWC Q]]
+|team2={{fb|Azerbaijan|1991}}
+|goals1=[[Silvestre Varela|Varela]] {{goal|64}}<br />[[Hélder Postiga|Postiga]] {{goal|85}}<br />[[Bruno Alves|Alves]] {{goal|88}}
+|stadium=[[Estádio Municipal de Braga]]
+|location=[[Braga]], Portugal
+|attendance=29,971
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result=W
+}}
+{{Football box collapsible
+|date=12 October 2012
+|time=19:00 [[Moscow Time|MSD]] ([[UTC+04:00|UTC+4]])
+|team1={{fb-rt|Russia}}
+|score=1–0 
+|report=https://www.fifa.com/en/match-centre/match/17/254645/258394/300182275
+|round=[[2014 FIFA World Cup qualification – UEFA Group F|2014 FWC Q]]
+|team2={{fb|Portugal}}
+|goals1=[[Aleksandr Kerzhakov|Kerzhakov]] {{goal|6}}
+|stadium=[[Luzhniki Stadium]]
+|location=[[Moscow]], Russia
+|attendance=54,212
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|result=L
+}}
+{{Football box collapsible
+|date=16 October 2012
+|time=20:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=1–1
+|report=https://www.fifa.com/en/match-centre/match/17/254645/258394/300182300
+|round=[[2014 FIFA World Cup qualification – UEFA Group F|2014 FWC Q]]
+|team2={{fb|Northern Ireland}}
+|goals1=[[Hélder Postiga|Postiga]] {{goal|79}}
+|goals2=[[Niall McGinn|McGinn]] {{goal|30}}
+|stadium=[[Estádio do Dragão]]
+|location= [[Porto]], Portugal
+|attendance=48,711
+|referee=[[Thorsten Kinhöfer]] ([[German Football Association|Germany]])
+|result=D
+}}
+{{Football box collapsible
+|date=14 November 2012
+|time=20:30 [[West Africa Time|WAT]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Gabon}}
+|score=2–2
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma1488788/gabon_portugal/
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Lévy Madinda|Madinda]] {{goal|33|pen.}}<br />[[André Biyogo Poko|Poko]] {{goal|69|pen.}}
+|goals2=[[Pizzi (Portuguese footballer)|Pizzi]] {{goal|35|pen.}}<br />[[Hugo Almeida|Almeida]] {{goal|60}}
+|stadium=[[Stade d'Angondjé]]
+|location=[[Libreville]], Gabon
+|attendance=
+|referee=[[Joseph Lamptey]] ([[Ghana Football Association|Ghana]])
+|result=D
+}}
+
+===2013===
+{{Football box collapsible
+|date=6 February 2013
+|time=20:45 [[Western European Time|WET]] ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Portugal}}
+|score=2–3
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma1703025/portugal_ecuador/
+|round=Friendly
+|team2={{fb|Ecuador}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|23}}<br />[[Hélder Postiga|Postiga]] {{goal|60}}
+|goals2=[[Antonio Valencia|Valencia]] {{goal|2}}<br />[[João Pereira (footballer, born 1984)|Pereira]] {{goal|61|o.g.}} <br />[[Felipe Caicedo|Caicedo]] {{goal|70}}
+|stadium=[[Estádio D. Afonso Henriques]]
+|location=[[Guimarães]], Portugal
+|attendance=20,288
+|referee=[[Marijo Strahonja]] ([[Croatian Football Federation|Croatia]])
+|result=L
+}}
+{{Football box collapsible
+|date=22 March 2013
+|time=14:45 [[Israel Standard Time|IST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Israel}}
+|score=3–3 
+|report=https://www.fifa.com/en/match-centre/match/17/254645/258394/300182282
+|round=[[2014 FIFA World Cup qualification – UEFA Group F|2014 FWC Q]]
+|team2={{fb|Portugal}}
+|goals1=[[Tomer Hemed|Hemed]] {{goal|24}}<br>[[Eden Ben Basat|Ben Basat]] {{goal|40}}<br>[[Rami Gershon|Gershon]] {{goal|70}}
+|goals2=[[Bruno Alves|Alves]] {{goal|2}}<br>[[Hélder Postiga|Postiga]] {{goal|72}}<br>[[Fábio Coentrão|Coentrão]] {{goal|90+3}}
+|stadium=[[Ramat Gan Stadium]]
+|location=[[Ramat Gan]], Israel
+|attendance=41,583
+|referee=[[Stéphane Lannoy]] ([[French Football Federation|France]])
+|result=D
+}}
+{{Football box collapsible
+|date=26 March 2013
+|time=21:00 [[Time in Azerbaijan|AZT]] ([[UTC+04:00|UTC+4]])
+|team1={{fb-rt|Azerbaijan|1991}}
+|score=0–2
+|report=https://www.fifa.com/en/match-centre/match/17/254645/258394/258394/
+|round=[[2014 FIFA World Cup qualification – UEFA Group F|2014 FWC Q]]
+|team2={{fb|Portugal}}
+|goals2=[[Bruno Alves|Alves]] {{goal|63}}<br>[[Hugo Almeida|Almeida]] {{goal|79}}
+|stadium=[[Tofiq Bahramov Stadium]]
+|location=[[Baku]], Azerbaijan
+|attendance=24,558
+|referee=[[Andre Marriner]] ([[The Football Association|England]])
+|result=W
+}}
+{{Football box collapsible
+|date=7 June 2013
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=1–0
+|report=https://www.fifa.com/en/match-centre/match/17/254645/258394/300182291
+|round=[[2014 FIFA World Cup qualification – UEFA Group F|2014 FWC Q]]
+|team2={{fb|Russia}}
+|goals1=[[Hélder Postiga|Postiga]] {{goal|9}}
+|stadium=[[Estádio da Luz]]
+|location=[[Lisbon]], Portugal
+|attendance=54,697
+|referee=[[Damir Skomina]] ([[Football Association of Slovenia|Slovenia]])
+|result=W
+}}
+{{Football box collapsible
+|date=10 June 2013
+|time=19:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Croatia}}
+|score=0–1
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma1742006/croatia_portugal/
+|round=Friendly
+|team2= {{fb|Portugal}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|36}}
+|stadium=[[Stade de Genève]]
+|location=[[Geneva]], Switzerland
+|attendance=13,334
+|referee=[[Stephan Studer]] ([[Swiss Football Association|Switzerland]])
+|result=W
+}}
+{{Football box collapsible
+|date=14 August 2013
+|time=20:30 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=1–1
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma1742015/portugal_netherlands/
+|round=Friendly
+|team2= {{fb|Netherlands}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|87}}
+|goals2=[[Kevin Strootman|Strootman]] {{goal|17}}
+|stadium=[[Estádio Algarve]]
+|location=[[Faro, Portugal|Faro]], Portugal
+|attendance=29,021
+|referee=[[Paolo Mazzoleni]] ([[Italian Football Federation|Italy]])
+|result=D
+}}
+{{Football box collapsible
+|date=6 September 2013
+|time=19:45 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Northern Ireland}}
+|score=2–4
+|report=https://www.fifa.com/en/match-centre/match/17/254645/258394/300182272
+|round=[[2014 FIFA World Cup qualification – UEFA Group F|2014 FWC Q]]
+|team2={{fb|Portugal}}
+|goals1=[[Gareth McAuley|McAuley]] {{Goal|36}}<br> [[Jamie Ward|Ward]] {{Goal|52}}
+|goals2=[[Bruno Alves|Alves]] {{Goal|21}}<br> [[Cristiano Ronaldo|Ronaldo]] {{Goal|68||77||83}}
+|stadium=[[Windsor Park]]
+|location=[[Belfast]], Northern Ireland
+|attendance=12,001
+|referee=[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result=W
+}}
+{{Football box collapsible
+|date=9 September 2013
+|time=21:00 [[Eastern Time Zone|EDT]] ([[UTC-04:00|UTC-4]])
+|team1={{fb-rt|Portugal}}
+|score=1–3
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma1741768/brazil_portugal/
+|round=Friendly
+|team2= {{fb|Brazil}}
+|goals1=[[Raul Meireles|Meireles]] {{Goal|17}}
+|goals2=[[Thiago Silva|Silva]] {{Goal|24}}<br> [[Neymar]] {{Goal|34}}<br> [[Jô]] {{Goal|49}}
+|stadium=[[Gillette Stadium]]
+|location=[[Foxborough]], United States
+|attendance=62,310
+|referee=Juan Guzmán ([[United States Soccer Federation|United&nbsp;States]])
+|result=L
+}}
+{{Football box collapsible
+|date=11 October 2013
+|time=20:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=1–1
+|report=https://www.fifa.com/en/match-centre/match/17/254645/258394/300182298
+|round=[[2014 FIFA World Cup qualification – UEFA Group F|2014 FWC Q]]
+|team2={{fb|Israel}}
+|goals1=[[Ricardo Costa (footballer, born 1981)|Costa]] {{Goal|27}}
+|goals2=[[Eden Ben Basat|Ben Basat]] {{Goal|85}}
+|stadium=[[Estádio José Alvalade]]
+|location= [[Lisbon]], Portugal
+|attendance=48,317
+|referee=[[Tom Harald Hagen]] ([[Football Association of Norway|Norway]])
+|result=D
+}}
+{{Football box collapsible
+|date=15 October 2013
+|time=18:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=3–0
+|report=https://www.fifa.com/en/match-centre/match/17/254645/258394/300182290
+|round=[[2014 FIFA World Cup qualification – UEFA Group F|2014 FWC Q]]
+|team2={{fb|Luxembourg}}
+|goals1=[[Silvestre Varela|Varela]] {{goal|30}}<br /> [[Nani (footballer)|Nani]] {{goal|36}}<br /> [[Hélder Postiga|Postiga]] {{goal|78}}
+|stadium=[[Estádio Cidade de Coimbra]]
+|location=[[Coimbra]], Portugal
+|attendance=18,955
+|referee=[[Bülent Yıldırım (referee)|Bülent Yıldırım]] ([[Turkish Football Federation|Turkey]])
+|result=W
+}}
+{{Football box collapsible
+|date=15 November 2013
+|time=19:45 [[Western European Time|WET]] ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Portugal}}
+|score=1–0
+|report=https://www.fifa.com/en/match-centre/match/17/254645/258394/300261015
+|round=[[2014 FIFA World Cup qualification – UEFA second round|2014 FWC Q PO]] 
+|team2={{fb|Sweden}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|82}}
+|stadium=[[Estádio da Luz]]
+|location=[[Lisbon]], Portugal
+|attendance=61,467
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|result=W
+}}
+{{Football box collapsible
+|date=19 November 2013
+|time=20:45 [[Central European  Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Sweden}}
+|score=2–3
+|aggregatescore=2–4
+|report=https://www.fifa.com/en/match-centre/match/17/254645/258394/300261021
+|round=[[2014 FIFA World Cup qualification – UEFA second round|2014 FWC Q PO]] 
+|team2={{fb|Portugal}}
+|goals1=[[Zlatan Ibrahimović|Ibrahimović]] {{goal|68||72}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|50||77||79}}
+|stadium=[[Friends Arena]]
+|location=[[Solna Municipality|Solna]], Sweden
+|attendance=49,766
+|referee=[[Howard Webb]] ([[The Football Association|England]])
+|result=W
+}}
+
+===2014===
+{{Football box collapsible
+|date=5 March 2014
+|time=20:45 [[Western European Time|WET]]  ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Portugal}}
+|score=5–1
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma2193518/portugal_cameroon/
+|round=Friendly
+|team2={{fb|Cameroon}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|21||83}}<br /> [[Raul Meireles|Meireles]] {{goal|66}}<br /> [[Fábio Coentrão|Coentrão]] {{goal|67}}<br /> [[Edinho (footballer, born July 1982)|Edinho]] {{goal|77}}
+|goals2=[[Vincent Aboubakar|Aboubakar]] {{goal|43}}
+|stadium=[[Estádio Dr. Magalhães Pessoa]]
+|location=[[Leiria]], Portugal
+|attendance=21,335
+|referee=[[Andre Marriner]] ([[The Football Association|England]])
+|result=W
+}}
+{{Football box collapsible
+|date=31 May 2014
+|time=19:30 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=0–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma2188214/portugal_greece/
+|round=Friendly
+|team2={{fb|Greece}}
+|stadium=[[Estádio Nacional]]
+|location=[[Oeiras Municipality, Portugal|Oeiras]], Portugal
+|attendance=33,556
+|referee=[[Kevin Blom]] ([[Royal Dutch Football Association|Netherlands]])
+|result=D
+}}
+{{Football box collapsible
+|date=6 June 2014
+|time=20:30 [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC−4]])
+|team1={{fb-rt|Mexico}}
+|score=0–1
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma2199381/mexico_portugal/
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals2=[[Bruno Alves|Alves]] {{goal|90+3}}
+|stadium=[[Gillette Stadium]]
+|location=[[Foxborough]], United States
+|attendance=56,292
+|referee=[[Jeffrey Solis]] ([[Costa Rican Football Federation|Costa&nbsp;Rica]])
+|result=W
+}}
+{{Football box collapsible
+|date=10 June 2014
+|time=19:45 [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC−4]])
+|team1={{fb-rt|Republic of Ireland}}
+|score=1–5
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma2199382/ireland_portugal/
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[James McClean|McClean]] {{goal|52}}
+|goals2=[[Hugo Almeida|Almeida]] {{goal|2||37}}<br /> [[Richard Keogh|Keogh]] {{goal|20|o.g.}}<br/ > [[Vieirinha]] {{goal|77}}<br /> [[Fábio Coentrão|Coentrão]] {{goal|83}}
+|stadium=[[MetLife Stadium]]
+|location=[[East Rutherford]], United States
+|attendance=46,063
+|referee=[[Baldomero Toledo]] ([[United States Soccer Federation|United&nbsp;States]])
+|result=W
+}}
+{{Football box collapsible
+|date=16 June 2014
+|time=13:00 [[Brasília Time|BRT]] ([[UTC−03:00|UTC−3]])
+|team1={{fb-rt|Germany}}
+|score=4–0
+|report=https://www.fifa.com/en/match-centre/match/17/254645/255931/300186475
+|round=[[2014 FIFA World Cup Group G|2014 FWC GS]]
+|team2={{fb|Portugal}}
+|goals1=[[Thomas Müller|Müller]] {{goal|12|pen.|45+1||78}}<br />[[Mats Hummels|Hummels]] {{goal|32}}
+|stadium=[[Arena Fonte Nova]]
+|location=[[Salvador, Bahia|Salvador]], Brazil
+|attendance=51,081
+|referee=[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|result=L
+}}
+{{Football box collapsible
+|date=22 June 2014
+|time=18:00 [[Amazon Time|AMT]] ([[UTC−04:00|UTC−4]])
+|team1={{fb-rt|United States}}
+|score=2–2
+|report=https://www.fifa.com/en/match-centre/match/17/254645/255931/300186483
+|round=[[2014 FIFA World Cup Group G|2014 FWC GS]]
+|team2={{fb|Portugal}}
+|goals1=[[Jermaine Jones|Jones]] {{goal|64}}<br />[[Clint Dempsey|Dempsey]] {{goal|81}}
+|goals2=[[Nani (footballer)|Nani]] {{goal|5}}<br />[[Silvestre Varela|Varela]] {{goal|90+5}}
+|stadium=[[Arena Amazônia]]
+|location=[[Manaus]], Brazil
+|attendance=40,123
+|referee=[[Néstor Pitana]]  ([[Argentine Football Association|Argentina]])
+|result=D
+}}
+{{Football box collapsible
+|date=26 June 2014
+|time=13:00 [[Brasília Time|BRT]] ([[UTC−03:00|UTC−3]]) 
+|team1={{fb-rt|Portugal}}
+|score=2–1 
+|report=https://www.fifa.com/en/match-centre/match/17/254645/255931/300186476
+|round=[[2014 FIFA World Cup Group G|2014 FWC GS]]
+|team2={{fb|Ghana}}
+|goals1=[[John Boye|Boye]] {{goal|31|o.g.}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|80}}
+|goals2=[[Asamoah Gyan|Gyan]] {{goal|57}}
+|stadium=[[Estádio Nacional Mané Garrincha]]
+|location=[[Brasília]], Brazil
+|attendance=67,540
+|referee=[[Nawaf Shukralla]]  ([[Bahrain Football Association|Bahrain]])
+|result=W
+}}
+{{Football box collapsible
+|date=7 September 2014
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=0–1 
+|report=https://www.uefa.com/uefaeuro/match/2013821--portugal-vs-albania/
+|round=[[UEFA Euro 2016 qualifying Group I|2016 EURO Q]]
+|team2={{fb|Albania}}
+|goals2=[[Bekim Balaj|Balaj]] {{goal|52}}
+|stadium=[[Estádio Municipal de Aveiro]]
+|location=[[Aveiro, Portugal|Aveiro]], Portugal
+|attendance=23,205
+|referee=[[Ruddy Buquet]] ([[French Football Association|France]])
+|result=L
+}}
+{{Football box collapsible
+|date=11 October 2014
+|time=20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|France|1974}}
+|score=2–1 
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma2207096/france_portugal/
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Karim Benzema|Benzema]] {{goal|3}} <br />[[Paul Pogba|Pogba]] {{goal|69}}
+|goals2=[[Ricardo Quaresma|Quaresma]] {{goal|77|pen.}}
+|stadium=[[Stade de France]]
+|location=[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France
+|attendance=75,000
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result=L
+}}
+{{Football box collapsible
+|date=14 October 2014
+|time=20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Denmark}}
+|score=0–1 
+|report=https://www.uefa.com/uefaeuro/match/2013889--denmark-vs-portugal/
+|round=[[UEFA Euro 2016 qualifying Group I|2016 EURO Q]]
+|team2={{fb|Portugal}}
+|goals1=
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|90+5}}
+|stadium=[[Telia Parken]]
+|location=[[Copenhagen]], Denmark
+|attendance=36,562
+|referee=[[Felix Brych]] ([[German Football Association|Germany]])
+|result=W
+}}
+{{Football box collapsible
+|date=14 November 2014
+|time=19:45 [[Western European Time|WET]] ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Portugal}}
+|score=1–0 
+|report=https://www.uefa.com/uefaeuro/match/2013898--portugal-vs-armenia/
+|round=[[UEFA Euro 2016 qualifying Group I|2016 EURO Q]]
+|team2={{fb|Armenia}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|72}}
+|stadium=[[Estádio Algarve]]
+|location=[[Faro, Portugal|Faro]], Portugal
+|attendance=21,042
+|referee=[[Anastasios Sidiropoulos]] ([[Greek Football Association|Greece]])
+|result=W
+}}
+{{Football box collapsible
+|date=18 November 2014
+|time=19:45 [[Greenwich Mean Time|GMT]] ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Argentina}}
+|score=0–1 
+|report=
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals2=[[Raphaël Guerreiro|Guerreiro]] {{goal|90+1}}
+|stadium=[[Old Trafford]]
+|location=[[Manchester]], England
+|attendance=41,233
+|referee=[[Martin Atkinson]] ([[English Football Association|England]])
+|result=W
+}}
+
+===2015===
+{{Football box collapsible
+|date=29 March 2015
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=2–1
+|report=https://www.uefa.com/uefaeuro/match/2013943--portugal-vs-serbia/
+|round=[[UEFA Euro 2016 qualifying Group I|2016 EURO Q]]
+|team2={{fb|Serbia}}
+|goals1=[[Ricardo Carvalho|Carvalho]] {{goal|10}} <br /> [[Fábio Coentrão|Coentrão]] {{goal|63}}
+|goals2=[[Nemanja Matić|Matić]] {{goal|61}}
+|stadium=[[Estádio da Luz]]
+|location=[[Lisbon]], Portugal
+|attendance=58,430
+|referee=[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|result=W
+}}
+{{Football box collapsible
+|date=31 March 2015
+|time=20:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=0–2
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma2352310/portugal_cape-verde-islands/
+|round=Friendly
+|team2={{fb|Cape Verde}}
+|goals2=[[Odaïr Fortes|Fortes]] {{goal|38}} <br /> [[Gegé]] {{goal|43}}
+|stadium=[[Estádio António Coimbra da Mota]]
+|location=[[Estoril]], Portugal
+|attendance=15,000
+|referee=[[Ovidiu Haţegan]] ([[Romanian Football Federation|Romania]])
+|result=L
+}}
+{{Football box collapsible
+|date=13 June 2015
+|time=20:00 [[Armenia Time|AMT]] ([[UTC+04:00|UTC+4]])
+|team1={{fb-rt|Armenia}}
+|score=2–3
+|report=https://www.uefa.com/uefaeuro/match/2013959--armenia-vs-portugal/
+|round=[[UEFA Euro 2016 qualifying Group I|2016 EURO Q]]
+|team2={{fb|Portugal}}
+|goals1=[[Marcos Pizzelli|Pizzelli]] {{goal|14}} <br /> [[Hrayr Mkoyan|Mkoyan]] {{goal|72}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{Goal|29|pen.|55||58}}
+|stadium=[[Vazgen Sargsyan Republican Stadium|Republican Stadium]]
+|location=[[Yerevan]], Armenia
+|attendance=14,527
+|referee=[[Serge Gumienny]] ([[Royal Belgian Football Association|Belgium]])
+|result=W
+}}
+{{Football box collapsible
+|date=16 June 2015
+|time=20:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Portugal}}
+|score=1–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma2339990/italy_portugal/
+|round=Friendly
+|team2={{fb|Italy}}
+|goals1=[[Éder (Portuguese footballer)|Éder]] {{goal|52}}
+|stadium=[[Stade de Genève]]
+|location=[[Genève]], Switzerland
+|attendance=18,024
+|referee=[[Stephan Studer]] ([[Swiss Football Association|Switzerland]])
+|result=W
+}}
+{{Football box collapsible
+|date=4 September 2015
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=0–1
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma2209673/portugal_france/
+|round=Friendly
+|team2={{fb|France|1974}}
+|goals2=[[Mathieu Valbuena|Valbuena]] {{goal|85}}
+|stadium=[[Estádio José Alvalade]]
+|location=[[Lisbon]], Portugal
+|attendance=39,853
+|referee=[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result=L
+}}
+{{Football box collapsible
+|date=7 September 2015
+|time=20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Albania}}
+|score=0–1
+|report=https://www.uefa.com/uefaeuro/match/2014012--albania-vs-portugal/
+|round=[[UEFA Euro 2016 qualifying Group I|2016 EURO Q]]
+|team2={{fb|Portugal}}
+|goals2=[[Miguel Veloso|Veloso]] {{goal|90+2}}
+|stadium=[[Elbasan Arena]]
+|location=[[Elbasan]], Albania
+|attendance=12,121
+|referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+|result=W
+}}
+{{Football box collapsible
+|date=8 October 2015
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=1–0
+|report=https://www.uefa.com/uefaeuro/match/2014029--portugal-vs-denmark/
+|round=[[UEFA Euro 2016 qualifying Group I|2016 EURO Q]]
+|team2={{fb|Denmark}}
+|goals1=[[João Moutinho|Moutinho]] {{goal|66}}
+|stadium=[[Estádio Municipal de Braga]]
+|location=[[Braga]], Portugal
+|attendance=29,860
+|referee=[[Mark Clattenburg]] ([[The Football Association|England]])
+|result=W
+}}
+{{Football box collapsible
+|date=11 October 2015
+|time=18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Serbia}}
+|score=1–2
+|report=https://www.uefa.com/uefaeuro/match/2014055--serbia-vs-portugal/
+|round=[[UEFA Euro 2016 qualifying Group I|2016 EURO Q]] 
+|team2={{fb|Portugal}}
+|goals1=[[Zoran Tošić|Tošić]] {{goal|65}}
+|goals2=[[Nani (footballer)|Nani]] {{goal|5}} <br /> [[João Moutinho|Moutinho]] {{goal|78}}
+|stadium=[[Partizan Stadium]]
+|location=[[Belgrade]], Serbia
+|attendance=7,485
+|referee=[[David Fernández Borbalán]] ([[Royal Spanish Football Federation|Spain]])
+|result=W
+}}
+{{Football box collapsible
+|date=14 November 2015
+|time=17:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|Russia}}
+|score=1–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma2496286/russia_portugal/
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals1=[[Roman Shirokov|Shirokov]] {{goal|89}}
+|stadium=[[Kuban Stadium]]
+|location=[[Krasnodar]], Russia
+|attendance=32,000
+|referee=[[Milorad Mažić]] ([[Football Association of Serbia|Serbia]])
+|result=L
+}}
+{{Football box collapsible
+|date=17 November 2015
+|time=20:30 [[Central European Summer Time|CEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Luxembourg}}
+|score=0–2
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma2496291/luxembourg_portugal/
+|round=Friendly
+|team2={{fb|Portugal}}
+|goals2=[[André André|André]] {{goal|31}} <br /> [[Nani (footballer)|Nani]] {{goal|88}}
+|stadium=[[Stade Josy Barthel]]
+|location=[[Luxembourg City]], Luxembourg
+|attendance=8,031
+|referee=[[Tony Chapron]] ([[French Football Federation|France]])
+|result=W
+}}
+
+===2016===
+{{Football box collapsible
+|date=25 March 2016
+|time=20:45 [[Western European Time|WET]] ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Portugal}}
+|score=0–1
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma2522927/portugal_bulgaria/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|Bulgaria}}
+|goals2=[[Marcelo Nascimento da Costa|Marcelinho]] {{goal|19}}
+|stadium=[[Estádio Dr. Magalhães Pessoa]]
+|location=[[Leiria]], Portugal
+|attendance=19,355
+|referee=[[Carlos Clos Gómez]] ([[Royal Spanish Football Federation|Spain]])
+|result=L
+}}
+{{Football box collapsible
+|date=29 March 2016
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=2–1
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma2522928/portugal_belgium/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|Belgium}}
+|goals1=[[Nani (footballer)|Nani]] {{goal|20}}<br>[[Cristiano Ronaldo|Ronaldo]] {{goal|40}}
+|goals2=[[Romelu Lukaku|Lukaku]] {{goal|62}}
+|stadium=[[Estádio Dr. Magalhães Pessoa]]
+|location=[[Leiria]], Portugal
+|attendance=21,157
+|referee=[[Stephan Klossner]] ([[Swiss Football Association|Switzerland]])
+|result=W
+}}
+{{Football box collapsible
+|date=29 May 2016
+|time=20:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=3–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma2525621/portugal_norway/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|Norway}}
+|goals1=[[Ricardo Quaresma|Quaresma]] {{goal|13}}<br>[[Raphaël Guerreiro|Guerreiro]] {{goal|65}}<br>[[Eder (Portuguese footballer)|Eder]] {{goal|70}}
+|stadium=[[Estádio do Dragão]]
+|location=[[Porto]], Portugal
+|attendance=34,275
+|referee=[[Padraig Sutton]] ([[Football Association of Ireland|Ireland]])
+|result=W
+}}
+{{Football box collapsible
+|date=2 June 2016
+|time=19:45 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|England}}
+|score=1–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma8224785/england_portugal/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|Portugal}}
+|goals1=[[Chris Smalling|Smalling]] {{goal|86}}
+|stadium=[[Wembley Stadium]]
+|location=[[London]], England
+|attendance=82,503
+|referee=[[Marco Guida]] ([[Italian Football Federation|Italy]])
+|result=L
+}}
+{{Football box collapsible
+|date=8 June 2016
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=7–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma8224788/portugal_estonia/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|Estonia}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|36||45}}<br>[[Ricardo Quaresma|Quaresma]] {{goal|39||77}}<br>[[Danilo Pereira (Portuguese footballer)|Danilo]] {{goal|55}}<br>[[Karol Mets|Mets]] {{goal|61|o.g.}}<br>[[Eder (Portuguese footballer)|Eder]] {{goal|80}}
+|stadium=[[Estádio da Luz]]
+|location=[[Lisbon]], Portugal
+|attendance=52,536
+|referee=[[Bart Vertenten]] ([[Royal Belgian Football Association|Belgium]])
+|result=W
+}}
+{{Football box collapsible
+|date=14 June 2016
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Portugal}}
+|score=1–1
+|report=https://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017959/index.html
+|round=[[UEFA Euro 2016 Group F|2016 EURO GS]]
+|team2={{fb|Iceland}}
+|goals1=[[Nani (footballer)|Nani]] {{goal|31}}
+|goals2=[[Birkir Bjarnason|B. Bjarnason]] {{goal|50}}
+|stadium=[[Stade Geoffroy-Guichard]]
+|location=[[Saint-Étienne]], France
+|attendance=38,742
+|referee=[[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result=D
+}}
+{{Football box collapsible
+|date=18 June 2016
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Portugal}}
+|score=0–0
+|report=https://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017961/index.html
+|round=[[UEFA Euro 2016 Group F|2016 EURO GS]]
+|team2={{fb|Austria}}
+|stadium=[[Parc des Princes]]
+|location=[[Paris]], France
+|attendance=44,291
+|referee=[[Nicola Rizzoli]] ([[Italian Football Federation|Italy]])
+|result=D
+}}
+{{Football box collapsible
+|date=22 June 2016
+|time=18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Hungary}}
+|score=3–3
+|report=https://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017964/index.html
+|round=[[UEFA Euro 2016 Group F|2016 EURO GS]]
+|team2={{fb|Portugal}}
+|goals1=
+*[[Zoltán Gera|Gera]] {{goal|19}}
+*[[Balázs Dzsudzsák|Dzsudzsák]] {{goal|47||55}}
+|goals2=
+*[[Nani (footballer)|Nani]] {{goal|42}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|50||62}}
+|stadium=[[Parc Olympique Lyonnais]]
+|location=[[Décines-Charpieu]], France
+|attendance=55,514
+|referee=[[Martin Atkinson]] ([[The Football Association|England]])
+|result=D
+}}
+{{football box collapsible
+|date=25 June 2016
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Croatia}}
+|score=0–1
+|aet=yes
+|report=https://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017998/index.html
+|round=[[UEFA Euro 2016 knockout phase#Round of 16|2016 EURO R16]]
+|team2={{fb|Portugal}}
+|goals2=[[Ricardo Quaresma|Quaresma]] {{goal|117}}
+|stadium=[[Stade Bollaert-Delelis]]
+|location=[[Lens, Pas-de-Calais|Lens]], France
+|attendance=33,523
+|referee=[[Carlos Velasco Carballo]] ([[Royal Spanish Football Federation|Spain]])
+|result=W
+}}
+{{football box collapsible
+|date=30 June 2016
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Portugal}}
+|score=1–1
+|aet=yes
+|report=https://www.uefa.com/uefaeuro/season=2016/matches/round=2000449/match=2017901/index.html
+|round=[[UEFA Euro 2016 knockout phase#Quarter-finals|2016 EURO QF]]
+|team2={{fb|Poland}}
+|goals1=[[Renato Sanches|Sanches]] {{goal|33}}
+|goals2=[[Robert Lewandowski|Lewandowski]] {{goal|2}}
+|stadium=[[Stade Vélodrome]]
+|location=[[Marseille]], France
+|attendance=62,940
+|referee=[[Felix Brych]] ([[German Football Association|Germany]])
+|penaltyscore=5–3
+|penalties1=
+*[[Cristiano Ronaldo|Ronaldo]] {{pengoal}}
+*[[Renato Sanches|Sanches]] {{pengoal}}
+*[[João Moutinho|Moutinho]] {{pengoal}}
+*[[Nani (footballer)|Nani]] {{pengoal}}
+*[[Ricardo Quaresma|Quaresma]] {{pengoal}}
+|penalties2=
+*{{pengoal}} [[Robert Lewandowski|Lewandowski]]
+*{{pengoal}} [[Arkadiusz Milik|Milik]]
+*{{pengoal}} [[Kamil Glik|Glik]]
+*{{penmiss}} [[Jakub Błaszczykowski|Błaszczykowski]]
+|result=D
+}}
+{{football box collapsible
+|date=6 July 2016
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Portugal}}
+|score=2–0
+|report=https://www.uefa.com/uefaeuro/season=2016/matches/round=2000450/match=2017905/index.html
+|round=[[UEFA Euro 2016 knockout phase#Semi-finals|2016 EURO SF]]
+|team2={{fb|Wales}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|50}}<br>[[Nani (footballer)|Nani]] {{goal|53}}
+|stadium=[[Parc Olympique Lyonnais]]
+|location=[[Décines-Charpieu]], France
+|attendance=55,679
+|referee=[[Jonas Eriksson (referee)|Jonas Eriksson]] ([[Swedish Football Association|Sweden]])
+|result=W
+}}
+{{football box collapsible
+|date=10 July 2016
+|time=21:00 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Portugal}}
+|score=1–0
+|aet=yes
+|report=https://www.uefa.com/uefaeuro/season=2016/matches/round=2000451/match=2017907/index.html
+|round=[[UEFA Euro 2016 Final|2016 EURO F]]
+|team2={{fb|FRA|1974}}
+|goals1=[[Eder (Portuguese footballer)|Eder]] {{goal|109}}
+|stadium=[[Stade de France]]
+|location=[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France
+|attendance=75,868
+|referee=[[Mark Clattenburg]] ([[The Football Association|England]])
+|result=W
+}}
+{{football box collapsible
+|date=1 September 2016
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=5–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma8290400/portugal_gibraltar/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|Gibraltar}}
+|goals1=
+*[[Nani (footballer)|Nani]] {{goal|27||55}}
+*[[João Cancelo|Cancelo]] {{goal|73}}
+*[[Bernardo Silva|B. Silva]] {{goal|76}}
+*[[Pepe (footballer, born 1983)|Pepe]] {{goal|79}}
+|stadium=[[Estádio do Bessa]]
+|location=[[Porto]], Portugal
+|attendance=22,238
+|referee=Erez Papir ([[Israel Football Association|Israel]])
+|result=W
+}}
+{{football box collapsible
+|date=6 September 2016
+|time=20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Switzerland}}
+|score=2–0
+|report=https://www.fifa.com/en/match-centre/match/17/254645/276483/300331916
+|round=[[2018 FIFA World Cup qualification&nbsp;– UEFA Group B|2018 FWC Q]]
+|team2={{fb|Portugal}}
+|goals1=[[Breel Embolo|Embolo]] {{goal|24}}<br>[[Admir Mehmedi|Mehmedi]] {{goal|30}}
+|stadium=[[St. Jakob-Park]]
+|location=[[Basel]], Switzerland
+|attendance=36,000
+|referee=[[Antonio Mateu Lahoz]] ([[Royal Spanish Football Federation|Spain]])
+|result=L
+}}
+{{football box collapsible
+|date=7 October 2016
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=6–0
+|report=https://www.fifa.com/en/match-centre/match/17/254645/276483/300331913
+|round=[[2018 FIFA World Cup qualification&nbsp;– UEFA Group B|2018 FWC Q]]
+|team2={{fb|Andorra}}
+|goals1=
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|2||4||47||68}}
+*[[Joao Cancelo|Cancelo]] {{goal|44}}
+*[[André Silva (footballer, born 1995)|A. Silva]] {{goal|86}}
+|stadium=[[Estádio Municipal de Aveiro]]
+|location=[[Aveiro, Portugal|Aveiro]], Portugal
+|attendance=25,120
+|referee=[[Oliver Drachta]] ([[Austrian Football Association|Austria]])
+|result=W
+}}
+{{football box collapsible
+|date=10 October 2016
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Faroe Islands}}
+|score=0–6
+|report=https://www.fifa.com/en/match-centre/match/17/254645/276483/match=300331911
+|round=[[2018 FIFA World Cup qualification&nbsp;– UEFA Group B|2018 FWC Q]]
+|team2={{fb|Portugal}}
+|goals2=
+*[[André Silva (footballer, born 1995)|A. Silva]] {{goal|12||22||37}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|65}}
+*[[João Moutinho|Moutinho]] {{goal|90+1}}
+*[[João Cancelo|Cancelo]] {{goal|90+3}}
+|stadium=[[Tórsvøllur]]
+|location=[[Tórshavn]], Faroe Islands
+|attendance=4,780
+|referee=[[Gediminas Mažeika]] ([[Lithuanian Football Federation|Lithuania]])
+|result=W
+}}
+{{football box collapsible
+|date=13 November 2016
+|time=19:45 [[Western European Time|WET]] ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Portugal}}
+|score=4–1
+|report=https://www.fifa.com/en/match-centre/match/17/254645/276483/300331909
+|round=[[2018 FIFA World Cup qualification&nbsp;– UEFA Group B|2018 FWC Q]]
+|team2={{fb|Latvia}}
+|goals1=
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|28|pen.|85}}
+*[[William Carvalho|Carvalho]] {{goal|70}}
+*[[Bruno Alves|Alves]] {{goal|90+2}}
+|goals2=[[Artūrs Zjuzins|Zjuzins]] {{goal|67}}
+|stadium=[[Estádio Algarve]]
+|location=[[Faro, Portugal|Faro]]/[[Loulé]], Portugal
+|attendance=20,744
+|referee=[[Bobby Madden]] ([[Scottish Football Association|Scotland]])
+|result=W
+}}
+
+===2017===
+{{football box collapsible
+|date=25 March 2017
+|time=19:45 [[Western European Time|WET]] ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Portugal}}
+|score=3–0
+|report=https://www.fifa.com/en/match-centre/match/17/254645/276483/300331935
+|round=[[2018 FIFA World Cup qualification&nbsp;– UEFA Group B|2018 FWC Q]]
+|team2={{fb|Hungary}}
+|goals1=
+*[[André Silva (footballer, born 1995)|A. Silva]] {{goal|32}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|36||65}}
+|stadium=[[Estádio da Luz]]
+|location=[[Lisbon]], Portugal
+|attendance=57,817
+|referee=[[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result=W
+}}
+{{football box collapsible
+|date=28 March 2017
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=2–3
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma8377430/portugal_sweden/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|Sweden}}
+|goals1=
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|18|}}
+*[[Andreas Granqvist|Granqvist]] {{goal|34|o.g.}}
+|goals2=
+*[[Viktor Claesson|Claesson]] {{goal|57||76}}
+*[[João Cancelo|Cancelo]] {{goal|90+3|o.g.}}
+|stadium=[[Estádio do Marítimo]]
+|location=[[Funchal]], Portugal
+|attendance=10,415
+|referee=[[Clément Turpin]] ([[French Football Federation|France]])
+|result=L
+}}
+{{football box collapsible
+|date=3 June 2017
+|time=16:00 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=4–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma8397464/portugal_cyprus/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|Cyprus}}
+|goals1=
+*[[João Moutinho|Moutinho]] {{goal|3||42}}
+*[[Pizzi (Portuguese footballer)|Pizzi]] {{goal|63}}
+*[[André Silva (footballer, born 1995)|A. Silva]] {{goal|70}}
+|stadium=[[Estádio António Coimbra da Mota]]
+|location=[[Estoril]], Portugal
+|attendance=5,128
+|referee=[[Davide Massa]] ([[Italian Football Federation|Italy]])
+|result=W
+}}
+{{football box collapsible
+|date=9 June 2017
+|time=21:45 [[Eastern European Summer Time|EEST]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|Latvia}}
+|score=0–3
+|report=https://www.fifa.com/en/match-centre/match/17/254645/276483/300331941
+|round=[[2018 FIFA World Cup qualification&nbsp;– UEFA Group B|2018 FWC Q]]
+|team2={{fb|Portugal}}
+|goals2=
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|41||63}}
+*[[André Silva (footballer, born 1995)|A. Silva]] {{goal|67}}
+|stadium=[[Skonto Stadium]]
+|location=[[Riga]], Latvia
+|attendance=8,087
+|referee=[[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+|result=W
+}}
+{{football box collapsible
+|date=18 June 2017
+|time=18:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|Portugal}}
+|score=2–2
+|report=https://www.fifa.com/en/match-centre/match/17/254645/275093/300334878
+|round=[[2017 FIFA Confederations Cup Group A|2017 FCC GS]]
+|team2={{fb|Mexico}}
+|goals1=
+*[[Ricardo Quaresma|Quaresma]] {{goal|34}}
+*[[Cédric Soares|Cédric]] {{goal|86}}
+|goals2=
+*[[Javier Hernández|Hernández]] {{goal|42}}
+*[[Héctor Moreno|Moreno]] {{goal|90+1}}
+|stadium=[[Kazan Arena]]
+|location=[[Kazan]], Russia
+|attendance=34,372
+|referee=[[Néstor Pitana]] ([[Argentine Football Association|Argentina]])
+|result=D
+}}
+{{football box collapsible
+|date=21 June 2017
+|time=18:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|round=[[2017 FIFA Confederations Cup Group A|2017 FCC GS]]
+|team1={{fb-rt|Russia}}
+|score=0–1
+|report=https://www.fifa.com/en/match-centre/match/17/254645/275093/300334877
+|team2={{fb|Portugal}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|8}}
+|stadium=[[Otkrytiye Arena]]
+|location=[[Moscow]], Russia
+|attendance=42,759
+|referee=[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|result=W
+}}
+{{football box collapsible
+|date=24 June 2017
+|time=18:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|New Zealand}}
+|score=0–4
+|report=https://www.fifa.com/en/match-centre/match/17/254645/275093/300334887
+|round=[[2017 FIFA Confederations Cup Group A|2017 FCC GS]]
+|team2={{fb|Portugal}}
+|goals2=
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|33}}
+*[[Bernardo Silva|B. Silva]] {{goal|37}}
+*[[André Silva (footballer, born 1995)|A. Silva]] {{goal|80}}
+*[[Nani (footballer)|Nani]] {{goal|90+1}}
+|stadium=[[Krestovsky Stadium]]
+|location=[[Saint Petersburg]], Russia
+|attendance=56,290
+|referee=[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+|result=W
+}}
+{{football box collapsible
+|date=28 June 2017
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|Portugal}}
+|score=0–0
+|aet=yes
+|report=https://www.fifa.com/en/match-centre/match/17/254645/275093/300334882
+|round=[[2017 FIFA Confederations Cup knockout stage#Semi-finals|2017 FCC SF]]
+|team2={{fb|Chile}}
+|stadium=[[Kazan Arena]]
+|location=[[Kazan]], Russia
+|attendance=40,855
+|referee=[[Alireza Faghani]] ([[Football Federation Islamic Republic of Iran|Iran]])
+|penaltyscore=0–3
+|penalties1=
+*[[Ricardo Quaresma|Quaresma]] {{penmiss}}
+*[[João Moutinho|Moutinho]] {{penmiss}}
+*[[Nani (footballer)|Nani]] {{penmiss}}
+|penalties2=
+*{{pengoal}} [[Arturo Vidal|Vidal]]
+*{{pengoal}} [[Charles Aránguiz|Aránguiz]]
+*{{pengoal}} [[Alexis Sánchez|Sánchez]]
+|result=D
+}}
+{{football box collapsible
+|date=2 July 2017
+|time=15:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|round=[[2017 FIFA Confederations Cup knockout stage#Third place play-off|2017 FCC 3rd]]
+|team1={{fb-rt|Portugal}}
+|score=2–1
+|aet=yes
+|report=https://www.fifa.com/en/match-centre/match/17/254645/275093/300334886
+|team2={{fb|Mexico}}
+|goals1=
+*[[Pepe (footballer, born 1983)|Pepe]] {{goal|90+1}}
+*[[Adrien Silva|Adrien]] {{goal|104|pen.}}
+|goals2=[[Luís Neto|Neto]] {{goal|54|o.g.}}
+|stadium=[[Otkrytiye Arena]]
+|location=[[Moscow]], Russia
+|attendance=42,659
+|referee=[[Fahad Al-Mirdasi]] ([[Saudi Arabian Football Federation|Saudi Arabia]])
+|result=W
+}}
+{{football box collapsible
+|date=31 August 2017
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=5–1
+|report=https://www.fifa.com/en/match-centre/match/17/254645/276483/300331932
+|round=[[2018 FIFA World Cup qualification&nbsp;– UEFA Group B|2018 FWC Q]]
+|team2={{fb|Faroe Islands}}
+|goals1=
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|3||28|pen.|65}}
+*[[William Carvalho|Carvalho]] {{goal|58}}
+*[[Nélson Oliveira|Oliveira]] {{goal|85}}
+|goals2=[[Rógvi Baldvinsson|Baldvinsson]] {{goal|38}}
+|stadium=[[Estádio do Bessa]]
+|location=[[Porto]], Portugal
+|attendance=26,514
+|referee=[[Srđan Jovanović (referee)|Srđan Jovanović]] ([[Football Association of Serbia|Serbia]])
+|result=W
+}}
+{{football box collapsible
+|date=3 September 2017
+|time=20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Hungary}}
+|score=0–1
+|report=https://www.fifa.com/en/match-centre/match/17/254645/276483/300331923
+|round=[[2018 FIFA World Cup qualification&nbsp;– UEFA Group B|2018 FWC Q]]
+|team2={{fb|Portugal}}
+|goals2=[[André Silva (footballer, born 1995)|A. Silva]] {{goal|48}}
+|stadium=[[Groupama Arena]]
+|location=[[Budapest]], Hungary
+|attendance=21,800
+|referee=[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result=W
+}}
+{{football box collapsible
+|date=7 October 2017
+|time=20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|Andorra}}
+|score=0–2
+|report=https://www.fifa.com/en/match-centre/match/17/254645/276483/300331921
+|round=[[2018 FIFA World Cup qualification&nbsp;– UEFA Group B|2018 FWC Q]]
+|team2={{fb|Portugal}}
+|goals2=[[Cristiano Ronaldo|Ronaldo]] {{goal|63}}<br>[[André Silva (footballer, born 1995)|A. Silva]] {{goal|86}}
+|stadium=[[Estadi Nacional]]
+|location=[[Andorra la Vella]], Andorra
+|attendance=3,193
+|referee=[[Miroslav Zelinka]] ([[Football Association of the Czech Republic|Czech Republic]])
+|result=W
+}}
+{{football box collapsible
+|date=10 October 2017
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|Portugal}}
+|score=2–0
+|report=https://www.fifa.com/en/match-centre/match/17/254645/276483/300331917
+|round=[[2018 FIFA World Cup qualification&nbsp;– UEFA Group B|2018 FWC Q]]
+|team2={{fb|Switzerland}}
+|goals1=[[Johan Djourou|Djourou]] {{goal|41|o.g.}}<br>[[André Silva (footballer, born 1995)|A. Silva]] {{goal|57}}
+|stadium=[[Estádio da Luz]]
+|location=[[Lisbon]], Portugal
+|attendance=61,566
+|referee=[[Cüneyt Çakir]] ([[Turkish Football Federation|Turkey]])
+|result=W
+}}
+{{Football box collapsible
+|date=10 November 2017
+|time=20:45 [[Western European Time|WET]] ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Portugal}}
+|score=3–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma8479663/portugal_saudi-arabia/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|Saudi Arabia}} 
+|goals1=
+*[[Manuel Fernandes (footballer, born 1986)|M. Fernandes]] {{goal|32}}
+*[[Gonçalo Guedes|Guedes]] {{goal|52}}
+*[[João Mário (footballer, born January 1993)|João Mário]] {{goal|90}}
+|stadium=[[Estádio do Fontelo]]
+|location=[[Viseu]], Portugal
+|attendance=6,800
+|referee=[[Sebastian Colțescu]] ([[Romanian Football Federation|Romania]])
+|result=W
+}}
+{{Football box collapsible
+|date=14 November 2017
+|time=20:45 [[Western European Time|WET]] ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|Portugal}}
+|score=1–1
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma8479664/portugal_usa/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|United States}} 
+|goals1=[[Vitorino Antunes|Antunes]] {{goal|31}}
+|goals2=[[Weston McKennie|McKennie]] {{goal|21}}
+|stadium=[[Estádio Dr. Magalhães Pessoa]]
+|location=[[Leiria, Portugal|Leiria]], Portugal
+|attendance=19,017
+|referee=[[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|result=D
+}}
+
+===2018===
+{{Football box collapsible
+|date=23 March 2018
+|time=20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|POR}}
+|score=2–1
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma8672696/portugal_egypt/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|EGY}} 
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|90+2||90+4}}
+|goals2=[[Mohamed Salah|Salah]] {{goal|56}}
+|stadium=[[Letzigrund]]
+|location=[[Zürich]], Switzerland
+|attendance=19,869
+|referee=[[Paolo Mazzoleni]] ([[Italian Football Federation|Italy]])
+|result=W
+}}
+{{Football box collapsible
+|date=26 March 2018
+|time=20:30 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|POR}}
+|score= 0–3 
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma8622594/portugal_netherlands/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|NED}} 
+|goals2=
+*[[Memphis Depay|Depay]] {{goal|11}}
+*[[Ryan Babel|Babel]] {{goal|32}}
+*[[Virgil van Dijk|van Dijk]] {{goal|45+2}} 
+|stadium=[[Stade de Genève]]
+|location=[[Geneva]], Switzerland
+|attendance=20,000
+|referee= [[Ruddy Buquet]] ([[French Football Federation|France]])
+|result= L
+}}
+{{Football box collapsible
+|date=28 May 2018
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|POR}}
+|score=2–2
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma8707593/portugal_tunisia/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|TUN}} 
+|goals1=
+*[[André Silva (footballer, born 1995)|A. Silva]] {{goal|22}}
+*[[João Mário (footballer, born January 1993)|João Mário]] {{goal|34}}
+|goals2=
+*[[Anice Badri|Badri]] {{goal|39}}
+*[[Fakhreddine Ben Youssef|Ben Youssef]] {{goal|64}}
+|stadium=[[Estádio Municipal de Braga|Estádio Municipal]]
+|location=[[Braga]], Portugal
+|attendance=17,220
+|referee=[[Luca Banti]] ([[Italian Football Federation|Italy]])
+|result=D
+}}
+{{Football box collapsible
+|date=2 June 2018
+|time=20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|BEL}}
+|score=0–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma8672881/belgium_portugal/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|POR}} 
+|stadium=[[King Baudouin Stadium]]
+|location=[[Brussels]], Belgium
+|attendance=35,000
+|referee=[[Viktor Kassai]] ([[Hungarian Football Federation|Hungary]])
+|result=D
+}}
+{{Football box collapsible
+|date=7 June 2018
+|time=20:15 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|POR}}
+|score=3–0
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma8707969/portugal_algeria/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|ALG}} 
+|goals1=
+*[[Gonçalo Guedes|Guedes]] {{goal|17||55}}
+*[[Bruno Fernandes (footballer, born 1994)|B. Fernandes]] {{goal|37}}
+|stadium=[[Estádio da Luz]]
+|location=[[Lisbon]], Portugal
+|attendance=53,014
+|referee=[[Craig Pawson]] ([[The Football Association|England]])
+|result=W
+}}
+{{football box collapsible
+|date=15 June 2018
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|POR}}
+|score=3–3
+|report=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331524
+|round=[[2018 FIFA World Cup Group B|2018 FWC GS]]
+|team2={{fb|ESP}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|4|pen.|44||88}}
+|goals2=
+*[[Diego Costa|Costa]] {{goal|24||55}}
+*[[Nacho (footballer, born 1990)|Nacho]] {{goal|58}}
+|stadium=[[Fisht Olympic Stadium]]
+|location=[[Sochi]], Russia
+|attendance=43,866
+|referee=[[Gianluca Rocchi]] ([[Italian Football Federation|Italy]])
+|result=D
+}}
+{{football box collapsible
+|date=20 June 2018
+|time=15:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|POR}}
+|score=1–0
+|report=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331511 
+|round=[[2018 FIFA World Cup Group B|2018 FWC GS]]
+|team2={{fb|MAR}}
+|goals1=[[Cristiano Ronaldo|Ronaldo]] {{goal|4}}
+|stadium=[[Luzhniki Stadium]]
+|location=[[Moscow]], Russia
+|attendance=78,011
+|referee=[[Mark Geiger]] ([[United States Soccer Federation|United States]])
+|result=W
+}}
+{{football box collapsible
+|date=25 June 2018
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|IRN}}
+|score=1–1
+|report=https://www.fifa.com/en/match-centre/match/17/254645/275073/300331500
+|round=[[2018 FIFA World Cup Group B|2018 FWC GS]]
+|team2={{fb|POR}}
+|goals1=[[Karim Ansarifard|Ansarifard]] {{goal|90+3|pen.}}
+|goals2=[[Ricardo Quaresma|Quaresma]] {{goal|45}}
+|stadium=[[Mordovia Arena]]
+|location=[[Saransk]], Russia
+|attendance=41,685
+|referee=[[Enrique Cáceres]] ([[Paraguayan Football Association|Paraguay]])
+|result=D
+}}
+{{football box collapsible
+|date=30 June 2018
+|time=21:00 [[Moscow Time|MSK]] ([[UTC+03:00|UTC+3]])
+|team1={{fb-rt|URU}}
+|score=2–1
+|report=https://www.fifa.com/en/match-centre/match/17/254645/275093/300331544
+|round=[[2018 FIFA World Cup knockout stage|2018 FWC R16]]
+|team2={{fb|POR}}
+|goals1=[[Edinson Cavani|Cavani]] {{goal|7||62}}
+|goals2=[[Pepe (footballer, born 1983)|Pepe]] {{goal|55}}
+|stadium=[[Fisht Olympic Stadium]]
+|location=[[Sochi]], Russia
+|attendance=44,287
+|referee=[[César Arturo Ramos]] ([[Mexican Football Federation|Mexico]])
+|result=L
+}}
+{{football box collapsible
+|date=6 September 2018
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|POR}}
+|score=1–1
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma8805848/portugal_croatia/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|CRO}}
+|goals1=[[Pepe (footballer, born 1983)|Pepe]] {{goal|32}}
+|goals2=[[Ivan Perišić|Perišić]] {{goal|18}}
+|stadium=[[Estádio do Algarve]]
+|location=[[Loulé]], Portugal
+|attendance=26,356
+|referee=[[Xavier Estrada Fernández]] ([[Royal Spanish Football Federation|Spain]])
+|result=D
+}}
+{{football box collapsible
+|date=10 September 2018
+|time=19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|POR}}
+|score=1–0
+|report=https://www.uefa.com/uefanationsleague/season=2019/matches/round=2000959/match=2024020/index.html
+|round=[[2018–19 UEFA Nations League A#Group 3|2018-19 UEFA NL]]
+|team2={{fb|ITA}}
+|goals1=[[André Silva (footballer, born 1995)|A. Silva]] {{goal|48}}
+|stadium=[[Estádio da Luz]]
+|location=[[Lisbon]], Portugal
+|attendance=52,635
+|referee=[[Willie Collum]] ([[Scottish Football Association|Scotland]])
+|result=W
+}}
+{{football box collapsible
+|date=11 October 2018
+|time=20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|team1={{fb-rt|POL}}
+|score=2–3
+|report=https://www.uefa.com/uefanationsleague/season=2019/matches/round=2000959/match=2024021/index.html
+|round=[[2018–19 UEFA Nations League A#Group 3|2018-19 UEFA NL]]
+|team2={{fb|POR}}
+|goals1=
+*[[Krzysztof Piątek|Piątek]] {{goal|18}}
+*[[Jakub Błaszczykowski|Błaszczykowski]] {{goal|77}}
+|goals2=
+*[[André Silva (footballer, born 1995)|A. Silva]] {{goal|32}}
+*[[Kamil Glik|Glik]] {{goal|43|o.g.}}
+*[[Bernardo Silva|B. Silva]] {{goal|52}}
+|stadium=[[Silesian Stadium|Stadion Śląski]]
+|location=[[Chorzów]], Poland
+|attendance=48,783
+|referee=[[Carlos del Cerro Grande]] ([[Royal Spanish Football Federation|Spain]])
+|result=W
+}}
+{{football box collapsible
+|date=14 October 2018
+|time=17:00 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|SCO}}
+|score=1–3
+|report=https://www.worldfootball.net/match-report/co571/fifa-friendlies/ma8707994/scotland_portugal/
+|round=[[Exhibition game|Friendly]]
+|team2={{fb|POR}}
+|goals1=[[Steven Naismith|Naismith]] {{goal|90+3}}
+|goals2=
+*[[Hélder Costa (footballer)|Costa]] {{goal|43}}
+*[[Eder (Portuguese footballer)|Eder]] {{goal|74}}
+*[[Bruma (footballer)|Bruma]] {{goal|84}}
+|stadium=[[Hampden Park]]
+|location=[[Glasgow]], Scotland
+|attendance=19,684
+|referee=[[Ruddy Buquet]] ([[French Football Federation|France]])
+|result=W
+}}
+{{football box collapsible
+|date=17 November 2018
+|time=20:45 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|team1={{fb-rt|ITA}}
+|score=0–0
+|report=https://www.uefa.com/uefanationsleague/season=2019/matches/round=2000959/match=2024024/index.html
+|round=[[2018–19 UEFA Nations League A#Group 3|2018-19 UEFA NL]]
+|team2={{fb|POR}}
+|stadium=[[San Siro]]
+|location=[[Milan]], Italy
+|attendance=73,000
+|referee=[[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result=D
+}}
+{{football box collapsible
+|date=20 November 2018
+|time=19:45 [[Western European Time|WET]] ([[UTC±00:00|UTC±0]])
+|team1={{fb-rt|POR}}
+|score=1–1
+|report=https://www.uefa.com/uefanationsleague/season=2019/matches/round=2000959/match=2024022/index.html
+|round=[[2018–19 UEFA Nations League A#Group 3|2018-19 UEFA NL]]
+|team2={{fb|POL}}
+|goals1=[[André Silva (footballer, born 1995)|A. Silva]] {{goal|34}}
+|goals2=[[Arkadiusz Milik|Milik]] {{goal|66|pen.}}
+|stadium=[[Estádio D. Afonso Henriques]]
+|location=[[Guimarães]], Portugal
+|attendance=29,917
+|referee=[[Sergei Karasev]] ([[Russian Football Union|Russia]])
+|result=D
+}}
+<small>'''Key''': GS, Group stage; R16, round of 16; QF, quarter-finals; SF, semi-finals; 3rd, third-place match; FWC, [[FIFA World Cup]]; FWC Q, [[FIFA World Cup]] qualification; UEFA NL, [[UEFA Nations League]]; FCC, [[FIFA Confederations Cup]]</small>
+
+===2019===
+{{football box collapsible
+|round =[[UEFA Euro 2020 qualifying Group B|2020 EURO Q]]
+|date = 22 March 2019
+|time = 20:45 ({{UTZ|19:45|0}})
+|team1 = {{fb-rt|POR}}
+|score = 0–0
+|report = https://www.uefa.com/european-qualifiers/season=2020/matches/round=2001086/match=2026029/index.html
+|team2 = {{fb|UKR}}
+|stadium = [[Estádio da Luz]]
+|location = [[Lisbon]], Portugal
+|attendance = 58,355
+|referee = [[Clément Turpin]] ([[French Football Federation|France]])
+|result = D
+}}
+{{football box collapsible
+|round =[[UEFA Euro 2020 qualifying Group B|2020 EURO Q]]
+|date = 25 March 2019
+|time = 20:45 ({{UTZ|19:45|0}})
+|team1 = {{fb-rt|POR}}
+|score = 1–1
+|report = https://www.uefa.com/european-qualifiers/season=2020/matches/round=2001086/match=2026055/index.html
+|team2 = {{fb|SER}}
+|goals1 = [[Danilo Pereira (Portuguese footballer)|Danilo]] {{goal|42}}
+|goals2 = [[Dušan Tadić|Tadić]] {{goal|7|pen.}}
+|stadium = [[Estádio da Luz]]
+|location = [[Lisbon]], Portugal
+|attendance = 50,342
+|referee = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result = D
+}}
+{{football box collapsible
+|round =[[2019 UEFA Nations League Finals|2019 UEFA NL SF]]
+|date = 5 June 2019
+|time = 20:45 ({{UTZ|19:45|1}})
+|team1 = {{fb-rt|POR}}
+|score = 3–1
+|report = https://www.uefa.com/uefanationsleague/season=2019/matches/round=2000956/match=2024419/index.html
+|team2 = {{fb|SWI}}
+|goals1 = [[Cristiano Ronaldo|Ronaldo]] {{goal|25||88||90}}
+|goals2 = [[Ricardo Rodríguez (footballer)|Rodríguez]] {{goal|57|pen.}}
+|stadium = [[Estádio do Dragão]]
+|location = [[Porto]], Portugal
+|attendance = 42,415
+|referee = [[Felix Brych]] ([[German Football Association|Germany]])
+|result = W
+}}
+{{football box collapsible
+|round =[[2019 UEFA Nations League Final|2019 UEFA NL F]]
+|date = 9 June 2019
+|time = 19:45
+|team1 = {{fb-rt|POR}}
+|score = 1–0
+|report = https://www.uefa.com/uefanationsleague/season=2019/matches/round=2000958/match=2024422/index.html
+|team2 = {{fb|NED}}
+|goals1 = [[Gonçalo Guedes|Guedes]] {{goal|60}}
+|stadium = [[Estádio do Dragão]]
+|location = [[Porto]], Portugal
+|attendance = 43,199 
+|referee = [[Alberto Undiano Mallenco]] ([[Royal Spanish Football Federation|Spain]]) 
+|result = W
+}}
+{{football box collapsible
+|round =[[UEFA Euro 2020 qualifying Group B|2020 EURO Q]]
+|date = 7 September 2019
+|time = 20:45
+|team1 = {{fb-rt|SER}} 
+|score = 2–4
+|report = https://www.uefa.com/european-qualifiers/season=2020/matches/round=2001086/match=2026182/index.html
+|team2 = {{fb|POR}}
+|goals1 = 
+*[[Nikola Milenković|Milenković]] {{goal|68}}
+*[[Aleksandar Mitrović (footballer)|A. Mitrović]] {{goal|85}}
+|goals2 = 
+*[[William Carvalho|Carvalho]] {{goal|42}}
+*[[Gonçalo Guedes|Guedes]] {{goal|58}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|80}}
+*[[Bernardo Silva|B. Silva]] {{goal|86}}
+|stadium = [[Stadion Rajko Mitić]]
+|location = [[Belgrade]], Serbia
+|attendance = 39,839
+|referee = [[Cüneyt Çakır]] ([[Turkish Football Federation|Turkey]])
+|result = W
+}}
+{{football box collapsible
+|round =[[UEFA Euro 2020 qualifying Group B|2020 EURO Q]]
+|date = 10 September 2019
+|time = 20:45 ({{UTZ|21:45|3}})
+|team1 = {{fb-rt|LTU}} 
+|score = 1–5
+|report = https://www.uefa.com/european-qualifiers/season=2020/matches/round=2001086/match=2026211/index.html
+|team2 = {{fb|POR}}
+|goals1 = [[Vytautas Andriuškevičius|Andriuškevičius]] {{goal|28}}
+|goals2 = [[Cristiano Ronaldo|Ronaldo]] {{goal|7|pen.|62||65||76}}<br>[[William Carvalho|Carvalho]] {{goal|90+2}}
+|stadium = [[LFF Stadium]]
+|location = [[Vilnius]], Lithuania
+|attendance = 5,067
+|referee = [[Bas Nijhuis]] ([[Royal Dutch Football Association|Netherlands]])
+|result = W
+}}
+{{football box collapsible
+|round =[[UEFA Euro 2020 qualifying Group B|2020 EURO Q]]
+|date = 11 October 2019
+|time = 20:45 ({{UTZ|19:45|1}})
+|team1 = {{fb-rt|POR}}
+|score = 3–0
+|report = https://www.uefa.com/european-qualifiers/season=2020/matches/round=2001086/match=2026228/index.html
+|team2 = {{fb|LUX}}
+|goals1 = 
+*[[Bernardo Silva|B. Silva]] {{goal|16}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|65}}
+*[[Gonçalo Guedes|Guedes]] {{goal|89}} 
+|stadium = [[Estádio José Alvalade]]
+|location = [[Lisbon]], Portugal
+|attendance = 47,305
+|referee = [[Daniel Stefański]] ([[Polish Football Association|Poland]])
+|result = W
+}}
+{{football box collapsible
+|round =[[UEFA Euro 2020 qualifying Group B|2020 EURO Q]]
+|date = 14 October 2019
+|time = 20:45 ({{UTZ|21:45|3}})
+|team1 = {{fb-rt|UKR}} 
+|score = 2–1
+|report = https://www.uefa.com/european-qualifiers/season=2020/matches/round=2001086/match=2026128/index.html
+|team2 = {{fb|POR}}
+|goals1 = 
+*[[Roman Yaremchuk|Yaremchuk]] {{goal|6}}
+*[[Andriy Yarmolenko|Yarmolenko]] {{goal|27}}
+|goals2 = [[Cristiano Ronaldo|Ronaldo]] {{goal|72|pen.}}
+|stadium = [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy Stadium]]
+|location = [[Kyiv]], Ukraine
+|attendance = 65,883
+|referee = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|result = L
+}}
+{{football box collapsible
+|round =[[UEFA Euro 2020 qualifying Group B|2020 EURO Q]]
+|date = 14 November 2019
+|time = 20:45 ({{UTZ|19:45|0}})
+|team1 = {{fb-rt|POR}}
+|score = 6–0
+|report = https://www.uefa.com/european-qualifiers/season=2020/matches/round=2001086/match=2026094/index.html
+|team2 = {{fb|LTU}}
+|goals1 = 
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|7|pen.|22||65}}
+*[[Pizzi (Portuguese footballer)|Pizzi]] {{goal|52}}
+*[[Gonçalo Paciência|Paciência]] {{goal|56}}
+*[[Bernardo Silva|B. Silva]] {{goal|63}}
+|stadium = [[Estádio Algarve]]
+|location = [[Faro, Portugal|Faro]]/[[Loulé]], Portugal
+|attendance = 18,534
+|referee = [[Ruddy Buquet]] ([[French Football Federation|France]])
+|result = W
+}}
+{{football box collapsible
+|round =[[UEFA Euro 2020 qualifying Group B|2020 EURO Q]]
+|date = 17 November 2019
+|time = 15:00
+|team1 = {{fb-rt|LUX}} 
+|score = 0–2
+|report = https://www.uefa.com/european-qualifiers/season=2020/matches/round=2001086/match=2025993/index.html
+|team2 = {{fb|POR}}
+|goals2 = 
+*[[Bruno Fernandes|Fernandes]] {{goal|39}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|86}}
+|stadium = [[Stade Josy Barthel]]
+|location = [[Luxembourg City]], Luxembourg
+|attendance = 8,000
+|referee = [[Jesús Gil Manzano]] ([[Royal Spanish Football Federation|Spain]])
+|result = W
+}}
+<small>'''Key''': SF, Semi-finals; F, Final; EURO, [[UEFA European Championship]]; 2020 EURO Q, [[UEFA Euro 2020]] qualification; UEFA NL, [[UEFA Nations League]]</small>
+
+==References==
+<references />
+
+==External links==
+*[https://web.archive.org/web/20070822015300/http://www.fifa.com/associations/association=por/fixturesresults/gender=m/index.html Portugal: Fixtures and Results - FIFA.com]
+*[https://web.archive.org/web/20140714135200/http://www.fpf.pt/Sele%C3%A7%C3%B5es/Futebol/Masculino/Sele%C3%A7%C3%A3o-A/Jogos-e-Resultados/Competi%C3%A7%C3%B5es Seleção A Jogos e Resultados FPF]
+*[https://www.rsssf.org/tablesp/port-intres.html Portugal - International Results]
+
+{{Portugal national football team}}
+{{Football results UEFA}}
+
+{{DEFAULTSORT:National football team results}}
+[[Category:Portugal national football team results|2000–2019]]
+[[Category:2000s European men's national association football team results|Portugal]]
+[[Category:2010s European men's national association football team results|Portugal]]
+[[Category:1999–2000 in Portuguese football]]
+[[Category:2000–01 in Portuguese football]]
+[[Category:2001–02 in Portuguese football]]
+[[Category:2002–03 in Portuguese football]]
+[[Category:2003–04 in Portuguese football]]
+[[Category:2004–05 in Portuguese football]]
+[[Category:2005–06 in Portuguese football]]
+[[Category:2006–07 in Portuguese football]]
+[[Category:2007–08 in Portuguese football]]
+[[Category:2008–09 in Portuguese football]]
+[[Category:2009–10 in Portuguese football]]
+[[Category:2010–11 in Portuguese football]]
+[[Category:2011–12 in Portuguese football]]
+[[Category:2012–13 in Portuguese football]]
+[[Category:2013–14 in Portuguese football]]
+[[Category:2014–15 in Portuguese football]]
+[[Category:2015–16 in Portuguese football]]
+[[Category:2016–17 in Portuguese football]]
+[[Category:2017–18 in Portuguese football]]
+[[Category:2018–19 in Portuguese football]]
+[[Category:2019–20 in Portuguese football]]

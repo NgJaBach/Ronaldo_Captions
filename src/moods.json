@@ -1,0 +1,112 @@
+{
+  "_note": "A mood is searched as the average meaning of its phrases, written in Ronaldo's own voice, instead of the bare word. Add or edit freely; aliases are exact single-word queries that trigger the mood. Checked by reading the top 4 results of each: sad, motivated, love, grateful, proud, confident and ambitious are convincing; happy and tired are fair; nostalgic and calm are weak (few captions are about them). A 'humble' mood was removed because it returned noise.",
+  "sad": {
+    "aliases": ["sad", "sadness", "disappointed", "disappointment", "down", "upset", "heartbroken", "hurt", "gutted", "defeat", "loss", "lost", "setback", "failure"],
+    "phrases": [
+      "Not the result we wanted, but we will come back stronger.",
+      "Disappointed with the result. We keep our heads up and move on.",
+      "A tough night. We keep fighting and we will rise again.",
+      "Every setback is a lesson for a stronger comeback.",
+      "Sometimes the dream has to wait. Proud of this team."
+    ]
+  },
+  "happy": {
+    "aliases": ["happy", "happiness", "joy", "joyful", "glad", "cheerful", "smile"],
+    "phrases": [
+      "So happy! What a feeling!",
+      "Happy moments with the people I love.",
+      "Feeling good and enjoying every second.",
+      "Happiness is the best feeling."
+    ]
+  },
+  "proud": {
+    "aliases": ["proud", "pride"],
+    "phrases": [
+      "So proud of this team and everything we achieved.",
+      "A proud moment for me and my family.",
+      "Proud to represent my country.",
+      "Proud of what we built together."
+    ]
+  },
+  "grateful": {
+    "aliases": ["grateful", "gratitude", "thankful", "thanks", "thank", "blessed"],
+    "phrases": [
+      "Thank you all for your incredible support.",
+      "Grateful for everything and everyone around me.",
+      "Blessed and thankful for this moment.",
+      "Thank you to my family, my teammates and the fans."
+    ]
+  },
+  "motivated": {
+    "aliases": ["motivated", "motivation", "determined", "determination", "driven", "resilient", "resilience", "perseverance", "persistence", "fighter", "grit", "discipline"],
+    "phrases": [
+      "Never give up. Keep pushing, keep believing, keep fighting.",
+      "Hard work never stops.",
+      "There are no shortcuts. Discipline and determination.",
+      "Every challenge is an opportunity to grow.",
+      "Until the last moment. Keep believing!"
+    ]
+  },
+  "confident": {
+    "aliases": ["confident", "confidence", "strong", "strength", "fearless", "bold", "unstoppable"],
+    "phrases": [
+      "Feeling strong and ready for the next challenge.",
+      "We are ready. Let's go!",
+      "Unstoppable. We believe in ourselves.",
+      "Stronger than ever."
+    ]
+  },
+  "tired": {
+    "aliases": ["tired", "rest", "relax", "relaxed", "recharge", "chill", "recovery", "exhausted"],
+    "phrases": [
+      "Recovery time. Rest and recharge.",
+      "Relaxing and lovely moments.",
+      "Time to rest with my loves.",
+      "Good night everyone, recovering for the next game."
+    ]
+  },
+  "love": {
+    "aliases": ["love", "loving", "romantic", "romance", "soulmate", "heart"],
+    "phrases": [
+      "Soulmate.",
+      "Forever love.",
+      "Happy birthday my love. You are my life.",
+      "My loves. Family is everything."
+    ]
+  },
+  "nostalgic": {
+    "aliases": ["nostalgic", "nostalgia", "memories", "memory", "throwback", "remember", "past"],
+    "phrases": [
+      "Throwback to a special moment I will never forget.",
+      "Memories that last forever.",
+      "From my first match to now, what a journey.",
+      "Remembering where it all started."
+    ]
+  },
+  "excited": {
+    "aliases": ["excited", "excitement", "hype", "hyped", "pumped", "thrilled"],
+    "phrases": [
+      "Can't wait! Let's go!",
+      "Here we go! The new season starts now.",
+      "So excited for what is coming.",
+      "The wait is over."
+    ]
+  },
+  "ambitious": {
+    "aliases": ["hungry", "ambitious", "ambition", "dream", "dreams", "goals", "legacy"],
+    "phrases": [
+      "Always hungry for more. The dream continues.",
+      "Same passion, same dream. Let's make history.",
+      "Records keep falling and I keep going.",
+      "The story is still being written."
+    ]
+  },
+  "calm": {
+    "aliases": ["calm", "peace", "peaceful", "faith", "serene", "balance"],
+    "phrases": [
+      "Peace of mind. Grateful for every day.",
+      "Calm moments, meditation and good energy.",
+      "Faith, family and balance."
+    ]
+  }
+}

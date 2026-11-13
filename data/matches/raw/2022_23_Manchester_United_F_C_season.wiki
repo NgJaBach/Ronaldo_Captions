@@ -1,0 +1,1146 @@
+{{Short description|English football club season}}
+{{Infobox football club season
+| club               = [[Manchester United F.C.|Manchester United]]
+| season             = [[2022–23 in English football|2022–23]]
+| image              = City vs United FA Cup final 2023.jpg
+| image_size         = 300
+| caption            = Manchester United at [[Wembley Stadium|Wembley]] against [[Manchester City F.C.|Manchester City]] in the [[2023 FA Cup final]]
+| alt                =
+| chairman           = [[Joel Glazer|Joel]] and [[Avram Glazer]]
+| chrtitle           = Co-chairman
+| manager            = [[Erik ten Hag]]<ref>{{cite news |title=Manchester United appoints Erik ten Hag as manager |date=21 April 2022 |url=https://www.manutd.com/en/news/detail/erik-ten-hag-appointed-as-man-utd-manager-official-statement |access-date=21 April 2022 |publisher=Manchester United |website=ManUtd.com}}</ref>
+| stadium            = [[Old Trafford]]
+| league             = [[2022–23 Premier League|Premier League]]
+| league result      = 3rd
+| cup1               = [[2022–23 FA Cup|FA Cup]]
+| cup1 result        = Runners-up
+| cup2               = [[2022–23 EFL Cup|EFL Cup]]
+| cup2 result        = '''Winners'''
+| cup3               = [[2022–23 UEFA Europa League|UEFA Europa League]]
+| cup3 result        = Quarter-finals
+| league topscorer   = [[Marcus Rashford]] (17)
+| season topscorer   = Marcus Rashford (30)
+| highest attendance = 74,345<br>{{nowrap|(v. [[Charlton Athletic F.C.|Charlton Athletic]], 10 January 2023)}}
+| lowest attendance  = 62,062<br>{{nowrap|(v. [[Burnley F.C.|Burnley]]}}, 21 December 2022)
+| average attendance = 73,571<!--(73711+74147+73431+73726+73677+73682+73608+73322+73546+73420+73456+73578+73439+73309+73509+73592+73570+73561)/18=73571.333-->
+|pattern_la1 = _mufc2223h |pattern_b1 = _manutd2223h |pattern_ra1 = _mufc2223h |pattern_sh1 = _mufc2223h |pattern_so1 = _mufc2223hl
+| leftarm1           = FF0000 |body1 = FF0000 |rightarm1 = FF0000 |shorts1 = FFFFFF |socks1 = 000000
+| pattern_la2        = _mufc2223a |pattern_b2 = _mufc2223a |pattern_ra2 = _mufc2223a |pattern_sh2 = _mufc2223h2 |pattern_so2 = _mufc2223al
+| leftarm2           = FFFFFF |body2 = FFFFFF |rightarm2 = FFFFFF |shorts2 = 000000 |socks2 = FFFFFF
+| pattern_la3        = _mufc2223t |pattern_b3 = _mufc2223t |pattern_ra3 = _mufc2223t |pattern_sh3 = _mufc2223t |pattern_so3 = _mufc2223tl
+| leftarm3           = C3F345 |body3 = C3F345 |rightarm3 = C3F345 |shorts3 = 1B1833 |socks3 = C3F345
+| prevseason         = [[2021–22 Manchester United F.C. season|2021–22]]
+| nextseason         = [[2023–24 Manchester United F.C. season|2023–24]]
+}}
+The 2022–23 season was [[Manchester United F.C.|Manchester United]]'s 31st season in the [[Premier League]] and their 48th consecutive season in the top flight of [[Football in England|English football]]. This was the club's first season under the management of [[Erik ten Hag]]. They won the [[2022–23 EFL Cup|EFL Cup]] with a 2–0 victory over [[Newcastle United F.C.|Newcastle United]] in the [[2023 EFL Cup final|final]], the club's first competitive trophy since winning the [[UEFA Europa League]] in [[2017 UEFA Europa League final|2017]].<ref name="LCF">{{cite web |last=McNulty |first=Phil |url=https://www.bbc.co.uk/sport/football/64693810|title=Manchester United 2–0 Newcastle United: Erik ten Hag's side win Carabao Cup for first trophy since 2017 |work=BBC Sport|date=26 February 2023|accessdate=26 February 2023 }}</ref> They also reached the final of the [[2022–23 FA Cup|FA Cup]], losing 2–1 to rivals [[Manchester City F.C.|Manchester City]].<ref>{{cite news |first=Phil |last=McNulty |title=Manchester City 2-1 Manchester United: Ilkay Gundogan double settles 2023 FA Cup final |url=https://www.bbc.co.uk/sport/football/65785637 |work=BBC Sport |date=3 June 2023 |accessdate=8 June 2023}}</ref>
+
+There was a mid-season break for the [[2022 FIFA World Cup]] in [[Qatar]], with the last match being played on 13 November 2022. The team's first match after the World Cup was in the EFL Cup on 21 December 2022,<ref>{{cite news |title=Carabao Cup Round Four: TV selections|url=https://www.efl.com/news/2022/november/carabao-cup-round-four-tv-selections/ |website=EFL.com |publisher=English Football League |date=14 November 2022 |access-date=5 December 2022 }}</ref> following the [[2022 FIFA World Cup final|World Cup final]] on 18 December.<ref>{{cite news |title=Premier League 2022/23 dates announced |url=http://www.premierleague.com/news/2264107 |website=PremierLeague.com |publisher=Premier League |date=11 November 2021 |access-date=14 April 2022 }}</ref>
+
+On 22 November 2022, United announced the departure of [[Cristiano Ronaldo]], one year after he rejoined the club from [[Juventus FC|Juventus]].
+
+==Pre-season and friendlies==
+United confirmed the first of their tour destinations, travelling to [[Bangkok]], Thailand and [[Melbourne]], Australia to face [[Liverpool F.C.–Manchester United F.C. rivalry|rivals]] [[Liverpool F.C.|Liverpool]] in the Bangkok Century Cup, [[Melbourne Victory FC|Melbourne Victory]] and [[Crystal Palace F.C.|Crystal Palace]].<ref>{{cite news |title=United to play in Bangkok and Melbourne |url=https://www.manutd.com/en/news/detail/tour-2022-details-announced-by-man-utd-for-bangkok-and-melbourne |website=ManUtd.com |publisher=Manchester United |date=31 March 2022 |access-date=16 April 2022 }}</ref> A third friendly in Australia was later added, against [[Aston Villa F.C.|Aston Villa]].<ref>{{cite news |title=United return to Perth for Tour 2022 |url=https://www.manutd.com/en/news/detail/manchester-united-perth-tour-2022-fixture-announcement |website=ManUtd.com |publisher=Manchester United |date=28 April 2022 |access-date=28 April 2022 }}</ref> A trip to Norway was also confirmed for a fixture against [[Atlético Madrid]].<ref>{{cite news |title=Atletico Madrid friendly announced |url=https://www.manutd.com/en/news/detail/man-utd-confirm-oslo-pre-season-friendly-with-atletico-madrid |website=ManUtd.com |publisher=Manchester United |date=26 May 2022 |access-date=26 May 2022 }}</ref> A home match, [[Erik ten Hag]]'s first as United manager, was confirmed against [[Rayo Vallecano]] for 31 July.<ref>{{cite news |title=Ten Hag's first home game announced |url=https://www.manutd.com/en/news/detail/friendly-announced-as-erik-ten-hag-first-game-in-charge-at-old-trafford |website=ManUtd.com |publisher=Manchester United |date=13 June 2022 |access-date=13 June 2022 }}</ref>
+
+United began the tour with a 4–0 win over Liverpool; goals from [[Jadon Sancho]], [[Fred (footballer, born 1993)|Fred]] and [[Anthony Martial]] put them 3–0 up by half-time, before [[Facundo Pellistri]] added a fourth less than 15 minutes from the end.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 4–0 Liverpool: Erik ten Hag's first game in charge ends with thumping win |url=https://www.bbc.co.uk/sport/football/62138803 |website=BBC Sport |date=12 July 2022 |access-date=13 July 2022 }}</ref> The tour resumed in Australia, where United came back from a goal down – scored by [[Chris Ikonomidis]] – to beat Melbourne Victory 4–1; goals from [[Scott McTominay]], Martial, [[Marcus Rashford]] and an own goal from Victory youngster [[Edmond Lupancu]] maintained United's 100% start to pre-season.<ref>{{cite news |first=Simon |last=Stone |title=Man Utd beat Melbourne Victory to maintain 100% pre-season record |url=https://www.bbc.co.uk/sport/football/62177725 |website=BBC Sport |date=15 July 2022 |access-date=17 July 2022 }}</ref> On 19 July, United led Crystal Palace 3–0 first via Martial, Rashford, and Sancho before a goal from [[Joel Ward (footballer)|Joel Ward]] pulled one back for the London club.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 3–1 Crystal Palace: Harry Maguire booed in Melbourne |url=https://www.bbc.co.uk/sport/football/62224095|website=BBC Sport |date=19 July 2022 |access-date=19 July 2022 }}</ref> Four days later, United led Aston Villa 2–0 in the first half via Sancho and a [[Matty Cash]] own goal before goals from [[Leon Bailey]] and [[Calum Chambers]] equalised for the Birmingham club.<ref>{{cite news |first=Simon |last=Stone |title=Manchester Utd 2–2 Aston Villa: Late header as game ends even|url=https://www.bbc.co.uk/sport/football/62278338 |website=BBC Sport |date=23 July 2022 |access-date=23 July 2022 }}</ref> A week later, United suffered their first defeat in pre-season against Atlético Madrid, following a late goal from [[João Félix]].<ref>{{cite news |title=United beaten by Atletico Madrid in Oslo |url=https://www.bbc.co.uk/sport/articles/c0kq1w4x42zo |website=BBC Sport |date=30 July 2022 |access-date=30 July 2022 }}</ref> The next day, United played another Madrid club, Rayo Vallecano. [[Amad Diallo]] scored first early in the second half before [[Álvaro García (footballer, born 1992)|Álvaro García]] equalised nine minutes later.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 1–1 Rayo Vallecano: Cristiano Ronaldo starts United's final pre-season friendly |url=https://www.bbc.co.uk/sport/football/62366218 |website=BBC Sport |date=31 July 2022 |access-date=31 July 2022 }}</ref>
+
+During the break for the [[2022 FIFA World Cup]], Manchester United had a week-long training camp in [[Cádiz]], Spain, highlighted by a friendly match against [[Cádiz CF]] at [[Nuevo Mirandilla]] on 7 December.<ref>{{cite news |title=United set for winter friendlies & training camp |url=https://www.manutd.com/en/news/detail/man-utd-set-for-friendly-v-cadiz-cf-during-world-cup-winter-break |website=ManUtd.com |publisher=Manchester United |date=31 October 2022 |accessdate=31 October 2022 }}</ref> A second friendly was played against [[Real Betis]] at the [[Estadio Benito Villamarín]] in Seville three days later.<ref>{{cite news |title=Confirmed: United's second friendly in December |url=https://www.manutd.com/en/news/detail/fixture-news-man-utd-to-play-real-betis-friendly-during-world-cup-2022 |website=ManUtd.com |publisher=Manchester United |date=2 November 2022 |accessdate=2 November 2022 }}</ref> United lost both matches, going down 4–2 to Cádiz and 1–0 to Real Betis.
+
+{| class="wikitable" style="text-align:center"
+|-
+!Date
+!Opponents
+!H / A
+!Result<br />F–A
+!Scorers
+!Attendance
+|- bgcolor="#ddffdd"
+|12 July 2022
+|[[Liverpool F.C.|Liverpool]]
+|[[Rajamangala Stadium|N]]
+|[https://www.manutd.com/en/news/detail/match-hub-and-highlights-for-man-united-v-liverpool-in-bangkok-on-tuesday-12-july 4–0]
+|[[Jadon Sancho|Sancho]] 12', [[Fred (footballer, born 1993)|Fred]] 30', [[Anthony Martial|Martial]] 33', [[Facundo Pellistri|Pellistri]] 76'
+|50,248
+|- bgcolor="#ddffdd"
+|15 July 2022
+|[[Melbourne Victory FC|Melbourne Victory]]
+|[[Melbourne Cricket Ground|N]]
+|[https://www.manutd.com/en/news/detail/match-hub-and-highlights-for-man-united-vs-melbourne-victory-15-july-2022 4–1]
+|[[Scott McTominay|McTominay]] 43', [[Anthony Martial|Martial]] 45+1', [[Marcus Rashford|Rashford]] 78', [[Edmond Lupancu|Lupancu]] 90' ([[Own goal#Association football|o.g.]])
+|74,157
+|- bgcolor="#ddffdd"
+|19 July 2022
+|[[Crystal Palace F.C.|Crystal Palace]]
+|[[Melbourne Cricket Ground|N]]
+|[https://www.manutd.com/en/news/detail/match-hub-and-highlights-for-man-united-vs-crystal-palace-19-july-2022 3–1]
+|[[Anthony Martial|Martial]] 17', [[Marcus Rashford|Rashford]] 48', [[Jadon Sancho|Sancho]] 59'
+|76,499
+|- bgcolor="#ffffdd"
+|23 July 2022
+|[[Aston Villa F.C.|Aston Villa]]
+|[[Perth Stadium|N]]
+|[https://www.manutd.com/en/news/detail/match-hub-and-highlights-for-man-utd-v-aston-villa-tour-2022-23-july-2022 2–2]
+|[[Jadon Sancho|Sancho]] 25', [[Matty Cash|Cash]] 42' ([[Own goal#Association football|o.g.]])
+|58,228
+|- bgcolor="#ffdddd"
+|30 July 2022
+|[[Atlético Madrid]]
+|[[Ullevaal Stadion|N]]
+|[https://www.manutd.com/en/news/detail/match-hub-and-highlights-for-atletico-madrid-v-man-utd-friendly-in-oslo-30-july-2022 0–1]
+|
+|26,129
+|- bgcolor="#ffffdd"
+|31 July 2022
+|[[Rayo Vallecano]]
+|H
+|[https://www.manutd.com/en/news/detail/match-hub-and-highlights-for-man-utd-v-rayo-vallecano-friendly-31-july 1–1]
+|[[Amad Diallo|Diallo]] 48'
+|68,663
+|- bgcolor="#ffdddd"
+|7 December 2022
+|[[Cádiz CF|Cádiz]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-highlights-for-cadiz-v-man-utd-winter-friendly-in-spain-7-december-2022 2–4]
+|[[Anthony Martial|Martial]] 21' ([[Penalty kick (association football)|pen.]]), [[Kobbie Mainoo|Mainoo]] 48'
+|14,648
+|- bgcolor="#ffdddd"
+|10 December 2022
+|[[Real Betis]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-for-real-betis-v-man-utd-friendly-in-spain-10-december-2022 0–1]
+|
+|11,927
+|}
+
+==Premier League==
+The [[2022–23 Premier League]] fixtures were released on 16 June 2022.<ref>{{cite news |title=Revealed: United's 2022/23 Premier League fixtures |url=https://www.manutd.com/en/news/detail/man-utd-premier-league-fixtures-released-for-2022-23-season-full-list |website=ManUtd.com |publisher=Manchester United |date=16 June 2022 |access-date=16 June 2022 }}</ref>
+
+The league season began with a home loss against [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]] on 7 August. [[Pascal Groß]] scored twice in the first half for Brighton before they conceded an own goal by [[Alexis Mac Allister]] in the second to give United their first ever home defeat to Brighton. Named in the starting line-up, [[Lisandro Martínez]] and [[Christian Eriksen]] made their debuts for United, as did [[Tyrell Malacia]], who came on as a substitute.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 1–2 Brighton: Erik ten Hag suffers defeat in first Premier League game |url=https://www.bbc.co.uk/sport/football/62366387 |website=BBC Sport |date=7 August 2022 |access-date=7 August 2022 }}</ref> United then suffered another defeat to [[Brentford F.C.|Brentford]], the first time they had started a league campaign with consecutive losses since the [[1992–93 Manchester United F.C. season|1992–93 season]]. [[Josh Dasilva]], [[Mathias Jensen]], [[Ben Mee]] and [[Bryan Mbeumo]] all scored without reply before the clock had reached 38 minutes. The rest of the game went goalless, but it meant United went bottom of the league table. This was United's seventh straight away defeat in the league, their worst streak since a run of 10 in the [[1936–37 Manchester United F.C. season|1936–37 season]], which ended in relegation from the First Division.<ref>{{Cite news |title=Brentford 4–0 Manchester United: Bees run riot in first half to humiliate visitors|first=Matt |last=Gault |url=https://www.bbc.co.uk/sport/football/62445694|website=BBC Sport |date=13 August 2022 |access-date=13 August 2022 }}</ref> That season, United lost both of their meetings with Brentford: 4–0 away on 10 October 1936 and 3–1 on 13 February 1937; those were United's most recent defeats to Brentford prior to this.<ref>{{cite web |title=Manchester United football club: record v Brentford |url=https://www.11v11.com/teams/manchester-united/tab/opposingTeams/opposition/Brentford/ |website=11v11.com |access-date=13 August 2022 }}</ref> Erik ten Hag became the first United manager since [[John Chapman (football manager)|John Chapman]] in 1921 to lose his opening two games in charge of the club.<ref>{{Cite news |first=Matthew |last=Howarth |title=Brentford 4–0 Manchester United: 'A joke', 'bullied' & 'rotten' – are Man Utd at rock bottom? |url=https://www.bbc.co.uk/sport/football/62536761 |website=BBC Sport |date=13 August 2022 |access-date=13 August 2022 }}</ref>
+
+[[File:Manchester United v Liverpool, 22 August 2022 (12).jpg|thumb|right|United took their first league victory of the season by beating Liverpool in August 2022]]
+
+On 22 August, United achieved their first league victory of the season, a 2–1 home win against rivals Liverpool. Jadon Sancho scored 15 minutes into the first half and Marcus Rashford early in the second, before [[Mohamed Salah]] scored a consolation goal that made him the fixture's outright top scorer with 10 goals. This was United's first league win against Liverpool since [[2017–18 Manchester United F.C. season#Premier League|March 2018]].<ref>{{Cite news |first=Phil |last=McNulty |title=Manchester United 2–1 Liverpool |url=https://www.bbc.co.uk/sport/football/62544904 |website=BBC Sport |date=22 August 2022 |access-date=22 August 2022 }}</ref> In the next match, United visited [[Southampton F.C.|Southampton]] on 27 August. [[Bruno Fernandes]] scored the game's only goal with a volley as United won their first away match in the league and won back-to-back league matches for the first time since February 2022. [[Casemiro]] made his United debut when he came on as a substitute in the 80th minute.<ref>{{cite news |first=Phil |last=McNulty |title=Southampton 0–1 Man Utd: Bruno Fernandes scores only goal at St Mary's to end dismal away run |url=https://www.bbc.co.uk/sport/football/62614445 |website=BBC Sport |date=27 August 2022 |accessdate=27 August 2022 }}</ref> On 1 September, United achieved a second away victory as they won 1–0 against [[Leicester City F.C.|Leicester City]]. Sancho scored the only goal after 23 minutes as United won three league matches in a row for the first time since December 2021.<ref>{{cite news |first=Phil |last=McNulty |title=Leicester 0–1 Manchester United: Jadon Sancho scores to seal third successive win |url=https://www.bbc.co.uk/sport/football/62669252 |website=BBC Sport |date=1 September 2022 |accessdate=1 September 2022 }}</ref> On 4 September, United obtained their fourth consecutive league victory with a 3–1 home win against [[Arsenal F.C.–Manchester United F.C. rivalry|rivals]] [[Arsenal F.C.|Arsenal]]. [[Antony (footballer, born 2000)|Antony]] scored the opening goal 35 minutes into his United debut, before [[Bukayo Saka]] equalised at the hour mark. Rashford then scored two goals in order to secure victory against Arsenal, who were on top of the league table, having started the season on a five-match winning streak.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 3–1 Arsenal: Antony scores on his debut to end Arsenal's winning run |url=https://www.bbc.co.uk/sport/football/62704217 |website=BBC Sport |date=3 September 2022 |access-date=3 September 2022 }}</ref>
+
+Following the [[Death and state funeral of Elizabeth II|death of Queen Elizabeth II]] on 8 September, all league matches on the weekend of 10–12 September were postponed.<ref name="GW7">{{cite news |title=Premier League issues fixtures update|url=https://www.manutd.com/en/news/detail/crystal-palace-v-man-utd-among-premier-league-fixtures-postponed-as-mark-of-respect-to-the-queen |access-date=9 September 2022 |publisher=Manchester United |website=ManUtd.com|date=9 September 2022 }}</ref><ref name="GW7B">{{cite news |title=Premier League statement|url=https://www.premierleague.com/news/2786560 |access-date=9 September 2022 |publisher=Premier League |website=PremierLeague.com|date=9 September 2022 }}</ref> United then announced that their home game against [[Leeds United F.C.–Manchester United F.C. rivalry|rivals]] [[Leeds United F.C.|Leeds United]], originally scheduled for 18 September, would also be postponed due to a police shortage ahead of the Queen's state funeral.<ref name="GW8">{{cite news |title=Club statement on home fixture v Leeds United |url=https://www.manutd.com/en/news/detail/club-statement-on-man-utd-v-leeds-united-premier-league-fixture-18-september-2022 |website=ManUtd.com |publisher=Manchester United |date=12 September 2022 |access-date=12 September 2022 }}</ref>
+
+United's break from league action was further extended by the September international window, which meant their first Premier League match in almost a month saw them face [[Manchester City F.C.|Manchester City]] away in the [[Manchester derby|derby]] on 2 October. [[Erling Haaland]] and [[Phil Foden]] each scored twice for City in the first half to give the hosts a 4–0 lead at the break. Antony scored for United early in the second half, but Haaland and Foden both scored again to complete their hat-tricks before Anthony Martial came on to score two late goals for United. With a total of nine goals, it was the highest-scoring Manchester derby of all time.<ref>{{cite news |first=Phil |last=McNulty |title=Man City 6–3 Man Utd: Haaland and Foden hat-tricks as hosts hit six |url=https://www.bbc.co.uk/sport/football/63024245 |work=BBC Sport |date=2 October 2022 |access-date=2 October 2022 }}</ref> The next week, United travelled to play [[Everton F.C.|Everton]]. [[Alex Iwobi]] opened the scoring after just five minutes, but Everton led only briefly before Antony scored the equaliser, his third consecutive league game scoring. An injury to Martial saw him replaced by [[Cristiano Ronaldo]] just before the half-hour mark, who only took 15 minutes to score the winning goal, assisted by Casemiro. It was Ronaldo's first open-play goal of the season and the 700th overall in his club career.<ref>{{cite news |first=Simon |last=Stone |title=Everton 1-2 Man Utd: Cristiano Ronaldo scores 700th club goal as visitors come from behind to win |url=https://www.bbc.co.uk/sport/football/63106173 |work=BBC Sport |date=9 October 2022 |access-date=9 October 2022 }}</ref> On the next match United faced [[Newcastle United F.C.|Newcastle United]] in their first home league game in six weeks. Both teams had plenty of chances but ultimately had to settle for a goalless draw.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 0-0 Newcastle United: Draw extends visitors' unbeaten run |url=https://www.bbc.co.uk/sport/football/63189781 |work=BBC Sport |date=16 October 2022 |access-date=16 October 2022 }}</ref> Three days later, they hosted [[Tottenham Hotspur F.C.|Tottenham Hotspur]]. Fred scored his first goal of the season before Fernandes sealed the win.<ref>{{cite news |first=Phil |last=McNulty |title=Man Utd 2-0 Tottenham: Bruno Fernandes & Fred goals see Red Devils beat Spurs |url=https://www.bbc.co.uk/sport/football/63224228 |work=BBC Sport |date=19 October 2022 |access-date=19 October 2022 }}</ref>
+
+They visited [[Chelsea F.C.|Chelsea]] three days later in the last game against a fellow top six side in 2022. Following a foul in the penalty area by Scott McTominay, [[Jorginho (footballer, born December 1991)|Jorginho]] slotted home the penalty three minutes from time, but Casemiro then headed home in the fourth minute of stoppage time – his first United goal – as United extended their unbeaten league record against the West London side to 10 matches, dating back to November 2017.<ref>{{cite news |first=Phil |last=McNulty |title=Chelsea 1-1 Man Utd: Hosts remain above United after dramatic finale |url=https://www.bbc.co.uk/sport/football/63267141|work=BBC Sport |date=22 October 2022 |access-date=22 October 2022 }}</ref> United hosted [[West Ham United F.C.|West Ham United]] on 30 October. Rashford scored his 100th club goal, which proved to be the sole goal of the game. The match was held [[1937–38 Manchester United F.C. season#Second Division|85 years]] to the start of United's run of including academy graduates in their matchday squads, which by this point already reached 4,163 consecutive matches.<ref>{{cite news |title=Manchester United 1-0 West Ham: Marcus Rashford's landmark goal seals victory|first=Simon |last=Stone |url=https://www.bbc.co.uk/sport/football/63362270 |work=BBC Sport |date=30 October 2022 |access-date=30 October 2022}}</ref> A week later United travelled to Aston Villa, in their manager [[Unai Emery]]'s first Premier League game since his days with Arsenal. A seventh-minute goal from Leon Bailey and a free kick from [[Lucas Digne]] four minutes later gave Villa an early two-goal lead, before a shot from [[Luke Shaw]] was deflected into his own net by [[Jacob Ramsey]]. Four minutes into the second half, Ramsey redeemed himself and made it 3–1. This was United's first loss at [[Villa Park]] in all competitions since [[1999–2000 Manchester United F.C. season#League Cup|October 1999]], and the first in the league since [[1995–96 Manchester United F.C. season#FA Premier League|August 1995]].<ref>{{cite news |title=Aston Villa 3-1 Manchester United: Unai Emery enjoys perfect start as Villa boss |first=Gary |last=Rose |url=https://www.bbc.co.uk/sport/football/63443729|work=BBC Sport |date=6 November 2022|access-date=6 November 2022}}</ref> The following Sunday saw United travel to West London to face [[Fulham F.C.|Fulham]] for the last Premier League game prior to the World Cup. Eriksen opened the scoring with his first goal for the club with less than 15 minutes played, but as the game passed the hour mark, former United winger [[Daniel James (footballer)|Daniel James]] scored from close range to equalise. [[Alejandro Garnacho]], who was subbed on for Martial 11 minutes later, scored the winning goal in the final minute of added time.<ref>{{cite news |first=Michael |last=Emons |title=Fulham 1-2 Manchester United: Alejandro Garnacho scores dramatic injury-time winner |url=https://www.bbc.co.uk/sport/football/63531141 |work=BBC Sport |date=13 November 2022 |access-date=13 November 2022 }}</ref>
+
+United's first action after the World Cup was a Boxing Day fixture against [[Nottingham Forest F.C.|Nottingham Forest]]. Following up a corner kick from Eriksen, Rashford scored the opening goal after just 18 minutes, four minutes before setting up for Martial. Fred scored the third goal three minutes from time following a pass from Casemiro to secure the three points.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 3-0 Nottingham Forest: Marcus Rashford, Anthony Martial & Fred score |url=https://www.bbc.co.uk/sport/football/64035052|work=BBC Sport |date=27 December 2022 |access-date=27 December 2022 }}</ref> United's final game of the year saw them play [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] away. Rashford, who was benched for disciplinary reasons, scored the game's only goal to put United into the top four.<ref>{{cite news |first=Simon |last=Stone |title=Wolves 0-1 Man Utd: Marcus Rashford comes off bench to score winner |url=https://www.bbc.co.uk/sport/football/64083698|work=BBC Sport |date=31 December 2022 |access-date=31 December 2022 }}</ref>
+
+United started the new year with a home game against [[AFC Bournemouth|Bournemouth]]. Goals from Casemiro, Shaw and Rashford gave them a 3–0 win and strengthened the club's grip on the top four.<ref>{{cite news |first=Callum |last=Matthews |title=Manchester United 3-0 Bournemouth: Marcus Rashford scores again as Reds open up top-four cushion |url=https://www.bbc.co.uk/sport/football/64099601 |access-date=3 January 2023 |work=BBC Sport |date=3 January 2023 }}</ref> Two weeks later, they welcomed Manchester City to Old Trafford for the second derby of the season. [[Jack Grealish]] opened the scoring for City on the hour mark, before Fernandes scored an equaliser in the 78th minute; the goal was initially ruled out for an offside against Rashford, but a VAR review deemed Rashford not to have been interfering with play. Rashford then scored the winner four minutes later; it was his eighth goal in his last seven appearances. The win also extended United's winning run to nine in all competitions.<ref>{{cite news |first=Phil |last=McNulty |title=Man Utd 2-1 Man City: Marcus Rashford scores winner in Manchester derby |url=https://www.bbc.co.uk/sport/football/64195236 |access-date=14 January 2023 |work=BBC Sport |date=14 January 2023 }}</ref> Four days later, United travelled to Crystal Palace. Their nine-game winning run was brought to an end after Fernandes' first half goal was cancelled out by a second half stoppage time free-kick from [[Michael Olise]]. This game saw [[Wout Weghorst]] made his debut for the club.<ref>{{cite news |first=Michael |last=Emons |title=Crystal Palace 1-1 Manchester United: Michael Olise scores late equaliser as United miss chance to go second |url=https://www.bbc.co.uk/sport/football/62784292 |access-date=18 January 2023 |work=BBC Sport |date=18 January 2023 }}</ref> Four days later, United travelled to league leaders Arsenal. Rashford brought United forward before an equaliser by [[Eddie Nketiah]] seven minutes later. Saka put Arsenal in front in the 53rd minute, but Lisandro Martínez scored his first United goal to equalise matters. Nketiah then scored the winner at the 90th minute, extended Arsenal's unbeaten league record this season to 13 matches and home record against United to five league matches; United's most recent league win at the [[Emirates Stadium]] was on 2 December 2017.<ref>{{cite news |first=Phil |last=McNulty |title=Arsenal 3-2 Manchester United: Late goal by Eddie Nketiah gives Arsenal win over United |url=https://www.bbc.co.uk/sport/football/64279776 |access-date=22 January 2023 |work=BBC Sport |date=22 January 2023 }}</ref>
+
+On 4 February, United faced Crystal Palace. A handball from [[Will Hughes]] penalised Palace; Fernandes executed the penalty kick smoothly to open an early lead. Rashford then made it 2–0 after a pass from Shaw. After Casemiro received a red card after an altercation with Hughes, [[Jeffrey Schlupp]] halved the deficit in the 76th minute. [[Marcel Sabitzer]] came on to make his United debut in the closing minutes as they successfully defended the lead.<ref>{{cite news |last=Stone |first=Simon |title=Manchester United 2-1 Crystal Palace: Marcus Rashford helps hosts to 13th straight home win |url=https://www.bbc.co.uk/sport/football/64436135 |access-date=4 February 2023 |work=BBC Sport |date=4 February 2023}}</ref> Four days later Leeds came visiting right after the dismissal of their head coach [[Jesse Marsch]], with [[Michael Skubala]] as his interim replacement. Within a minute, [[Wilfried Gnonto]] scored for them. In the 48th minute, [[Raphaël Varane]] scored an own goal from [[Crysencio Summerville]]'s cut-back to double Leeds' lead. Rashford pulled one back 14 minutes later, before Sancho equalised within eight minutes to earn United a point.<ref>{{cite news |last=Stone |first=Simon |title=Manchester United 2-2 Leeds United: Jadon Sancho goal earns home side point in thriller|url=https://www.bbc.co.uk/sport/football/62866736 |access-date=8 February 2023 |work=BBC Sport |date=8 February 2023}}</ref> United visited Leeds the following Sunday. Rashford broke the deadlock with a header at the 80th minute following a cross from Shaw, before Garnacho sealed the win with a strike assisted by Weghorst.<ref>{{cite news |last=Stone |first=Simon|title=Leeds United 0-2 Manchester United: Marcus Rashford sets visitors on way to victory|url=https://www.bbc.co.uk/sport/football/64527481 |access-date=12 February 2023 |work=BBC Sport |date=12 February 2023}}</ref> [[David de Gea]] made history as he became the first keeper to reach 400 Premier League appearances for Manchester United.<ref>{{cite news |last=Burton|first=Chris |title=Man Utd goalkeeper David de Gea makes history with 400th Premier League appearance|url=https://www.goal.com/en-us/news/man-utd-david-de-gea-history-400-premier-league-appearance/blt7fe1c63d672573c3 |access-date=12 February 2023 |work=Goal.com|date=12 February 2023}}</ref> In the next match, United faced Leicester at Old Trafford. Rashford scored in the 25th minute, breaking his best tally in a season, and doubled the lead in the 56th minute. Sancho then scored five minutes later to secure a 3–0 win. The scoreline meant that De Gea equalled [[Peter Schmeichel]]'s club record for most clean sheets.<ref>{{cite news |last=Hafez|first=Shamoon |title=Man Utd 3-0 Leicester: Marcus Rashford and Jadon Sancho score as Red Devils win|url=https://www.bbc.co.uk/sport/football/64614427|access-date=19 February 2023|work=BBC Sport |date=19 February 2023}}</ref>
+
+On 5 March, United visited [[Anfield]] in search of a first win there since January 2016. Instead, braces from [[Cody Gakpo]], [[Darwin Núñez]] and the fixture's top scorer, Mohamed Salah, as well as a closing goal from [[Roberto Firmino]] gave Liverpool a 7–0 win, breaking the record set 128 years earlier for the biggest win in matches between the two teams.<ref>{{cite news|last=McNulty|first=Phil |title=Liverpool 7-0 Manchester United: Reds thrash old rivals in Anfield rout|date=5 March 2023|access-date=5 March 2023 |url=https://www.bbc.co.uk/sport/football/64775037|work=BBC Sport }}</ref><ref>{{cite news|last=Grez|first=Matias|title=Rampant Liverpool humiliates Manchester United with stunning 7-0 Premier League derby win|url=https://edition.cnn.com/2023/03/05/football/liverpool-manchester-united-premier-league-spt-intl|date=5 March 2023|access-date=5 March 2023|work=CNN}}</ref> This was also United's [[List of Manchester United F.C. records and statistics#Record defeats|joint-biggest ever defeat]] and the heaviest since Wolverhampton Wanderers thrashed them by the same scoreline in [[1931–32 Football League#Second Division|1931]].<ref>{{Cite web |title=Liverpool thrash Manchester United 7-0 in historic defeat |url=https://news.sky.com/story/liverpool-thrash-man-united-7-0-in-historic-defeat-12826896 |first=Andy |last=Hayes |access-date=5 March 2023|date=5 March 2023|website=Sky News }}</ref> The following Sunday, United faced Southampton at home. The match ended in a goalless draw after a second red card of the season for Casemiro for a challenge on [[Charly Alcaraz]], upgraded from a yellow card after an intervention from the [[video assistant referee]].<ref>{{cite news|title=Man Utd 0-0 Southampton: Saints earn draw against 10-man Man Utd|date=12 March 2023|access-date=13 March 2023 |url=https://www.bbc.co.uk/sport/football/64852076|work=BBC Sport}}</ref>
+
+After the international break, United travelled to Newcastle. [[Joe Willock]] and [[Callum Wilson]] scored for the home side without reply.<ref>{{cite news|title=Newcastle United 2-0 Manchester United: Magpies up to third in Premier League after win|date=2 April 2023|access-date=4 April 2023 |url=https://www.bbc.co.uk/sport/football/65078743|work=BBC Sport|first=Neil|last=Johnston }}</ref> Manchester United failed to win both league meetings against Newcastle for the first time since the [[2015–16 Manchester United F.C. season#Premier League|2015–16 season]], and with just one point earned from a possible six, this league season was Manchester United's worst against Newcastle since they did the same in [[2011–12 Manchester United F.C. season#Premier League|2011–12]].<ref>{{cite web |title=Manchester United football club: record v Newcastle United|url=https://www.11v11.com/teams/manchester-united/tab/opposingTeams/opposition/Newcastle%20United/ |website=11v11.com |access-date=4 April 2023}}</ref> In the next match, United welcomed Brentford. A Rashford goal gave United their first league win since February and put them back in the top four.<ref>{{cite news|title=Manchester United 1-0 Brentford: Marcus Rashford hit winner to send Red Devils fourth|date=5 April 2023|access-date=6 April 2023|work=BBC Sport|first=Neil|last=Johnston |url=https://www.bbc.co.uk/sport/football/64693817 }}</ref> Three days later, they welcomed Everton at home. A goal each from Scott McTominay and Anthony Martial, both scoring in the league for the first time this season, secured the win.<ref>{{cite news|title=Manchester United 2-0 Everton: Scott McTominay and Anthony Martial goals maintain hosts' top-four push|date=8 April 2023|access-date=8 April 2023|work=BBC Sport|first=Simon |last=Stone |url=https://www.bbc.co.uk/sport/football/65145684}}</ref> Eight days later, United visited Forest for their fourth and final meeting of the season. Antony scored after 32 minutes, before [[Diogo Dalot]] scored his first Premier League goal after an assist by Antony. This became the third time that United won four matches against a single opponent in a season, after [[Sheffield Wednesday F.C.|Sheffield Wednesday]] in [[1993–94 Manchester United F.C. season|1993–94]] and Chelsea in [[2010–11 Manchester United F.C. season|2010–11]].<ref>{{cite news|title=Nottingham Forest 0-2 Manchester United: Antony scores to send Red Devils up to third|date=16 April 2023|access-date=16 April 2023|work=BBC Sport|first=Joe |last=Rindl |url=https://www.bbc.co.uk/sport/football/65223934}}</ref>
+
+United returned to Premier league action 11 days later at the [[Tottenham Hotspur Stadium]]. The away side took an early lead through Jadon Sancho before Marcus Rashford scored a second just before half-time. In the second half, [[Pedro Porro]] scored for Spurs and [[Son Heung-min]] levelled the scores in the 79th minute to end United's five match winning streak against Tottenham Hotspur in the league.<ref>{{cite news|title=Tottenham Hotspur 2-2 Manchester United: Spurs come from 2-0 down to draw|date=27 April 2023|access-date=7 May 2023|work=BBC Sport|first=Neil |last=Johnston |url=https://www.bbc.co.uk/sport/football/65332144}}</ref>
+
+Three days later, United hosted Aston Villa, with Bruno Fernandes scoring the only goal of the game six minutes before half-time after a shot from Marcus Rashford was turned into his path by Villa goalkeeper [[Emiliano Martínez]]. It marked the 100th career goal for Fernandes.<ref>{{cite news|title=Manchester United 1-0 Aston Villa: Bruno Fernandes goal seals narrow win for Red Devils|date=30 April 2023|access-date=7 May 2023|work=BBC Sport|first=Simon|last=Stone|url=https://www.bbc.co.uk/sport/football/65363997}}</ref>
+
+United's next match was a rescheduled fixture against Brighton & Hove Albion on the 4th of May. The game was goalless heading into added time, before Brighton were awarded a penalty following a VAR review after Luke Shaw was judged to have handled the ball in the area while defending a corner. The spot kick was converted by Alexis Mac Allister, who had scored an own goal in the reverse fixture earlier in the season.<ref>{{cite news|title=Brighton 1-0 Manchester United: Alexis Mac Allister scores 99th-minute penalty winner|date=4 May 2023|access-date=7 May 2023|work=BBC Sport|first=Phil|last=McNulty|url=https://www.bbc.co.uk/sport/football/64929888}}</ref> United then travelled to London three days later to face West Ham United. David de Gea let a shot from [[Said Benrahma]] slip through his hands in the 27th minute to gift the Hammers a win over United, the first time former manager [[David Moyes]] has beaten them in the league.<ref>{{cite news|title=West Ham United 1-0 Manchester United: David de Gea blunder hands Hammers win|date=7 May 2023|access-date=9 May 2023|work=BBC Sport|first=Tom|last=Mallows|url=https://www.bbc.co.uk/sport/football/65439740}}</ref>
+
+The following Saturday, United played Wolverhampton Wanderers at home. Anthony Martial scored a first half tap-in from a square pass by Antony, before Alejandro Garnacho marked his return from injury with a stoppage time goal to strengthen United's grip on 4th place in the league.<ref>{{cite news|title=Manchester United 2-0 Wolverhampton Wanderers: Hosts strengthen top-four bid with win|date=13 May 2023|access-date=14 May 2023|work=BBC Sport|first=Gary|last=Rose|url=https://www.bbc.co.uk/sport/football/65506026}}</ref> A week later, United travelled to Bournemouth for their final away game of the season. Casemiro scored an acrobatic overhead kick for the only goal of the game and David de Gea's 17th clean sheet of the season confirmed him as the winner of the Premier League Golden Glove award for most clean sheets kept.<ref>{{cite news|title=Bournemouth 0-1 Manchester United: Casemiro overhead kick puts Red Devils on verge of top four|date=20 May 2023|access-date=21 May 2023|work=BBC Sport|first=Jess |last=Anderson|url=https://www.bbc.co.uk/sport/football/65579937}}</ref>
+
+Manchester United's penultimate league game was a 4–1 win over Chelsea. Goals from Casemiro and Martial gave United a two-goal lead at half-time, before a penalty from Fernandes and Rashford's 30th goal of the season doubled their lead, although [[João Félix]] managed a late consolation strike for the Blues. The victory sealed a top-four finish for United and qualification for the [[2023–24 UEFA Champions League]] group stage.<ref>{{Cite news |title=Man Utd beat Chelsea to secure Champions League spot |date=25 May 2023|access-date=29 May 2023 |work=BBC Sport |first=Simon|last=Stone|url=https://www.bbc.co.uk/sport/football/65283802}}</ref> The Red Devils ended their league season with a 2–1 victory at home to Fulham. The away side went ahead in the first half after a header from [[Kenny Tete]], but missed the chance to double their lead after De Gea saved a penalty from [[Aleksandar Mitrović]]. United then fought back in the second half with Sancho and Fernandes getting on the scoresheet for a comeback win to ensure they would finish the season in third place.<ref>{{Cite news |title=Man Utd fight back to beat Fulham and secure third |date=25 May 2023|access-date=29 May 2023 |work=BBC Sport |first=Gary|last=Rose|url=https://www.bbc.co.uk/sport/football/65661809}}</ref>
+
+===Matches===
+{| class="wikitable" style="text-align:center"
+|-
+!Date
+!Opponents
+!H / A
+!Result<br />F–A
+!Scorers
+!Attendance
+!League<br />position<!--at the end of all matches on the day of each match-->
+|- bgcolor="#ffdddd"
+|7 August 2022
+|[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-manchester-united-v-brighton-7-august-2022 1–2]
+|[[Alexis Mac Allister|Mac Allister]] 68' ([[Own goal|o.g.]])
+|73,711
+|13th
+|- bgcolor="#ffdddd"
+|13 August 2022
+|[[Brentford F.C.|Brentford]]
+|A
+|[https://www.manutd.com/en/news/detail/brentford-v-man-utd-premier-league-match-hub-and-highlights-13-august-2022 0–4]
+|
+|17,250
+|20th
+|- bgcolor="#ddffdd"
+|22 August 2022
+|[[Liverpool F.C.|Liverpool]]
+|H
+|[https://www.manutd.com/en/news/detail/man-united-2-liverpool-1-match-report-22-august-2022 2–1]
+|[[Jadon Sancho|Sancho]] 16', [[Marcus Rashford|Rashford]] 53'
+|73,594
+|14th
+|- bgcolor="#ddffdd"
+|27 August 2022
+|[[Southampton F.C.|Southampton]]
+|A
+|[https://www.manutd.com/en/news/detail/southampton-v-man-united-premier-league-match-hub-and-highlights-27-august-2022 1–0]
+|[[Bruno Fernandes|Fernandes]] 55'
+|31,196
+|7th
+|- bgcolor="#ddffdd"
+|1 September 2022
+|[[Leicester City F.C.|Leicester City]]
+|A
+|[https://www.manutd.com/en/news/detail/leicester-v-man-utd-match-report-and-content-hub-1-september-2022 1–0]
+|[[Jadon Sancho|Sancho]] 23'
+|32,226
+|5th
+|- bgcolor="#ddffdd"
+|4 September 2022
+|[[Arsenal F.C.|Arsenal]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-man-utd-v-arsenal-4-september-2022 3–1]
+|[[Antony (footballer, born 2000)|Antony]] 35', [[Marcus Rashford|Rashford]] (2) 66', 75'
+|73,431
+|5th
+|- bgcolor="#ffdddd"
+|2 October 2022
+|[[Manchester City F.C.|Manchester City]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-man-city-v-man-utd-2-october-2022 3–6]
+|[[Antony (footballer, born 2000)|Antony]] 56', [[Anthony Martial|Martial]] (2) 84', 90+1' ([[Penalty kick (association football)|pen.]])
+|53,475
+|6th
+|- bgcolor="#ddffdd"
+|9 October 2022
+|[[Everton F.C.|Everton]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-everton-v-man-utd-9-october-2022 2–1]
+|[[Antony (footballer, born 2000)|Antony]] 15', [[Cristiano Ronaldo|Ronaldo]] 44'
+|39,258
+|5th
+|- bgcolor="#ffffdd"
+|16 October 2022
+|[[Newcastle United F.C.|Newcastle United]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-man-utd-v-newcastle-16-oct-2022 0–0]
+|
+|73,726
+|5th
+|- bgcolor="#ddffdd"
+|19 October 2022
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-man-utd-v-tottenham-19-october-2022 2–0]
+|[[Fred (footballer, born 1993)|Fred]] 47', [[Bruno Fernandes|Fernandes]] 69'
+|73,677
+|5th
+|- bgcolor="#ffffdd"
+|22 October 2022
+|[[Chelsea F.C.|Chelsea]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-chelsea-v-man-united-22-october-2022-premier-league 1–1]
+|[[Casemiro]] 90+4'
+|39,503
+|5th
+|- bgcolor="#ddffdd"
+|30 October 2022
+|[[West Ham United F.C.|West Ham United]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-highlights-for-man-utd-vs-west-ham-30-october-2022 1–0]
+|[[Marcus Rashford|Rashford]] 38'
+|73,682
+|5th
+|- bgcolor="#ffdddd"
+|6 November 2022
+|[[Aston Villa F.C.|Aston Villa]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-highlights-aston-villa-v-man-united-6-november-2022 1–3]
+|[[Jacob Ramsey|Ramsey]] 45' ([[Own goal|o.g.]])
+|42,058
+|5th
+|- bgcolor="#ddffdd"
+|13 November 2022
+|[[Fulham F.C.|Fulham]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-fulham-v-man-utd-13-november-2022 2–1]
+|[[Christian Eriksen|Eriksen]] 14', [[Alejandro Garnacho|Garnacho]] 90+3'
+|24,246
+|5th
+|- bgcolor="#ddffdd"
+|27 December 2022
+|[[Nottingham Forest F.C.|Nottingham Forest]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-highlights-from-man-utd-vs-nottingham-forest-premier-league 3–0]
+|[[Marcus Rashford|Rashford]] 19', [[Anthony Martial|Martial]] 22', [[Fred (footballer, born 1993)|Fred]] 87'
+|73,608
+|5th
+|- bgcolor="#ddffdd"
+|31 December 2022
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-wolves-v-man-utd-31-december-2022 1–0]
+|[[Marcus Rashford|Rashford]] 76'
+|31,658
+|4th
+|- bgcolor="#ddffdd"
+|3 January 2023
+|[[AFC Bournemouth|Bournemouth]]
+|H
+|[https://www.manutd.com/en/news/detail/man-utd-vs-bournemouth-match-report-3-january-2023 3–0]
+|[[Casemiro]] 23', [[Luke Shaw|Shaw]] 49', [[Marcus Rashford|Rashford]] 86'
+|73,322
+|4th
+|- bgcolor="#ddffdd"
+|14 January 2023
+|[[Manchester City F.C.|Manchester City]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-highlights-for-man-utd-vs-man-city-14-january 2–1]
+|[[Bruno Fernandes|Fernandes]] 78', [[Marcus Rashford|Rashford]] 82'
+|73,546
+|4th
+|- bgcolor="#ffffdd"
+|18 January 2023{{efn|This match, originally scheduled for 11 September 2022, was part of the league-wide postponement of that weekend's matches due to the [[Death and state funeral of Elizabeth II|death of Queen Elizabeth II]].<ref name="GW7"/><ref name="GW7B"/>}}
+|[[Crystal Palace F.C.|Crystal Palace]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-highlights-for-crystal-palace-vs-man-utd-18-january 1–1]
+|[[Bruno Fernandes|Fernandes]] 43'
+|35,853
+|3rd
+|- bgcolor="#ffdddd"
+|22 January 2023
+|[[Arsenal F.C.|Arsenal]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-highlights-for-arsenal-vs-man-utd-22-january 2–3]
+|[[Marcus Rashford|Rashford]] 17', [[Lisandro Martínez|Martínez]] 59'
+|60,325
+|4th
+|- bgcolor="#ddffdd"
+|4 February 2023
+|[[Crystal Palace F.C.|Crystal Palace]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-highlights-for-man-united-v-crystal-palace-4-feb-2023 2–1]
+|[[Bruno Fernandes|Fernandes]] 7' ([[Penalty kick (association football)|pen.]]), [[Marcus Rashford|Rashford]] 62'
+|73,420
+|3rd
+|- bgcolor="#ffffdd"
+|8 February 2023{{efn|This match, originally scheduled for 18 September 2022, was postponed due to a police shortage ahead of the [[Death and state funeral of Elizabeth II|state funeral of Queen Elizabeth II]].<ref name="GW8"/>}}
+|[[Leeds United F.C.|Leeds United]]
+|H
+|[https://www.manutd.com/en/news/detail/man-utd-vs-leeds-united-match-report-8-february-2023 2–2]
+|[[Marcus Rashford|Rashford]] 62', [[Jadon Sancho|Sancho]] 70'
+|73,456
+|3rd
+|- bgcolor="#ddffdd"
+|12 February 2023
+|[[Leeds United F.C.|Leeds United]]
+|A
+|[https://www.manutd.com/en/news/detail/leeds-0-man-utd-2-match-report-12-february-2023 2–0]
+|[[Marcus Rashford|Rashford]] 80', [[Alejandro Garnacho|Garnacho]] 85'
+|36,919
+|3rd
+|- bgcolor="#ddffdd"
+|19 February 2023
+|[[Leicester City F.C.|Leicester City]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-man-utd-v-leicester-city-premier-league-19-february-2023 3–0]
+|[[Marcus Rashford|Rashford]] (2) 25', 56', [[Jadon Sancho|Sancho]] 61'
+|73,578
+|3rd
+|- bgcolor="#ffdddd"
+|5 March 2023
+|[[Liverpool F.C.|Liverpool]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-liverpool-v-man-utd-05-march-2023 0–7]
+|
+|53,001
+|3rd
+|- bgcolor="#ffffdd"
+|12 March 2023
+|[[Southampton F.C.|Southampton]]
+|H
+|[https://www.manutd.com/en/news/detail/man-utd-vs-southampton-match-report-12-march-2023 0–0]
+|
+|73,439
+|3rd
+|- bgcolor="#ffdddd"
+|2 April 2023
+|[[Newcastle United F.C.|Newcastle United]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-newcastle-v-man-utd-02-april-2023 0–2]
+|
+|52,268
+|4th<!--Spurs played on 4 April. The rank shall only reflect after United's playing day ended. In this case, when the date entered 4 April.-->
+|- bgcolor="#ddffdd"
+|5 April 2023{{efn|This match, originally scheduled for 26 February 2023, was rescheduled due to United's involvement in the [[2023 EFL Cup final]].}}
+|[[Brentford F.C.|Brentford]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-from-man-utd-v-brentford-premier-league-05-april-2023 1–0]
+|[[Marcus Rashford|Rashford]] 27'
+|73,309
+|4th
+|- bgcolor="#ddffdd"
+|8 April 2023
+|[[Everton F.C.|Everton]]
+|H
+|[https://www.manutd.com/en/news/detail/man-utd-vs-everton-match-report-8-april-2023 2–0]
+|[[Scott McTominay|McTominay]] 36', [[Anthony Martial|Martial]] 71'
+|73,509
+|4th
+|- bgcolor="#ddffdd"
+|16 April 2023
+|[[Nottingham Forest F.C.|Nottingham Forest]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-nottingham-forest-vs-man-utd-16-april-2023 2–0]
+|[[Antony (footballer, born 2000)|Antony]] 32', [[Diogo Dalot|Dalot]] 76'
+|29,435
+|3rd
+|- bgcolor="#ffffdd"
+|27 April 2023
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-tottenham-hotspur-vs-man-utd-27-april-2023 2–2]
+|[[Jadon Sancho|Sancho]] 7', [[Marcus Rashford|Rashford]] 44'
+|61,586
+|4th
+|- bgcolor="#ddffdd"
+|30 April 2023
+|[[Aston Villa F.C.|Aston Villa]]
+|H
+|[https://www.manutd.com/en/news/detail/man-utd-vs-aston-villa-match-report-30-april-2023 1–0]
+|[[Bruno Fernandes|Fernandes]] 39'
+|73,592
+|4th
+|- bgcolor="#ffdddd"
+|4 May 2023{{efn|This match, originally scheduled for 19 March 2023, was rescheduled due to both teams' involvement in the [[2022–23 FA Cup|FA Cup]] quarter-finals.}}
+|[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|A
+|[https://www.manutd.com/en/news/detail/brighton-v-man-utd-match-report-from-amex-stadium-4-may-2023 0–1]
+|
+|31,577
+|4th
+|- bgcolor="#ffdddd"
+|7 May 2023
+|[[West Ham United F.C.|West Ham United]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-from-west-ham-vs-man-utd-07-may-2023 0–1]
+|
+|62,477
+|4th
+|- bgcolor="#ddffdd"
+|13 May 2023
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|H
+|[https://www.manutd.com/en/news/detail/man-utd-vs-wolves-match-report-13-may-2023 2–0]
+|[[Anthony Martial|Martial]] 32', [[Alejandro Garnacho|Garnacho]] 90+4'
+|73,570
+|4th
+|- bgcolor="#ddffdd"
+|20 May 2023
+|[[AFC Bournemouth|Bournemouth]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-bournemouth-vs-man-utd-on-20-may-2023 1–0]
+|[[Casemiro]] 9'
+|10,240
+|4th
+|- bgcolor="#ddffdd"
+|25 May 2023{{efn|This match, originally scheduled for 22 April 2023, was rescheduled due to United's involvement in the [[2022–23 FA Cup|FA Cup]] semi-finals.}}
+|[[Chelsea F.C.|Chelsea]]
+|H
+|[https://www.manutd.com/en/news/detail/man-utd-v-chelsea-match-report-and-highlights-hub-25-may-2023 4–1]
+|[[Casemiro]] 6', [[Anthony Martial|Martial]] 45+6', [[Bruno Fernandes|Fernandes]] 73' ([[Penalty kick (association football)|pen.]]), [[Marcus Rashford|Rashford]] 78'
+|73,561
+|3rd
+|- bgcolor="#ddffdd"
+|28 May 2023
+|[[Fulham F.C.|Fulham]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-from-man-utd-v-fulham-on-28-may-2023 2–1]
+|[[Jadon Sancho|Sancho]] 39', [[Bruno Fernandes|Fernandes]] 55'
+|73,465
+|3rd
+|}
+{{notelist}}
+
+===League table===
+{{:2022–23 Premier League|showteam=MUN}}
+
+==FA Cup==
+As a Premier League side, United entered the [[2022–23 FA Cup]] in the third round proper in January 2023. They were drawn against Everton and the match was played at Old Trafford on 6 January 2023 as the first match of the round.<ref>{{cite news |title=Confirmed: United's FA Cup third-round tie|date=29 November 2022|url=https://www.manutd.com/en/news/detail/details-of-fa-cup-third-round-draw-for-2022-23-featuring-man-utd|first=Adam |last=Bostock |access-date=30 November 2022 |publisher=Manchester United |website=ManUtd.com}}</ref> Antony opened the scoring after just four minutes, [[Conor Coady]] equalised ten minutes later. He then scored an [[Own goal (association football)|own goal]] in the second half to give United the lead, before Marcus Rashford scored a third goal from the penalty spot.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 3-1 Everton: Marcus Rashford shines as Man Utd beat Everton in FA Cup |url=https://www.bbc.co.uk/sport/football/64182366 |work=BBC Sport |date=6 January 2023 |access-date=6 January 2023 }}</ref>
+
+In the fourth round proper, they were drawn at home to [[EFL Championship|Championship]] side [[Reading F.C.|Reading]].<ref>{{cite news |first=Mikey |last=Partington |title=United learn FA Cup fourth-round opponents |url=https://www.manutd.com/en/news/detail/man-utd-learn-fa-cup-fourth-round-opponents-for-2022-23 |website=ManUtd.com |publisher=Manchester United |date=8 January 2023 |access-date=10 January 2023 }}</ref> Casemiro scored two goals in five minutes, before Fred scored a third goal with a backheel. [[Amadou Salif Mbengue]] scored a consolation goal for the visitors in the 72nd minute.<ref>{{cite news |first=Steve |last=Sutcliffe |title=Manchester United 3-1 Reading: Casemiro double helps hosts reach FA Cup fifth round |url=https://www.bbc.co.uk/sport/football/64429931 |work=BBC Sport |date=28 January 2023 |access-date=28 January 2023 }}</ref>
+
+In the fifth round proper, Manchester United were drawn at home again, this time against West Ham United.<ref>{{cite news |title=Who have Man Utd drawn in FA Cup fifth round 2022-23 |first=Mikey |last=Partington |url=https://www.manutd.com/en/news/detail/who-have-man-utd-drawn-in-fa-cup-fifth-round-2022-23 |access-date=31 January 2023 |publisher=Manchester United |website=ManUtd.com|date=30 January 2023}}</ref> Despite falling behind in the 54th minute by [[Saïd Benrahma]], an own goal from [[Nayef Aguerd]] levelled the tie in the 77th minute, before two late goals from Alejandro Garnacho and Fred secured the home side's progression to the quarter-finals, and a home tie with Fulham.<ref>{{cite web |last=Emons |first=Michael |url=https://www.bbc.co.uk/sport/football/64799759|title=Manchester United 3-1 West Ham: Hosts move into FA Cup quarter-finals with two late goals |work=BBC Sport|date=1 March 2023|accessdate=1 March 2023 }}</ref>
+
+In the quarter-finals, United fell behind when Aleksandar Mitrović scored for Fulham in the 50th minute, his first FA Cup goal. A handball from [[Willian (footballer, born 1988)|Willian]] at the goal line led to a VAR referral, where Fulham manager [[Marco Silva]] attempted to influence the referee, which resulted in his dismissal. The referee then granted the penalty kick on review, and red carded Willian for denying a clear goalscoring opportunity. Right after Willian was shown the red card, an enraged Mitrović assaulted referee [[Chris Kavanagh (referee)|Chris Kavanagh]], prompting his own immediate expulsion. Bruno Fernandes equalised from the penalty. Two minutes later, Marcel Sabitzer backheeled his first United goal following a pass from Luke Shaw. Fernandes secured the victory right before the final whistle, assisted by Fred, as they secured a fourth consecutive 3–1 cup win and a record 31st FA Cup semi-final. United were drawn against Brighton & Hove Albion, whom they defeated in the [[1983 FA Cup final]].<ref>{{cite web |last=Stone |first=Simon |url=https://www.bbc.co.uk/sport/football/64984201|title=Manchester United 3-1 Fulham: Bruno Fernandes double seals comeback against nine-man Cottagers |work=BBC Sport|date=19 March 2023|accessdate=19 March 2023 }}</ref>
+
+In the semi-final, United and Brighton both had chances before the match ended goalless after extra time. Both teams converted their first six penalties as it entered sudden death; Solly March missed Brighton's seventh attempt before Victor Lindelöf converted to take United into their 21st FA Cup final, their first since [[2018 FA Cup final|2018]] and the first FA Cup final to feature a Manchester derby.<ref>{{cite news |first=Phil |last=McNulty |title=Brighton 0-0 Man Utd (6-7 on pens): Victor Lindelof scores winning penalty to set up first all-Manchester FA Cup final |url=https://www.bbc.co.uk/sport/football/65347158 |work=BBC Sport |date=23 April 2023 |accessdate=25 April 2023 }}</ref>
+
+The final gave United a chance to stop their local rivals City from becoming the second English team to win the [[Treble (association football)|treble]], after United had done it themselves in [[1998–99 Manchester United F.C. season|1999]]. [[İlkay Gündoğan]] scored a goal after only 13 seconds, the fastest goal to date in an FA Cup final, before Fernandes equalised from the penalty spot shortly after the half-hour mark. Gündoğan scored again in the second half to give City their seventh FA Cup title. This was United's ninth defeat in the FA Cup final and second in a row after also losing to Chelsea in 2018.<ref>{{cite news |first=Phil |last=McNulty |title=Manchester City 2-1 Manchester United: Ilkay Gundogan double settles 2023 FA Cup final |url=https://www.bbc.co.uk/sport/football/65785637 |work=BBC Sport |date=3 June 2023 |accessdate=8 June 2023}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Date
+!Round
+!Opponents
+!H / A
+!Result<br />F–A
+!Scorers
+!Attendance
+|- bgcolor="#ddffdd"
+|6 January 2023
+|Third round
+|[[Everton F.C.|Everton]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-man-utd-v-everton-6-january-2023 3–1]
+|[[Antony (footballer, born 2000)|Antony]] 4', [[Conor Coady|Coady]] 52' ([[Own goal (association football)|o.g.]]), [[Marcus Rashford|Rashford]] 90+7' ([[Penalty kick (association football)|pen.]])
+|72,306
+|- bgcolor="#ddffdd"
+|28 January 2023
+|Fourth round
+|[[Reading F.C.|Reading]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-for-man-utd-v-reading-in-fa-cup-fourth-round-28-january-2023 3–1]
+|[[Casemiro]] (2) 54', 58', [[Fred (footballer, born 1993)|Fred]] 66'
+|73,460
+|- bgcolor="#ddffdd"
+|1 March 2023
+|Fifth round
+|[[West Ham United F.C.|West Ham United]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-man-utd-v-west-ham-01-march-2023 3–1]
+|[[Nayef Aguerd|Aguerd]] 77' ([[Own goal|o.g.]]), [[Alejandro Garnacho|Garnacho]] 90', [[Fred (footballer, born 1993)|Fred]] 90+5'
+|72,571
+|- bgcolor="#ddffdd"
+|19 March 2023
+|Quarter-finals
+|[[Fulham F.C.|Fulham]]
+|H
+|[https://www.manutd.com/en/news/detail/man-utd-vs-fulham-match-report-19-march-2023 3–1]
+|[[Bruno Fernandes|Fernandes]] (2) 75' ([[Penalty kick (association football)|pen.]]), 90+6', [[Marcel Sabitzer|Sabitzer]] 77'
+|73,511
+|- bgcolor="#ffffdd"
+|23 April 2023
+|Semi-finals
+|[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]
+|[[Wembley Stadium|N]]
+|[https://www.manutd.com/en/news/detail/brighton-v-man-utd-fa-cup-semi-final-match-report-23-april-2023 0–0] {{aet}}<br />(7–6[[Penalty shoot-out (association football)|p]])
+|
+|81,445
+|- bgcolor="#ffdddd"
+|3 June 2023
+|[[2023 FA Cup final|Final]]
+|[[Manchester City F.C.|Manchester City]]
+|[[Wembley Stadium|N]]
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-man-city-v-man-utd-in-the-fa-cup-final-on-03-june-2023 1–2]
+|[[Bruno Fernandes|Fernandes]] 33' ([[Penalty kick (association football)|pen.]])
+|83,179
+|}
+
+==EFL Cup==
+As United were competing in [[UEFA competitions|UEFA competition]] in 2022–23, they entered the [[2022–23 EFL Cup|EFL Cup]] in the third round. They were drawn against Aston Villa, and the match was played at Old Trafford on 10 November 2022.<ref>{{cite news |first=Sam |last=Carney |title=United discover Carabao Cup opponents |url=https://www.manutd.com/en/news/detail/man-utd-discover-carabao-cup-third-round-opponents-24-august-2022 |website=ManUtd.com |publisher=Manchester United |date=24 August 2022 |access-date=24 August 2022 }}</ref> United gave a debut to goalkeeper [[Martin Dúbravka]], who kept a clean sheet in the first half, but within three minutes of the second half starting, United were behind to a goal from [[Ollie Watkins]]. Anthony Martial equalised 19 seconds after the ensuing kick-off, only for United to go behind again when [[Diogo Dalot]] diverted a ball from Leon Bailey into his own net just after the hour mark. Marcus Rashford equalised six minutes later, before Bruno Fernandes and Scott McTominay sealed the victory.<ref>{{cite news |first=Simon |last=Stone |title=Carabao Cup: Man Utd 4-2 Aston Villa: Hosts earn win after frantic second half |url=https://www.bbc.co.uk/sport/football/63494682|website=BBC Sport|date=10 November 2022|access-date=10 November 2022}}</ref>
+
+United received another home draw in the fourth round; they played against [[Burnley F.C.|Burnley]] on 21 December 2022.<ref>{{cite news |first=Courtney |last=Hill |title=Who will United face next in the Carabao Cup? |url=https://www.manutd.com/en/news/detail/man-utd-discover-carabao-cup-2022-fourth-round-opponents |website=ManUtd.com |publisher=Manchester United |date=10 November 2022 |access-date=11 November 2022 }}</ref> Christian Eriksen opened the scoring in the first half before Rashford added a second after the half-time interval.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 2-0 Burnley: Christian Eriksen and Marcus Rashford score in EFL Cup |url=https://www.bbc.co.uk/sport/football/63967177 |website=BBC Sport |date=21 December 2022 |access-date=21 December 2022 }}</ref>
+
+In the quarter-finals, Manchester United were drawn at home against the lowest-ranked team remaining in the competition, [[Charlton Athletic F.C.|Charlton Athletic]].<ref>{{cite news |first=Adam |last=Marshall |title=Reds discover last-eight opponents |url=https://www.manutd.com/en/news/detail/man-utd-discover-carabao-cup-quarter-final-opponents-for-january-2023 |website=ManUtd.com |publisher=Manchester United |date=22 December 2022 |access-date=23 December 2022 }}</ref> In the sides' first meeting in nearly 16 years,<ref>{{cite web |title=Manchester United football club: record v Charlton Athletic |url=https://www.11v11.com/teams/manchester-united/tab/opposingTeams/opposition/Charlton%20Athletic/ |website=11v11.com |access-date=11 January 2023 }}</ref> a first-half goal from Antony, followed by two goals in five minutes from substitute Rashford late in the game secured United a place in the semi-finals. The match featured [[Kobbie Mainoo]] and Facundo Pellistri's competitive debuts for the club; the former started and played for an hour while the latter came on as a substitute at 84 minutes and assisted Rashford's first goal. This was also goalkeeper [[Tom Heaton]]'s first start for the club.<ref>{{cite news |first=Simon |last=Stone |title=Manchester United 3-0 Charlton Athletic: Old Trafford side into Carabao Cup semi-finals |url=https://www.bbc.co.uk/sport/football/64149053 |work=BBC Sport |date=10 January 2023 |access-date=10 January 2023 }}</ref>
+
+In the semi-finals, United faced Nottingham Forest, whom they defeated in the [[1992 Football League Cup final|1992 final]] to lift their first League Cup title. In the first leg held at [[City Ground]], Rashford opened the scoring inside six minutes. Wout Weghorst then scored just before half-time, his first goal for the club. Fernandes wrapped up the win with another strike.<ref>{{cite web |last=Stone |first=Simon |url=https://www.bbc.co.uk/sport/football/64313520 |title=Nottingham Forest 0-3 Manchester United: United take control of Carabao Cup semi |work=BBC Sport|date=25 January 2023|accessdate=25 January 2023 }}</ref> In the return leg, goals from Anthony Martial and Fred secured a 5–0 aggregate win and a [[2023 EFL Cup final|final]] appearance against Newcastle United.<ref>{{cite web |last=Stone |first=Simon |url=https://www.bbc.co.uk/sport/football/64395351 |title=Manchester United 2-0 Nottingham Forest (5-0 on agg): United to play Newcastle in Carabao Cup final |work=BBC Sport|date=1 February 2023|accessdate=1 February 2023 }}</ref>
+
+In the final, Casemiro opened the scoring before Rashford struck the second goal. United clung on to win their sixth League Cup and the club's first trophy since [[2017 UEFA Europa League final|2017]].<ref name="LCF"/> The 2–0 scoreline was a repeat of the [[1999 FA Cup final]]. David de Gea kept his 181st clean sheet for the club during the match, surpassing the record held by Peter Schmeichel.<ref>{{cite news |title=David de Gea breaks Club record in Carabao Cup Final |url=https://www.efl.com/news/2023/february/david-de-gea-breaks-club-record-in-carabao-cup-final/ |website=EFL.com |publisher=English Football League |date=26 February 2023 |accessdate=26 February 2023 }}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Date
+!Round
+!Opponents
+!H / A
+!Result<br />F–A
+!Scorers
+!Attendance
+|- bgcolor="#ddffdd"
+|10 November 2022
+|Third round
+|[[Aston Villa F.C.|Aston Villa]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-highlights-for-man-utd-v-aston-villa-10-november-2022 4–2]
+|[[Anthony Martial|Martial]] 49', [[Marcus Rashford|Rashford]] 67', [[Bruno Fernandes|Fernandes]] 78', [[Scott McTominay|McTominay]] 90+1'
+|72,512
+|- bgcolor="#ddffdd"
+|21 December 2022
+|Fourth round
+|[[Burnley F.C.|Burnley]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-highlights-hub-man-utd-vs-burnley-21-december-2022 2–0]
+|[[Christian Eriksen|Eriksen]] 27', [[Marcus Rashford|Rashford]] 57'
+|62,062
+|- bgcolor="#ddffdd"
+|10 January 2023
+|Quarter-finals
+|[[Charlton Athletic F.C.|Charlton Athletic]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-man-utd-v-charlton-athletic-10-january-2022 3–0]
+|[[Antony (footballer, born 2000)|Antony]] 21', [[Marcus Rashford|Rashford]] (2) 90', 90+4'
+|74,345
+|- bgcolor="#ddffdd"
+|25 January 2023
+|Semi-finals<br>First leg
+|[[Nottingham Forest F.C.|Nottingham Forest]]
+|A
+|[https://www.manutd.com/en/news/detail/nottingham-forest-v-man-utd-match-report-and-video-highlights-25-january-2023 3–0]
+|[[Marcus Rashford|Rashford]] 6', [[Wout Weghorst|Weghorst]] 45', [[Bruno Fernandes|Fernandes]] 89'
+|29,325
+|- bgcolor="#ddffdd"
+|1 February 2023
+|Semi-finals<br>Second leg
+|[[Nottingham Forest F.C.|Nottingham Forest]]
+|H
+|[https://www.manutd.com/en/news/detail/man-utd-v-nottingham-forest-match-report-01-february-2023 2–0]
+|[[Anthony Martial|Martial]] 73', [[Fred (footballer, born 1993)|Fred]] 76'
+|72,315
+|- bgcolor="#ddffdd"
+|26 February 2023
+|[[2023 EFL Cup final|Final]]
+|[[Newcastle United F.C.|Newcastle United]]
+|[[Wembley Stadium|N]]
+|[https://www.manutd.com/en/news/detail/man-utd-2-newcastle-united-0-carabao-cup-final-match-report-26-february-2023 2–0]
+|[[Casemiro]] 33', [[Marcus Rashford|Rashford]] 39'
+|87,306
+|}
+
+==UEFA Europa League==
+===Group stage===
+{{main|2022–23 UEFA Europa League group stage#Group E}}
+Having finished sixth in the [[2021–22 Premier League]], United qualified for the [[2022–23 UEFA Europa League]]. They entered the competition in the group stage, which was drawn on 26 August 2022, with United in Pot 1 along with [[A.S. Roma|Roma]], Arsenal, [[S.S. Lazio|Lazio]], [[S.C. Braga|Braga]], [[Red Star Belgrade]], [[FC Dynamo Kyiv|Dynamo Kyiv]] and [[Olympiacos F.C.|Olympiacos]].<ref>{{cite news |title=Your guide to the 2022/23 Europa League draw |url=https://www.manutd.com/en/news/detail/preview-of-2022-uefa-europa-league-group-stage-draw-featuring-man-utd |website=ManUtd.com |publisher=Manchester United |date=25 August 2022 |accessdate=25 August 2022 }}</ref> They were drawn into Group E with Spanish club [[Real Sociedad]], Moldovan champions [[FC Sheriff Tiraspol|Sheriff Tiraspol]] and Cypriot representative [[AC Omonia|Omonia]]. They last met Sociedad in the [[2020–21 UEFA Europa League knockout phase#Round of 32|2020–21 UEFA Europa League round of 32]], which they won 4–0 away and drew 0–0 at home. They also met in the [[2013–14 UEFA Champions League group stage#Real Sociedad v Manchester United|2013–14 UEFA Champions League group stage]], when United drew 0–0 away and won 1–0 at home. The meetings with Sheriff and Omonia were United's first against teams from either Moldova or Cyprus.<ref>{{cite news |first=Adam |last=Marshall |title=Europa League group-stage draw |url=https://www.manutd.com/en/news/detail/united-discover-opponents-in-europa-league-group-draw-on-26-august-2022 |website=ManUtd.com |publisher=Manchester United |date=26 August 2022 |accessdate=26 August 2022 }}</ref> The group stage began on 8 September and concluded on 3 November 2022.<ref>{{cite web |title=2022/23 UEFA Europa League: Matches, draws, final |url=https://www.uefa.com/uefaeuropaleague/news/0271-142f45064923-bb3ec4d78f88-1000--2022-23-match-draw-dates/ |website=[[UEFA]] |publisher=Union of European Football Associations |date=26 August 2022 |access-date=26 August 2022 }}</ref>
+
+Before United's opening group match at home to Real Sociedad, a moment of silence was observed following the death of Queen Elizabeth II earlier that day. Real Sociedad's [[Brais Méndez]] scored the only goal of the game from the penalty spot after 59 minutes, following a contentious handball decision against substitute Lisandro Martínez, to give the Spanish side their first ever win over United.<ref>{{cite news |first=Simon |last=Stone |title=Man Utd 0–1 Real Sociedad: Brais Mendez scores winner after controversial penalty |url=https://www.bbc.co.uk/sport/football/62824812 |website=BBC Sport |date=8 September 2022 |access-date=8 September 2022 }}</ref> For the next match United travelled to [[Chișinău]], where [[Zimbru Stadium]] hosted the match instead of Sheriff's regular stadium, [[Sheriff Stadium]], [[Tiraspol]], due to [[Transnistria]]'s involvement in the [[Russian invasion of Ukraine]]. Jadon Sancho opened the scoring before Cristiano Ronaldo scored his first goal of the season via a penalty.<ref>{{cite news |first=Shamoon |last=Hafez |title=Sheriff Tiraspol 0–2 Man Utd: Cristiano Ronaldo and Jadon Sancho score |url=https://www.bbc.co.uk/sport/football/62908421|website=BBC Sport |date=15 September 2022 |access-date=15 September 2022 }}</ref>
+
+The next match saw United travel to Omonia's [[GSP Stadium]] in [[Nicosia]]. Despite a heavily dominant United display in the first half, [[Karim Ansarifard]] put Omonia into the lead after 34 minutes. Half-time substitutes Rashford and Martial put United 3–1 up before [[Nikolas Panayiotou]] scored a late consolation goal for the hosts.<ref>{{cite news |first=Emma |last=Smith |title=Omonia Nicosia 2-3 Manchester United: Marcus Rashford inspires Europa League win after scare in Cyprus|url=https://www.bbc.co.uk/sport/football/63153626|website=BBC Sport |date=6 October 2022 |access-date=6 October 2022 }}</ref> The return fixture was played the next week, with Scott McTominay scoring the game's winning goal.<ref>{{cite news |first=Emma |last=Sanders |title=Manchester United 1-0 Omonia Nicosia: Scott McTominay scores stoppage-time winner |url=https://www.bbc.co.uk/sport/football/63233663 |website=BBC Sport |date=13 October 2022 |access-date=13 October 2022 }}</ref>
+
+United hosted Sheriff Tiraspol on 27 October, with Alejandro Garnacho making his first senior start for the club. Diogo Dalot scored the opener with a header. It was only his second ever goal for United, and the first since [[2019–20 Manchester United F.C. season#FA Cup|January 2020]]. Rashford then doubled the lead with another header before Ronaldo ensured United's passage to the Europa League knockout stage.<ref>{{cite news |title=Manchester United 3-0 Sheriff Tiraspol: Cristiano Ronaldo scores in comfortable win|work=BBC Sport |url=https://www.bbc.co.uk/sport/football/63404717 |date=27 October 2022 |access-date=27 October 2022|first=Simon |last=Stone}}</ref> On the final matchday, United needed to win by two goals in their return match against Real Sociedad at [[Anoeta Stadium]] to win the group. Garnacho scored his first senior goal for the club in the first half, but there were no further goals, which meant United finished second based on their overall goal difference.<ref>{{cite news |first=Neil |last=Johnston |title=Real Sociedad 0-1 Man Utd: Teenager Alejandro Garnacho scores but Red Devils finish second in Europa League group |url=https://www.bbc.co.uk/sport/football/63490582 |work=BBC Sport |date=3 November 2022 |access-date=3 November 2022 }}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Date
+!Opponents
+!H / A
+!Result<br />F–A
+!Scorers
+!Attendance
+!Group<br />position
+|- bgcolor="#ffdddd"
+|8 September 2022
+|[[Real Sociedad]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-man-utd-v-real-sociedad-8-september-2022 0–1]
+|
+|71,720
+|3rd
+|- bgcolor="#ddffdd"
+|15 September 2022
+|[[FC Sheriff Tiraspol|Sheriff Tiraspol]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-sheriff-tiraspol-v-manchester-united-15-september-2022 2–0]
+|[[Jadon Sancho|Sancho]] 17', [[Cristiano Ronaldo|Ronaldo]] 39' ([[Penalty kick (association football)|pen.]])
+|8,734
+|2nd
+|- bgcolor="#ddffdd"
+|6 October 2022
+|[[AC Omonia|Omonia]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-omonia-nicosia-v-man-utd-06-october-2022 3–2]
+|[[Marcus Rashford|Rashford]] (2) 53', 84', [[Anthony Martial|Martial]] 63'
+|20,011
+|2nd
+|- bgcolor="#ddffdd"
+|13 October 2022
+|[[AC Omonia|Omonia]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-man-united-v-omonia-nicosia-13-october-2022 1–0]
+|[[Scott McTominay|McTominay]] 90+3'
+|73,132
+|2nd
+|- bgcolor="#ddffdd"
+|27 October 2022
+|[[FC Sheriff Tiraspol|Sheriff Tiraspol]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-man-united-v-sheriff-tiraspol-27-october-2022 3–0]
+|[[Diogo Dalot|Dalot]] 44', [[Marcus Rashford|Rashford]] 65', [[Cristiano Ronaldo|Ronaldo]] 81'
+|73,764
+|2nd
+|- bgcolor="#ddffdd"
+|3 November 2022
+|[[Real Sociedad]]
+|A
+|[https://www.manutd.com/en/news/detail/match-hub-and-highlights-for-real-sociedad-v-man-utd-uefa-europa-league-03-november-2022 1–0]
+|[[Alejandro Garnacho|Garnacho]] 17'
+|36,744
+|2nd
+|}
+{{2022–23 UEFA Europa League group tables|Group E|show_matches=n|showteam=MUN}}
+
+===Knockout phase===
+{{main|2022–23 UEFA Europa League knockout phase}}
+Having finished second in their group, United played in the Europa League knock-out round playoffs against one of the eight third-placed teams from the [[2022–23 UEFA Champions League group stage|UEFA Champions League group stage]]. There were no other English teams in the draw conducted on 7 November 2022, so all eight opponents were possible: [[AFC Ajax|Ajax]], [[FC Barcelona|Barcelona]], [[Bayer 04 Leverkusen|Bayer Leverkusen]], [[Juventus FC|Juventus]], [[FC Red Bull Salzburg|Red Bull Salzburg]], [[Sevilla FC|Sevilla]], [[FC Shakhtar Donetsk|Shakhtar Donetsk]] and [[Sporting CP]].<ref>{{cite news |first=Adam |last=Bostock |title=When will the Europa League draw take place? |url=https://www.manutd.com/en/news/detail/draw-details-for-2022-23-uefa-europa-league-knockout-stage-draw-featuring-man-utd |website=ManUtd.com |publisher=Manchester United |date=3 November 2022 |accessdate=3 November 2022 }}</ref> United were drawn first from the group runners-up pot, paired with Barcelona. The two teams have previously met in 13 competitive matches, most notably in the [[1991 European Cup Winners' Cup final]] – which United won 2–1 – and the [[2009 UEFA Champions League final|2009]] and [[2011 UEFA Champions League final]]s, which Barcelona won 2–0 and 3–1, respectively. It was the sides' first meeting since the [[2018–19 UEFA Champions League knockout phase#Quarter-finals|2018–19 Champions League quarter-finals]], which United lost 4–0 on aggregate.<ref>{{cite news |first=Adam |last=Bostock |title=United learn Europa League play-off opponents |url=https://www.manutd.com/en/news/detail/europa-league-draw-confirms-play-off-opponents-for-man-utd-in-february-2023 |website=ManUtd.com |publisher=Manchester United |date=7 November 2022 |accessdate=7 November 2022 }}</ref> United came on a quest to win away against Barcelona for the first time ever, and almost did it. After [[Marcos Alonso (footballer, born 1990)|Marcos Alonso]] scored the opener at the 50th minute, it only took two minutes for Marcus Rashford to score the equaliser, his 22nd goal of the campaign. It was his cross that forced [[Jules Koundé]] to make a mistake and scored an [[own goal]] seven minutes later. However, former Leeds United winger [[Raphinha]], who assisted Alonso for the first goal, scored himself 14 minutes from full time as the teams settled for a 2–2 draw.<ref>{{cite news |last=Hafez |first=Shamoon |title=Barcelona 2-2 Manchester United: Marcus Rashford and Raphinha on target in play-off thriller |url=https://www.bbc.co.uk/sport/football/64653702 |access-date=16 February 2023 |work=BBC Sport |date=16 February 2023}}</ref> In the second leg, United went behind after just 18 minutes to a penalty from [[Robert Lewandowski]]. Second half goals from Brazilian duo Fred and Antony turned around the match and tie as United secured only their fourth competitive win over Barcelona, and the first since the [[2007–08 UEFA Champions League knockout stage#Manchester United v Barcelona|2007–08 UEFA Champions League semi-finals]].<ref>{{cite news |last=Stone |first=Simon |title=Manchester United 2-1 Barcelona (4-3 on agg): Fred and Antony send Man Utd into Europa League last 16 |url=https://www.bbc.co.uk/sport/football/64734065 |access-date=23 February 2023 |work=BBC Sport |date=23 February 2023}}</ref>
+
+In the round of 16, United were drawn against another Spanish side in Real Betis, the two clubs' first competitive encounter.<ref>{{cite news |last=Poole |first=Harry |title=Europa League last 16 draw: Man Utd to play Real Betis, Arsenal face Sporting Lisbon |url=https://www.bbc.co.uk/sport/football/64755066 |access-date=27 February 2023 |work=BBC Sport |date=24 February 2023}}</ref> In the first leg at Old Trafford, Rashford scored after just six minutes, with [[Ayoze Pérez]] equalising 26 minutes later. Second-half goals from Antony, Bruno Fernandes, and Wout Weghorst – his first home goal for United – secured a 4–1 win.<ref>{{cite news |last=Stone |first=Simon |title=Manchester United 4-1 Real Betis: Erik ten Hag's side take command in Europa League last-16 first-leg tie |url=https://www.bbc.co.uk/sport/football/64893700|access-date=9 March 2023|work=BBC Sport |date=9 March 2023}}</ref> In the second leg, a 56th minute goal from Rashford saw United secure a 1–0 win and progression to the quarter-finals with a 5–1 victory on aggregate.<ref>{{cite news |last=Rindl |first=Joe |title=Real Betis 0-1 Manchester United (Agg:1-5): Marcus Rashford scores as visitors reach Europa League quarter-finals |url=https://www.bbc.co.uk/sport/football/64971951 |access-date=16 March 2023 |work=BBC Sport |date=16 March 2023}}</ref>
+
+In the quarter-finals, United were paired with yet another Spanish club in Sevilla, Betis's [[Seville derby|cross-city rivals]].<ref>{{cite news |title=Man Utd to play Sevilla and West Ham will meet Gent |url=https://www.bbc.co.uk/sport/football/64988072|access-date=17 March 2023 |work=BBC Sport |date=17 March 2023}}</ref> This was the first time in history that United had faced four different opponents from the same country in a single European campaign.<ref>{{Cite tweet|user=OptaJoe|author=OptaJoe|number=1636705702612746240|date=17 March 2023|title=4 – Man Utd are only the second side ever to face four different sides from the same country in a single season in a major European competition (Real Sociedad, Barça, Betis, Sevilla), after Leeds Utd in the 2000–01 Champions League (Barça, Real Madrid, Deportivo, Valencia). Hola.|access-date=17 March 2023}}</ref> United were looking to beat the Europa League's most successful side for the first time, having lost the [[2017–18 UEFA Champions League knockout phase#Round of 16|2017–18 UEFA Champions League round of 16]] and [[2019–20 UEFA Europa League knockout phase#Semi-finals|2019–20 UEFA Europa League semi-final]] ties.<ref>{{cite web |title=Manchester United football club: record v Sevilla |url=https://www.11v11.com/teams/manchester-united/tab/opposingTeams/opposition/Sevilla/ |website=11v11.com |access-date=17 March 2023 }}</ref> The first leg was held at home on 13 April, with United scoring two goals through Marcel Sabitzer inside 21 minutes. With six minutes left, Tyrell Malacia deflected a cross from former Manchester City winger [[Jesús Navas]] into his own net, and when Lisandro Martínez was injured shortly after, United were forced to play with 10 men, having already used all five substitutions. Two minutes into the added time, one of the substitutes, [[Harry Maguire]], deflected a [[Youssef En-Nesyri]] cross into United's net as well.<ref>{{cite news |last=Stone |first=Simon |title=Manchester United 2-2 Sevilla: Late own goals leave Europa League tie evenly poised |url=https://www.bbc.co.uk/sport/football/65255442|access-date=13 April 2023|work=BBC Sport |date=13 April 2023}}</ref> In the return leg, another error from Maguire enabled En-Nesyri to score within eight minutes. A looping header from [[Loïc Badé]] doubled Sevilla's lead two minutes after half time. En-Nesyri scored another goal nine minutes from time, taking advantage of a defensive error by [[David de Gea]]. A 3–0 defeat meant United were knocked out 5–2 on aggregate. This was the sixth consecutive season—all after winning the [[2016–17 UEFA Europa League]]—in which United were eliminated by Spanish opposition in Europe, which started against Sevilla in 2017–18. United had not won their first five competitive games against Sevilla, the most they have faced a club in Europe without winning in their history.<ref>{{cite news |last=Smith |first=Emma |title=Sevilla 3-0 Manchester United (Agg: 5-2): Dreadful Red Devils dumped out of Europa League |url=https://www.bbc.co.uk/sport/football/65327031|access-date=20 April 2023|work=BBC Sport |date=20 April 2023}}</ref><ref>{{cite news |last=Smith |first=Emma |title=Manchester United 'give it away' as Europa League exit leaves players 'fighting for futures' |url=https://www.bbc.co.uk/sport/football/65344313|access-date=20 April 2023|work=BBC Sport |date=20 April 2023}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!Date
+!Round
+!Opponents
+!H / A
+!Result<br />F–A
+!Scorers
+!Attendance
+|- bgcolor="#ffffdd"
+|16 February 2023
+|Knockout round play-off<br />First leg
+|[[FC Barcelona|Barcelona]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-highlights-for-barcelona-v-man-united-in-the-europa-league-16-february-2023 2–2]
+|[[Marcus Rashford|Rashford]] 52', [[Jules Koundé|Koundé]] 59' ([[Own goal|o.g.]])
+|90,225
+|- bgcolor="#ddffdd"
+|23 February 2023
+|Knockout round play-off<br />Second leg
+|[[FC Barcelona|Barcelona]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-man-utd-v-barcelona-23-february-2023 2–1]
+|[[Fred (footballer, born 1993)|Fred]] 47', [[Antony (footballer, born 2000)|Antony]] 73'
+|73,021
+|- bgcolor="#ddffdd"
+|9 March 2023
+|Round of 16<br>First leg
+|[[Real Betis]]
+|H
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-man-utd-vs-real-betis-09-march-2023 4–1]
+|[[Marcus Rashford|Rashford]] 6', [[Antony (footballer, born 2000)|Antony]] 52', [[Bruno Fernandes|Fernandes]] 58', [[Wout Weghorst|Weghorst]] 82'
+|72,998
+|- bgcolor="#ddffdd"
+|16 March 2023
+|Round of 16<br>Second leg
+|[[Real Betis]]
+|A
+|[https://www.manutd.com/en/news/detail/match-report-and-video-highlights-hub-for-real-betis-v-man-utd-on-16-march-2023 1–0]
+|[[Marcus Rashford|Rashford]] 56'
+|54,643
+|- bgcolor="#ffffdd"
+|13 April 2023
+|Quarter-finals<br>First leg
+|[[Sevilla FC|Sevilla]]
+|H
+|[https://www.manutd.com/en/news/detail/man-utd-vs-sevilla-match-report-13-april-2023 2–2]
+|[[Marcel Sabitzer|Sabitzer]] (2) 14', 21'
+|72,825
+|- bgcolor="#ffdddd"
+|20 April 2023
+|Quarter-finals<br>Second leg
+|[[Sevilla FC|Sevilla]]
+|A
+|[https://www.manutd.com/en/news/detail/sevilla-vs-man-utd-match-report-20-march-2023 0–3]
+|
+|41,974
+|}
+
+==Squad statistics==
+{| class="wikitable sortable" style="text-align:center"
+|-
+!rowspan="2" valign="bottom"|No.
+!rowspan="2" valign="bottom"|Pos.
+!rowspan="2" valign="bottom"|Name
+!colspan="2" width="85"|League
+!colspan="2" width="85"|FA Cup
+!colspan="2" width="85"|EFL Cup
+!colspan="2" width="85"|Europe
+!colspan="2" width="85"|Total
+!colspan="2" width="85"|Discipline
+|-
+!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!![[File:Yellow card.svg|13px]]!![[File:Red card.svg|13px]]
+|-
+|align="left"|1||align="left"|GK||align="left"|{{flagicon|ESP}} [[David de Gea]]
+|38||0||6||0||2||0||12||0||58||0||2||0
+|-
+|align="left"|2||align="left"|DF||align="left"|{{flagicon|SWE}} [[Victor Lindelöf]]
+|14(6)||0||4||0||3(1)||0||6(1)||0||27(8)||0||2||0
+|-
+|align="left"|3||align="left"|DF||align="left"|{{flagicon|CIV}} [[Eric Bailly]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|4||align="left"|DF||align="left"|{{flagicon|ENG}} [[Phil Jones (footballer, born 1992)|Phil Jones]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|5||align="left"|DF||align="left"|{{flagicon|ENG}} [[Harry Maguire]] ([[Captain (association football)|c]])
+|8(8)||0||3(1)||0||2(2)||0||3(4)||0||16(15)||0||9||0
+|-
+|align="left"|6||align="left"|DF||align="left"|{{flagicon|ARG}} [[Lisandro Martínez]]
+|24(3)||1||1(2)||0||4(1)||0||9(1)||0||38(7)||1||10||0
+|-
+|align="left"|7||align="left"|FW||align="left"|{{flagicon|POR}} [[Cristiano Ronaldo]]
+|4(6)||1||0||0||0||0||6||2||10(6)||3||3||0
+|-
+|align="left"|8||align="left"|MF||align="left"|{{flagicon|POR}} [[Bruno Fernandes]]
+|37||8||6||3||5||2||10(1)||1||58(1)||14||12||0
+|-
+|align="left"|9||align="left"|FW||align="left"|{{flagicon|FRA}} [[Anthony Martial]]
+|11(10)||6||2||0||2(1)||2||2(1)||1||17(12)||9||0||0
+|-
+|align="left"|10||align="left"|FW||align="left"|{{flagicon|ENG}} [[Marcus Rashford]]
+|32(3)||17||5(1)||1||4(2)||6||5(4)||6||46(10)||30||3||0
+|-
+|align="left"|11||align="left"|FW||align="left"|{{flagicon|ENG}} [[Mason Greenwood]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|12||align="left"|DF||align="left"|{{flagicon|NED}} [[Tyrell Malacia]]
+|14(8)||0||3(1)||0||4||0||8(1)||0||29(10)||0||9||0
+|-
+|align="left"|14||align="left"|MF||align="left"|{{flagicon|DEN}} [[Christian Eriksen]]
+|25(3)||1||4||0||2(2)||1||6(2)||0||37(7)||2||4||0
+|-
+|align="left"|15||align="left"|MF||align="left"|{{flagicon|AUT}} [[Marcel Sabitzer]]
+|7(4)||0||2(1)||1||0(1)||0||2(1)||2||11(7)||3||1||0
+|-
+|align="left"|16||align="left"|FW||align="left"|{{flagicon|CIV}} [[Amad Diallo]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|17||align="left"|MF||align="left"|{{flagicon|BRA}} [[Fred (footballer, born 1993)|Fred]]
+|12(23)||2||1(5)||2||4(2)||1||6(3)||1||23(33)||6||10||0
+|-
+|align="left"|18||align="left"|MF||align="left"|{{flagicon|BRA}} [[Casemiro]]
+|24(4)||4||4(1)||2||4(2)||1||11(1)||0||43(8)||7||13||2
+|-
+|align="left"|19||align="left"|DF||align="left"|{{flagicon|FRA}} [[Raphaël Varane]]
+|22(2)||0||2(1)||0||2||0||5||0||31(3)||0||3||0
+|-
+|align="left"|20||align="left"|DF||align="left"|{{flagicon|POR}} [[Diogo Dalot]]
+|24(2)||1||3||0||3||0||8(2)||1||38(4)||2||8||0
+|-
+|align="left"|21||align="left"|FW||align="left"|{{flagicon|BRA}} [[Antony (footballer, born 2000)|Antony]]
+|23(2)||4||4(1)||1||4(1)||1||8(1)||2||39(5)||8||8||0
+|-
+|align="left"|22||align="left"|GK||align="left"|{{flagicon|ENG}} [[Tom Heaton]]
+|0||0||0||0||2||0||0||0||2||0||0||0
+|-
+|align="left"|23||align="left"|DF||align="left"|{{flagicon|ENG}} [[Luke Shaw]]
+|30(1)||1||4||0||2(1)||0||4(5)||0||40(7)||1||12||0
+|-
+|align="left"|25||align="left"|FW||align="left"|{{flagicon|ENG}} [[Jadon Sancho]]
+|21(5)||6||2(1)||0||0(2)||0||6(4)||1||29(12)||7||0||0
+|-
+|align="left"|27||align="left"|FW||align="left"|{{flagicon|NED}} [[Wout Weghorst]]
+|10(7)||0||3(2)||0||3||1||4(2)||1||20(11)||2||2||0
+|-
+|align="left"|28||align="left"|MF||align="left"|{{flagicon|URU}} [[Facundo Pellistri]]
+|0(4)||0||0(1)||0||0(2)||0||1(2)||0||1(9)||0||3||0
+|-
+|align="left"|29||align="left"|DF||align="left"|{{flagicon|ENG}} [[Aaron Wan-Bissaka]]
+|16(3)||0||4||0||3(2)||0||5(1)||0||28(6)||0||3||0
+|-
+|align="left"|30||align="left"|GK||align="left"|{{flagicon|ENG}} [[Nathan Bishop]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|31{{efn|name=number31|[[Martin Dúbravka]] wore number 31 until 1 January 2023 when he was recalled from loan by [[Newcastle United F.C.|Newcastle United]]. [[Jack Butland]] subsequently replaced him as number 31 on 6 January 2023.<ref>{{cite news |title=Jack Butland's shirt number revealed |url=https://www.manutd.com/en/news/detail/jack-butland-man-utd-squad-number-is-confirmed-after-goalkeeper-signs-from-crystal-palace |first=Joe|last=Nelson|website=ManUtd.com |publisher=Manchester United |date=6 January 2023 |access-date=6 January 2023 }}</ref>}}||align="left"|GK||align="left"|{{flagicon|SVK}} [[Martin Dúbravka]]
+|0||0||0||0||2||0||0||0||2||0||0||0
+|-
+|align="left"|31{{efn|name=number31}}||align="left"|GK||align="left"|{{flagicon|ENG}} [[Jack Butland]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|33||align="left"|DF||align="left"|{{flagicon|ENG}} [[Brandon Williams (footballer)|Brandon Williams]]
+|0||0||0||0||0(1)||0||0||0||0(1)||0||0||0
+|-
+|align="left"|34||align="left"|MF||align="left"|{{flagicon|NED}} [[Donny van de Beek]]
+|2(5)||0||0||0||1||0||1(1)||0||4(6)||0||0||0
+|-
+|align="left"|36||align="left"|FW||align="left"|{{flagicon|SWE}} [[Anthony Elanga]]
+|5(11)||0||0(1)||0||1(3)||0||1(4)||0||7(19)||0||0||0
+|-
+|align="left"|38||align="left"|DF||align="left"|{{flagicon|ENG}} [[Axel Tuanzebe]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|39||align="left"|MF||align="left"|{{flagicon|SCO}} [[Scott McTominay]]
+|10(14)||1||2(2)||0||3(1)||1||1(6)||1||16(23)||3||10||0
+|-
+|align="left"|43||align="left"|DF||align="left"|{{flagicon|ENG}} [[Teden Mengi]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|46||align="left"|MF||align="left"|{{flagicon|TUN}} [[Hannibal Mejbri]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|47||align="left"|FW||align="left"|{{flagicon|ENG}} [[Shola Shoretire]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|49||align="left"|FW||align="left"|{{flagicon|ARG}} [[Alejandro Garnacho]]
+|5(14)||3||1(3)||1||3(2)||0||2(4)||1||11(23)||5||4||0
+|-
+|align="left"|50||align="left"|GK||align="left"|{{flagicon|CZE}} [[Radek Vítek]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|55||align="left"|MF||align="left"|{{flagicon|IRQ}} [[Zidane Iqbal]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|56||align="left"|FW||align="left"|{{flagicon|ENG}} [[Charlie McNeill (footballer)|Charlie McNeill]]
+|0||0||0||0||0||0||0(1)||0||0(1)||0||0||0
+|-
+|align="left"|63||align="left"|DF||align="left"|{{flagicon|ESP}} [[Marc Jurado]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|66||align="left"|DF||align="left"|{{flagicon|ENG}} Rhys Bennett
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|align="left"|73||align="left"|MF||align="left"|{{flagicon|ENG}} [[Kobbie Mainoo]]
+|0(1)||0||0(1)||0||1||0||0||0||1(2)||0||0||0
+|-
+|align="left"|80||align="left"|DF||align="left"|{{flagicon|ENG}} Tyler Fredricson
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|colspan="3" align="center"|[[Own goal]]s<!--For United, not against-->
+|—||2||—||2||—||0||—||1||—||5||colspan=2|N/A
+|}
+
+==Transfers==
+On 14 June, [[Nemanja Matić]] was announced as a new [[AS Roma|Roma]] player after agreeing to join the Italian club on a free transfer. The move became official on 1 July, following the expiration of his contract with Manchester United.
+
+On 17 June, [[Connor Stanley (footballer)|'''Connor Stanley''']] was announced as a new [[Bolton Wanderers F.C.|Bolton Wanderers]] player following his departure from Manchester United. The transfer became official on 1 July, when his contract with the club expired. 
+
+On 24 June, [[Reece Devine]] was announced as a new [[Swindon Town F.C.|Swindon Town]] player after agreeing to join the club on a free transfer. The move became official on 1 July, following the expiration of his Manchester United contract. 
+
+On 30 June, several players left Manchester United as free agents after their contracts with the club came to an end. The List included [[Jesse Lingard]], [[Paul Pogba]], [[Juan Mata]], [[Edinson Cavani]], [[Nemanja Matić]], [[Reece Devine]], [[D'Mani Mellor]], [[Connor Stanley (footballer)|Connor Stanley]].  [[Lee Grant (footballer, born 1983)|Lee Grant]] and [[Paul McShane (footballer)|Paul McShane]] also left Man Utd following their retirement from professional football. 
+
+On 2 July, [[Dean Henderson]] reached an agreement to join [[Nottingham Forest F.C.|Nottingham Forest]] on loan for the 2022-23 season. The England international made the move in search of regular first-team football, temporarily leaving Manchester United for the newly promoted Premier League side. 
+
+On 4 July, [[D'Mani Mellor]] was announced as a new [[Wycombe Wanderers F.C.|Wycombe Wanderers]] player after leaving Manchester United on a free transfer. The forward left the club after his contract expired, bringing his time at Manchester United to an end. 
+
+On 5 July, [[Tyrell Malacia]] completed his transfer to Manchester United from [[Feyenoord]], becoming the club's first signing of the summer and the first arrival of Erik ten Hag's tenure. The Netherlands international signed a four-year contract with the club, with Manchester United also holding an option to extend his stay for a further year. Malacia arrived at Old Trafford after establishing himself as a regular for Feyenoord and became the first player signed by United following Ten Hag's appointment as manager. 
+
+On 7 July, [[Martin Šviderský]] completed a move to [[UD Almería|Almería]] after leaving Manchester United. The Slovak midfielder had been part of United's academy before departing the club at the end of his contract, subsequently joining the Spanish side on a permanent basis. His move marked the beginning of his senior career in Spain after his time in Manchester. 
+
+On 8 July, [[Dylan Levitt]] completed a permanent move to [[Dundee United F.C.|Dundee United]], after reaching an agreement with the Scottish club. The Wales international had spent the previous season on loan at [[Dundee United F.C.|Dundee United]], where he established himself as an important member of the first team, before returning to Scotland on a permanent basis. The transfer brought his time at Manchester United to an end after progressing through the club's academy. 
+
+On 11 July, [[Andreas Pereira]] completed a permanent move to [[Fulham F.C.|Fulham]] after Manchester United reached an agreement with the newly promoted Premier League side. Pereira signed a four-year contract with an option for a further year, bringing an end to his time at Manchester United after more than a decade with the club. The transfer was completed for a fee of €9.5 million, with additional bonuses included in the agreement.  
+
+On 11 July, at the same day, [[Juventus FC|Juventus]] confirmed the return of [[Paul Pogba]], who rejoined the Italian club on a free transfer after his Manchester United contract expired. The France international signed a four-year contract with [[Juventus FC|Juventus]], returning to the club where he had previously played before. 
+
+On 15 July, [[Christian Eriksen]] joined Manchester United on a free transfer after leaving Brentford. The Denmark international signed a three-year contract with the club, becoming Erik ten Hag's second signing of the summer following [[Tyrell Malacia]]. [[Christian Eriksen|Eriksen]] arrived at Old Trafford after impressing during his short spell with Brentford and became the first senior free-agent signing of Ten Hag's tenure. 
+
+On 21 July, [[Jesse Lingard]] agreed to join [[Nottingham Forest F.C.|Nottingham Forest]] on a free transfer, signing a one-year contract with the club. The England international signed a one-year contract with the newly promoted Premier League side, bringing his long spell at Manchester United to an end. 
+
+On 26 July, [[Álvaro Fernández (footballer, born 2003)|Álvaro Fernández]] joined [[Preston North End F.C.|Preston North End]] on a season-long loan for the 2022–23 campaign. The Spanish left-back made the move after progressing through Manchester United's academy and seeking regular first-team football, having yet to make his senior debut for the club. The loan allowed [[Álvaro Fernández (footballer, born 2003)|Fernández]] to continue his development in the Championship while remaining under contract with Manchester United. 
+
+On 27 July, [[Lisandro Martínez]] completed his move to Manchester United from [[AFC Ajax|Ajax]], becoming the club's third signing of the summer. The Argentina international signed a five-year contract with an option for a further year and reunited with Erik ten Hag, who had previously managed him at [[AFC Ajax|Ajax]]. 
+
+On 2 August, [[Tom Huddlestone]] joined Manchester United as a player-coach for the club's Under-21 side. The experienced midfielder returned to the club to combine his playing role with coaching responsibilities, helping to develop the younger players within United's academy. 
+
+On 4 August, [[Alex Telles]] joined [[Sevilla FC|Sevilla]] on loan for the 2022–23 season. The Brazilian left-back made the move after falling down the competition for a regular starting position at Manchester United, temporarily leaving the club to continue his career in Spain. 
+
+On 15 August, [[Ethan Laird]] joined [[Queens Park Rangers F.C.|Queens Park Rangers]] on a season-long loan for the 2022–23 campaign. The right-back returned to the Championship after previously spending time on loan with the club, with the move giving him another opportunity to gain regular first-team football. 
+
+On 16 August, Dermot Mee joined [[Altrincham F.C.|Altrincham]] on an emergency loan. The young goalkeeper made the temporary move to gain senior experience, with the initial agreement keeping him at the National League club until January 2023. 
+
+On 22 August, [[Casemiro]] completed his transfer to Manchester United from [[Real Madrid CF|Real Madrid]]. The Brazil international signed a four-year contract with the club, with an option to extend his stay for a further year. 
+
+On 24 August, Manchester United reached an agreement with [[Olympique de Marseille|Marseille]] for [[Eric Bailly]] to spend the 2022–23 season on loan in France. The Ivorian defender moved to the Ligue 1 side, with the deal also including an option to buy. 
+
+On 29 August, [[Edinson Cavani]] completed his move to [[Valencia CF|Valencia]] on a free transfer after leaving Manchester United at the end of his contract. The Uruguay international signed a two-year contract with the Spanish club, bringing his time at Old Trafford to an end. 
+
+On 29 August, Manchester United agreed a season-long loan deal with [[Birmingham City F.C.|Birmingham City]]  for [[Hannibal Mejbri]]. The Tunisia international moved to the Championship side for the 2022–23 campaign to gain regular first-team experience. 
+
+On 31 August, Deadline Day, [[Amad Diallo]] made the move to [[Sunderland A.F.C.|Sunderland]] on loan for the 2022–23 season. The Ivorian winger joined the Championship side to gain regular playing time and continue his development away from Manchester United. 
+
+On 1 September, Manchester United completed several transfer moves on the final day of the summer window. [[Will Fish]] joined [[Hibernian F.C.|Hibernian]] on loan for the 2022–23 season, while [[Ethan Galbraith]] moved to [[Salford City F.C.|Salford City]] on a season-long loan. On the same day, [[Tahith Chong]] completed a permanent transfer to [[Birmingham City F.C.|Birmingham City]].The club also announced that day the permanent transfer of [[James Garner]] to [[Everton F.C.]]. Manchester United also completed the signing of goalkeeper [[Martin Dúbravka]] from [[Newcastle United F.C.|Newcastle United]] on loan for the remainder of the 2022–23 season. At the same day, [[Antony (footballer, born 2000)|Antony]] completed his transfer to Manchester United from [[AFC Ajax|Ajax]]. The Brazil international signed a five-year contract with the club, with an option to extend his stay for a further year. The transfer made Antony the most expensive signing of the 2022–23 summer window and the second-most expensive transfer in Manchester United's history at the time, behind Paul Pogba's move from [[Juventus FC|Juventus]] in 2016. Antony arrived at Old Trafford to reunite with Erik ten Hag, who had previously managed him at Ajax. 
+
+On 2 September Charlie Wellens joined [[Oldham Athletic A.F.C.|Oldham Athletic]] on a loan for the 2022-23 season. The defender made the move to gain regular first-team experience after progressing through Manchester United's academy. 
+
+On 8 September, Galatasaray announced the signing of [[Juan Mata]] on a free deal. The Spain international agreed to a two-year contract with the Turkish club, with the second year being optional. One day after on 9 September, [[Matěj Kovář]] joined [[AC Sparta Prague|Sparta Prague]] on loan for the 2022–23 season. The Czech goalkeeper returned to his home country for the temporary move after spending the previous season on loan at Burton Albion.  
+
+On 22 November, Manchester United announced that [[Cristiano Ronaldo]] would leave the club by mutual agreement with immediate effect, bringing his second spell at Old Trafford to an early end. The decision followed a period of tension between the player and the club, which intensified after Ronaldo gave a televised interview in which he criticised Manchester United and manager Erik ten Hag. With his contract terminated, [[Cristiano Ronaldo|Ronaldo]] became a free agent and was able to join another club without a transfer fee. On 30 December, he completed a move to Saudi Arabian club Al-Nassr, on a free transfer, signing a contract that marked the beginning of his career in Saudi Arabia. 
+
+On 1 January, [[Martin Dúbravka]] returned to [[Newcastle United F.C.|Newcastle United]] after Manchester United ended his loan spell early. The Slovak goalkeeper had joined United on loan in September 2022 for the remainder of the 2022–23 season, but returned to his parent club midway through the campaign. 
+
+On 6 January, [[Jack Butland]] joined Manchester United from [[Crystal Palace F.C.|Crystal Palace]] on loan for the remainder of the 2022–23 season. The England goalkeeper arrived as temporary cover following Dúbravka's return to [[Newcastle United F.C.|Newcastle United]], providing additional competition in goal. 
+
+On 13 January, [[Wout Weghorst]] joined Manchester United on loan from [[Burnley F.C.|Burnley]] until the end of the 2022–23 season. The Netherlands international arrived to strengthen Erik ten Hag's attacking options after spending the first half of the campaign on loan at Beşiktaş. 
+
+On 19 January, [[Shola Shoretire]] joined [[Bolton Wanderers F.C.|Bolton Wanderers]] on loan for the remainder of the 2022–23 season. The young forward moved to the League One side to gain regular first-team experience, having previously made his senior appearances for Manchester United. 
+
+On 27 January, [[Charlie Savage (footballer)|Charlie Savage]] joined [[Forest Green Rovers F.C.|Forest Green Rovers]] on loan for the remainder of the 2022–23 season. The midfielder made the move to gain regular senior experience after progressing through Manchester United's academy. 
+
+On 30 January, [[Ondřej Mastný]] joined [[Portadown F.C.|Portadown]] on loan for the remainder of the 2022–23 season. The Czech goalkeeper moved to the Northern Irish club to gain regular first-team experience and continue his development away from Manchester United. 
+
+On 31 January, Manchester United completed two loan moves involving young players. [[Di'Shon Bernard]] joined [[Portsmouth F.C.|Portsmouth]] on loan for the remainder of the 2022–23 season, while [[Charlie McNeill (footballer)|Charlie McNeill]] moved to [[Newport County A.F.C.|Newport County]] on loan for the same period. Both players made the temporary moves to gain regular first-team experience during the second half of the campaign. 
+
+On 1 February, Manchester United completed several transfer moves following the closure of the January transfer window. The club signed Austrian midfielder [[Marcel Sabitzer]] from [[FC Bayern Munich|Bayern Munich]] on loan until the end of the 2022–23 season, making him the club's third signing of the January window after [[Jack Butland]] and [[Wout Weghorst]]. On the same day, [[Axel Tuanzebe]] joined [[Stoke City F.C.|Stoke City]] on loan for the remainder of the campaign. Manchester United also agreed a development arrangement with [[Altrincham F.C.|Altrincham]] involving three academy players, with Maximilian Oyedele, [[Sonny Aljofree]] and [[Joe Hugill]] joining the National League club to gain experience in senior football. The arrangement allowed the three young players to train and play with Altrincham while continuing to remain part of Manchester United's academy setup. 
+
+On 9 February, Tom Wooster joined [[Ramsbottom United F.C.|Ramsbottom United]] on loan from Manchester United for the remainder of the 2022–23 season. The young goalkeeper made the move to gain senior experience after progressing through Manchester United's academy. 
+
+On 27 February 2023, 16-year-old [[Gabriele Biancheri]] joined Manchester United from [[Cardiff City F.C.|Cardiff City]] on a permanent transfer. The Welsh forward signed a four-year contract with the club and initially joined Manchester United's youth setup, adding another young attacking player to the academy. 
+
+During the 2022–23 season, Manchester United's youth setup added several young players to its academy. The club brought in 14-year-old Louie Bradbury from Shrewsbury Town's youth setup and 13-year-old Zac Watson from Doncaster Rovers' academy, with both youngsters joining the club as part of its youth development system. 
+
+During the 2022–23 season, several young players also left Manchester United's youth setup. 16-year-old Harry Campbell joined Wigan Athletic's Under-18s, while 16-year-old Tom Jones moved to TNS Development and 16-year-old Toby Oliver joined Blackpool's academy. 12-year-old Cristiano Júnior also departed the club to join Al-Nassr's Under-15s, while Kai Crowe moved to Blackpool's youth setup. 
+
+Manchester United's Under-18s also added 16-year-old goalkeeper [[Elyh Harrison]] from Stevenage's Under-18s, with the youngster joining the club as part of the academy's youth development system. 
+
+Several players also left Manchester United's Under-18s, with 18-year-old goalkeeper Daniel Polakowski departing on a free transfer to Jaspers, while 17-year-old goalkeeper Eric Hanbury joined Southampton's Under-18s on loan. 
+
+===In===
+{| class="wikitable"
+|-
+! Date
+! Pos.
+! Name
+! From
+! Fee
+! {{abbr|Ref.|Reference}}
+|-
+| 5 July 2022 || DF || {{flagicon|NED}} [[Tyrell Malacia]] || {{fbaicon|NED}} [[Feyenoord]] || Undisclosed{{efn|Reported as £13&nbsp;million, plus £1.7&nbsp;million in add-ons<ref>{{cite news |title=Manchester United: Tyrrell Malacia signs four-year deal from Feyenoord |url=https://www.bbc.co.uk/sport/football/62010793 |website=BBC Sport |date=5 July 2022 |accessdate=5 July 2022 }}</ref>}} || <ref>{{cite news |title=Malacia signs for United |url=https://www.manutd.com/en/news/detail/Tyrell-Malacia-completes-move-to-Manchester-United |website=ManUtd.com |publisher=Manchester United |date=5 July 2022 |access-date=5 July 2022 }}</ref>
+|-
+| 15 July 2022 || MF || {{flagicon|DEN}} [[Christian Eriksen]] || Unattached{{efn|Most recently played for [[Brentford F.C.|Brentford]]}} || Free || <ref>{{cite news |title=Transfer news: Eriksen signs for United |url=https://www.manutd.com/en/news/detail/Transfer-news-Man-Utd-complete-signing-of-Christian-Eriksen |website=ManUtd.com |publisher=Manchester United |date=15 July 2022 |access-date=15 July 2022 }}</ref>
+|-
+| 27 July 2022 || DF || {{flagicon|ARG}} [[Lisandro Martínez]] || {{fbaicon|NED}} [[AFC Ajax|Ajax]] || Undisclosed{{efn|Reported as £49&nbsp;million, plus £8.5&nbsp;million in add-ons<ref>{{cite news |title=Lisandro Martinez: Man Utd agree to sign Argentina centre-back from Ajax in £57m deal |url=https://www.bbc.co.uk/sport/football/62170735 |website=BBC Sport |date=17 July 2022 |accessdate=27 July 2022 }}</ref>}} || <ref>{{cite news |title=Martinez signs for United |url=https://www.manutd.com/en/news/detail/lisandro-martinez-completes-signing-for-man-united |website=ManUtd.com |publisher=Manchester United |date=27 July 2022 |access-date=27 July 2022 }}</ref>
+|-
+| 2 August 2022 || MF || {{flagicon|ENG}} [[Tom Huddlestone]] || Unattached{{efn|Most recently played for [[Hull City A.F.C.|Hull City]]}} || Free || <ref>{{cite news |title=United issue academy coaching update |url=https://www.manutd.com/en/news/detail/man-utd-academy-coaching-update-includes-tom-huddlestone-appointment |website=ManUtd.com |publisher=Manchester United |date=2 August 2022 |accessdate=2 August 2022 }}</ref>
+|-
+| 22 August 2022 || MF || {{flagicon|BRA}} [[Casemiro]] || {{fbaicon|ESP}} [[Real Madrid CF|Real Madrid]] || Undisclosed{{efn|Reported as £60&nbsp;million, plus £10&nbsp;million in add-ons<ref>{{cite news |title=Casemiro: Manchester United agree £70m deal to sign Real Madrid midfielder |url=https://www.bbc.co.uk/sport/football/62608356 |website=BBC Sport |date=19 August 2022 |accessdate=19 August 2022 }}</ref>}} || <ref>{{cite news |title=Casemiro signs for United |url=https://www.manutd.com/en/news/detail/casemiro-signs-for-man-utd-official-press-release-22-august-2022 |website=ManUtd.com |publisher=Manchester United |date=22 July 2022 |access-date=22 July 2022 }}</ref>
+|-
+| 1 September 2022 || FW || {{Flagicon|BRA}} [[Antony (footballer, born 2000)|Antony]] || {{fbaicon|NED}} [[AFC Ajax|Ajax]] || Undisclosed{{efn|Reported as £82&nbsp;million, plus up to £4.3&nbsp;million in add-ons<ref>{{cite news |title=Man Utd transfer news: Antony signs from Ajax for £82m |url=https://www.bbc.co.uk/sport/football/62748772 |website=BBC Sport |date=30 August 2022 |access-date=1 September 2022 }}</ref>}} || <ref>{{cite news |title=Antony completes transfer from Ajax to United |url=https://www.manutd.com/en/news/detail/club-statement-antony-completes-transfer-from-ajax-to-man-utd |website=ManUtd.com |publisher=Manchester United |date=1 September 2022 |access-date=1 September 2022 }}</ref>
+|-
+| 27 February 2023 || FW || {{Flagicon|WAL}} [[Gabriele Biancheri]] || {{fbaicon|WAL}} [[Cardiff City F.C.|Cardiff City]] || Undisclosed || <ref>{{cite news |title=Welsh youngster Biancheri joins Man Utd |url=https://www.bbc.co.uk/sport/football/64793494 |access-date=27 February 2023 |publisher=British Broadcasting Corporation |website=BBC Sport|date=27 February 2023}}</ref>
+|}
+
+===Out===
+{| class="wikitable"
+|-
+! Date
+! Pos.
+! Name
+! To
+! Fee
+! {{abbr|Ref.|Reference}}
+|-
+|rowspan="10"| 30 June 2022 || GK || {{flagicon|ENG}} [[Lee Grant (footballer, born 1983)|Lee Grant]] ||colspan="2" rowspan="2"| Retired || <ref name="release">{{cite news |title=United confirm retained list and departures |url=https://www.manutd.com/en/news/detail/man-utd-announce-retained-list-for-2022-as-11-players-released |website=ManUtd.com |publisher=Manchester United |date=10 June 2022 |accessdate=11 June 2022 }}</ref><ref>{{cite news |title=Grant announces retirement from professional football |url=https://www.manutd.com/en/news/detail/man-utd-goalkeeper-lee-grant-announces-retirement-from-professional-football-26-may-2022 |website=ManUtd.com |publisher=Manchester United |date=26 May 2022 |access-date=26 May 2022 }}</ref>
+|-
+| DF || {{flagicon|IRL}} [[Paul McShane (footballer)|Paul McShane]] || <ref name="release" /><ref>{{cite news |first=Harry |last=Robinson |title=McShane announces playing retirement |url=https://www.manutd.com/en/news/detail/man-utd-academy-coach-paul-mcshane-announces-playing-retirement-27-may-2022 |website=ManUtd.com |publisher=Manchester United |date=27 May 2022 |access-date=27 May 2022 }}</ref>
+|-
+| FW || {{flagicon|URU}} [[Edinson Cavani]] ||colspan="2"| Released{{efn|Joined [[Valencia CF|Valencia]] after release<ref>{{cite news |title=Official Statement: Edinson Cavani |url=https://www.valenciacf.com/en/article/en-official-statement-edinson-cavani-2022-08-29 |website=ValenciaCF.com |publisher=Valencia CF |date=29 August 2022 |access-date=29 August 2022 }}</ref>}} || <ref name="release" /><ref>{{cite news |title=Cavani pays tribute to United supporters |url=https://www.manutd.com/en/news/detail/edinson-cavani-explains-immense-gratitude-to-fans-as-he-departs-man-utd|first=Harry|last=Robinson |accessdate=27 May 2022 |publisher=Manchester United |website=ManUtd.com |date=27 May 2022 }}</ref>
+|-
+| DF || {{flagicon|ENG}} [[Reece Devine]] || {{fbaicon|ENG}} [[Swindon Town F.C.|Swindon Town]] || Free || <ref name="release" /><ref>{{cite news |title=Swindon seal Devine deal |url=https://www.swindontownfc.co.uk/news/2022/june/swindon-seal-devine-deal/ |website=swindontownfc.co.uk |publisher=Swindon Town FC |date=24 June 2022 |access-date=24 June 2022 }}</ref>
+|-
+| MF || {{flagicon|ENG}} [[Jesse Lingard]] ||colspan="2"| Released{{efn|Joined [[Nottingham Forest F.C.|Nottingham Forest]] after release<ref>{{cite news |title=Jesse Lingard signs for Nottingham Forest |url=https://www.nottinghamforest.co.uk/news/2022/july/21/jesse-lingard-signs-for-forest/ |website=nottinghamforest.co.uk |publisher=Nottingham Forest FC |date=21 July 2022 |access-date=21 July 2022 }}</ref>}} || <ref name="release"/><ref>{{cite news |title=Lingard to leave United |url=https://www.manutd.com/en/news/detail/jesse-lingard-to-leave-man-utd-in-june-after-20-years-at-the-club |website=ManUtd.com |publisher=Manchester United |date=1 June 2022 |access-date=1 June 2022 }}</ref>
+|-
+| MF || {{flagicon|ESP}} [[Juan Mata]] ||colspan="2"| Released{{efn|Joined [[Galatasaray S.K. (football)|Galatasaray]] after release<ref>{{cite news |title=Juan Mata Galatasaray'da! |url=https://www.galatasaray.org/haber/gs-sportif-a-s/juan-mata-galatasaray-da/51659 |website=Galatasaray.org |publisher=Galatasaray Spor Kulübü |language=tr |date=8 September 2022 |access-date=8 September 2022 }}</ref>}} || <ref name="release"/><ref>{{cite news |title=Mata leaving United this summer |url=https://www.manutd.com/en/news/detail/juan-mata-to-leave-man-utd-in-june-2022 |website=ManUtd.com |publisher=Manchester United |date=2 June 2022 |access-date=2 June 2022 }}</ref>
+|-
+| MF || {{flagicon|SRB}} [[Nemanja Matić]] || {{fbaicon|ITA}} [[A.S. Roma|Roma]] || Free || <ref name="release"/><ref>{{cite news |title=Matic to leave United |url=https://www.manutd.com/en/news/detail/nemanja-matic-to-leave-man-utd-at-the-end-of-2021-22-season |website=ManUtd.com |publisher=Manchester United |date=15 April 2022 |access-date=16 April 2022 }}</ref><ref>{{cite news |title=Matic joins Roma after leaving United |url=https://www.manutd.com/en/news/detail/nemanja-matic-joins-as-roma-after-leaving-man-utd-at-end-of-contract |access-date=14 June 2022 |publisher=Manchester United |date=14 June 2022 }}</ref>
+|-
+| FW || {{flagicon|ENG}} [[D'Mani Mellor]] || {{fbaicon|ENG}} [[Wycombe Wanderers F.C.|Wycombe Wanderers]] || Free || <ref name="release" /><ref>{{cite news |first=Adam |last=Marshall |title=Mellor confirms United departure |url=https://www.manutd.com/en/news/detail/dmani-mellor-confirms-he-is-leaving-manchester-united |website=ManUtd.com |publisher=Manchester United |date=19 May 2022 |access-date=19 May 2022 }}</ref><ref>{{cite news |title=Former Manchester United striker joins the Blues |url=https://www.wwfc.com/news/2022/july/04/former-manchester-united-striker-joins-the-blues/ |website=WWFC.com |publisher=Wycombe Wanderers FC |date=4 July 2022 |access-date=4 July 2022 }}</ref>
+|-
+| MF || {{flagicon|FRA}} [[Paul Pogba]] ||colspan="2"| Released{{efn|Joined [[Juventus FC|Juventus]] after release<ref>{{cite news |title=Paul Pogba joins Juventus from Manchester United on free transfer |url=https://www.bbc.co.uk/sport/football/62058732 |website=BBC Sport |date=11 July 2022 |access-date=21 July 2022 }}</ref>}} || <ref name="release" /><ref>{{cite news |title=Pogba to bring second United spell to a close |url=https://www.manutd.com/en/news/detail/paul-pogba-will-leave-manchester-united-this-summer-after-six-year-stay-1-june-2022 |website=ManUtd.com |publisher=Manchester United |date=1 June 2022 |access-date=1 June 2022 }}</ref>
+|-
+| MF || {{flagicon|ENG}} [[Connor Stanley (footballer)|Connor Stanley]] || {{flagicon|ENG}} [[Bolton Wanderers F.C.|Bolton Wanderers]] || Free || <ref name="release" /><ref>{{cite news |title=Attacking Trio Added To 'B' Squad |url=https://www.bwfc.co.uk/news/2022/june/attacking-trio-added-to-b-squad/ |website=BWFC.co.uk |publisher=Bolton Wanderers FC |date=17 June 2022 |access-date=17 June 2022 }}</ref>
+|-
+| 7 July 2022 || MF || {{flagicon|SVK}} [[Martin Šviderský]] || {{flagicon|ESP}} [[UD Almería|Almería]] || Undisclosed || <ref>{{cite news |title=Martin Svidersky, another 'Red Devil' who signs for UD Almería |url=https://www.udalmeriasad.com/en/notice/martin-svidersky-another-red-devil-who-signs-for-ud-almeria |website=UDAlmeriaSAD.com |publisher=UD Almería |date=7 July 2022 |accessdate=7 July 2022 }}</ref>
+|-
+| 8 July 2022 || MF || {{flagicon|WAL}} [[Dylan Levitt]] || {{flagicon|SCO}} [[Dundee United F.C.|Dundee United]] || Undisclosed || <ref>{{cite news |title=Levitt completes permanent move |url=https://www.manutd.com/en/news/detail/man-utd-midfielder-dylan-levitt-rejoins-dundee-united-on-permanent-deal |website=ManUtd.com |publisher=Manchester United |date=8 July 2022 |access-date=8 July 2022 }}</ref>
+|-
+| 11 July 2022 || MF || {{flagicon|BRA}} [[Andreas Pereira]] || {{flagicon|ENG}} [[Fulham F.C.|Fulham]] || Undisclosed{{efn|Reported as £10&nbsp;million, plus £3&nbsp;million in add-ons<ref>{{cite news |title=Andreas Pereira: Fulham sign Brazil midfielder from Manchester United|url=https://www.bbc.co.uk/sport/football/62121407|website=BBC Sport |date=11 July 2022 |accessdate=11 July 2022 }}</ref>}} || <ref>{{cite news |first=Joe |last=Ganley |title=Andreas leaves United in permanent transfer |url=https://www.manutd.com/en/news/detail/andreas-pereira-completes-permanent-transfer-from-man-utd-to-fulham |website=ManUtd.com |publisher=Manchester United |date=11 July 2022 |access-date=11 July 2022 }}</ref>
+|-
+|rowspan="2"| 1 September 2022 || FW || {{flagicon|NED}} [[Tahith Chong]] || {{flagicon|ENG}} [[Birmingham City F.C.|Birmingham City]] || Undisclosed{{efn|Reported as £1.5&nbsp;million<ref>{{cite news |title=Tahith Chong: Birmingham sign Manchester United winger on five-year deal|url=https://www.bbc.co.uk/sport/football/62718674|website=BBC Sport |date=1 September 2022 |accessdate=1 September 2022 }}</ref>}} || <ref>{{cite news |title=Chong joins Birmingham on permanent deal|url=https://www.manutd.com/en/news/detail/tahith-chong-completes-transfer-from-man-utd-to-birmingham-city |website=ManUtd.com |publisher=Manchester United |date=1 September 2022 |access-date=1 September 2022 }}</ref>
+|-
+| MF || {{flagicon|ENG}} [[James Garner (footballer, born 2001)|James Garner]] || {{flagicon|ENG}} [[Everton F.C.|Everton]] || Undisclosed{{efn|Reported as £9&nbsp;million, plus £6&nbsp;million in add-ons<ref>{{cite news |title=Idrissa Gana Gueye: Everton re-sign midfielder and buy James Garner from Man Utd|url=https://www.bbc.co.uk/sport/football/62752441|website=BBC Sport |date=1 September 2022 |accessdate=1 September 2022 }}</ref>}} || <ref>{{cite news |title=Transfer news: Garner moves on |url=https://www.manutd.com/en/news/detail/james-garner-signs-for-everton-on-permanent-basis|website=ManUtd.com |publisher=Manchester United |date=1 September 2022 |access-date=1 September 2022 }}</ref>
+|-
+| 23 November 2022 || FW || {{flagicon|POR}} [[Cristiano Ronaldo]] ||colspan="2"| Released{{efn|Joined [[Al Nassr FC|Al Nassr]] after release<ref>{{cite news |title=Cristiano Ronaldo joins Saudi Arabian side Al Nassr until 2025 |url=https://www.bbc.co.uk/sport/football/63805297 |website=BBC Sport |date=30 December 2022 |access-date=31 December 2022 }}</ref>}} || <ref>{{cite news |title=Ronaldo to leave United |url=https://www.manutd.com/en/news/detail/man-utd-official-statement-on-cristiano-ronaldo-22-november-2022 |website=ManUtd.com |publisher=Manchester United |date=23 November 2022 |access-date=23 November 2022 }}</ref>
+|}
+
+===Loan in===
+{| class="wikitable"
+|-
+!Date from
+!Date to
+!Pos.
+!Name
+!From
+!{{abbr|Ref.|Reference}}
+|-
+| 1 September 2022 || 1 January 2023{{efn|On 1 January, Dúbravka was recalled back to Newcastle United<ref>{{cite news |title=Dubravka recalled from loan |url=https://www.manutd.com/en/news/detail/martin-dubravka-is-recalled-from-his-man-utd-loan-by-newcastle-united-january-2023 |website=ManUtd.com |publisher=Manchester United |date=1 January 2023 |access-date=1 January 2023 }}</ref>}} || GK || {{flagicon|SVK}} [[Martin Dúbravka]] || {{fbaicon|ENG}} [[Newcastle United F.C.|Newcastle United]] || <ref>{{cite news |title=Transfer news: Dubravka joins on loan |url=https://www.manutd.com/en/news/detail/transfer-news-martin-dubravka-joins-man-utd-from-newcastle-on-loan |website=ManUtd.com |publisher=Manchester United |date=1 September 2022 |access-date=1 September 2022 }}</ref>
+|-
+| 6 January 2023 || End of season || GK || {{flagicon|ENG}} [[Jack Butland]] || {{fbaicon|ENG}} [[Crystal Palace F.C.|Crystal Palace]] || <ref>{{cite news |title=Transfer news: Man Utd complete loan signing of Butland |url=https://www.manutd.com/en/news/detail/man-utd-complete-loan-signing-of-jack-butland-from-crystal-palace |website=ManUtd.com |publisher=Manchester United |date=6 January 2023 |access-date=6 January 2023 }}</ref>
+|-
+| 13 January 2023 || End of season || FW || {{flagicon|NED}} [[Wout Weghorst]] || {{fbaicon|ENG}} [[Burnley F.C.|Burnley]] || <ref>{{cite news |title=United complete loan move for Weghorst |url=https://www.manutd.com/en/news/detail/manchester-united-announce-the-loan-signing-of-striker-wout-weghorst-press-release |website=ManUtd.com |publisher=Manchester United |date=13 January 2023 |access-date=13 January 2023 }}</ref>
+|-
+| 1 February 2023 || End of season || MF || {{flagicon|AUT}} [[Marcel Sabitzer]] || {{fbaicon|GER}} [[FC Bayern Munich|Bayern Munich]] || <ref>{{cite news |title=United sign Sabitzer on loan from Bayern Munich |url=https://www.manutd.com/en/news/detail/man-utd-sign-marcel-sabitzer-on-loan-from-bayern-munich |website=ManUtd.com |publisher=Manchester United |date=1 February 2023 |access-date=1 February 2023 }}</ref>
+|}
+
+===Loan out===
+{| class="wikitable"
+|-
+!Date from
+!Date to
+!Pos.
+!Name
+!To
+!{{abbr|Ref.|Reference}}
+|-
+| 2 July 2022 || End of season || GK || {{flagicon|ENG}} [[Dean Henderson]] || {{flagicon|ENG}} [[Nottingham Forest F.C.|Nottingham Forest]] || <ref>{{cite news |title=Henderson completes season-long loan move |url=https://www.manutd.com/en/news/detail/man-utd-goalkeeper-dean-henderson-joins-nottingham-forest-on-loan |website=ManUtd.com |publisher=Manchester United |date=2 July 2022 |access-date=2 July 2022 }}</ref>
+|-
+| 26 July 2022 || End of season || DF || {{flagicon|ESP}} [[Álvaro Fernández (footballer, born 2003)|Álvaro Fernández]] || {{flagicon|ENG}} [[Preston North End F.C.|Preston North End]] || <ref>{{cite news |title=Fernandez signs new deal before loan move|url=https://www.manutd.com/en/news/detail/alvaro-fernandez-loaned-to-preston-north-end |website=ManUtd.com |publisher=Manchester United|date=26 July 2022 |access-date=26 July 2022 }}</ref>
+|-
+| 4 August 2022 || End of season || DF || {{flagicon|BRA}} [[Alex Telles]] || {{flagicon|ESP}} [[Sevilla FC|Sevilla]] || <ref>{{cite news |title=Transfer news: Telles agrees loan move|url=https://www.manutd.com/en/news/detail/transfer-news-man-utd-defender-alex-telles-joins-sevilla-on-loan|website=ManUtd.com |publisher=Manchester United|date=4 August 2022 |access-date=4 August 2022 }}</ref>
+|-
+| 15 August 2022 || End of season || DF || {{flagicon|ENG}} [[Ethan Laird]] || {{flagicon|ENG}} [[Queens Park Rangers F.C.|Queens Park Rangers]] || <ref>{{cite news |title=Loan news: Laird seals move|url=https://www.manutd.com/en/news/detail/ethan-laird-joins-queens-park-rangers-on-loan|website=ManUtd.com |publisher=Manchester United|date=15 August 2022 |access-date=15 August 2022 }}</ref>
+|-
+| 16 August 2022 || 1 January 2023 || GK || {{flagicon|NIR}} Dermot Mee || {{flagicon|ENG}} [[Altrincham F.C.|Altrincham]] || <ref>{{cite news |title=Dermot Mee loan deal confirmed |url=https://www.manutd.com/en/news/detail/man-utd-keeper-dermot-mee-joins-altrincham-on-loan |website=ManUtd.com |publisher=Manchester United |date=16 August 2022 |access-date=17 August 2022 }}</ref>
+|-
+| 24 August 2022 || End of season || DF || {{flagicon|CIV}} [[Eric Bailly]] || {{flagicon|FRA}} [[Olympique de Marseille|Marseille]] || <ref>{{cite news |title=Transfer news: Bailly secures loan move|url=https://www.manutd.com/en/news/detail/transfer-news-eric-bailly-joins-olympique-marseille-on-loan |website=ManUtd.com |publisher=Manchester United |date=24 August 2022|access-date=24 August 2022 }}</ref>
+|-
+| 29 August 2022 || End of season || MF || {{flagicon|TUN}} [[Hannibal Mejbri]] || {{flagicon|ENG}} [[Birmingham City F.C.|Birmingham City]] || <ref>{{cite news |title=Hannibal loaned to Championship club|url=https://www.manutd.com/en/news/detail/man-utd-midfielder-hannibal-signs-for-birmingham-city-on-loan |website=ManUtd.com |publisher=Manchester United |date=29 August 2022|access-date=29 August 2022 }}</ref>
+|-
+| 31 August 2022 || End of season || FW || {{flagicon|CIV}} [[Amad Diallo]] || {{flagicon|ENG}} [[Sunderland A.F.C.|Sunderland]] || <ref>{{cite news |title=Transfer news: Amad seals loan move|url=https://www.manutd.com/en/news/detail/amad-signs-for-sunderland-on-loan-for-2022-23-season |website=ManUtd.com |publisher=Manchester United |date=31 August 2022|access-date=31 August 2022 }}</ref>
+|-
+|rowspan="2"| 1 September 2022 ||rowspan="2"| End of season || DF || {{flagicon|ENG}} [[Will Fish]] || {{flagicon|SCO}} [[Hibernian F.C.|Hibernian]] || <ref>{{cite news |title=Loan move agreed for Fish|url=https://www.manutd.com/en/news/detail/will-fish-joins-hibernian-on-loan-for-the-season |website=ManUtd.com |publisher=Manchester United |date=1 September 2022 |access-date=2 September 2022 }}</ref>
+|-
+| MF || {{flagicon|NIR}} [[Ethan Galbraith]] || {{flagicon|ENG}} [[Salford City F.C.|Salford City]] || <ref>{{cite news |title=United midfielder Galbraith goes on loan|url=https://www.manutd.com/en/news/detail/ethan-galbraith-joins-salford-city-on-loan-from-man-utd-1-september-2022 |website=ManUtd.com |publisher=Manchester United |date=1 September 2022 |access-date=1 September 2022 }}</ref>
+|-
+| 2 September 2022 || End of season || DF || {{flagicon|ENG}} Charlie Wellens || {{flagicon|ENG}} [[Oldham Athletic A.F.C.|Oldham Athletic]] || <ref>{{cite news |title=United midfielder Wellens makes loan move|url=https://www.manutd.com/en/news/detail/charlie-wellens-joins-oldham-athletic-on-loan-from-man-utd-september-2022 |publisher=Manchester United |website=ManUtd.com|date=2 September 2022 |access-date=2 September 2022 }}</ref>
+|-
+| 9 September 2022 || End of season || GK || {{flagicon|CZE}} [[Matěj Kovář]] || {{flagicon|CZE}} [[AC Sparta Prague|Sparta Prague]] || <ref>{{cite news |title=New deal and loan move for Kovar |url=https://www.manutd.com/en/news/detail/matej-kovar-signs-new-deal-and-joins-sparta-prague-on-loan |website=ManUtd.com |publisher=Manchester United |date=9 September 2022 |access-date=9 September 2022 }}</ref>
+|-
+| 19 January 2023 || End of season || FW || {{flagicon|ENG}} [[Shola Shoretire]] || {{flagicon|ENG}} [[Bolton Wanderers F.C.|Bolton&nbsp;Wanderers]] || <ref>{{cite news |title=Shoretire seals loan switch|url=https://www.manutd.com/en/news/detail/shola-shoretire-seals-loan-move-to-bolton-wanderers |website=ManUtd.com |publisher=Manchester United |first=Adam |last=Marshall|date=19 January 2023|access-date=19 January 2023 }}</ref>
+|-
+| 27 January 2023 || End of season || MF || {{flagicon|WAL}} [[Charlie Savage (footballer)|Charlie Savage]] || {{flagicon|ENG}} [[Forest Green Rovers F.C.|Forest&nbsp;Green&nbsp;Rovers]] || <ref>{{cite news |title=Savage secures loan move|url=https://www.manutd.com/en/news/detail/charlie-savage-joins-forest-green-rovers-on-loan-from-man-utd |website=ManUtd.com |publisher=Manchester United |first=Sam |last=Carney|date=27 January 2023|access-date=27 January 2023 }}</ref>
+|-
+| 30 January 2023 || End of season || GK || {{flagicon|CZE}} [[Ondřej Mastný]] || {{flagicon|NIR}} [[Portadown F.C.|Portadown]] || <ref>{{cite news |first=Sam |last=Carney |title=Mastny moves to Portadown on loan |url=https://www.manutd.com/en/news/detail/ondrej-mastny-joins-northern-irish-club-portadown-on-loan |website=ManUtd.com |publisher=Manchester United |date=30 January 2023|access-date=30 January 2023 }}</ref>
+|-
+|rowspan="2"| 31 January 2023 ||rowspan="2"| End of season || DF || {{flagicon|JAM}} [[Di'Shon Bernard]] || {{flagicon|ENG}} [[Portsmouth F.C.|Portsmouth]] || <ref>{{cite news |title=Di'Shon Bernard joins Portsmouth on loan on deadline day |url=https://www.manutd.com/en/news/detail/dishon-bernard-joins-portsmouth-on-loan-on-deadline-day |website=ManUtd.com |publisher=Manchester United |date=31 January 2023 |access-date=31 January 2023 }}</ref>
+|-
+| FW || {{flagicon|ENG}} [[Charlie McNeill (footballer)|Charlie McNeill]] || {{flagicon|WAL}} [[Newport County A.F.C.|Newport County]] || <ref>{{cite news |title=Man Utd's Charlie McNeill joins Newport County on loan |url=https://www.manutd.com/en/news/detail/man-utd-young-forward-charlie-mcneill-joins-newport-county-on-loan |website=ManUtd.com |publisher=Manchester United |date=31 January 2023 |access-date=31 January 2023 }}</ref>
+|-
+|rowspan="4"| 1 February 2023 ||rowspan="4"| End of season || DF || {{flagicon|ENG}} [[Axel Tuanzebe]] || {{flagicon|ENG}} [[Stoke City F.C.|Stoke City]] || <ref>{{cite news |first=Mark|last=Froggatt |title=United defender Tuanzebe joins Stoke on loan |url=https://www.manutd.com/en/news/detail/man-utd-defender-axel-tuanzebe-loaned-to-stoke-city-on-transfer-deadline-day |website=ManUtd.com |publisher=Manchester United |date=1 February 2023 |access-date=1 February 2023 }}</ref>
+|-
+| DF || {{flagicon|POL}} Maxi Oyedele ||rowspan="3"| {{flagicon|ENG}} [[Altrincham F.C.|Altrincham]] ||rowspan="3"| <ref>{{cite news |title=United trio head out in innovative loan scheme |url=https://www.manutd.com/en/news/detail/altrincham-sign-man-utd-academy-players-sonny-aljofree-joe-hugill-maxi-oyedele-on-loan |website=ManUtd.com |publisher=Manchester United |date=1 February 2023 |accessdate=1 February 2023 }}</ref>
+|-
+| DF || {{flagicon|ENG}} Sonny Aljofree
+|-
+| FW || {{flagicon|ENG}} [[Joe Hugill]]
+|-
+| 9 February 2023 || End of season || GK || {{flagicon|ENG}} Tom Wooster || {{flagicon|ENG}} [[Ramsbottom United F.C.|Ramsbottom United]] || <ref>{{cite news |title=Tom Wooster Joins Ramsbottom |url=https://www.ramsbottomutd.com/tom-wooster-joins-ramsbottom/|first=William |last=Place |access-date=10 February 2023 |website=RamsbottomUtd.com|publisher=Ramsbottom United |date=9 February 2023}}</ref>
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+{{Commons|2022–23 Manchester United F.C. kits}}
+
+{{Manchester United F.C.}}
+{{Manchester United F.C. seasons}}
+{{2022–23 in English men's football}}
+
+{{DEFAULTSORT:2022-23 Manchester United F.C. season}}
+[[Category:Manchester United F.C. seasons]]
+[[Category:2022–23 UEFA Europa League participants seasons|Manchester United]]
+[[Category:2022–23 Premier League by team|Manchester United]]
+[[Category:2022 in sport in Manchester]]
+[[Category:2023 in sport in Manchester]]

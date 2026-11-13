@@ -1,0 +1,1791 @@
+{{Short description|None}}
+The '''2022–23 UEFA Europa League group stage''' began on 8 September 2022 and ended on 3 November 2022. A total of 32 teams competed in the group stage to decide 16 of the 24 places in the [[2022–23 UEFA Europa League knockout phase|knockout phase]] of the [[2022–23 UEFA Europa League]].
+
+[[FK Bodø/Glimt|Bodø/Glimt]], [[FC Nantes|Nantes]], [[1. FC Union Berlin|Union Berlin]] and [[Royale Union Saint-Gilloise|Union Saint-Gilloise]] made their debut appearances in the Europa League group stage. Union Saint-Gilloise made their debut appearance in a UEFA competition group stage.
+
+A total of 23 national associations were represented in the group stage.
+
+== Draw ==
+The draw for the group stage was held on 26 August 2022 in [[Istanbul]], Turkey. The 32 teams were drawn into eight groups of four. For the draw, the teams were seeded into four pots, each of eight teams, based on their 2022 [[UEFA coefficient#Men's club coefficient|UEFA club coefficients]].<ref name="club coefficients"/> Teams from the same association could not be drawn into the same group. Prior to the draw, UEFA formed pairings of teams from the same association, including those playing in the [[2022–23 UEFA Europa Conference League group stage|Europa Conference League group stage]] (one pairing for associations with two or three teams, two pairings for associations with four or five teams), based on television audiences, where one team was drawn into Groups A–D and another team was drawn into Groups E–H, so that the two teams would have different kick-off times. The following pairings were announced by UEFA after the group stage teams were confirmed (the second team in a pairing marked by UECL played in the Europa Conference League group stage):<ref name="pots">{{cite web|url=https://www.uefa.com/uefaeuropaleague/news/0278-15f5061906ad-73e1628e59d4-1000--group-stage-draw-pots/|title=Europa League group stage draw pots confirmed|website=[[UEFA]] |publisher=Union of European Football Associations|date=26 August 2022}}</ref>
+
+{{div col|colwidth=35em}}
+{{Ordered list|list_style_type=upper-alpha 
+|{{fbaicon|ITA}} [[AS Roma|Roma]] and [[SS Lazio|Lazio]]
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]] and [[Arsenal F.C.|Arsenal]]
+|{{fbaicon|SRB}} [[Red Star Belgrade]] and [[FK Partizan|Partizan]] (UECL)
+|{{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]] and [[SC Dnipro-1|Dnipro-1]] (UECL)
+|{{fbaicon|NED}} [[Feyenoord]] and [[PSV Eindhoven]]
+|{{fbaicon|FRA}} [[Stade Rennais FC|Rennes]] and [[AS Monaco FC|Monaco]]
+|{{fbaicon|ESP}} [[Real Sociedad]] and [[Real Betis]]
+|{{fbaicon|SWE}} [[Malmö FF]] and [[Djurgårdens IF Fotboll|Djurgårdens IF]] (UECL)
+|{{fbaicon|DEN}} [[FC Midtjylland|Midtjylland]] and [[Silkeborg IF|Silkeborg]] (UECL)
+|{{fbaicon|NOR}} [[FK Bodø/Glimt|Bodø/Glimt]] and [[Molde FK|Molde]] (UECL)
+|{{fbaicon|GER}} [[1. FC Union Berlin|Union Berlin]] and [[SC Freiburg]]
+|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]] and [[Trabzonspor]]
+|{{fbaicon|FRA}} [[FC Nantes|Nantes]] and [[OGC Nice|Nice]] (UECL)
+|{{fbaicon|AUT}} [[SK Sturm Graz|Sturm Graz]] and [[FK Austria Wien|Austria Wien]] (UECL)
+|{{fbaicon|CYP}} [[AEK Larnaca FC|AEK Larnaca]] and [[AC Omonia|Omonia]]
+|{{fbaicon|SUI}} [[FC Zürich|Zürich]] and [[FC Basel|Basel]] (UECL)
+}}
+{{div col end}}
+
+==Teams==
+Below were the participating teams (with their 2022 [[UEFA coefficient#Men's Club coefficient|UEFA club coefficients]]),<ref name="club coefficients">{{cite web |url=https://www.uefa.com/nationalassociations/uefarankings/club/#/yr/2022 |title=Club coefficients |website=[[UEFA]] |publisher=Union of European Football Associations |date=31 May 2022 |access-date=9 June 2022}}</ref> grouped by their seeding pot.<ref name="pots"/> They included:
+*12 teams which entered in this stage
+*10 winners of the [[2022–23 UEFA Europa League qualifying phase and play-off round#Play-off round|play-off round]]
+*6 losers of the [[2022–23 UEFA Champions League qualifying phase and play-off round#Play-off round|Champions League play-off round]] (4 from [[2022–23 UEFA Champions League qualifying phase and play-off round#Champions Path|Champions Path]], 2 from [[2022–23 UEFA Champions League qualifying phase and play-off round#League Path|League Path]])
+*4 League Path losers of the [[2022–23 UEFA Champions League qualifying phase and play-off round#Third qualifying round|third qualifying round]]
+
+{| class="wikitable"
+|-
+!Key to colours
+|-bgcolor=#BBF3BB
+|Group winners advanced directly to '''[[2022–23 UEFA Europa League knockout phase#Round of 16|round of 16]]'''
+|-bgcolor=#BBF3FF
+|Group runners-up advanced to '''[[2022–23 UEFA Europa League knockout phase#Knockout round play-offs|knockout round play-offs]]'''
+|-bgcolor=#FFFFBB
+|Third-placed teams entered '''[[2022–23 UEFA Europa Conference League knockout phase#Knockout round play-offs|Europa Conference League knockout round play-offs]]'''
+|}
+
+{| 
+|-valign=top
+|
+{| class="wikitable"
+|+Pot 1
+|-
+!Team
+!Notes
+!{{Tooltip|Coeff.|UEFA Club Coefficient}}<ref name="club coefficients"/>
+|-bgcolor=#BBF3FF
+|{{fbaicon|ITA}} [[AS Roma|Roma]] ||
+|align=right|100.000
+|-bgcolor=#BBF3FF
+|{{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]] ||
+|align=right|105.000
+|-bgcolor=#BBF3BB
+|{{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]] ||
+|align=right|80.000
+|-bgcolor=#FFFFBB
+|{{fbaicon|ITA}} [[SS Lazio|Lazio]] || 
+|align=right|53.000
+|-bgcolor=#FFFFBB
+|{{fbaicon|POR}} [[S.C. Braga|Braga]] ||
+|align=right|46.000
+|-
+|{{fbaicon|SRB}} [[Red Star Belgrade]] || {{Cref2|CL-CP}}
+|align=right|46.000
+|-
+|{{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]] || {{Cref2|CL-LP}}
+|align=right|44.000
+|-
+|{{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]] || {{Cref2|EL-PO}}
+|align=right|41.000
+|}
+|
+{| class="wikitable"
+|+Pot 2
+|-
+!Team
+!Notes
+!{{Tooltip|Coeff.|UEFA Club Coefficient}}<ref name="club coefficients"/>
+|-bgcolor=#BBF3BB
+|{{fbaicon|NED}} [[Feyenoord]] || 
+|align=right|40.000
+|-bgcolor=#BBF3FF
+|{{fbaicon|FRA}} [[Stade Rennais FC|Rennes]] ||
+|align=right|33.000
+|-bgcolor=#BBF3FF
+|{{fbaicon|NED}} [[PSV Eindhoven]] || {{Cref2|CL-LP}}
+|align=right|33.000
+|-bgcolor=#BBF3FF
+|{{fbaicon|FRA}} [[AS Monaco FC|Monaco]] || {{Cref2|CL-LQ}}
+|align=right|26.000
+|-bgcolor=#BBF3BB
+|{{fbaicon|ESP}} [[Real Sociedad]] || 
+|align=right|26.000
+|-bgcolor=#FFFFBB
+|{{fbaicon|AZE}} [[Qarabağ FK|Qarabağ]] || {{Cref2|CL-CP}}
+|align=right|25.000
+|-
+|{{fbaicon|SWE}} [[Malmö FF]] || {{Cref2|EL-PO}}
+|align=right|23.500
+|-bgcolor=#FFFFBB
+|{{fbaicon|BUL}} [[PFC Ludogorets Razgrad|Ludogorets Razgrad]] || {{Cref2|EL-PO}}
+|align=right|23.000
+|}
+|
+{| class="wikitable"
+|+Pot 3
+!Team
+!Notes
+!{{Tooltip|Coeff.|UEFA Club Coefficient}}<ref name="club coefficients"/>
+|--bgcolor=#FFFFBB
+|{{fbaicon|MDA}} [[FC Sheriff Tiraspol|Sheriff Tiraspol]] || {{Cref2|EL-PO}}
+|align=right|22.500
+|-
+|-bgcolor=#BBF3BB
+|{{fbaicon|ESP}} [[Real Betis]] ||
+|align=right|21.000
+|-bgcolor=#BBF3FF
+|{{fbaicon|DEN}} [[FC Midtjylland|Midtjylland]] || {{Cref2|CL-LQ}}
+|align=right|19.000
+|-bgcolor=#FFFFBB
+|{{fbaicon|NOR}} [[FK Bodø/Glimt|Bodø/Glimt]] || {{Cref2|CL-CP}}
+|align=right|17.000
+|-
+|-bgcolor=#BBF3BB
+|{{fbaicon|HUN}} [[Ferencvárosi TC|Ferencváros]] || {{Cref2|EL-PO}}
+|align=right|15.500
+|-bgcolor=#BBF3FF
+|{{fbaicon|GER}} [[1. FC Union Berlin|Union Berlin]] || 
+|align=right|15.042
+|-
+|-bgcolor=#BBF3BB
+|{{fbaicon|GER}} [[SC Freiburg]] || 
+|align=right|15.042
+|-bgcolor=#BBF3BB
+|{{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]] || {{Cref2|EL-PO}}
+|align=right|14.500
+|}
+|
+{| class="wikitable"
+|+Pot 4
+|-
+!Team
+!Notes
+!{{Tooltip|Coeff.|UEFA Club Coefficient}}<ref name="club coefficients"/>
+|-bgcolor=#BBF3FF
+|{{fbaicon|FRA}} [[FC Nantes|Nantes]] || 
+|align=right|12.016
+|-
+|{{fbaicon|FIN}} [[Helsingin Jalkapalloklubi|HJK]] || {{Cref2|EL-PO}}
+|align=right|8.500
+|-
+|{{fbaicon|AUT}} [[SK Sturm Graz|Sturm Graz]] || {{Cref2|CL-LQ}}
+|align=right|7.770
+|-
+|-bgcolor=#FFFFBB
+|{{fbaicon|CYP}} [[AEK Larnaca FC|AEK Larnaca]] || {{Cref2|EL-PO}}
+|align=right|7.500
+|-
+|{{fbaicon|CYP}} [[AC Omonia|Omonia]] || {{Cref2|EL-PO}}
+|align=right|7.000
+|-
+|{{fbaicon|SUI}} [[FC Zürich|Zürich]] || {{Cref2|EL-PO}}
+|align=right|7.000
+|-
+|-bgcolor=#BBF3BB
+|{{fbaicon|BEL}} [[Royale Union Saint-Gilloise|Union Saint-Gilloise]] || {{Cref2|CL-LQ}}
+|align=right|6.120
+|--bgcolor=#FFFFBB
+|{{fbaicon|TUR}} [[Trabzonspor]] || {{Cref2|CL-CP}}
+|align=right|5.500
+|}
+|}
+
+'''Notes'''
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|EL-PO|n=0|<sup>EL-PO</sup> Winners of play-off round.}}
+{{Cnote2|CL-CP|n=0|<sup>CL-CP</sup> Losers of Champions League play-off round (Champions Path).}}
+{{Cnote2|CL-LP|n=0|<sup>CL-LP</sup> Losers of Champions League play-off round (League Path).}}
+{{Cnote2|CL-LQ|n=0|<sup>CL-LQ</sup> Losers of Champions League third qualifying round (League Path).}}
+{{Cnote2 End}}
+
+==Format==
+In each group, teams played against each other home-and-away in a [[Round-robin tournament|round-robin format]]. The winners of each group advanced to the [[2022–23 UEFA Europa League knockout phase#Round of 16|round of 16]], while the runners-up advanced to the [[2022–23 UEFA Europa League knockout phase#Knockout round play-offs|knockout round play-offs]]. The third-placed teams were transferred to the [[2022–23 UEFA Europa Conference League knockout phase#Knockout round play-offs|Europa Conference League knockout round play-offs]], while the fourth-placed teams were eliminated from European competitions for the season.
+
+===Tiebreakers===
+Teams were ranked according to [[Points (association football)|points]] (3 points for a win, 1 point for a draw, 0 points for a loss). If two or more teams were tied on points, the following tiebreaking criteria were applied, in the order given, to determine the rankings (see Article 16 Equality of points – group stage, Regulations of the UEFA Europa League):<ref name="regulations">{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Europa-League-2022/23-Online |title=Regulations of the UEFA Europa League, 2022/23 Season |website=[[UEFA]] |publisher=Union of European Football Associations |date=1 May 2022 |access-date=10 May 2022}}</ref>
+#Points in head-to-head matches among the tied teams;
+#[[Goal difference]] in head-to-head matches among the tied teams;
+#Goals scored in head-to-head matches among the tied teams;
+#If more than two teams were tied, and after applying all head-to-head criteria above, a subset of teams were still tied, all head-to-head criteria above were reapplied exclusively to this subset of teams;
+#Goal difference in all group matches;
+#Goals scored in all group matches;
+#Away goals scored in all group matches;
+#Wins in all group matches;
+#Away wins in all group matches;
+#Disciplinary points (direct red card = 3 points; double yellow card = 3 points; single yellow card = 1 point);
+#[[UEFA coefficient#Men's club coefficient|UEFA club coefficient]].
+Due to the abolition of the [[away goals rule]], head-to-head away goals were no longer applied as a tiebreaker starting from last season. However, total away goals were still applied as a tiebreaker.<ref>{{cite news|url=https://www.uefa.com/news-media/news/026a-1298aeb73a7a-5b64cb68d920-1000--abolition-of-the-away-goals-rule-in-all-uefa-club-competitions/|title=Abolition of the away goals rule in all UEFA club competitions|website=[[UEFA]] |publisher=Union of European Football Associations|date=24 June 2021}}</ref>
+
+==Groups==
+The fixtures were announced on 27 August 2022, the day after the draw.<ref>{{cite news|title=All the 2022/23 Europa League fixtures|url=https://www.uefa.com/uefaeuropaleague/news/0278-15f7925dd5ab-06a8b3f47483-1000--2022-23-group-stage-fixtures/|date=27 August 2022|publisher=[[UEFA]]}}</ref> The matches were played on 8 September, 15 September, 6 October, 13 October, 27 October and 3 November 2022. The scheduled kick-off times were 18:45 and 21:00 CET/CEST.
+
+Times are [[Central European Time|CET]]/[[Central European Summer Time|CEST]],{{refn|group=note|[[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]]) for dates up to 29 October 2022 (matchdays 1–5), and [[Central European Time|CET]] ([[UTC+01:00|UTC+1]]) for date thereafter (matchday 6).}} as listed by UEFA (local times, if different, are in parentheses).
+
+===Group A===
+{{2022–23 UEFA Europa League group tables|Group A|show_matches=yes}}
+
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 18:45
+|team1      = [[FC Zürich|Zürich]] {{fbaicon|SUI}}
+|score      = 1–2
+|team2      = {{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|goals1     =
+*[[Mirlind Kryeziu|Kryeziu]] {{goal|44|pen.}}
+|goals2     =
+*[[Marquinhos (footballer, born 2003)|Marquinhos]] {{goal|16}}
+*[[Eddie Nketiah|Nketiah]] {{goal|62}}
+|stadium    = [[Kybunpark]], [[St. Gallen]]{{refn|group=note|Zürich played their first home match at Kybunpark, St. Gallen, instead of their regular stadium, [[Letzigrund]], [[Zürich]], due to a music concert and athletic event.<ref>{{cite web |url=https://www.arsenal.com/tickets/arsenal/2022-Sep-08/fc-zurich |title=Ticket information: FC Zurich v Arsenal |date=30 August 2022 |publisher=Arsenal F.C. |access-date=31 August 2022 }}</ref>}}
+|attendance = 17,070<ref>{{UEFA match attendance|2035953|Zürich vs. Arsenal|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Mohammed Al-Hakim]] ([[Swedish Football Association|Sweden]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035953/
+}}
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 18:45
+|team1      = [[PSV Eindhoven]] {{fbaicon|NED}}
+|score      = 1–1
+|team2      = {{fbaicon|NOR}} [[FK Bodø/Glimt|Bodø/Glimt]]
+|goals1     =
+*[[Cody Gakpo|Gakpo]] {{goal|62}}
+|goals2     =
+*[[Albert Grønbæk|Grønbæk]] {{goal|44}}
+|stadium    = [[Philips Stadion]], [[Eindhoven]]
+|attendance = 28,627<ref>{{UEFA match attendance|2035954|PSV Eindhoven vs. Bodø/Glimt|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Georgi Kabakov]] ([[Bulgarian Football Union|Bulgaria]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035954/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|9|15|df=y}}
+|time       = 21:00
+|team1      = [[FK Bodø/Glimt|Bodø/Glimt]] {{fbaicon|NOR}}
+|score      = 2–1
+|team2      = {{fbaicon|SUI}} [[FC Zürich|Zürich]]
+|goals1     =
+*[[Ole Selnæs|Selnæs]] {{goal|54|o.g.}}
+*[[Hugo Vetlesen|Vetlesen]] {{goal|58}}
+|goals2     =
+*[[Donis Avdijaj|Avdijaj]] {{goal|81}}
+|stadium    = [[Aspmyra Stadion]], [[Bodø (town)|Bodø]]
+|attendance = 8,000<ref>{{UEFA match attendance|2035956|Bodø/Glimt vs. Zürich|date=15 September 2022|access-date=15 September 2022}}</ref>
+|referee    = [[Stéphanie Frappart]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035956/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 18:45
+|team1      = [[FC Zürich|Zürich]] {{fbaicon|SUI}}
+|score      = 1–5
+|team2      = {{fbaicon|NED}} [[PSV Eindhoven]]
+|goals1     =
+*[[Jonathan Okita|Okita]] {{goal|87}}
+|goals2     =
+*[[Yorbe Vertessen|Vertessen]] {{goal|10||15}}
+*[[Cody Gakpo|Gakpo]] {{goal|21||55}}
+*[[Xavi Simons|Simons]] {{goal|35}}
+|stadium    = [[Letzigrund]], [[Zürich]]
+|attendance = 10,626<ref>{{UEFA match attendance|2035957|Zürich vs. PSV Eindhoven|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[Willie Collum]] ([[Scottish Football Association|Scotland]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035957/
+}}
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[Arsenal F.C.|Arsenal]] {{fbaicon|ENG}}
+|score      = 3–0
+|team2      = {{fbaicon|NOR}} [[FK Bodø/Glimt|Bodø/Glimt]]
+|goals1     =
+*[[Eddie Nketiah|Nketiah]] {{goal|23}}
+*[[Rob Holding|Holding]] {{goal|27}}
+*[[Fábio Vieira (footballer, born 2000)|Vieira]] {{goal|84}}
+|goals2     =
+|stadium    = [[Emirates Stadium]], [[London]]
+|attendance = 59,724<ref>{{UEFA match attendance|2035958|Arsenal vs. Bodø/Glimt|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[Harm Osmers]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035958/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 18:45
+|team1      = [[FK Bodø/Glimt|Bodø/Glimt]] {{fbaicon|NOR}}
+|score      = 0–1
+|team2      = {{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|goals1     =
+|goals2     =
+*[[Bukayo Saka|Saka]] {{goal|24}}
+|stadium    = [[Aspmyra Stadion]], [[Bodø (town)|Bodø]]
+|attendance = 7,922<ref>{{UEFA match attendance|2035959|Bodø/Glimt vs. Arsenal|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Irfan Peljto]] ([[Football Federation of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035959/
+}}
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 21:00
+|team1      = [[PSV Eindhoven]] {{fbaicon|NED}}
+|score      = 5–0
+|team2      = {{fbaicon|SUI}} [[FC Zürich|Zürich]]
+|goals1     =
+*[[Érick Gutiérrez|Gutiérrez]] {{goal|9}}
+*[[Joey Veerman|Veerman]] {{goal|15||55}}
+*[[Ibrahim Sangaré (Ivorian footballer)|Sangaré]] {{goal|34}}
+*[[Anwar El Ghazi|El Ghazi]] {{goal|84}}
+|goals2     =
+|stadium    = [[Philips Stadion]], [[Eindhoven]]
+|attendance = 30,000<ref>{{UEFA match attendance|2035960|PSV Eindhoven vs. Zürich|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Ali Palabıyık]] ([[Turkish Football Federation|Turkey]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035960/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|20|df=y}}
+|time       = 19:00 {{small|(18:00 [[UTC+01:00|UTC+1]])}}{{refn|group=note|The Arsenal v PSV Eindhoven match, originally scheduled to be played on 15 September 2022, 21:00 (20:00 [[UTC+01:00|UTC+1]]), was rescheduled to 20 October 2022, 19:00 (18:00 [[UTC+01:00|UTC+1]]), due to conditions related to the [[Death and state funeral of Elizabeth II|death of Elizabeth II]].<ref>{{cite news |url=https://www.uefa.com/uefaeuropaleague/news/0279-161b8a705a02-784ba9d43903-1000--uefa-confirms-new-date-for-arsenal-vs-psv-eindhoven-tie/ |title=UEFA confirms new date for Arsenal FC v PSV Eindhoven tie |website=[[UEFA]] |publisher=Union of European Football Associations|date=14 September 2022 |access-date=14 September 2022}}</ref>}}
+|team1      = [[Arsenal F.C.|Arsenal]] {{fbaicon|ENG}}
+|score      = 1–0
+|team2      = {{fbaicon|NED}} [[PSV Eindhoven]]
+|goals1     =
+*[[Granit Xhaka|Xhaka]] {{goal|71}}
+|goals2     =
+|stadium    = [[Emirates Stadium]], [[London]]
+|attendance = 52,200<ref>{{UEFA match attendance|2035955|Arsenal vs. PSV Eindhoven|date=20 October 2022|access-date=20 October 2022}}</ref>
+|referee    = [[Alejandro Hernández Hernández]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035955/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 18:45
+|team1      = [[FC Zürich|Zürich]] {{fbaicon|SUI}}
+|score      = 2–1
+|team2      = {{fbaicon|NOR}} [[FK Bodø/Glimt|Bodø/Glimt]]
+|goals1     =
+*[[Nikola Boranijašević|Boranijašević]] {{goal|67}}
+*[[Antonio Marchesano (footballer)|Marchesano]] {{goal|90+4}}
+|goals2     =
+*[[Amahl Pellegrino|Pellegrino]] {{goal|45+1}}
+|stadium    = [[Letzigrund]], [[Zürich]]
+|attendance = 10,168<ref>{{UEFA match attendance|2035961|Zürich vs. Bodø/Glimt|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[Yevhen Aranovskyi]] ([[Football Federation of Ukraine|Ukraine]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035961/
+}}
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 18:45
+|team1      = [[PSV Eindhoven]] {{fbaicon|NED}}
+|score      = 2–0
+|team2      = {{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|goals1     =
+*[[Joey Veerman|Veerman]] {{goal|55}}
+*[[Luuk de Jong|De Jong]] {{goal|63}}
+|goals2     =
+|stadium    = [[Philips Stadion]], [[Eindhoven]]
+|attendance = 35,000<ref>{{UEFA match attendance|2035962|PSV Eindhoven vs. Arsenal|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[Marco Di Bello]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035962/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+00:00|UTC+0]])}}
+|team1      = [[Arsenal F.C.|Arsenal]] {{fbaicon|ENG}}
+|score      = 1–0
+|team2      = {{fbaicon|SUI}} [[FC Zürich|Zürich]]
+|goals1     =
+*[[Kieran Tierney|Tierney]] {{goal|17}}
+|goals2     =
+|stadium    = [[Emirates Stadium]], [[London]]
+|attendance = 48,500<ref>{{UEFA match attendance|2035963|Arsenal vs. Zürich|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Erik Lambrechts]] ([[Royal Belgian Football Association|Belgium]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035963/
+}}
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 21:00
+|team1      = [[FK Bodø/Glimt|Bodø/Glimt]] {{fbaicon|NOR}}
+|score      = 1–2
+|team2      = {{fbaicon|NED}} [[PSV Eindhoven]]
+|goals1     =
+*[[Nino Žugelj|Žugelj]] {{goal|90+3}}
+|goals2     =
+*[[Alfons Sampsted|Sampsted]] {{goal|36|o.g.}}
+*[[Johan Bakayoko|Bakayoko]] {{goal|52}}
+|stadium    = [[Aspmyra Stadion]], [[Bodø (town)|Bodø]]
+|attendance = 7,985<ref>{{UEFA match attendance|2035964|Bodø/Glimt vs. PSV Eindhoven|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Donatas Rumšas]] ([[Lithuanian Football Federation|Lithuania]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035964/
+}}
+
+===Group B===
+{{2022–23 UEFA Europa League group tables|Group B|show_matches=yes}}
+
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[AEK Larnaca FC|AEK Larnaca]] {{fbaicon|CYP}}
+|score      = 1–2
+|team2      = {{fbaicon|FRA}} [[Stade Rennais FC|Rennes]]
+|goals1     =
+*[[Oier Sanjurjo|Oier]] {{goal|33}}
+|goals2     =
+*[[Arthur Theate|Theate]] {{goal|29}}
+*[[Lorenz Assignon|Assignon]] {{goal|90+4}}
+|stadium    = [[AEK Arena – Georgios Karapatakis]], [[Larnaca]]
+|attendance = 4,103<ref>{{UEFA match attendance|2035965|AEK Larnaca vs. Rennes|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Giorgi Kruashvili]] ([[Georgian Football Federation|Georgia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035965/
+}}
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[Fenerbahçe S.K. (football)|Fenerbahçe]] {{fbaicon|TUR}}
+|score      = 2–1
+|team2      = {{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|goals1     =
+*[[Gustavo Henrique (footballer, born 1993)|Gustavo Henrique]] {{goal|35}}
+*[[Michy Batshuayi|Batshuayi]] {{goal|90+1}}
+|goals2     =
+*[[Viktor Tsyhankov|Tsyhankov]] {{goal|63}}
+|stadium    = [[Şükrü Saracoğlu Stadium]], [[Istanbul]]
+|attendance = 41,895<ref>{{UEFA match attendance|2035966|Fenerbahçe vs. Dynamo Kyiv|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Tamás Bognár]] ([[Hungarian Football Federation|Hungary]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035966/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|9|15|df=y}}
+|time       = 21:00
+|team1      = [[FC Dynamo Kyiv|Dynamo Kyiv]] {{fbaicon|UKR}}
+|score      = 0–1
+|team2      = {{fbaicon|CYP}} [[AEK Larnaca FC|AEK Larnaca]]
+|goals1     =
+|goals2     =
+*[[Ádám Gyurcsó|Gyurcsó]] {{goal|8}}
+|stadium    = [[Stadion Cracovii im. Józefa Piłsudskiego]], [[Kraków]], Poland{{refn|group=note|name=Dynamo Kyiv|Due to the [[2022 Russian invasion of Ukraine|Russian invasion of Ukraine]], Ukrainian teams were required to play their home matches at neutral venues until further notice.<ref>{{cite news |url=https://www.uefa.com/news-media/news/0272-148740475a92-1b97baa3e9d7-1000/ |title=Decisions from today's extraordinary UEFA Executive Committee meeting |work=[[UEFA]] |publisher=Union of European Football Associations |date=25 February 2022 |access-date=25 February 2022}}</ref> Therefore, Dynamo Kyiv played at Stadion Cracovii im. Józefa Piłsudskiego, Kraków, Poland, instead of their regular stadium [[Olimpiyskiy National Sports Complex|NSC Olimpiyskiy]], [[Kyiv]].}}
+|attendance = 3,362<ref>{{UEFA match attendance|2035967|Dynamo Kyiv vs. AEK Larnaca|date=15 September 2022|access-date=15 September 2022}}</ref>
+|referee    = [[Jakob Kehlet]] ([[Danish Football Association|Denmark]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035967/
+}}
+{{Football box
+|date       = {{Start date|2022|9|15|df=y}}
+|time       = 21:00
+|team1      = [[Stade Rennais FC|Rennes]] {{fbaicon|FRA}}
+|score      = 2–2
+|team2      = {{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|goals1     =
+*[[Martin Terrier|Terrier]] {{goal|52}}
+*[[Lovro Majer|Majer]] {{goal|54}}
+|goals2     =
+*[[İrfan Kahveci|Kahveci]] {{goal|60}}
+*[[Enner Valencia|Valencia]] {{goal|90+2|pen.}}
+|stadium    = [[Roazhon Park]], [[Rennes]]
+|attendance = 20,993<ref>{{UEFA match attendance|2035968|Rennes vs. Fenerbahçe|date=15 September 2022|access-date=15 September 2022}}</ref>
+|referee    = [[Aleksei Kulbakov]] ([[Football Federation of Belarus|Belarus]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035968/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 21:00
+|team1      = [[Stade Rennais FC|Rennes]] {{fbaicon|FRA}}
+|score      = 2–1
+|team2      = {{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|goals1     =
+*[[Martin Terrier|Terrier]] {{goal|23}}
+*[[Désiré Doué|D. Doué]] {{goal|89}}
+|goals2     =
+*[[Viktor Tsyhankov|Tsyhankov]] {{goal|33}}
+|stadium    = [[Roazhon Park]], [[Rennes]]
+|attendance = 24,761<ref>{{UEFA match attendance|2035969|Rennes vs. Dynamo Kyiv|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[José María Sánchez Martínez]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035969/
+}}
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 21:00 {{small|(22:00 [[UTC+03:00|UTC+3]])}}
+|team1      = [[Fenerbahçe S.K. (football)|Fenerbahçe]] {{fbaicon|TUR}}
+|score      = 2–0
+|team2      = {{fbaicon|CYP}} [[AEK Larnaca FC|AEK Larnaca]]
+|goals1     =
+*[[Michy Batshuayi|Batshuayi]] {{goal|26}}
+*[[Rafail Mamas|Mamas]] {{goal|79|o.g.}}
+|goals2     =
+|stadium    = [[Şükrü Saracoğlu Stadium]], [[Istanbul]]
+|attendance = 38,860<ref>{{UEFA match attendance|2035970|Fenerbahçe vs. AEK Larnaca|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[Chris Kavanagh (referee)|Chris Kavanagh]] ([[The Football Association|England]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035970/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 18:45
+|team1      = [[FC Dynamo Kyiv|Dynamo Kyiv]] {{fbaicon|UKR}}
+|score      = 0–1
+|team2      = {{fbaicon|FRA}} [[Stade Rennais FC|Rennes]]
+|goals1     =
+|goals2     =
+*[[Christopher Wooh|Wooh]] {{goal|48}}
+|stadium    = [[Stadion Cracovii im. Józefa Piłsudskiego]], [[Kraków]], Poland{{refn|group=note|name=Dynamo Kyiv}}
+|attendance = 5,398<ref>{{UEFA match attendance|2035971|Dynamo Kyiv vs. Rennes|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Serdar Gözübüyük]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035971/
+}}
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[AEK Larnaca FC|AEK Larnaca]] {{fbaicon|CYP}}
+|score      = 1–2
+|team2      = {{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|goals1     =
+*[[Ivan Trickovski|Trickovski]] {{goal|52|pen.}}
+|goals2     =
+*[[João Pedro (footballer, born 1992)|João Pedro]] {{goal|16}}
+*[[Michy Batshuayi|Batshuayi]] {{goal|80|pen.}}
+|stadium    = [[AEK Arena – Georgios Karapatakis]], [[Larnaca]]
+|attendance = 6,947<ref>{{UEFA match attendance|2035972|AEK Larnaca vs. Fenerbahçe|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Paweł Raczkowski]] ([[Polish Football Association|Poland]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035972/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[Fenerbahçe S.K. (football)|Fenerbahçe]] {{fbaicon|TUR}}
+|score      = 3–3
+|team2      = {{fbaicon|FRA}} [[Stade Rennais FC|Rennes]]
+|goals1     =
+*[[Enner Valencia|Valencia]] {{goal|42}}
+*[[Miha Zajc|Zajc]] {{goal|82}}
+*[[Emre Mor|Mor]] {{goal|88}}
+|goals2     =
+*[[Amine Gouiri|Gouiri]] {{goal|5||30}}
+*[[Martin Terrier|Terrier]] {{goal|16}}
+|stadium    = [[Şükrü Saracoğlu Stadium]], [[Istanbul]]
+|attendance = 34,840<ref>{{UEFA match attendance|2035973|Fenerbahçe vs. Rennes|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[Novak Simović]] ([[Football Association of Serbia|Serbia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035973/
+}}
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[AEK Larnaca FC|AEK Larnaca]] {{fbaicon|CYP}}
+|score      = 3–3
+|team2      = {{fbaicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]]
+|goals1     =
+*[[Omri Altman|Altman]] {{goal|26||72}}
+*[[Rafael Lopes|Lopes]] {{goal|53}}
+|goals2     =
+*[[Vladyslav Vanat|Vanat]] {{goal|45}}
+*[[Denys Harmash|Harmash]] {{goal|82||90+2}}
+|stadium    = [[AEK Arena – Georgios Karapatakis]], [[Larnaca]]
+|attendance = 4,321<ref>{{UEFA match attendance|2035974|AEK Larnaca vs. Dynamo Kyiv|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[John Beaton]] ([[Scottish Football Association|Scotland]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035974/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 21:00
+|team1      = [[FC Dynamo Kyiv|Dynamo Kyiv]] {{fbaicon|UKR}}
+|score      = 0–2
+|team2      = {{fbaicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|goals1     =
+|goals2     =
+*[[Arda Güler|Güler]] {{goal|23}}
+*[[Willian Arão]] {{goal|45+2}}
+|stadium    = [[Stadion Cracovii im. Józefa Piłsudskiego]], [[Kraków]], Poland{{refn|group=note|name=Dynamo Kyiv}}
+|attendance = 6,304<ref>{{UEFA match attendance|2035975|Dynamo Kyiv vs. Fenerbahçe|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Duje Strukan]] ([[Croatian Football Federation|Croatia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035975/
+}}
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 21:00
+|team1      = [[Stade Rennais FC|Rennes]] {{fbaicon|FRA}}
+|score      = 1–1
+|team2      = {{fbaicon|CYP}} [[AEK Larnaca FC|AEK Larnaca]]
+|goals1     =
+*[[Matthis Abline|Abline]] {{goal|17}}
+|goals2     =
+*[[Rafael Lopes|Lopes]] {{goal|76}}
+|stadium    = [[Roazhon Park]], [[Rennes]]
+|attendance = 27,210<ref>{{UEFA match attendance|2035976|Rennes vs. AEK Larnaca|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Mohammed Al-Hakim]] ([[Swedish Football Association|Sweden]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035976/
+}}
+
+===Group C===
+{{2022–23 UEFA Europa League group tables|Group C|show_matches=yes}}
+
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[PFC Ludogorets Razgrad|Ludogorets Razgrad]] {{fbaicon|BUL}}
+|score      = 2–1
+|team2      = {{fbaicon|ITA}} [[AS Roma|Roma]]
+|goals1     =
+*[[Cauly]] {{goal|72}}
+*[[Nonato (footballer, born 1998)|Nonato]] {{goal|88}}
+|goals2     =
+*[[Eldor Shomurodov|Shomurodov]] {{goal|86}}
+|stadium    = [[Huvepharma Arena]], [[Razgrad]]
+|attendance = 10,011<ref>{{UEFA match attendance|2035977|Ludogorets Razgrad vs. Roma|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Craig Pawson]] ([[The Football Association|England]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035977/
+}}
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[Helsingin Jalkapalloklubi|HJK]] {{fbaicon|FIN}}
+|score      = 0–2
+|team2      = {{fbaicon|ESP}} [[Real Betis]]
+|goals1     =
+|goals2     =
+*[[Willian José]] {{goal|45+3|pen.|64}}
+|stadium    = [[Bolt Arena]], [[Helsinki]]
+|attendance = 10,164<ref>{{UEFA match attendance|2035978|HJK vs. Real Betis|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Roi Reinshreiber]] ([[Israel Football Association|Israel]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035978/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|9|15|df=y}}
+|time       = 21:00
+|team1      = [[Real Betis]] {{fbaicon|ESP}}
+|score      = 3–2
+|team2      = {{fbaicon|BUL}} [[PFC Ludogorets Razgrad|Ludogorets Razgrad]]
+|goals1     =
+*[[Luiz Henrique (footballer, born 2001)|Luiz Henrique]] {{goal|25}}
+*[[Joaquín (footballer, born 1981)|Joaquín]] {{goal|39}}
+*[[Sergio Canales|Canales]] {{goal|59}}
+|goals2     =
+*[[Kiril Despodov|Despodov]] {{goal|45+1}}
+*[[Rick (footballer, born 1999)|Rick]] {{goal|74}}
+|stadium    = [[Estadio Benito Villamarín]], [[Seville]]
+|attendance = 43,113<ref>{{UEFA match attendance|2035979|Real Betis vs. Ludogorets Razgrad|date=15 September 2022|access-date=15 September 2022}}</ref>
+|referee    = [[Andris Treimanis]] ([[Latvian Football Federation|Latvia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035979/
+}}
+{{Football box
+|date       = {{Start date|2022|9|15|df=y}}
+|time       = 21:00
+|team1      = [[AS Roma|Roma]] {{fbaicon|ITA}}
+|score      = 3–0
+|team2      = {{fbaicon|FIN}} [[Helsingin Jalkapalloklubi|HJK]]
+|goals1     =
+*[[Paulo Dybala|Dybala]] {{goal|47}}
+*[[Lorenzo Pellegrini|Pellegrini]] {{goal|49}}
+*[[Andrea Belotti|Belotti]] {{goal|68}}
+|goals2     =
+|stadium    = [[Stadio Olimpico]], [[Rome]]
+|attendance = 60,193<ref>{{UEFA match attendance|2035980|Roma vs. HJK|date=15 September 2022|access-date=15 September 2022}}</ref>
+|referee    = [[Radu Petrescu (referee, born 1982)|Radu Petrescu]] ([[Romanian Football Federation|Romania]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035980/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[Helsingin Jalkapalloklubi|HJK]] {{fbaicon|FIN}}
+|score      = 1–1
+|team2      = {{fbaicon|BUL}} [[PFC Ludogorets Razgrad|Ludogorets Razgrad]]
+|goals1     =
+*[[Përparim Hetemaj|Hetemaj]] {{goal|55}}
+|goals2     =
+*[[Matías Tissera|Tissera]] {{goal|10}}
+|stadium    = [[Bolt Arena]], [[Helsinki]]
+|attendance = 9,751<ref>{{UEFA match attendance|2035982|HJK vs. Ludogorets Razgrad|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[Yevhen Aranovskyi]] ([[Football Federation of Ukraine|Ukraine]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035982/
+}}
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 21:00
+|team1      = [[AS Roma|Roma]] {{fbaicon|ITA}}
+|score      = 1–2
+|team2      = {{fbaicon|ESP}} [[Real Betis]]
+|goals1     =
+*[[Paulo Dybala|Dybala]] {{goal|34|pen.}}
+|goals2     =
+*[[Guido Rodríguez|Rodríguez]] {{goal|40}}
+*[[Luiz Henrique (footballer, born 2001)|Luiz Henrique]] {{goal|88}}
+|stadium    = [[Stadio Olimpico]], [[Rome]]
+|attendance = 62,294<ref>{{UEFA match attendance|2035981|Roma vs. Real Betis|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035981/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 18:45
+|team1      = [[Real Betis]] {{fbaicon|ESP}}
+|score      = 1–1
+|team2      = {{fbaicon|ITA}} [[AS Roma|Roma]]
+|goals1     =
+*[[Sergio Canales|Canales]] {{goal|34}}
+|goals2     =
+*[[Andrea Belotti|Belotti]] {{goal|53}}
+|stadium    = [[Estadio Benito Villamarín]], [[Seville]]
+|attendance = 52,472<ref>{{UEFA match attendance|2035983|Real Betis vs. Roma|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035983/
+}}
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 21:00 {{small|(22:00 [[UTC+03:00|UTC+3]])}}
+|team1      = [[PFC Ludogorets Razgrad|Ludogorets Razgrad]] {{fbaicon|BUL}}
+|score      = 2–0
+|team2      = {{fbaicon|FIN}} [[Helsingin Jalkapalloklubi|HJK]]
+|goals1     =
+*[[Denny Gropper|Gropper]] {{goal|38}}
+*[[Rick (footballer, born 1999)|Rick]] {{goal|64}}
+|goals2     =
+|stadium    = [[Huvepharma Arena]], [[Razgrad]]
+|attendance = 4,623<ref>{{UEFA match attendance|2035984|Ludogorets Razgrad vs. HJK|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Kristo Tohver]] ([[Estonian Football Association|Estonia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035984/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[PFC Ludogorets Razgrad|Ludogorets Razgrad]] {{fbaicon|BUL}}
+|score      = 0–1
+|team2      = {{fbaicon|ESP}} [[Real Betis]]
+|goals1     =
+|goals2     =
+*[[Nabil Fekir|Fekir]] {{goal|56}}
+|stadium    = [[Huvepharma Arena]], [[Razgrad]]
+|attendance = 9,487<ref>{{UEFA match attendance|2035986|Ludogorets Razgrad vs. Real Betis|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[Harald Lechner]] ([[Austrian Football Association|Austria]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035986/
+}}
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 21:00 {{small|(22:00 [[UTC+03:00|UTC+3]])}}
+|team1      = [[Helsingin Jalkapalloklubi|HJK]] {{fbaicon|FIN}}
+|score      = 1–2
+|team2      = {{fbaicon|ITA}} [[AS Roma|Roma]]
+|goals1     =
+*[[Përparim Hetemaj|Hetemaj]] {{goal|54}}
+|goals2     =
+*[[Tammy Abraham|Abraham]] {{goal|41}}
+*[[Arttu Hoskonen|Hoskonen]] {{goal|62|o.g.}}
+|stadium    = [[Bolt Arena]], [[Helsinki]]
+|attendance = 9,751<ref>{{UEFA match attendance|2035985|HJK vs. Roma|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[Tiago Martins (referee)|Tiago Martins]] ([[Portuguese Football Federation|Portugal]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035985/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 21:00
+|team1      = [[AS Roma|Roma]] {{fbaicon|ITA}}
+|score      = 3–1
+|team2      = {{fbaicon|BUL}} [[PFC Ludogorets Razgrad|Ludogorets Razgrad]]
+|goals1     =
+*[[Lorenzo Pellegrini|Pellegrini]] {{goal|56|pen.|65|pen.}}
+*[[Nicolò Zaniolo|Zaniolo]] {{goal|85}}
+|goals2     =
+*[[Rick (footballer, born 1999)|Rick]] {{goal|41}}
+|stadium    = [[Stadio Olimpico]], [[Rome]]
+|attendance = 60,807<ref>{{UEFA match attendance|2035987|Roma vs. Ludogorets Razgrad|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Nikola Dabanović]] ([[Football Association of Montenegro|Montenegro]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035987/
+}}
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 21:00
+|team1      = [[Real Betis]] {{fbaicon|ESP}}
+|score      = 3–0
+|team2      = {{fbaicon|FIN}} [[Helsingin Jalkapalloklubi|HJK]]
+|goals1     =
+*[[Aitor Ruibal|Ruibal]] {{goal|20||40}}
+*[[Nabil Fekir|Fekir]] {{goal|90+3}}
+|goals2     =
+|stadium    = [[Estadio Benito Villamarín]], [[Seville]]
+|attendance = 35,384<ref>{{UEFA match attendance|2035988|Real Betis vs. HJK|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Willie Collum]] ([[Scottish Football Association|Scotland]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035988/
+}}
+
+===Group D===
+{{2022–23 UEFA Europa League group tables|Group D|show_matches=yes}}
+
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 18:45
+|team1      = [[Malmö FF]] {{fbaicon|SWE}}
+|score      = 0–2
+|team2      = {{fbaicon|POR}} [[S.C. Braga|Braga]]
+|goals1     =
+|goals2     =
+*[[Bruno Rodrigues (footballer, born 2001)|Rodrigues]] {{goal|30}}
+*[[Ricardo Horta|R. Horta]] {{goal|70|pen.}}
+|stadium    = [[Stadion, Malmö|Stadion]], [[Malmö]]
+|attendance = 13,721<ref>{{UEFA match attendance|2035989|Malmö FF vs. Braga|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Duje Strukan]] ([[Croatian Football Federation|Croatia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035989/
+}}
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 18:45
+|team1      = [[1. FC Union Berlin|Union Berlin]] {{fbaicon|GER}}
+|score      = 0–1
+|team2      = {{fbaicon|BEL}} [[Royale Union Saint-Gilloise|Union Saint-Gilloise]]
+|goals1     =
+|goals2     =
+*[[Senne Lynen|Lynen]] {{goal|39}}
+|stadium    = [[Stadion An der Alten Försterei]], [[Berlin]]
+|attendance = 21,512<ref>{{UEFA match attendance|2035990|Union Berlin vs. Union Saint-Gilloise|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Serhiy Boyko]] ([[Football Federation of Ukraine|Ukraine]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035990/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|9|15|df=y}}
+|time       = 21:00
+|team1      = [[Royale Union Saint-Gilloise|Union Saint-Gilloise]] {{fbaicon|BEL}}
+|score      = 3–2
+|team2      = {{fbaicon|SWE}} [[Malmö FF]]
+|goals1     =
+*[[Christian Burgess|Burgess]] {{goal|17}}
+*[[Teddy Teuma|Teuma]] {{goal|69}}
+*[[Victor Boniface|Boniface]] {{goal|71}}
+|goals2     =
+*[[Joseph Ceesay|Ceesay]] {{goal|6}}
+*[[Isaac Kiese Thelin|Kiese Thelin]] {{goal|57}}
+|stadium    = [[Den Dreef]], [[Leuven]]{{refn|group=note|name=Union Saint-Gilloise|Union Saint-Gilloise played their home matches at Den Dreef, Leuven, instead of their regular stadium, [[Joseph Marien Stadium]], [[Brussels]], which did not meet UEFA requirements.}}
+|attendance = 4,373<ref>{{UEFA match attendance|2035991|Union Saint-Gilloise vs. Malmö FF|date=15 September 2022|access-date=15 September 2022}}</ref>
+|referee    = [[Bartosz Frankowski]] ([[Polish Football Association|Poland]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035991/
+}}
+{{Football box
+|date       = {{Start date|2022|9|15|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[S.C. Braga|Braga]] {{fbaicon|POR}}
+|score      = 1–0
+|team2      = {{fbaicon|GER}} [[1. FC Union Berlin|Union Berlin]]
+|goals1     =
+*[[Vítor Oliveira (footballer, born 2000)|Vitinha]] {{goal|77}}
+|goals2     =
+|stadium    = [[Estádio Municipal de Braga|Estádio Municipal]], [[Braga]]
+|attendance = 17,782<ref>{{UEFA match attendance|2035992|Braga vs. Union Berlin|date=15 September 2022|access-date=15 September 2022}}</ref>
+|referee    = [[Filip Glova]] ([[Slovak Football Association|Slovakia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035992/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 18:45
+|team1      = [[Malmö FF]] {{fbaicon|SWE}}
+|score      = 0–1
+|team2      = {{fbaicon|GER}} [[1. FC Union Berlin|Union Berlin]]
+|goals1     =
+|goals2     =
+*[[Sheraldo Becker|Becker]] {{goal|68}}
+|stadium    = [[Stadion, Malmö|Stadion]], [[Malmö]]
+|attendance = 16,057<ref>{{UEFA match attendance|2035994|Malmö FF vs. Union Berlin|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[Halil Umut Meler]] ([[Turkish Football Federation|Turkey]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035994/
+}}
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[S.C. Braga|Braga]] {{fbaicon|POR}}
+|score      = 1–2
+|team2      = {{fbaicon|BEL}} [[Royale Union Saint-Gilloise|Union Saint-Gilloise]]
+|goals1     =
+*[[Abel Ruiz|Ruiz]] {{goal|49}}
+|goals2     =
+*[[Gustaf Nilsson (footballer, born 1997)|Nilsson]] {{goal|86||90+4}}
+|stadium    = [[Estádio Municipal de Braga|Estádio Municipal]], [[Braga]]
+|attendance = 14,044<ref>{{UEFA match attendance|2035993|Braga vs. Union Saint-Gilloise|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[Stéphanie Frappart]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035993/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 18:45
+|team1      = [[Royale Union Saint-Gilloise|Union Saint-Gilloise]] {{fbaicon|BEL}}
+|score      = 3–3
+|team2      = {{fbaicon|POR}} [[S.C. Braga|Braga]]
+|goals1     =
+*[[Victor Boniface|Boniface]] {{goal|20||62}}
+*[[Dante Vanzeir|Vanzeir]] {{goal|49}}
+|goals2     =
+*[[Vítor Oliveira (footballer, born 2000)|Vitinha]] {{goal|15||36||41}}
+|stadium    = [[Den Dreef]], [[Leuven]]{{refn|group=note|name=Union Saint-Gilloise}}
+|attendance = 7,851<ref>{{UEFA match attendance|2035995|Union Saint-Gilloise vs. Braga|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Aliyar Aghayev]] ([[Association of Football Federations of Azerbaijan|Azerbaijan]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035995/
+}}
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 21:00
+|team1      = [[1. FC Union Berlin|Union Berlin]] {{fbaicon|GER}}
+|score      = 1–0
+|team2      = {{fbaicon|SWE}} [[Malmö FF]]
+|goals1     =
+*[[Robin Knoche|Knoche]] {{goal|89|pen.}}
+|goals2     =
+|stadium    = [[Stadion An der Alten Försterei]], [[Berlin]]
+|attendance = 21,800<ref>{{UEFA match attendance|2035996|Union Berlin vs. Malmö FF|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Aleksandar Stavrev]] ([[Football Federation of North Macedonia|North Macedonia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035996/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 18:45
+|team1      = [[Malmö FF]] {{fbaicon|SWE}}
+|score      = 0–2
+|team2      = {{fbaicon|BEL}} [[Royale Union Saint-Gilloise|Union Saint-Gilloise]]
+|goals1     =
+|goals2     =
+*[[Teddy Teuma|Teuma]] {{goal|10}}
+*[[Jean Thierry Lazare|Amani]] {{goal|41}}
+|stadium    = [[Stadion, Malmö|Stadion]], [[Malmö]]
+|attendance = 10,912<ref>{{UEFA match attendance|2035997|Malmö FF vs. Union Saint-Gilloise|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[Roi Reinshreiber]] ([[Israel Football Association|Israel]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035997/
+}}
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 18:45
+|team1      = [[1. FC Union Berlin|Union Berlin]] {{fbaicon|GER}}
+|score      = 1–0
+|team2      = {{fbaicon|POR}} [[S.C. Braga|Braga]]
+|goals1     =
+*[[Robin Knoche|Knoche]] {{goal|68|pen.}}
+|goals2     =
+|stadium    = [[Stadion An der Alten Försterei]], [[Berlin]]
+|attendance = 21,082<ref>{{UEFA match attendance|2035998|Union Berlin vs. Braga|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[Craig Pawson]] ([[The Football Association|England]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035998/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 21:00
+|team1      = [[Royale Union Saint-Gilloise|Union Saint-Gilloise]] {{fbaicon|BEL}}
+|score      = 0–1
+|team2      = {{fbaicon|GER}} [[1. FC Union Berlin|Union Berlin]]
+|goals1     =
+|goals2     =
+*[[Sven Michel (footballer)|Michel]] {{goal|6}}
+|stadium    = [[Den Dreef]], [[Leuven]]{{refn|group=note|name=Union Saint-Gilloise}}
+|attendance = 5,597<ref>{{UEFA match attendance|2035999|Union Saint-Gilloise vs. Union Berlin|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Andris Treimanis]] ([[Latvian Football Federation|Latvia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035999/
+}}
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+00:00|UTC+0]])}}
+|team1      = [[S.C. Braga|Braga]] {{fbaicon|POR}}
+|score      = 2–1
+|team2      = {{fbaicon|SWE}} [[Malmö FF]]
+|goals1     =
+*[[Ricardo Horta|R. Horta]] {{goal|36}}
+*[[Álvaro Djaló|Djaló]] {{goal|55}}
+|goals2     =
+*[[Patriot Sejdiu|Sejdiu]] {{goal|77}}
+|stadium    = [[Estádio Municipal de Braga|Estádio Municipal]], [[Braga]]
+|attendance = 11,805<ref>{{UEFA match attendance|2036000|Braga vs. Malmö FF|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Ruddy Buquet]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036000/
+}}
+
+===Group E===
+{{2022–23 UEFA Europa League group tables|Group E|show_matches=yes}}
+
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}}
+|score      = 0–1
+|team2      = {{fbaicon|ESP}} [[Real Sociedad]]
+|goals1     =
+|goals2     =
+*[[Brais Méndez|Méndez]] {{goal|59|pen.}}
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 74,310<ref>{{UEFA match attendance|2035941|Manchester United vs. Real Sociedad|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Marco Di Bello]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035941/
+}}
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 21:00 {{small|(22:00 [[UTC+03:00|UTC+3]])}}
+|team1      = [[AC Omonia|Omonia]] {{fbaicon|CYP}}
+|score      = 0–3
+|team2      = {{fbaicon|MDA}} [[FC Sheriff Tiraspol|Sheriff Tiraspol]]
+|goals1     =
+|goals2     =
+*[[Rasheed Akanbi|Akanbi]] {{goal|2}}
+*[[Iyayi Atiemwen|Atiemwen]] {{goal|55|pen.}}
+*[[Mouhamed Diop (footballer)|Diop]] {{goal|76}}
+|stadium    = [[GSP Stadium]], [[Nicosia]]
+|attendance = 11,271<ref>{{UEFA match attendance|2035942|Omonia vs. Sheriff Tiraspol|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Rade Obrenović]] ([[Football Association of Slovenia|Slovenia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035942/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|9|15|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[FC Sheriff Tiraspol|Sheriff Tiraspol]] {{fbaicon|MDA}}
+|score      = 0–2
+|team2      = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+|goals2     =
+*[[Jadon Sancho|Sancho]] {{goal|17}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|39|pen.}}
+|stadium    = [[Zimbru Stadium]], [[Chișinău]]{{refn|group=note|name=Sheriff Tiraspol|Sheriff Tiraspol played their home matches at Zimbru Stadium, Chișinău, instead of their regular stadium, [[Sheriff Stadium]], [[Tiraspol]], due to Transnistria's involvement in the [[2022 Russian invasion of Ukraine|Russian invasion of Ukraine]].}}
+|attendance = 8,734<ref>{{UEFA match attendance|2035943|Sheriff Tiraspol vs. Manchester United|date=15 September 2022|access-date=15 September 2022}}</ref>
+|referee    = [[Paweł Raczkowski]] ([[Polish Football Association|Poland]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035943/
+}}
+{{Football box
+|date       = {{Start date|2022|9|15|df=y}}
+|time       = 18:45
+|team1      = [[Real Sociedad]] {{fbaicon|ESP}}
+|score      = 2–1
+|team2      = {{fbaicon|CYP}} [[AC Omonia|Omonia]]
+|goals1     =
+*[[Ander Guevara|Guevara]] {{goal|30}}
+*[[Alexander Sørloth|Sørloth]] {{goal|80}}
+|goals2     =
+*[[Bruno Felipe (footballer)|Bruno]] {{goal|72}}
+|stadium    = [[Anoeta Stadium]], [[San Sebastián]]
+|attendance = 28,587<ref>{{UEFA match attendance|2035944|Real Sociedad vs. Omonia|date=15 September 2022|access-date=15 September 2022}}</ref>
+|referee    = [[Kristo Tohver]] ([[Estonian Football Association|Estonia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035944/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[FC Sheriff Tiraspol|Sheriff Tiraspol]] {{fbaicon|MDA}}
+|score      = 0–2
+|team2      = {{fbaicon|ESP}} [[Real Sociedad]]
+|goals1     =
+|goals2     =
+*[[David Silva|Silva]] {{goal|53}}
+*[[Aritz Elustondo|Elustondo]] {{goal|62}}
+|stadium    = [[Zimbru Stadium]], [[Chișinău]]{{refn|group=note|name=Sheriff Tiraspol}}
+|attendance = 5,427<ref>{{UEFA match attendance|2035945|Sheriff Tiraspol vs. Real Sociedad|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[Harald Lechner]] ([[Austrian Football Association|Austria]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035945/
+}}
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[AC Omonia|Omonia]] {{fbaicon|CYP}}
+|score      = 2–3
+|team2      = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+*[[Karim Ansarifard|Ansarifard]] {{goal|34}}
+*[[Nikolas Panayiotou|Panayiotou]] {{goal|85}}
+|goals2     =
+*[[Marcus Rashford|Rashford]] {{goal|53||84}}
+*[[Anthony Martial|Martial]] {{goal|63}}
+|stadium    = [[GSP Stadium]], [[Nicosia]]
+|attendance = 20,011<ref>{{UEFA match attendance|2035946|Omonia vs. Manchester United|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[João Pinheiro (referee)|João Pinheiro]] ([[Portuguese Football Federation|Portugal]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035946/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}}
+|score      = 1–0
+|team2      = {{fbaicon|CYP}} [[AC Omonia|Omonia]]
+|goals1     =
+*[[Scott McTominay|McTominay]] {{goal|90+3}}
+|goals2     =
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 74,310<ref>{{UEFA match attendance|2035947|Manchester United vs. Omonia|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Jérôme Brisard]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035947/
+}}
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 21:00
+|team1      = [[Real Sociedad]] {{fbaicon|ESP}}
+|score      = 3–0
+|team2      = {{fbaicon|MDA}} [[FC Sheriff Tiraspol|Sheriff Tiraspol]]
+|goals1     =
+*[[Alexander Sørloth|Sørloth]] {{goal|45+1}}
+*[[Diego Rico|Rico]] {{goal|66}}
+*[[Robert Navarro (footballer)|Navarro]] {{goal|81}}
+|goals2     =
+|stadium    = [[Anoeta Stadium]], [[San Sebastián]]
+|attendance = 25,806<ref>{{UEFA match attendance|2035948|Real Sociedad vs. Sheriff Tiraspol|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Enea Jorgji]] ([[Albanian Football Association|Albania]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035948/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 21:00 {{small|(20:00 [[UTC+01:00|UTC+1]])}}
+|team1      = [[Manchester United F.C.|Manchester United]] {{fbaicon|ENG}}
+|score      = 3–0
+|team2      = {{fbaicon|MDA}} [[FC Sheriff Tiraspol|Sheriff Tiraspol]]
+|goals1     =
+*[[Diogo Dalot|Dalot]] {{goal|44}}
+*[[Marcus Rashford|Rashford]] {{goal|65}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|81}}
+|goals2     =
+|stadium    = [[Old Trafford]], [[Manchester]]
+|attendance = 73,764<ref>{{UEFA match attendance|2035949|Manchester United vs. Sheriff Tiraspol|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035949/
+}}
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 21:00 {{small|(22:00 [[UTC+03:00|UTC+3]])}}
+|team1      = [[AC Omonia|Omonia]] {{fbaicon|CYP}}
+|score      = 0–2
+|team2      = {{fbaicon|ESP}} [[Real Sociedad]]
+|goals1     =
+|goals2     =
+*[[Robert Navarro (footballer)|Navarro]] {{goal|45+2}}
+*[[Brais Méndez|Méndez]] {{goal|60}}
+|stadium    = [[GSP Stadium]], [[Nicosia]]
+|attendance = 11,780<ref>{{UEFA match attendance|2035950|Omonia vs. Real Sociedad|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[Tamás Bognár]] ([[Hungarian Football Federation|Hungary]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035950/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 18:45
+|team1      = [[Real Sociedad]] {{fbaicon|ESP}}
+|score      = 0–1
+|team2      = {{fbaicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|goals1     =
+|goals2     =
+*[[Alejandro Garnacho|Garnacho]] {{goal|17}}
+|stadium    = [[Anoeta Stadium]], [[San Sebastián]]
+|attendance = 36,744<ref>{{UEFA match attendance|2035951|Real Sociedad vs. Manchester United|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Georgi Kabakov]] ([[Bulgarian Football Union|Bulgaria]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035951/
+}}
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+02:00|UTC+2]])}}
+|team1      = [[FC Sheriff Tiraspol|Sheriff Tiraspol]] {{fbaicon|MDA}}
+|score      = 1–0
+|team2      = {{fbaicon|CYP}} [[AC Omonia|Omonia]]
+|goals1     =
+*[[Rasheed Akanbi|Rasheed]] {{goal|88}}
+|goals2     =
+|stadium    = [[Zimbru Stadium]], [[Chișinău]]{{refn|group=note|name=Sheriff Tiraspol}}
+|attendance = 2,295<ref>{{UEFA match attendance|2035952|Sheriff Tiraspol vs. Omonia|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Fran Jović]] ([[Croatian Football Federation|Croatia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035952/
+}}
+
+===Group F===
+{{2022–23 UEFA Europa League group tables|Group F|show_matches=yes}}
+
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 21:00
+|team1      = [[SS Lazio|Lazio]] {{fbaicon|ITA}}
+|score      = 4–2
+|team2      = {{fbaicon|NED}} [[Feyenoord]]
+|goals1     =
+*[[Luis Alberto (footballer, born 1992)|Luis Alberto]] {{goal|4}}
+*[[Felipe Anderson]] {{goal|15}}
+*[[Matías Vecino|Vecino]] {{goal|28||63}}
+|goals2     =
+*[[Santiago Giménez|Giménez]] {{goal|69|pen.|88}}
+|stadium    = [[Stadio Olimpico]], [[Rome]]
+|attendance = 22,763<ref>{{UEFA match attendance|2035929|Lazio vs. Feyenoord|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Ricardo de Burgos Bengoetxea]] ([[Royal Spanish Football Federation|Spain]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035929/
+}}
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 21:00
+|team1      = [[SK Sturm Graz|Sturm Graz]] {{fbaicon|AUT}}
+|score      = 1–0
+|team2      = {{fbaicon|DEN}} [[FC Midtjylland|Midtjylland]]
+|goals1     =
+*[[Emanuel Emegha|Emegha]] {{goal|8}}
+|goals2     =
+|stadium    = [[Liebenauer Stadium]], [[Graz]]
+|attendance = 10,521<ref>{{UEFA match attendance|2035930|Sturm Graz vs. Midtjylland|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Aliyar Aghayev]] ([[Association of Football Federations of Azerbaijan|Azerbaijan]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035930/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|9|15|df=y}}
+|time       = 18:45
+|team1      = [[FC Midtjylland|Midtjylland]] {{fbaicon|DEN}}
+|score      = 5–1
+|team2      = {{fbaicon|ITA}} [[SS Lazio|Lazio]]
+|goals1     =
+*[[Paulinho (footballer, born 1995)|Paulinho]] {{goal|26}}
+*[[Sory Kaba|Kaba]] {{goal|30}}
+*[[Evander (footballer)|Evander]] {{goal|52|pen.}}
+*[[Gustav Isaksen|Isaksen]] {{goal|67}}
+*[[Erik Sviatchenko|Sviatchenko]] {{goal|72}}
+|goals2     =
+*[[Sergej Milinković-Savić|Milinković-Savić]] {{goal|57}}
+|stadium    = [[MCH Arena]], [[Herning]]
+|attendance = 9,052<ref>{{UEFA match attendance|2035931|Midtjylland vs. Lazio|date=15 September 2022|access-date=15 September 2022}}</ref>
+|referee    = [[Nikola Dabanović]] ([[Football Association of Montenegro|Montenegro]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035931/
+}}
+{{Football box
+|date       = {{Start date|2022|9|15|df=y}}
+|time       = 18:45
+|team1      = [[Feyenoord]] {{fbaicon|NED}}
+|score      = 6–0
+|team2      = {{fbaicon|AUT}} [[SK Sturm Graz|Sturm Graz]]
+|goals1     =
+*[[Alireza Jahanbakhsh|Jahanbakhsh]] {{goal|9||41}}
+*[[Dávid Hancko|Hancko]] {{goal|31}}
+*[[Danilo (footballer, born 1999)|Danilo]] {{goal|34}}
+*[[Santiago Giménez|Giménez]] {{goal|66}}
+*[[Oussama Idrissi|Idrissi]] {{goal|78}}
+|goals2     =
+|stadium    = [[De Kuip]], [[Rotterdam]]
+|attendance = 30,025<ref>{{UEFA match attendance|2035932|Feyenoord vs. Sturm Graz|date=15 September 2022|access-date=15 September 2022}}</ref>
+|referee    = [[Jérôme Brisard]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035932/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 18:45
+|team1      = [[SK Sturm Graz|Sturm Graz]] {{fbaicon|AUT}}
+|score      = 0–0
+|team2      = {{fbaicon|ITA}} [[SS Lazio|Lazio]]
+|goals1     =
+|goals2     =
+|stadium    = [[Liebenauer Stadium]], [[Graz]]
+|attendance = 14,171<ref>{{UEFA match attendance|2035933|Sturm Graz vs. Lazio|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[Benoît Bastien]] ([[French Football Federation|France]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035933/
+}}
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 21:00
+|team1      = [[FC Midtjylland|Midtjylland]] {{fbaicon|DEN}}
+|score      = 2–2
+|team2      = {{fbaicon|NED}} [[Feyenoord]]
+|goals1     =
+*[[Gustav Isaksen|Isaksen]] {{goal|54}}
+*[[Juninho (footballer, born February 1995)|Juninho]] {{goal|85}}
+|goals2     =
+*[[Sebastian Szymański|Szymański]] {{goal|23}}
+*[[Orkun Kökçü|Kökçü]] {{goal|45|pen.}}
+|stadium    = [[MCH Arena]], [[Herning]]
+|attendance = 9,044<ref>{{UEFA match attendance|2035934|Midtjylland vs. Feyenoord|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[Mohammed Al-Hakim]] ([[Swedish Football Association|Sweden]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035934/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 18:45
+|team1      = [[Feyenoord]] {{fbaicon|NED}}
+|score      = 2–2
+|team2      = {{fbaicon|DEN}} [[FC Midtjylland|Midtjylland]]
+|goals1     =
+*[[Quinten Timber|Timber]] {{goal|32}}
+*[[Dávid Hancko|Hancko]] {{goal|48}}
+|goals2     =
+*[[Emiliano Martínez (footballer, born 1999)|Martínez]] {{goal|16}}
+*[[Erik Sviatchenko|Sviatchenko]] {{goal|58}}
+|stadium    = [[De Kuip]], [[Rotterdam]]
+|attendance = 43,086<ref>{{UEFA match attendance|2035935|Feyenoord vs. Midtjylland|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Rade Obrenović]] ([[Football Association of Slovenia|Slovenia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035935/
+}}
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 21:00
+|team1      = [[SS Lazio|Lazio]] {{fbaicon|ITA}}
+|score      = 2–2
+|team2      = {{fbaicon|AUT}} [[SK Sturm Graz|Sturm Graz]]
+|goals1     =
+*[[Ciro Immobile|Immobile]] {{goal|45|pen.}}
+*[[Pedro (footballer, born 1987)|Pedro]] {{goal|71}}
+|goals2     =
+*[[William Bøving|Bøving]] {{goal|56||83}}
+|stadium    = [[Stadio Olimpico]], [[Rome]]
+|attendance = 21,059<ref>{{UEFA match attendance|2035936|Lazio vs. Sturm Graz|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Sascha Stegemann]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035936/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 18:45
+|team1      = [[SS Lazio|Lazio]] {{fbaicon|ITA}}
+|score      = 2–1
+|team2      = {{fbaicon|DEN}} [[FC Midtjylland|Midtjylland]]
+|goals1     =
+*[[Sergej Milinković-Savić|Milinković-Savić]] {{goal|36}}
+*[[Pedro (footballer, born 1987)|Pedro]] {{goal|58}}
+|goals2     =
+*[[Gustav Isaksen|Isaksen]] {{goal|8}}
+|stadium    = [[Stadio Olimpico]], [[Rome]]
+|attendance = 17,756<ref>{{UEFA match attendance|2035938|Lazio vs. Midtjylland|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[Daniel Stefański]] ([[Polish Football Association|Poland]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035938/
+}}
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 21:00
+|team1      = [[SK Sturm Graz|Sturm Graz]] {{fbaicon|AUT}}
+|score      = 1–0
+|team2      = {{fbaicon|NED}} [[Feyenoord]]
+|goals1     =
+*[[Otar Kiteishvili|Kiteishvili]] {{goal|90+3}}
+|goals2     =
+|stadium    = [[Liebenauer Stadium]], [[Graz]]
+|attendance = 13,987<ref>{{UEFA match attendance|2035937|Sturm Graz vs. Feyenoord|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[Espen Eskås]] ([[Football Association of Norway|Norway]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035937/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 18:45
+|team1      = [[FC Midtjylland|Midtjylland]] {{fbaicon|DEN}}
+|score      = 2–0
+|team2      = {{fbaicon|AUT}} [[SK Sturm Graz|Sturm Graz]]
+|goals1     =
+*[[Anders Dreyer|Dreyer]] {{goal|15||72}}
+|goals2     =
+|stadium    = [[MCH Arena]], [[Herning]]
+|attendance = 9,134<ref>{{UEFA match attendance|2035939|Midtjylland vs. Sturm Graz|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035939/
+}}
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 18:45
+|team1      = [[Feyenoord]] {{fbaicon|NED}}
+|score      = 1–0
+|team2      = {{fbaicon|ITA}} [[SS Lazio|Lazio]]
+|goals1     =
+*[[Santiago Giménez|Giménez]] {{goal|64}}
+|goals2     =
+|stadium    = [[De Kuip]], [[Rotterdam]]
+|attendance = 43,268<ref>{{UEFA match attendance|2035940|Feyenoord vs. Lazio|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Irfan Peljto]] ([[Football Federation of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2035940/
+}}
+
+===Group G===
+{{2022–23 UEFA Europa League group tables|Group G|show_matches=yes}}
+
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 21:00
+|team1      = [[FC Nantes|Nantes]] {{fbaicon|FRA}}
+|score      = 2–1
+|team2      = {{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|goals1     =
+*[[Mostafa Mohamed (footballer)|Mohamed]] {{goal|32}}
+*[[Evann Guessand|Guessand]] {{goal|90+3}}
+|goals2     =
+*[[Samuel Moutoussamy|Moutoussamy]] {{goal|50|o.g.}}
+|stadium    = [[Stade de la Beaujoire]], [[Nantes]]
+|attendance = 31,276<ref>{{UEFA match attendance|2036001|Nantes vs. Olympiacos|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Harald Lechner]] ([[Austrian Football Association|Austria]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036001/
+}}
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 21:00
+|team1      = [[SC Freiburg]] {{fbaicon|GER}}
+|score      = 2–1
+|team2      = {{fbaicon|AZE}} [[Qarabağ FK|Qarabağ]]
+|goals1     =
+*[[Vincenzo Grifo|Grifo]] {{goal|7|pen.}}
+*[[Ritsu Dōan|Dōan]] {{goal|15}}
+|goals2     =
+*[[Marko Vešović|Vešović]] {{goal|39}}
+|stadium    = [[Europa-Park Stadion]], [[Freiburg im Breisgau]]
+|attendance = 31,500<ref>{{UEFA match attendance|2036002|SC Freiburg vs. Qarabağ|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Erik Lambrechts]] ([[Royal Belgian Football Association|Belgium]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036002/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|9|15|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[Olympiacos F.C.|Olympiacos]] {{fbaicon|GRE}}
+|score      = 0–3
+|team2      = {{fbaicon|GER}} [[SC Freiburg]]
+|goals1     =
+|goals2     =
+*[[Nicolas Höfler|Höfler]] {{goal|5}}
+*[[Michael Gregoritsch|Gregoritsch]] {{goal|25||52}}
+|stadium    = [[Karaiskakis Stadium]], [[Piraeus]]
+|attendance = 23,104<ref>{{UEFA match attendance|2036003|Olympiacos vs. SC Freiburg|date=15 September 2022|access-date=15 September 2022}}</ref>
+|referee    = [[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036003/
+}}
+{{Football box
+|date       = {{Start date|2022|9|15|df=y}}
+|time       = 18:45 {{small|(20:45 [[UTC+04:00|UTC+4]])}}
+|team1      = [[Qarabağ FK|Qarabağ]] {{fbaicon|AZE}}
+|score      = 3–0
+|team2      = {{fbaicon|FRA}} [[FC Nantes|Nantes]]
+|goals1     =
+*[[Owusu Kwabena|Owusu]] {{goal|60}}
+*[[Abdellah Zoubir|Zoubir]] {{goal|65}}
+*[[Marko Janković (footballer, born 1995)|Janković]] {{goal|72}}
+|goals2     =
+|stadium    = [[Tofiq Bahramov Republican Stadium]], [[Baku]]
+|attendance = 26,495<ref>{{UEFA match attendance|2036004|Qarabağ vs. Nantes|date=15 September 2022|access-date=15 September 2022}}</ref>
+|referee    = [[Enea Jorgji]] ([[Albanian Football Association|Albania]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036004/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 21:00 {{small|(22:00 [[UTC+03:00|UTC+3]])}}
+|team1      = [[Olympiacos F.C.|Olympiacos]] {{fbaicon|GRE}}
+|score      = 0–3
+|team2      = {{fbaicon|AZE}} [[Qarabağ FK|Qarabağ]]
+|goals1     =
+|goals2     =
+*[[Owusu Kwabena|Owusu]] {{goal|68}}
+*[[Marko Vešović|Vešović]] {{goal|82}}
+*[[Ramil Sheydaev|Sheydaev]] {{goal|86}}
+|stadium    = [[Karaiskakis Stadium]], [[Piraeus]]
+|attendance = 21,677<ref>{{UEFA match attendance|2036005|Olympiacos vs. Qarabağ|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[Irfan Peljto]] ([[Football Federation of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036005/
+}}
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 21:00
+|team1      = [[SC Freiburg]] {{fbaicon|GER}}
+|score      = 2–0
+|team2      = {{fbaicon|FRA}} [[FC Nantes|Nantes]]
+|goals1     =
+*[[Daniel Kofi Kyereh|Kyereh]] {{goal|48}}
+*[[Vincenzo Grifo|Grifo]] {{goal|72}}
+|goals2     =
+|stadium    = [[Europa-Park Stadion]], [[Freiburg im Breisgau]]
+|attendance = 33,200<ref>{{UEFA match attendance|2036006|SC Freiburg vs. Nantes|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036006/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 18:45
+|team1      = [[FC Nantes|Nantes]] {{fbaicon|FRA}}
+|score      = 0–4
+|team2      = {{fbaicon|GER}} [[SC Freiburg]]
+|goals1     =
+|goals2     =
+*[[Lukas Kübler|Kübler]] {{goal|26}}
+*[[Michael Gregoritsch|Gregoritsch]] {{goal|71}}
+*[[Kevin Schade|Schade]] {{goal|82}}
+*[[Jeong Woo-yeong]] {{goal|87}}
+|stadium    = [[Stade de la Beaujoire]], [[Nantes]]
+|attendance = 31,845<ref>{{UEFA match attendance|2036007|Nantes vs. SC Freiburg|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Horațiu Feșnic]] ([[Romanian Football Federation|Romania]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036007/
+}}
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 18:45 {{small|(20:45 [[UTC+04:00|UTC+4]])}}
+|team1      = [[Qarabağ FK|Qarabağ]] {{fbaicon|AZE}}
+|score      = 0–0
+|team2      = {{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|goals1     =
+|goals2     =
+|stadium    = [[Tofiq Bahramov Republican Stadium]], [[Baku]]
+|attendance = 31,200<ref>{{UEFA match attendance|2036008|Qarabağ vs. Olympiacos|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Craig Pawson]] ([[The Football Association|England]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036008/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 21:00
+|team1      = [[SC Freiburg]] {{fbaicon|GER}}
+|score      = 1–1
+|team2      = {{fbaicon|GRE}} [[Olympiacos F.C.|Olympiacos]]
+|goals1     =
+*[[Lukas Kübler|Kübler]] {{goal|90+3}}
+|goals2     =
+*[[Youssef El-Arabi|El-Arabi]] {{goal|17}}
+|stadium    = [[Europa-Park Stadion]], [[Freiburg im Breisgau]]
+|attendance = 33,000<ref>{{UEFA match attendance|2036009|SC Freiburg vs. Olympiacos|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[Kristo Tohver]] ([[Estonian Football Association|Estonia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036009/
+}}
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 21:00
+|team1      = [[FC Nantes|Nantes]] {{fbaicon|FRA}}
+|score      = 2–1
+|team2      = {{fbaicon|AZE}} [[Qarabağ FK|Qarabağ]]
+|goals1     =
+*[[Ludovic Blas|Blas]] {{goal|16}}
+*[[Ignatius Ganago|Ganago]] {{goal|90+5}}
+|goals2     =
+*[[Filip Ozobić|Ozobić]] {{goal|56|pen.}}
+|stadium    = [[Stade de la Beaujoire]], [[Nantes]]
+|attendance = 30,927<ref>{{UEFA match attendance|2036010|Nantes vs. Qarabağ|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[Jakob Kehlet]] ([[Danish Football Association|Denmark]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036010/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 18:45 {{small|(21:45 [[UTC+04:00|UTC+4]])}}
+|team1      = [[Qarabağ FK|Qarabağ]] {{fbaicon|AZE}}
+|score      = 1–1
+|team2      = {{fbaicon|GER}} [[SC Freiburg]]
+|goals1     =
+*[[Owusu Kwabena|Owusu]] {{goal|90+2}}
+|goals2     =
+*[[Nils Petersen|Petersen]] {{goal|25|pen.}}
+|stadium    = [[Tofiq Bahramov Republican Stadium]], [[Baku]]
+|attendance = 30,430<ref>{{UEFA match attendance|2036011|Qarabağ vs. SC Freiburg|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Aleksei Kulbakov]] ([[Football Federation of Belarus|Belarus]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036011/
+}}
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+02:00|UTC+2]])}}
+|team1      = [[Olympiacos F.C.|Olympiacos]] {{fbaicon|GRE}}
+|score      = 0–2
+|team2      = {{fbaicon|FRA}} [[FC Nantes|Nantes]]
+|goals1     =
+|goals2     =
+*[[Mostafa Mohamed (footballer)|Mohamed]] {{goal|79}}
+*[[Ludovic Blas|Blas]] {{goal|90}}
+|stadium    = [[Karaiskakis Stadium]], [[Piraeus]]
+|attendance = 16,254<ref>{{UEFA match attendance|2036012|Olympiacos vs. Nantes|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Serhiy Boyko]] ([[Football Federation of Ukraine|Ukraine]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036012/
+}}
+
+===Group H===
+{{2022–23 UEFA Europa League group tables|Group H|show_matches=yes}}
+
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 21:00
+|team1      = [[Red Star Belgrade]] {{fbaicon|SRB}}
+|score      = 0–1
+|team2      = {{fbaicon|FRA}} [[AS Monaco FC|Monaco]]
+|goals1     =
+|goals2     =
+*[[Breel Embolo|Embolo]] {{goal|74|pen.}}
+|stadium    = [[Red Star Stadium]], [[Belgrade]]
+|attendance = 40,226<ref>{{UEFA match attendance|2036013|Red Star Belgrade vs. Monaco|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Harm Osmers]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036013/
+}}
+{{Football box
+|date       = {{Start date|2022|9|8|df=y}}
+|time       = 21:00
+|team1      = [[Ferencvárosi TC|Ferencváros]] {{fbaicon|HUN}}
+|score      = 3–2
+|team2      = {{fbaicon|TUR}} [[Trabzonspor]]
+|goals1     =
+*[[Tokmac Nguen|Nguen]] {{goal|5||44|pen.}}
+*[[Adama Traoré (footballer, born 5 June 1995)|Traoré]] {{goal|29}}
+|goals2     =
+*[[Maxi Gómez|Gómez]] {{goal|39}}
+*[[Umut Bozok|Bozok]] {{goal|71}}
+|stadium    = [[Ferencváros Stadion]], [[Budapest]]
+|attendance = 17,987<ref>{{UEFA match attendance|2036014|Ferencváros vs. Trabzonspor|date=8 September 2022|access-date=8 September 2022}}</ref>
+|referee    = [[Fabio Maresca]] ([[Italian Football Federation|Italy]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036014/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|9|15|df=y}}
+|time       = 18:45 {{small|(19:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[Trabzonspor]] {{fbaicon|TUR}}
+|score      = 2–1
+|team2      = {{fbaicon|SRB}} [[Red Star Belgrade]]
+|goals1     =
+*[[Marek Hamšík|Hamšík]] {{goal|16}}
+*[[Trézéguet (Egyptian footballer)|Trézéguet]] {{goal|68}}
+|goals2     =
+*[[Veljko Nikolić|Nikolić]] {{goal|89}}
+|stadium    = [[Şenol Güneş Sports Complex]], [[Trabzon]]
+|attendance = 24,884<ref>{{UEFA match attendance|2036015|Trabzonspor vs. Red Star Belgrade|date=15 September 2022|access-date=15 September 2022}}</ref>
+|referee    = [[Sascha Stegemann]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036015/
+}}
+{{Football box
+|date       = {{Start date|2022|9|15|df=y}}
+|time       = 18:45
+|team1      = [[AS Monaco FC|Monaco]] {{fbaicon|FRA}}
+|score      = 0–1
+|team2      = {{fbaicon|HUN}} [[Ferencvárosi TC|Ferencváros]]
+|goals1     =
+|goals2     =
+*[[Bálint Vécsei|Vécsei]] {{goal|79}}
+|stadium    = [[Stade Louis II]], [[Monaco]]
+|attendance = 3,931<ref>{{UEFA match attendance|2036016|Monaco vs. Ferencváros|date=15 September 2022|access-date=15 September 2022}}</ref>
+|referee    = [[Espen Eskås]] ([[Football Association of Norway|Norway]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036016/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 18:45
+|team1      = [[Red Star Belgrade]] {{fbaicon|SRB}}
+|score      = 4–1
+|team2      = {{fbaicon|HUN}} [[Ferencvárosi TC|Ferencváros]]
+|goals1     =
+*[[Guélor Kanga|Kanga]] {{goal|27|pen.|60}}
+*[[Stefan Mitrović (footballer, born August 2002)|Mitrović]] {{goal|35}}
+*[[Aleksandar Katai|Katai]] {{goal|50}}
+|goals2     =
+*[[Kristoffer Zachariassen|Zachariassen]] {{goal|71}}
+|stadium    = [[Red Star Stadium]], [[Belgrade]]
+|attendance = 26,244<ref>{{UEFA match attendance|2036017|Red Star Belgrade vs. Ferencváros|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[Lawrence Visser]] ([[Royal Belgian Football Association|Belgium]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036017/
+}}
+{{Football box
+|date       = {{Start date|2022|10|6|df=y}}
+|time       = 18:45
+|team1      = [[AS Monaco FC|Monaco]] {{fbaicon|FRA}}
+|score      = 3–1
+|team2      = {{fbaicon|TUR}} [[Trabzonspor]]
+|goals1     =
+*[[Wissam Ben Yedder|Ben Yedder]] {{goal|14||45+2|pen.}}
+*[[Axel Disasi|Disasi]] {{goal|55}}
+|goals2     =
+*[[Anastasios Bakasetas|Bakasetas]] {{goal|72}}
+|stadium    = [[Stade Louis II]], [[Monaco]]
+|attendance = 5,050<ref>{{UEFA match attendance|2036018|Monaco vs. Trabzonspor|date=6 October 2022|access-date=6 October 2022}}</ref>
+|referee    = [[Giorgi Kruashvili]] ([[Georgian Football Federation|Georgia]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036018/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 21:00 {{small|(22:00 [[UTC+03:00|UTC+3]])}}
+|team1      = [[Trabzonspor]] {{fbaicon|TUR}}
+|score      = 4–0
+|team2      = {{fbaicon|FRA}} [[AS Monaco FC|Monaco]]
+|goals1     =
+*[[Malang Sarr|Sarr]] {{goal|44|o.g.}}
+*[[Vitor Hugo (footballer, born 1991)|Vitor Hugo]] {{goal|48}}
+*[[Enis Bardhi|Bardhi]] {{goal|57}}
+*[[Trézéguet (Egyptian footballer)|Trézéguet]] {{goal|69}}
+|goals2     =
+|stadium    = [[Şenol Güneş Sports Complex]], [[Trabzon]]
+|attendance = 24,343<ref>{{UEFA match attendance|2036019|Trabzonspor vs. Monaco|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Jakob Kehlet]] ([[Danish Football Association|Denmark]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036019/
+}}
+{{Football box
+|date       = {{Start date|2022|10|13|df=y}}
+|time       = 21:00
+|team1      = [[Ferencvárosi TC|Ferencváros]] {{fbaicon|HUN}}
+|score      = 2–1
+|team2      = {{fbaicon|SRB}} [[Red Star Belgrade]]
+|goals1     =
+*[[Kristoffer Zachariassen|Zachariassen]] {{goal|23}}
+*[[Samy Mmaee|S. Mmaee]] {{goal|61}}
+|goals2     =
+*[[Stefan Mitrović (footballer, born August 2002)|Mitrović]] {{goal|55}}
+|stadium    = [[Ferencváros Stadion]], [[Budapest]]
+|attendance = 20,675<ref>{{UEFA match attendance|2036020|Ferencváros vs. Red Star Belgrade|date=13 October 2022|access-date=13 October 2022}}</ref>
+|referee    = [[Daniel Stefański]] ([[Polish Football Association|Poland]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036020/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 21:00
+|team1      = [[Red Star Belgrade]] {{fbaicon|SRB}}
+|score      = 2–1
+|team2      = {{fbaicon|TUR}} [[Trabzonspor]]
+|goals1     =
+*[[Aleksandar Katai|Katai]] {{goal|37}}
+*[[Aleksandar Pešić|Pešić]] {{goal|64}}
+|goals2     =
+*[[Anastasios Bakasetas|Bakasetas]] {{goal|39}}
+|stadium    = [[Red Star Stadium]], [[Belgrade]]
+|attendance = 30,431<ref>{{UEFA match attendance|2036021|Red Star Belgrade vs. Trabzonspor|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[João Pinheiro (referee)|João Pinheiro]] ([[Portuguese Football Federation|Portugal]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036021/
+}}
+{{Football box
+|date       = {{Start date|2022|10|27|df=y}}
+|time       = 21:00
+|team1      = [[Ferencvárosi TC|Ferencváros]] {{fbaicon|HUN}}
+|score      = 1–1
+|team2      = {{fbaicon|FRA}} [[AS Monaco FC|Monaco]]
+|goals1     =
+*[[Kristoffer Zachariassen|Zachariassen]] {{goal|81}}
+|goals2     =
+*[[Wissam Ben Yedder|Ben Yedder]] {{goal|31}}
+|stadium    = [[Ferencváros Stadion]], [[Budapest]]
+|attendance = 20,517<ref>{{UEFA match attendance|2036022|Ferencváros vs. Monaco|date=27 October 2022|access-date=27 October 2022}}</ref>
+|referee    = [[Enea Jorgji]] ([[Albanian Football Association|Albania]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036022/
+}}
+----
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 18:45 {{small|(20:45 [[UTC+03:00|UTC+3]])}}
+|team1      = [[Trabzonspor]] {{fbaicon|TUR}}
+|score      = 1–0
+|team2      = {{fbaicon|HUN}} [[Ferencvárosi TC|Ferencváros]]
+|goals1     =
+*[[Anastasios Bakasetas|Bakasetas]] {{goal|7}}
+|goals2     =
+|stadium    = [[Şenol Güneş Sports Complex]], [[Trabzon]]
+|attendance = 22,840<ref>{{UEFA match attendance|2036023|Trabzonspor vs. Ferencváros|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Harm Osmers]] ([[German Football Association|Germany]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036023/
+}}
+{{Football box
+|date       = {{Start date|2022|11|3|df=y}}
+|time       = 18:45
+|team1      = [[AS Monaco FC|Monaco]] {{fbaicon|FRA}}
+|score      = 4–1
+|team2      = {{fbaicon|SRB}} [[Red Star Belgrade]]
+|goals1     =
+*[[Kevin Volland|Volland]] {{goal|5||27||87}}
+*[[Milan Rodić|Rodić]] {{goal|50|o.g.}}
+|goals2     =
+*[[Guélor Kanga|Kanga]] {{goal|54|pen.}}
+|stadium    = [[Stade Louis II]], [[Monaco]]
+|attendance = 6,341<ref>{{UEFA match attendance|2036024|Monaco vs. Red Star Belgrade|date=3 November 2022|access-date=3 November 2022}}</ref>
+|referee    = [[Serdar Gözübüyük]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = https://www.uefa.com/uefaeuropaleague/match/2036024/
+}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.uefa.com/uefaeuropaleague/}}
+
+{{UEFA Europa League phases}}
+{{2022–23 in European football (UEFA)}}
+
+{{DEFAULTSORT:Uefa Europa League Group Stage 2021-22}}
+[[Category:2022–23 UEFA Europa League|*2]]
+[[Category:UEFA Europa League group stages|2022-23]]
+[[Category:September 2022 sports events in Europe]]
+[[Category:October 2022 sports events in Europe]]
+[[Category:November 2022 sports events in Europe]]

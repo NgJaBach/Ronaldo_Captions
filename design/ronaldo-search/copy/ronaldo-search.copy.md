@@ -1,7 +1,7 @@
-# Copy deck: Ronaldo Captions search
+# Copy deck: Ronaldo Captions search (v3)
 
 Principle: labels, numbers and status words only. Explanations live in the appendix.
-The presenter's loop: type a feeling (results change) / flip Short (results get shorter) / press Copy (caption is on the clipboard).
+The presenter's loop: type a feeling or press a mood (results change) / press After: Loss (only post-defeat posts remain) / press Copy (caption is on the clipboard).
 
 ## Header
 - Wordmark: RONALDO CAPTIONS
@@ -17,11 +17,17 @@ The presenter's loop: type a feeling (results change) / flip Short (results get 
 - Mode: Both | Meaning | Words
 - Length: Any | Short
 - Year select: Any year | 2026 ... 2017
-- Starter chips (shown before the first search): Never give up | Family | Women's Day | Work mode
+- After a match: Any | Win | Draw | Loss
+- Team select: Any team | Real Madrid | Juventus | Manchester United | Al Nassr | Portugal
+- Tag select: Any tag | the tags the server reports (setback, win, family, ...)
+- Toggle: No ads
+
+## Detail column
+- Mood chips (from the server): sad, happy, proud, grateful, motivated, confident, tired, love, nostalgic, excited, ambitious, calm
+- Starter chips (before the first search): Never give up | Family | Women's Day | Work mode
 
 ## Results
-- Count chip: the number only (e.g. 2,349)
-- Row meta: date, likes (17.5M)
+- Row meta: date, likes (17.5M), context chip (Win | Draw | Loss, score, opponent), tag chips
 - Row actions: Copy | Copied | Open
 - Paging: More
 - Empty: No results
@@ -31,7 +37,7 @@ The presenter's loop: type a feeling (results change) / flip Short (results get 
 - Credit overlay: Photo: YantsImages (CC BY-SA 4.0)
 
 ## Footer (attribution allowed long)
-- Photo: YantsImages / Aram Nersesyan, Wikimedia Commons, CC BY-SA 4.0. Fan project, not affiliated with Cristiano Ronaldo or Meta.
+- Photo and match-result attributions (CC BY-SA 4.0). Fan project, not affiliated with Cristiano Ronaldo or Meta.
 
 ## Appendix (below the fold, prose allowed)
-- What it searches, how it ranks, how to run it, the data's limits.
+- What it searches, how it ranks, moods, match context, tags, how to run it, sound, limits.

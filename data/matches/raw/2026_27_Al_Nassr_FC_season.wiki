@@ -1,0 +1,655 @@
+{{Use dmy dates|date=June 2026}}
+{{Infobox football club season
+| club = [[Al-Nassr FC|Al-Nassr]]
+| season = 2026–27
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| chrtitle = President
+| chairman = Abdullah Al-Majed
+| ownertitle = 
+| owner = 
+| mgrtitle = Head coach
+| manager = [[Ange Postecoglou]]
+| stdtitle = 
+| stadium = [[Al-Awwal Park]]
+| league = [[Saudi Pro League|Pro League]]
+| league result = ''[[2026–27 Saudi Pro League|3rd]]''
+| cup1 = [[King's Cup (Saudi Arabia)|King's Cup]]
+| cup1 result = ''[[2026–27 King's Cup (Saudi Arabia)|Round of 16]]''
+| cup2 = [[Saudi Super Cup|Super Cup]]
+| cup2 result = ''[[2026 Saudi Super Cup|Semi-finals]]''
+| cup3 = [[AFC Champions League Elite|Champions League Elite]]
+| cup3 result = ''[[2026–27 AFC Champions League Elite|League stage]]''
+| league topscorer = <br>[[Cristiano Ronaldo]] (7)
+| season topscorer = <br>Cristiano Ronaldo (8)
+| highest attendance = 
+| lowest attendance = 
+| average attendance = 
+| largest win = 
+| largest loss = 
+| pattern_la1 = _alnassr2627h
+| pattern_b1 = _alnassr2627h
+| pattern_ra1 = _alnassr2627h
+| pattern_sh1 = _alnassr2627h
+| pattern_so1 = 
+| leftarm1 = FFFF00
+| body1 = FFFF00
+| rightarm1 = FFFF00
+| shorts1 = 000044
+| socks1 = FFFF00
+| pattern_la2 = _alnassr2627a
+| pattern_b2 = _alnassr2627a
+| pattern_ra2 = _alnassr2627a
+| pattern_sh2 = _alnassr2627a
+| pattern_so2 = _3_stripes_Gold
+| leftarm2 = 00122c
+| body2 = 00122c
+| rightarm2 = 00122c
+| shorts2 = 00122c
+| socks2 = 00122c
+| pattern_la3 = 
+| pattern_b3 = 
+| pattern_ra3 = 
+| pattern_sh3 = 
+| pattern_so3 = 
+| leftarm3 = 
+| body3 = 
+| rightarm3 = 
+| shorts3 = 
+| socks3 = 
+| updated = 20 October 2026
+| prevseason = [[2025–26 Al-Nassr FC season|2025–26]]
+| nextseason = 
+}}
+The '''2026–27 season''' is [[Al-Nassr FC|Al-Nassr]]'s 51st consecutive season in the top flight of [[Football in Saudi Arabia|Saudi football]] and 71st year in existence as a [[Football club (association football)|football club]]. It includes participation in the [[2026–27 Saudi Pro League|Pro League]], the [[2026–27 King's Cup (Saudi Arabia)|King’s Cup]], the [[2026 Saudi Super Cup|Super Cup]], and the [[2026–27 AFC Champions League Elite|AFC Champions League Elite]]. The competitive fixtures began with the opening of the league on 13 August.
+
+== Transfers ==
+=== In ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred from
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|KSA}} [[Haroune Camara]]
+|{{fbaicon|KSA}} [[Al Shabab Club|Al Shabab]]
+|Loan return
+|{{dts|30 June 2026}}
+|
+|-
+| align="center" |{{sort|4|FW}}
+|{{flagicon|COL}} [[Jhon Durán]]
+|{{fbaicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+|Loan return
+|{{dts|30 June 2026}}
+|
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|BRA}} [[Wesley (footballer, born 2005)|Wesley]]
+|{{fbaicon|ESP}} [[Real Sociedad]]
+|Loan return
+|{{dts|30 June 2026}}
+|
+|}
+
+=== Out ===
+{| class="wikitable plainrowheaders sortable"
+!{{Abbr|Pos.|Position}}
+! scope="col" |Player
+!Transferred to
+! style="width: 80px;" |Fee
+! scope="col" |Date
+! scope="col" |Source
+|-
+| align="center" |{{sort|3|MF}}
+|{{flagicon|CRO}} [[Marcelo Brozović]]
+|
+|End of contract
+|{{dts|1 July 2026}}
+|<ref>[https://www.businessupturn.com/sports/football/transfer-news/marcelo-brozovic-leaves-al-nassr-becomes-available-as-a-free-agent/]</ref>
+|}
+
+== Pre-season and friendlies ==
+On 18 June, it published its pre-season program consisting of 18 days of preparation in both Riyadh and Abha, before continuing in Portugal.<ref>{{Cite web|url=https://arriyadiyah.com/893732/18-%D9%8A%D9%88%D9%85%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%88%D8%A3%D8%A8%D9%87%D8%A7-%D8%AA%D8%AC%D9%87%D8%B2-%D8%A7%D9%84%D9%86%D8%B5%D8%B1|title=18 يوما في الرياض وأبها تجهز النصر|website=arriyadiyah.com}}</ref>
+
+{{Football box collapsible
+|round = Friendly
+|date = 22 July 2026
+|time = 19:00
+|team1 = [[S.L. Benfica B|Benfica B]] {{fbaicon|POR}}
+|score = 2–1
+|report = 
+|team2 = {{fbaicon|KSA}} Al-Nassr
+|goals1 = T. Rodrigues, G. Gaspar
+|goals2 = A. Al-Jaber
+|stadium = 
+|location = Lisbon, Portugal
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 28 July 2026
+|time = 19:00
+|team1 = [[Mérida AD|Mérida]] {{fbaicon|ESP}}
+|score = 0–2
+|report = 
+|team2 = {{fbaicon|KSA}} Al-Nassr
+|goals1 =
+|goals2 = M. Marran, H. Camara
+|stadium = 
+|location = Lisbon, Portugal
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 1 August 2026
+|time = 19:00
+|team1 = [[C.F. Estrela da Amadora|Estrela da Amadora]] {{fbaicon|POR}}
+|score = 4–2
+|report = 
+|team2 = {{fbaicon|KSA}} Al-Nassr
+|goals1 = L. Antonetti, A. Marcus, S. Van Hooijdonk, Beni Souza
+|goals2 = A. Al-Hamdan, Hayder Abdulkareem
+|stadium = 
+|location = 
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = Friendly
+|date = 4 August 2026
+|time = 19:00
+|team1 = Al-Nassr {{fbaicon|KSA}} 
+|score = 0–2
+|report = 
+|team2 = {{fbaicon|ESP}} [[UD Almeria|Almeria]] 
+|goals1 = 
+|goals2 = D. Chirino, A. Embarba
+|stadium = 
+|location = Oeiras, Portugal
+|attendance = 
+|referee = 
+|result = L
+}}
+
+== Competitions ==
+=== Overall record ===
+{{Fb overview2
+|c=5
+|c1=[[2026–27 Saudi Pro League|Pro League]] |fm1=15 August 2026 |lm1=28 May 2027 |sr1=Matchday 1 |fp1= |w1=9 |d1=1 |l1=1 |f1=28 |a1=11
+|c2=[[2026–27 King's Cup (Saudi Arabia)|King's Cup]] |fm2=18 August 2026 |lm2= |sr2=Round of 32 |fp2= |w2=1 |d2=0 |l2=0 |f2=4 |a2=1
+|c3=[[2026 Saudi Super Cup|Super Cup]] |fm3=30 November–1 December 2026<ref>{{Cite web|url=https://www.alkhaleej.ae/2026-06-01/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B3%D9%88%D8%A8%D8%B1-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-2026|title=تحديد مواعيد كأس السوبر السعودي 2026|first=عيسى|last=الحكمي|date=1 June 2026|website=صحيفة الخليج}}</ref> |lm3= |sr3=Semi-finals |fp3= |w3=0 |d3=0 |l3=0 |f3=0 |a3=0
+|c4=[[2026–27 AFC Champions League Elite|Champions League Elite]] |fm4=15 September 2026 |lm4= |sr4=League stage |fp4= |w4=2 |d4=0 |l4=1 |f4=9 |a4=7
+|u=2 November 2026
+|s=
+}}
+
+=== Pro League ===
+{{main|2026–27 Saudi Pro League}}
+
+==== League table ====
+{{2026–27 Saudi Pro League table|showteam=NAS}}
+
+==== Results summary ====
+{{Fb_rs |hw=5 |hd=0 |hl=0 |hgf=11 |hga=2 |aw=3 |ad=1 |al=1 |agf=12 |aga=6}}
+{{fb rs footer |u=23 October 2026|s=[https://www.spl.com.sa/en/table?compSeason=867 Saudi Pro League]|date=August 2026}}
+
+==== Results by round ====
+{{#invoke:sports rbr table|table|legendpos=b|header=Round
+| rnd9=10| rnd10=11| rnd11=12| rnd12=14| rnd13=15| rnd14=16| rnd15=17| rnd16=18| rnd17=19| rnd18=20| rnd19=21| rnd20=22| rnd21=23| rnd22=24| rnd23=25| rnd24=26
+|label1= Ground
+| res1=H/A/A/H/A/H/A/H/H/A/H/A/H/H/A/H/////////////////
+|label2= Result
+| res2= W/W/W/W/L/W/D/W/W/W/W/////
+|label3= Position
+| res3=1/1/1/2/2/2/3/3/3/2/3/////
+|text_H=Home|text_A=Away
+|color_W=green1|text_W=Win
+|color_D=yellow1|text_D=Draw
+|color_L=red1|text_L=Loss
+|color_1=1st|color_2-3=green1|color_4=green2|color_16-18=red1
+|source=[https://www.spl.com.sa/en/table?compSeason=867 Saudi Pro League]
+|update=22 October 2026
+}}
+
+====Matches====
+All times are local, [[Saudi Arabia Standard Time|SAST]] ([[UTC+03:00]]).
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#CCCCCC|Postponed|border=1px solid #AAAAAA}}
+
+{{Football box collapsible
+|round = 1
+|date = 15 August 2026
+|time = 21:00
+|team1 = Al-Nassr
+|score = 3–0
+|report = 
+|team2 = [[Al Fateh SC|Al-Fateh]]
+|goals1 = [[Ângelo Gabriel|Ângelo]] {{goal|37}}<br />[[João Félix|Félix]] {{goal|40}}<br />[[Samú Costa|Costa]] {{goal|73}}
+|goals2 =
+|stadium = [[King Saud University Stadium|Al-Awwal Park]]
+|location = [[Riyadh]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 2
+|date = 21 August 2026
+|time = 19:00
+|team1 = [[Al-Riyadh SC|Al-Riyadh]]
+|score = 0–4
+|report = 
+|team2 = Al-Nassr
+|goals1 = 
+|goals2 = [[Abdulelah Al-Amri|Al-Amri]] {{goal|18}}<br />[[Ângelo Gabriel|Ângelo]] {{goal|45+1}}<br />[[João Félix|Félix]] {{goal|58}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|83}}
+|stadium = [[Prince Turki bin Abdulaziz Stadium]]
+|location = [[Riyadh]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 3
+|date = 25 August 2026
+|time = 21:00
+|team1 = [[Al-Ettifaq Club|Al-Ettifaq]]
+|score = 2–3
+|report = 
+|team2 = Al-Nassr
+|goals1 = [[Ondrej Duda|Duda]] {{goal|31}}<br />[[Álvaro Medrán|Medrán]] {{goal|45+4}}
+|goals2 = [[Sadio Mané|Mané]] {{goal|74||90}}<br />[[Abdulelah Al-Amri|Al-Amri]] {{goal|77}}
+|stadium = [[Al-Ettifaq Club Stadium]]
+|location = [[Dammam]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 4
+|date = 28 August 2026
+|time = 21:00
+|team1 = Al-Nassr
+|score = 2–1
+|report = 
+|team2 = [[Al Taawoun FC|Al Taawoun]]
+|goals1 = [[Samú Costa|Costa]] {{goal|45+5}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|50}}
+|goals2 = [[Bassam Al-Hurayji|Al-Hurayji]] {{goal|11}}
+|stadium = [[King Saud University Stadium|Al-Awwal Park]]
+|location = [[Riyadh]]
+|attendance = 
+|referee = Abdullah Dhafer Al-Shehri
+|result = W
+}}
+{{Football box collapsible
+|round = 5
+|date = 5 September 2026
+|time = 21:00
+|team1 = [[Al-Ittihad Club (Jeddah)|Al-Ittihad]]
+|score = 2–1
+|report = 
+|team2 = Al-Nassr
+|goals1 = [[George Ilenikhena|Ilenikhena]] {{goal|4||22}}
+|goals2 = [[Ângelo Gabriel|Ângelo]] {{goal|36}}
+|stadium = [[King Abdullah Sports City Stadium]]
+|location = [[Jeddah]]
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|round = 6
+|date = 9 September 2026
+|time = 21:00
+|team1 = Al-Nassr
+|score = 2–1
+|report = 
+|team2 = [[Abha Club|Abha]]
+|goals1 = [[Cristiano Ronaldo|Ronaldo]] {{goal|22}}<br />[[Abdullah Al-Hamdan|Al-Hamdan]] {{goal|58}}
+|goals2 = [[Nabil Fekir|Fekir]] {{goal|75}}
+|stadium = [[King Saud University Stadium|Al-Awwal Park]]
+|location = [[Riyadh]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 7
+|date = 12 September 2026
+|time = 
+|team1 = [[Al-Khaleej FC|Al-Khaleej]]
+|score = 1–1
+|report = 
+|team2 = Al-Nassr
+|goals1 = [[Omar Mascarell|Mascarell]] {{goal|45+1}}
+|goals2 = [[Abdullah Al-Hamdan|Al-Hamdan]] {{goal|72}}
+|stadium = [[Prince Mohamed bin Fahd Stadium]]
+|location = [[Dammam]]
+|attendance = 
+|referee = 
+|result = D
+}}
+{{Football box collapsible
+|round = 8
+|date = 9 October 2026
+|time = 
+|team1 = Al-Nassr
+|score = 3–0
+|report = 
+|team2 = [[Diriyah Club|Al-Diriyah]]
+|goals1 = [[Cristiano Ronaldo|Ronaldo]] {{goal|23}}<br />[[Samú Costa|Costa]] {{goal|35}}<br />[[Kingsley Coman|Coman]] {{goal|77}}
+|goals2 =
+|stadium = [[King Saud University Stadium|Al-Awwal Park]]
+|location = [[Riyadh]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 10
+|date = 20 October 2026
+|time = 
+|team1 = Al-Nassr
+|score = 1–0
+|report = 
+|team2 = [[Neom SC|Neom]]
+|goals1 = [[João Félix|Félix]] {{goal|61}}
+|goals2 =
+|stadium = [[King Saud University Stadium|Al-Awwal Park]]
+|location = [[Riyadh]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 11
+|date = 23 October 2026
+|time = 
+|team1 = [[Al Faisaly FC|Al Faisaly]]
+|score = 1–3
+|report = 
+|team2 = Al-Nassr
+|goals1 = [[Théo Bongonda|Bongonda]] {{goal|66}}
+|goals2 = [[Abdullah Al-Hamdan|Al-Hamdan]] {{goal|4}}<br />[[Andrei Girotto|Girotto]] {{goal|49|o.g.}}<br />[[Ângelo Gabriel|Ângelo]] {{goal|79}}
+|stadium = [[Majmaah Sports City Stadium]]
+|location = [[Majmaah]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 12
+|date = 29 October 2026
+|time = 
+|team1 = Al-Nassr
+|score = 5–3
+|report = 
+|team2 = [[Al-Kholood Club|Al-Kholood]]
+|goals1 = [[Ângelo Gabriel|Ângelo]] {{goal|24}}<br />[[Sadio Mané|Mané]] {{goal|38}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|66||72||81}}
+|goals2 = [[Julien Domingues|Domingues]] {{goal|16||90+4|pen.}}<br />[[Antoin Essomba|Essomba]] {{goal|45+2}}
+|stadium = [[King Saud University Stadium|Al-Awwal Park]]
+|location = [[Riyadh]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = 14
+|date = 20 November 2026
+|time = 
+|team1 = Al-Nassr
+|score = 
+|report = 
+|team2 = [[Al Qadsiah FC|Al Qadsiah]]
+|goals1 = 
+|goals2 =
+|stadium = [[King Saud University Stadium|Al-Awwal Park]]
+|location = [[Riyadh]]
+|attendance = 
+|referee = 
+|result = 
+}}
+{{Football box collapsible
+|round = 15
+|date = 26 November 2026
+|time = 
+|team1 = Al-Nassr
+|score = 
+|report = 
+|team2 = [[Al Shabab Club|Al-Shabab]]
+|goals1 = 
+|goals2 =
+|stadium = [[King Saud University Stadium|Al-Awwal Park]]
+|location = [[Riyadh]]
+|attendance = 
+|referee = 
+|result = 
+}}
+{{Football box collapsible
+|round = 16
+|date = 3 December 2026
+|time = 
+|team1 = [[Al-Fayha Club|Al-Fayha]]
+|score = 
+|report = 
+|team2 = Al-Nassr
+|goals1 = 
+|goals2 =
+|stadium = [[Majmaah Sports City Stadium]]
+|location = [[Majmaah]]
+|attendance = 
+|referee = 
+|result = 
+}}
+{{Football box collapsible
+|round = 17
+|date = 10 December 2026
+|time = 
+|team1 = Al-Nassr
+|score = 
+|report = 
+|team2 = [[Al Hilal SFC|Al-Hilal]]
+|goals1 = 
+|goals2 =
+|stadium = [[King Saud University Stadium|Al-Awwal Park]]
+|location = [[Riyadh]]
+|attendance = 
+|referee = 
+|result = 
+}}
+
+=== King's Cup ===
+{{main|2026–27 King's Cup (Saudi Arabia)}}
+{{Football box collapsible
+|round = Round of 32
+|date = 18 August 2026
+|time = 21:00
+|team1 = [[Diriyah Club|Al-Diriyah]]
+|score = 1–4
+|report = 
+|team2 = Al-Nassr
+|goals1 = [[Óscar Rodríguez (footballer, born 1998)|Óscar]] {{goal|2}}
+|goals2 = [[Mohamed Simakan|Simakan]] {{goal|11}}<br />[[João Félix|Félix]] {{goal|36||68}}<br />[[Abdullah Al-Hamdan|Al-Hamdan]] {{goal|37}}
+|stadium = [[Prince Turki bin Abdulaziz Stadium]]
+|location = [[Riyadh]]
+|attendance = 
+|referee = 
+|result = W
+}}
+{{Football box collapsible
+|round = Round of 16
+|date = 30 November 2026
+|time = 
+|team1 = Al-Nassr
+|score = 
+|report = 
+|team2 = [[Al-Kholood Club|Al-Kholood]]
+|goals1 = 
+|goals2 = 
+|stadium = [[King Saud University Stadium|Al-Awwal Park]]
+|location = [[Riyadh]]
+|attendance = 
+|referee = 
+|result = 
+}}
+
+=== Super Cup ===
+{{main|2026 Saudi Super Cup}}
+
+=== AFC Champions League Elite ===
+{{main|2026–27 AFC Champions League Elite}}
+
+==== League stage ====
+{{main|2026–27 AFC Champions League Elite league stage}}
+{{2026–27 AFC Champions League Elite league stage tables|West Region|show_matches=no|teamwidth=240|showteam=NSR}}
+
+{{football box collapsible
+|round      = 1
+|date       = 15 September 2026
+|time       = 
+|team1      = [[Al Ain FC|Al Ain]] {{fbaicon|UAE}}
+|score      = 4–0
+|report     = https://www.the-afc.com/en/matches/afc-champions-league-elite/20262027/2683571
+|team2      = {{fbaicon|KSA}} Al-Nassr
+|goals1     = [[Houssine Rahimi|H.Rahimi]] {{goal|25||63}}<br />[[Soufiane Rahimi|S.Rahimi]] {{goal|72}}<br />[[Giorgos Giakoumakis|Giakoumakis]] {{goal|85}}
+|goals2     = 
+|stadium    = [[Hazza bin Zayed Stadium]]
+|location   = [[Al Ain]], [[United Arab Emirates]]
+|attendance = 
+|referee    = [[Ilgiz Tantashev]] ([[Uzbekistan Football Association|Uzbekistan]])
+|result     = L
+}}
+{{football box collapsible
+|round      = 2
+|date       = 12 October 2026
+|time       = 
+|team1      = Al-Nassr {{fbaicon|KSA}}
+|score      = 3–1
+|report     = 
+|team2      = {{fbaicon|UZB}} [[FC Neftchi Fergana|Neftchi]]
+|goals1     = [[Ângelo Gabriel|Ângelo]] {{goal|33}}<br />[[Cristiano Ronaldo|Ronaldo]] {{goal|42}}<br />[[Anvarzhon Gofurov|Gofurov]] {{goal|78|o.g.}}
+|goals2     = [[Alisher Odilov|Odilov]] {{goal|51}}
+|stadium    = [[King Saud University Stadium|Al-Awwal Park]]
+|location   = [[Riyadh]], [[Saudi Arabia]]
+|attendance = 7,108
+|referee    = [[Ma Ning (referee)|Ma Ning]] ([[Chinese Football Association|China]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 4
+|date       = 2 November 2026
+|time       = 
+|team1      = [[Pakhtakor FC|Pakhtakor]] {{fbaicon|UZB}}
+|score      = 2–6
+|report     = 
+|team2      = {{fbaicon|KSA}} Al-Nassr
+|goals1     = [[Flamarion (footballer, born 1996)|Flamarion]] {{goal|36}}<br />[[Dostonbek Khamdamov|Khamdanov]] {{goal|75}}
+|goals2     = [[Abdullah Al-Hamdan|Al-Hamdan]] {{goal|15}}<br />[[João Félix|Félix]] {{goal|17||32}}<br />[[Abdulelah Al-Amri|Al-Amri]] {{goal|53}}<br />[[Abdulrahman Ghareeb|Ghareeb]] {{goal|62}}<br />[[Ângelo Gabriel|Ângelo]] {{goal|79}}
+|stadium    = [[Pakhtakor Central Stadium]]
+|location   = [[Tashkent]], [[Uzbekistan]]
+|attendance = 28,153
+|referee    = [[Alex King (referee)|Alex King]] ([[Football Australia|Australia]])
+|result     = W
+}}
+{{football box collapsible
+|round      = 5
+|date       = 24 November 2026
+|time       = 
+|team1      = Al-Nassr {{fbaicon|KSA}}
+|score      = 
+|report     = 
+|team2      = {{fbaicon|QAT}} [[Al Sadd SC|Al Sadd]]
+|goals1     = 
+|goals2     = 
+|stadium    = [[King Saud University Stadium|Al-Awwal Park]]
+|location   = [[Riyadh]], [[Saudi Arabia]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|round      = 6
+|date       = 8 December 2026
+|time       = 
+|team1      = [[Al-Gharafa SC|Al-Gharafa]] {{fbaicon|QAT}}
+|score      = 
+|report     = 
+|team2      = {{fbaicon|KSA}} Al-Nassr
+|goals1     = 
+|goals2     = 
+|stadium    = [[Thani bin Jassim Stadium]]
+|location   = [[Al Gharrafa]], [[Qatar]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|round      = 7
+|date       = 8 February 2027
+|time       = 
+|team1      = Al-Nassr {{fbaicon|KSA}}
+|score      = 
+|report     = 
+|team2      = {{fbaicon|QAT}} [[Al-Shamal SC|Al-Shamal]]
+|goals1     = 
+|goals2     = 
+|stadium    = [[King Saud University Stadium|Al-Awwal Park]]
+|location   = [[Riyadh]], [[Saudi Arabia]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|round      = 8
+|date       = 15 February 2027
+|time       = 
+|team1      = [[Shabab Al Ahli Club|Shabab Al Ahli]] {{fbaicon|UAE}}
+|score      = 
+|report     = 
+|team2      = {{fbaicon|KSA}} Al-Nassr
+|goals1     = 
+|goals2     = 
+|stadium    = [[Rashid Stadium]]
+|location   = [[Dubai]], [[United Arab Emirates]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|round      = 3
+|date       = Postponed
+|time       = 
+|team1      = Al-Nassr {{fbaicon|KSA}}
+|score      = 
+|report     = 
+|team2      = {{fbaicon|UAE}} [[Al Wasl FC|Al Wasl]]
+|goals1     = 
+|goals2     = 
+|stadium    = [[King Saud University Stadium|Al-Awwal Park]]
+|location   = [[Riyadh]], [[Saudi Arabia]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+== References ==
+{{Reflist}}
+
+{{2026–27 in Saudi Arabian football}}
+
+[[Category:Al-Nassr FC seasons]]
+[[Category:Saudi Arabian football clubs 2026–27 season|Nassr]]
+[[Category:2026–27 AFC Champions League Elite participants seasons|Nassr]]
